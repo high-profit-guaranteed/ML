@@ -1,0 +1,31 @@
+Tue, 02 Apr 2024 08:47:00 GMT
+
+Despite multiple near-term headwinds, Tesla's long-term growth prospects look quite promising.
+
+Tesla (TSLA -4.90%), once a darling of the stock market, saw its shares reach an impressive all-time high of $409.97 in November 2021. However, since then the stock has been quite turbulent and is currently trading nearly 56% below its all-time high.
+
+The reason? Much of this drawdown can be attributed to weak electric vehicle (EV) demand amid a high-interest rate environment, a slowdown in China's EV market, and the company's declining margins due to multiple price cuts.
+
+Despite this, there are still several factors that make Tesla an attractive long-term pick, especially since the headwinds are already priced in. Here's why shares of this electric car giant may soar in the coming years.
+
+Tesla has been aggressively slashing prices to stimulate demand for its EVs. Being the most profitable pure-play EV company in the world in 2023,Tesla also has the financial capacity to continue with even more price cuts, albeit at the cost of significantly reduced profit margins. CEO Elon Musk explained that the majority of customers purchase vehicles based on monthly payments -- which are increasingly becoming difficult to afford in the current high-interest environment. Tesla's pricing strategy is geared at making its vehicles accessible and affordable to these customers.
+
+On the other hand, since the majority of pure-play EV competitors do not even make profits on their electric vehicle lines, they may not be able to afford these price cuts -- which can eventually result in more customers opting for Tesla's high-quality and affordable vehicles in the coming years.
+
+Despite price cuts, Tesla is also striving to protect its margins by controlling production costs through various measures, including engineering redesign of vehicles to reduce component costs, improving manufacturing technology, optimizing inbound logistics, and renegotiating better prices with suppliers. The company is now developing an advanced manufacturing technology for its next-generation low-cost vehicle platform, which is expected to significantly reduce production costs.
+
+While Tesla's price cuts are not being completely offset by the falling production costs, it has still helped the company conserve cash. The company ended 2023 with free cash flow of $4.4 billion, despite posting a record level of capex spending in future projects. Hence, price cuts coupled with reduced production costs can help Tesla outpace the competition and expand its share in the EV market.
+
+Although Tesla earned nearly 85% of its total revenue from existing automotive sales, automotive leasing, and automotive regulatory credits in the fourth quarter of fiscal 2023 (ending Dec. 31, 2023), there are several other growth avenues for the company.
+
+Tesla claims that it is working on revolutionizing its manufacturing technology to build its next-generation compact vehicle platform. Besides cutting costs, the company expects the new manufacturing technology to accelerate the pace of vehicle production and play a pivotal role in achieving profitability despite price cuts.
+
+Tesla expects to start production of the next-generation compact vehicles toward the end of 2025, first at the Gigafactory in Austin, Texas and most likely at a new factory in Mexico. The company also plans to identify a third location for a factory outside North America by the end of 2024 or early 2025. However, CEO Elon Musk noted that adhering to the timeline may be challenging, especially since the company is currently working with multiple new manufacturing technologies.
+
+Autonomous driving is also expected to emerge as a major growth catalyst for Tesla. In the fourth quarter, the company released Full Self-Driving (FSD) beta V12 to employees and select customers. Compared to previous FSD versions that hard-coded much of the driving behavior based on object perception, FSD beta V12 is an end-to-end AI system involved in object perception, path planning, and influencing vehicle controls such as steering wheel, pedals, and indicators based on stimuli. With Tesla keen on rolling out this FSD technology to over 400,000 vehicles in North America, the company will have access to a large amount of real-world data to further train and refine the system. Tesla has also developed the Dojo supercomputer to efficiently and effectively train AI models.
+
+If true autonomous driving becomes a reality, robotaxis should emerge as a major revenue source for Tesla. The company has also built proprietary AI chips for inference (running the car's AI models in a real-time environment). Tesla expects these AI chips to not only provide compute power for autonomous driving of robotaxis, but also provide compute power to perform generalized AI tasks in its spare time.
+
+Tesla has failed to meet consensus revenue and earnings estimates in three out of four quarters of fiscal 2023. Not surprisingly, the company's stock has taken a beating, and is now trading at 5.9 times trailing twelve-month sales, far lower than its three-year average PS (price-to-sales) multiple of 10.4 and five-year average PS multiple of 10. This could present an attractive entry point for long-term investors who are ready to ignore short-term share fluctuations.
+
+In essence, considering Tesla's focus on long-term growth over near-term profitability, significant investments in new technologies and markets, and lower-than-historical valuation, it makes sense to pick up a small stake in this stock.
