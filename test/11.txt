@@ -1,0 +1,25 @@
+Mon, 08 Apr 2024 06:52:31 GMT
+
+Tesla Inc.‘s TSLA Full Self-Driving software appears to have been deployed on approximately 2 million vehicles in the U.S.
+
+What Happened: “As of March 2024, our end-to-end NN (neural nets) based driving policy has been deployed to ~2M vehicles in [the] US, and the rest of the safety + Autopilot software stack is running on 6M+ vehicles globally,” Tesla AI Manager Paril Jain wrote on his LinkedIn profile.
+
+Tesla’s Autopilot is an advanced driver assistance system standard on all new vehicles, aimed at enhancing safety and convenience. FSD, a more advanced system enabling fully autonomous driving in due time, currently requires active driver supervision but is expected to “be really shining bright” by late April or May, as Musk stated in March.
+
+Version 12 of Tesla’s FSD relies on end-to-end neural nets, as confirmed by CEO Elon Musk. Jain’s LinkedIn description suggests that this new FSD version has been deployed on approximately 2 million U.S. vehicles.
+
+Why It Matters: On Friday, Tesla announced that its cars have driven one billion miles with FSD software, a significant increase from the end of 2023 when FSD-driven miles were below 800 million.
+
+"Won’t be long before Tesla exceeds 10B miles of FSD," Musk had then remarked.
+
+FSD is trained on real-time driving data, necessitating more miles on the road for software improvement. The company aims to increase FSD adoption, offering measures such as a 30-day free trial for non-purchasers.
+
+In June 2023, Musk identified vehicle autonomy as the main driver of the brand’s market value.
+
+"The value of the company is primarily based on autonomy," Musk stated at the VivaTech conference in Paris. "That's really, I think, the main driver of our value."
+
+Musk has previously talked about licensing its FSD software to other automakers but there are no reports of any takers to date, likely due to the CEO’s changing timeline for achieving autonomous driving coupled with other alleged safety concerns.
+
+Check out more of Benzinga’s Future Of Mobility coverage by following this link.
+
+Read More: Gene Munster Backs Tesla’s Focus On Robotaxis Over Low-Cost EV, Gary Black Skeptical Of Strategy: ‘Institutions Would Dump The Stock’

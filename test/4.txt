@@ -1,0 +1,21 @@
+Mon, 08 Apr 2024 03:23:43 GMT
+
+In an upcoming court case concerning a fatal 2018 crash involving its Autopilot system, Tesla Inc. TSLA is seeking testimony from Apple Inc. AAPL.
+
+What Happened: The case revolves around the tragic death of Apple engineer Wei “Walter” Huang, who lost his life in a crash while his Autopilot-enabled Model X was in operation. Tesla is seeking to demonstrate that Huang was distracted by a video game on his phone at the time of the accident.
+
+Initial findings by the National Transportation Safety Board indicated that a video game was the foremost app on Huang’s phone during the crash. However, it remains unclear whether Huang was actively playing the game then.
+
+Despite this ambiguity, historical data from Huang’s phone revealed a trend of active gameplay during his morning commute in the days leading up to the incident. Huang’s family argues that he merely let games run in the background to gather data.
+
+See Also: Tesla FSD Transfer No Longer ‘One-Time Amnesty’ As EV Giant Reportedly Restarts Offer Again For These Models
+
+With Apple’s assistance, Tesla is attempting to challenge this claim by presenting a declaration from Apple engineer James Harding, who asserts that Huang was actively engaged in the game at the time of the crash. According to The Verge, the family’s legal team has accused Tesla and Apple of trying to “circumvent the discovery process” by submitting Harding’s testimony as a declaration rather than through a deposition.
+
+The trial is a significant challenge for Tesla’s ongoing legal strategy to attribute Autopilot-related crashes to driver distraction. The outcome of the Huang case could set a precedent for this defense.
+
+Why It Matters: This case follows a series of legal battles involving Tesla’s Autopilot system. In 2020, it was reported that Huang had previously complained about the Autopilot in his Tesla car malfunctioning. In 2023, a court cleared Tesla in a fatal Model 3 crash, and a Chinese court absolved Tesla of blame for the accident in 2022.
+
+However, in 2024, Tesla faced criticism for selling a “false sense of security” with its self-driving tech following the death of a Tesla recruiter. CEO Elon Musk disputed a media report suggesting that the 2022 death of a company employee may have been the first fatality involving the company's Full Self-Driving (FSD) software.
+
+Read Next: New Cybertruck Orders Will Only Be Delivered In 2025, Says Tesla Website
