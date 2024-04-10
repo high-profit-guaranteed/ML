@@ -1,0 +1,45 @@
+Fri, 21 Apr 2023 07:00:00 GMT
+
+I might have spoken too soon. When single-stock ETFs first launched last July, I was skeptical that they would see much traction.
+
+Two months later, when the initial batch of single-stock ETFs from AXS Investments failed to accumulate much in the way of assets, my skepticism seemed to be justified.
+
+Single-stock ETFs are having their day in the sun. They are among the best-performing ETFs of the year and at least a few of them are seeing strong demand from investors.
+
+Today there are five issuers involved in this segment of the ETF market: AXS Investments, GraniteShares, Innovator, YieldMax and Direxion.
+
+While AXS was the first mover, Direxion—which is a heavyweight when it comes to index-based leveraged and inverse ETFs—flexed its muscles to become the largest single-stock ETF issuer.
+
+The firm’s Direxion Daily TSLA Bull 1.5X Shares (TSLL) is the biggest fund in the segment, with assets under management of $455 million.
+
+A surge in shares of Tesla certainly hasn’t hurt. After plunging at the end of 2022, Tesla stock recouped some of its losses in 2023, rewarding those who scooped up shares near the lows.
+
+Anyone who wanted to add a little more oomph to their Tesla bet could use TSLL to do so. The fund is up 43% so far this year versus 33% for the underlying stock.
+
+The YieldMax TSLA Option Income Strategy ETF (TSLY), which provides investors with income from selling covered calls on Tesla stock, has also fared well. The fund has $37 million in AUM and is up 16% year to date.
+
+But it’s not just people betting on Tesla’s rise that are buying up single-stock ETFs. Others are betting against the stock, using funds like the AXS TSLA Bear Daily ETF (TSLQ) and the Direxion Daily TSLA Bear 1X Shares (TSLS), which have assets under management of $115 million and $40 million, respectively.
+
+While these funds have performed poorly this year—each is down 33%—the volatility of Tesla stock makes it an exciting target for traders expressing both long and short views.
+
+Outside of the Tesla ETFs, a few other single-stock ETFs have seen strong demand as well. The AXS 1.25X NVDA Bear Daily ETF (NVDS) has gathered $100 million in AUM, even as the price of the fund has tumbled 59% in 2023.
+
+The Direxion Daily AAPL Bear 1x Shares (AAPD), the Direxion Daily AMZN Bull 1.5X Shares (AMZU) and the Direxion Daily AAPL Bull 1.5X Shares (AAPU) each have around $20 million in assets.
+
+Meanwhile, the GraniteShares 1.5x Long NVDA Daily ETF (NVDL), the GraniteShares 1.5x Long META Daily ETF (FBL) and the GraniteShares 1.5x Long COIN Daily ETF (CONL) are among the best-performing ETFs of the year in terms of returns, with year-to-date gains of more than 100%.
+
+But assets in the funds are relatively modest with only $15 million in NVDL, $5 million in CONL and $2 million in FBL.
+
+Clearly, some investors—or more likely, short-term traders—are embracing single-stock ETFs. It’s impressive to see TSLL rack up half a billion dollars in assets.
+
+But I’m still not convinced that single-stock ETFs will end up being anything more than a tiny little corner of the ETF market.
+
+Even today, most of the assets in the group belong to a small number of funds (TSLL alone accounts for 50% of the AUM).
+
+Take away the handful of really high-profile, trendy stocks and there just doesn’t seem to be much demand for these products. Even single-stock ETFs tied to popular, well-known stocks like Apple, Meta and Microsoft haven’t garnered much interest.
+
+A reason for that lack of interest may be that traders who are attracted to the high risk and high reward that leveraged and inverse ETFs provide might not find much value in single-stock funds compared to say, index-based leveraged and inverse products.
+
+The ProShares UltraPro QQQ (TQQQ), which has more than $13 billion in assets, arguably offers similar—if not more—excitement without the single-stock risk.
+
+Single-stock ETFs are limited to 2x leverage due to rules put in place by the SEC in 2020. That gives the older 3x ETFs tied to indexes and commodities (which were grandfathered in) a leg up in attracting volatility-hungry traders.

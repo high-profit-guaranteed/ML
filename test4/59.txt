@@ -1,0 +1,35 @@
+Wed, 19 Apr 2023 07:00:00 GMT
+
+Tesla (TSLA) stock is slipping after the bell as the electric-vehicle maker reported slight revenue and profit misses and gross margin that dipped below 20% to 19.3% as the cost of recent price cuts hit profitability.
+
+For the quarter, Tesla reported Q1 revenue of $23.33 billion, slightly below Street estimates of $23.35 billion, with Q1 adjusted EPS coming in at $0.85, below Street estimates of $0.86. That revenue figure for Q1 represents a slight dip from the $24.32 billion Tesla reported in Q4, but still 24% higher than a year ago.
+
+On the profitability end, Tesla reported adjusted net income of $2.9 billion, less than the $3.03 billion estimated by the Street, and a billion less than last quarter and $700 million less than a year ago. With revenue staying flat-ish and profit dipping, the effects of margin compression could be at play here.
+
+"Although we implemented price reductions on many vehicle models across regions in the first quarter, our operating margins reduced at a manageable rate. We expect ongoing cost reduction of our vehicles, including improved production efficiency at our newest factories and lower logistics costs, and remain focused on operating leverage as we scale." the company said in a statement.
+
+Looking ahead, Tesla still sees 2023 global production of 1.8 million vehicles, with its long-term delivery growth rate staying at 50%. Tesla also said Cybertruck production is on track to begin later this year at Giga Austin, with the company producing "Alpha," or early test versions, of the vehicle.
+
+Tesla instituted a number of price cuts in the U.S., Asia, and some European markets in Q1 of this year. Gross margins dipping to 19.3% may reflect the costs of those price cuts.
+
+Last night, Tesla slashed prices of its Model 3 and Model Y EVs yet again, in fact bringing one of them below $40,000.
+
+Yesterday's price cut, the sixth one this year by Tesla in the U.S., saw each version of the Model Y SUV slashed by $3,000 each, with the Model 3 RWD (rear-wheel drive) dropping by $2,000 to $39,990. The base Model Y, known as the AWD or all-wheel drive version, now starts at $46,990.
+
+Tesla has now cut prices of its base Model 3 by 11% this year alone, and its base Model Y prices have fallen by 20%, according to calculations done by Reuters. These latest price cuts come as the federal government limited the number of vehicles eligible for the electric vehicle tax credit, with Tesla's base Model 3 RWD seeing its tax credit fall by half to $3,500.
+
+Wall Street banks such as Evercore ISI have attempted to quantify the price cuts. “If we assume ~$2k US [price] cut ave translates to ~$1k global and then half of that is offset by cost improvements… then $500 cut to gross profit equates to ~100bps of gross margin pressure and implies 19% Q2/Q3 Auto gross margins (rough math,” the analysts said earlier this month.
+
+Similarly, Ryan Brinkman of JPMorgan has been wary of the price cut effect on Tesla’s profitability, as well as other EV-makers.
+
+“We have been cautious about the profit impact of Tesla’s price cuts, writing that the lower prices are negative overall for Tesla, less negative for traditional automakers such as GM and Ford (given they are now likely to lose even more money in the interim on EVs, although they have other profit centers to offset such losses), and most negative of all for pure-play battery electric automakers competing with Tesla (such as Rivian), as they, too, are likely to lose more money on EVs although do not have profits elsewhere to offset these losses,” Brinkman wrote earlier in April.
+
+And similar to last quarter, analysts are keying in on the word “demand” as it pertains to production and backlog. In Q1 Tesla delivered around 423K vehicles and produced 440K globally; analysts at Evercore, for instance, would like to hear any indication of how Q2 deliveries are tracking and if the order backlog is growing. Guggenheim analyst Ronald Jewsikow wrote in a note to clients that week that Tesla's most recent U.S. price cuts indicated "slowing demand" for the EV maker.
+
+Looking further ahead to the post-earnings conference call, investors and analysts will be waiting to hear any progress on Cybertruck production which is slated to begin later this year, any new information on the gen 3 platform discussed at Tesla’s investor day, and more on the timeline ahead for construction of Tesla’s latest gigafactory in Mexico.
+
+Pras Subramanian is a reporter for Yahoo Finance. You can follow him on Twitter and on Instagram.
+
+Read the latest financial and business news from Yahoo Finance
+
+Download the Yahoo Finance app for Apple or Android

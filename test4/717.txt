@@ -1,0 +1,19 @@
+Wed, 30 Aug 2023 07:00:00 GMT
+
+Tesla Inc TSLA CEO Elon Musk on Wednesday said that version 12 of its full self-driving (FSD) software is still training but compute training will not slow it down.
+
+What Happened: “Training compute should soon not be so much of a limiting factor,” Musk wrote. He was responding to a user who calculated that the training speed of V12 should at least quadruple once chip-maker Nvidia Corp‘s NVDA H100 cluster is fully operational or even further if there’s a lot of Dojo online.
+
+Tesla activated the 10,000-unit Nvidia H100 GPU cluster this week, which Musk said is three times faster than the A100 in the company’s tests.
+
+However, talking about the difficulties of bringing the H100 online, Musk said, “Very difficult bringing the 10k H100 cluster online btw. Similar experience to bringing our now 16k A100 cluster online.”
+
+“Uptime & performance are low at first, then improve with lots of work by Tesla & Nvidia,” he explained.
+
+Why It Matters: Earlier this week, Musk reiterated that Tesla is going to use both NVIDIA and Dojo to process a large amount of data from Tesla's growing fleet of vehicles and train its FSD software.
+
+Dojo is Tesla’s custom-built supercomputer platform, specifically designed from scratch for AI machine learning purposes, with a particular focus on video training using data obtained from its fleet of vehicles.
+
+Check out more of Benzinga's Future Of Mobility coverage by following this link.
+
+Related Link: Tesla To Mark 10 Years Of Superchargers In Europe With Electric Summer Events

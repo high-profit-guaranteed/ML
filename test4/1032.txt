@@ -1,0 +1,29 @@
+Thu, 19 Oct 2023 07:00:00 GMT
+
+Nvidia Corp. NVDA is at the forefront of the artificial intelligence revolution. CEO Jensen Huang‘s recent visit to Taiwan hinted at yet another ambitious move in this sector.
+
+What Happened: Nvidia has partnered with Foxconn, the assembler of Apple‘s iPhone, to accelerate what it calls the “AI industrial revolution.” Foxconn, formally called Hon Hai Precision Manufacturing Company Ltd HNHPF, will incorporate Nvidia technology into developing cutting-edge data centers.
+
+These data centers will power various applications, including the digitalization of manufacturing and inspection workflows, AI-driven electric vehicle and robotics platforms, and an expanding array of language-based generative AI services.
+
+Foxconn has significant electric vehicle ambitions, recently acquiring Lordstown Motor‘s Ohio factory and embarking on EV manufacturing.
+
+In this venture, the Nvidia partnership represents a significant leap for Foxconn as it builds specialized supply chains, including those for chips and batteries, to facilitate its EV production.
+
+Huang and Foxconn CEO Young Liu revealed their intention to establish AI factories, focusing on manufacturing intelligence.
+
+“A new type of manufacturing has emerged — the production of intelligence. And the data centers that produce it are AI factories,” said Huang. “Foxconn, the world’s largest manufacturer, has the expertise and scale to build AI factories globally. We are delighted to expand our decade-long partnership with Foxconn to accelerate the AI industrial revolution.”
+
+See Also: Best Artificial Intelligence Stocks
+
+The Blueprint: The AI factories envisioned by Nvidia and Foxconn will feature an Nvidia GPU computing infrastructure tailored to process, refine, and transform massive datasets into valuable AI models and tokens. This accelerated computing infrastructure will be driven by the Nvidia GH200 Grace Hooper super chip and AI enterprise software.
+
+Foxconn has also expressed interest in establishing its own AI factory, leveraging the Nvidia Omniverse platform and Isaac and Metropolis frameworks to meet the stringent production and quality standards of the electronics industry. The company said that such an AI factory could enhance AI training and inference, streamline factory workflows, and conduct simulations in the virtual world before deploying in the physical world.
+
+Why It Matters: The emergence of AI factories represents a potential challenge to the Gigafactories operated by companies like Tesla Inc TSLA. Nvidia’s collaboration with Foxconn, combining Nvidia’s AI expertise with Foxconn’s manufacturing capabilities, could pose a competitive threat, challenging Tesla’s global manufacturing reach and vertical integration.
+
+Tesla currently operates multiple Gigafactories worldwide — in the United States, Germany, and China — giving it a significant edge in the electric vehicle industry. The Nvidia-Foxconn partnership could possibly disrupt this landscape.
+
+Nvidia closed Wednesday’s session down 3.96% to $421.96, while Foxconn’s U.S.-listed ADRs fell 1.52% to $6.35, according to Benzinga Pro data.
+
+Related Link: Is Nvidia Stock A Better Bargain Than Tesla? Chipmaker’s Epic Q2 Faces Investor Caution Ahead Of Powell’s Jackson Hole Speech

@@ -1,0 +1,21 @@
+Wed, 18 Oct 2023 07:00:00 GMT
+
+Tesla's (TSLA) third quarter results missed analyst estimates on both the top and bottom lines. ARK Invest Director of Investment Analysis & Institutional Strategies Tasha Keeney however points to the company's "immense data advantage over peers when it comes to solving for robotaxis, because it's using its customers' cars to gather information." Keeney tells Yahoo Finance Live the firm thinks "Tesla is getting over two million miles in FSD, its full self-driving, software per day," likely far more than its robotaxi rivals.
+
+Click here to watch the full interview on the Yahoo Finance YouTube page or you can watch this full episode of Yahoo Finance Live here.
+
+JOSH LIPTON: Tesla reporting a miss on earnings as profit slides 44% gross margin, also taking a dip in the third quarter. Here for a deeper dive as Tasha Keeney, ARK Investment Director of Investment Analysis and Institutional Strategy. So Tasha, stock right now, it's about 3/10 of a percent. Give me your take on the print here.
+
+TASHA KEENEY: Yeah. Well, you know, you all did a great job of covering the highlights. So let's talk about the details. Tesla said that it doubled its AI training compute. Why does that matter? Because Tesla has this immense data advantage over peers when it comes to solving for robotaxis, because it's using its customer cars to gather information.
+
+So now we think that Tesla's getting over 2 million miles in FSD, its full self-driving software, per day. I mean, compare that to robotaxi peers, that's like half of what, you know, Cruise, GM's effort, has gotten in its entire lifetime. So I'm really excited to hear about robotaxis on this call. You know, we heard last quarter that there was a traditional automaker that was considering licensing Tesla's full self-driving software. I want to hear more about that. And I'm excited to hear about the launch of Tesla's own robotaxi network in the future.
+
+JULIE HYMAN: I know-- hey, Tasha. It's Julie here. I know that's been part of your thesis and a lot of bulls thesis for a long time. And yet Tesla, in classic Tesla fashion, you know, they talk about stuff for a long time before it really comes to fruition. So if that's the investable case, I mean-- you know, and not just when am I going to see robotaxi on the road but like critical mass, right? What's the timeline for something like that?
+
+TASHA KEENEY: I hear you. You know, Elon Musk has a long history of predicting things and then being late on those timelines. He's certainly gotten better at it. But you know, ARK has always had 2024 as the midpoint of their launch of robotaxis. So I still think that's possible.
+
+But here's like the information that we do have, right? Why should you believe Tesla's statements? Well, we're seeing these videos that they're putting-- Tesla is putting out of full self-driving capability. You know, no hands on the wheel. They released a recent video of Austin recently, the car driving successfully on and off a highway. But more importantly, we're seeing videos from customers. And actually, someone in California did a full ride hail ride where they don't even touch the wheel at all, just the very beginning and the end.
+
+So it looks like it's really, really close to being there. Certainly, in some situations, right? And then to your point, when is it going to be available everywhere? Well, I think they'll start in the major cities where it works the best. So we'll see it in places like California and Texas, where we know that there's a heavy density of Teslas today, and the cars drive well there.
+
+I think in the next decade, that's when we could begin to see robotaxis dominating urban transit as a whole. So that's what we're excited about at ARK investment. I think that this market could be worth, you know, nearly $9 trillion in the next decade or so. And you know, Tesla is really the leader in this, again, because of that massive data advantage.

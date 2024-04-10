@@ -1,0 +1,21 @@
+Sun, 27 Aug 2023 07:00:00 GMT
+
+On Friday, Tesla, Inc. TSLA CEO Elon Musk livestreamed his test drive of a Model 3 vehicle with the full self-driving software beta V12 version on social media platform X, eliciting mixed reactions.
+
+What Happened: The livestream received 38 million views and was reposted 25,500 times. The demo also served as a beta testing of X's livestream feature. The FSD V12 has not yet been released even for early beta testers and has only been tested by select employees.
+
+The FSD V12 testing took place at Tesla Engineering’s headquarters in Palo Alto, California. Musk allowed the car to drive itself to a random destination that was chosen via the on-screen navigation map. The test drive navigated through a construction area with dozens of cones and made a perfect stop at a red light.
+
+Mixed Reactions: Commenting on the drive, Ashok Elluswamy, director of autopilot software at Tesla, said, “End-to-end neural network approach will result in the safest, the most competent, the most comfortable, the most efficient, and overall, the best self-driving system ever produced.”
+
+“It's going to be very hard to beat it with anything else!” he added.
+
+Tesla investor and Future Fund's Gary Black said he believes Tesla will be the first to solve FSD and that others will likely catch up one to two years after. He noted that Baidu, Inc. BIDU Apollo Go driverless robotaxis are already licensed for public use in four China mega-cities, including Wuhan, Chongqing and Shenzhen. Baidu has now provided 3.3 million rides with no driver or remote operator present, he added.
+
+That said, Tesla’s test drive, though “amazing,” has not changed Black’s thinking, the fund manager said.
+
+Black's bullish stance on Tesla hinges on the company’s Cybertruck and a budget model EV. He previously said he is not a big fan of Tesla’s price adjustments, especially its cut on configurator models. Instead, Black has been vocal in his support of advertising as a means of pushing up volumes. On FSD, the fund manager said he is skeptical of when the driverless solution will actually come to fruition, given regulatory roadblocks.
+
+Tesla closed Friday’s session up 3.72% at $238.59, according to Benzinga Pro data.
+
+Read Next: Elon Musk’s Cybertruck Teasers, Lucid’s Price Cuts Prove Effective, Polestar’s Production Milestone And More: Biggest EV Stories Of The Week

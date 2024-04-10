@@ -1,0 +1,13 @@
+Fri, 23 Feb 2024 08:00:00 GMT
+
+On Thursday, YieldMax launched the YieldMax MSTR Option Income Strategy ETF (NYSE Arca: MSTY), boosting its family of synthetic covered call ETFs to a total of 21 products. MicroStrategy Inc. trades under the ticker MSTR. The company is a software provider and a key player in the cloud computing and artificial intelligence spaces.
+
+The new fund has an expense ratio of 0.99%. That’s the same price charged by all of YieldMax’s single-stock ETFs.
+
+MSTY writes options on shares of MicroStrategy Inc. By doing so, it generates a monthly income distribution from the options premiums and its portfolio of U.S. Treasuries. As a synthetic covered call strategy, the fund does not own actual shares of MSTR. It does not provide full exposure to the upside price performance of the stock. However, MSTY’s income element can offset at least some of any downside performance by MSTR.
+
+According to the fund prospectus, it utilizes put and call options contracts, buying and selling both standard options and Flexible Exchange (FLEX) options to achieve its objective.
+
+The largest of YieldMax’s funds is the YieldMax TSLA Option Income Strategy ETF (TSLY), with $814 million in assets under management. The fund applies its synthetic covered call strategy to the stock of Tesla Inc.
+
+For more news, information, and analysis, visit .

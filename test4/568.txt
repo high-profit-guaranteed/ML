@@ -1,0 +1,31 @@
+Mon, 31 Jul 2023 07:00:00 GMT
+
+This company's been on an upward trajectory that AI could accelerate over the coming years.
+
+Most know electric vehicle company Tesla (TSLA 2.25%) for its vehicles and pioneering the ongoing shift from gas-powered transportation to electric. But it is also a business built on artificial intelligence and has been for some time.
+
+CEO Elon Musk's vision for the company centers around a future where cars drive themselves and intelligent bots replace human labor. It may seem far-fetched today, but the seeds are planted for 2030 and beyond, and arguably no company has the opportunity in front of it that Tesla does.
+
+Here is why Tesla could be one of the world's five largest companies by 2030.
+
+Artificial intelligence at the center of Tesla
+
+Tesla's full self-driving technology (FSD) is the foundation for the company's long-term growth. The company began fitting all models with the required hardware for FSD in 2016 and released a beta program to the public in 2020. The company's been monitoring its customers since then, collecting more than 150 million miles of FSD driving data to hone its software and continue improving FSD technology.
+
+Since Tesla's FSD technology uses software to process and analyze a vehicle's surroundings, the company aims to apply the same concept to create an entirely new market with Tesla Bot. Elon Musk announced the bi-pedal bot in 2021, stating that it can eventually perform manual labor for humans. While few details have been made official, Tesla unveiled a prototype last year.
+
+Artificial intelligence requires enormous amounts of computing power. Chip company Nvidia is currently the dominant supplier of AI chips, but Tesla is working on its own to run its FSD software. It's also investing in its Dojo supercomputing platform, built specifically for AI applications. This could unlock new business opportunities for the company as AI applications evolve, grow, and require increasing computing power.
+
+Tesla can be a polarizing company with plenty of skeptics, but that's understandable when you're attempting such significant feats. The long-term risk in Tesla is that these ambitions never come to fruition, and empty promises are never fulfilled. However, the potential upside is equally large.
+
+Many investors know about Tesla's core electric vehicle business; selling cars and SUVs is how Tesla generates most of its nearly $100 billion in annual revenue. The company sells access to its FSD technology for a lump sum or as a subscription, which could eventually create massive recurring revenue streams.
+
+Assuming FSD eventually moves out of beta, consumers could purchase FSD at a higher rate once it's more proven. Tesla delivers hundreds of thousands of vehicles every three months, building an enormous user base. Elon Musk disclosed that the company could license FSD to other car manufacturers. Electric vehicles are still a low-single-digit representation of more than 1.4 billion vehicles on the road today, so EV growth could last years.
+
+Additionally, Tesla Bot could be a new product category that moves Tesla's needle down the road. Musk has stated the robot would cost $20,000, but that could increase by the time it comes to market as costs rise. Many millions of manual tasks are performed worldwide that a simple bot could eventually replace. This opportunity might not be fully developed anytime soon, but investors might better understand Tesla Bot's potential as we proceed through the 2020s.
+
+Adding it all up
+
+Tesla is already one of the world's largest companies; it trades at a market cap of $850 billion. That already places it inside the top 10 companies, but Tesla's arrow firmly points up. Some analysts believe AI could add more than $15 trillion in value to the global economy by 2030. Tesla's AI focus could make the company a notable contributor to that figure.
+
+Whether through self-driving vehicle technology, bi-pedal robots, or providing the raw computing power needed to power AI applications, Tesla has an opportunity to grow with several massive addressable markets over the next decade and beyond. Is Tesla a sure thing? No investment is. However, the company's execution to date and longtime focus on AI gives it as good a chance as any at leading the AI revolution.

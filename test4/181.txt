@@ -1,0 +1,27 @@
+Fri, 19 May 2023 07:00:00 GMT
+
+Tesla plans to mass produce a robotaxi in 2024, and Ark Invest believes the stock could grow at an explosive pace in the following years.
+
+Cathie Wood is the founder and CEO of Ark Invest, an asset management company focused on disruptive innovation. Wood became a sensation during the early days of the pandemic as her bold investment strategy led to incredible outperformance. The Ark Innovation ETF soared 148% in 2020, crushing the 16% return of the broader S&P 500.
+
+All of those gains have since disappeared, but Wood remains confident in many of the same companies, especially Tesla (TSLA 2.25%). Ark recently published a valuation model that prices Tesla at $2,000 per share by 2027, which implies 1,030% upside from its current price.
+
+That valuation model hinges on robotaxis, a topic that Tesla CEO Elon Musk recently discussed in an interview with CNBC. He said that full self-driving (FSD) technology would ultimately allow Tesla to sell cars for software margins and that Ark Invest has the "best analysis" he's seen on the topic.
+
+Here's what investors should know.
+
+Tesla commands an extraordinary valuation compared to its peers. With a market cap of nearly $570 billion, Tesla is worth as much as the next five automakers combined. But the company is also running circles around many of its peers where battery electric vehicles (BEVs) and self-driving cars are concerned.
+
+Tesla led the BEV market last year, and it's market share has actually increased during the first three months of 2023. The company accounted for almost 24% of BEV sales in March, while the next closest competitor held about 15% market share. More impressive yet, Tesla reported the highest operating margin among volume carmakers last year. Musk attributes that success to manufacturing expertise. In fact, he says Tesla has the most advanced manufacturing technology in the world.
+
+Going forward, management believes it can maintain its industry-leading margins, and one reason for that confidence is FSD software, which can be sold at nearly 100% gross margin. Management expects FSD technology to be the most important source of profitability in the future. During the CNBC interview, Musk said it would allow Tesla to make "two or three times the original value, or sale value of the car, in robotaxi revenue."
+
+On that front, Tesla is well positioned to be a leader in autonomous vehicles. The company has far more autopilot-enabled cars on the road compared to its peers, which means Tesla has far more training data for the artificial intelligence algorithms that power its FSD software. Musk also believes its cars are equipped with the most efficient inference computer (i.e., the supercomputer that runs the FSD software) in the world. In short, Tesla has more data and it may have better technology, and it plans to capitalize on that advantage by mass producing a robotaxi in 2024.
+
+So what? After building a fleet of robotaxis, the next step for Tesla will be launching an autonomous riding-hailing network, and that will significantly increase its addressable market. Ark Invest believes autonomous ride-hailing platforms will generate $4 trillion in revenue by 2027 and $9 trillion in revenue by 2030.
+
+Ark outlines three scenarios in its 2027 valuation model. A bear case that values Tesla at $1,400 per share, a bull case that values Tesla at $2,500 per share, and an intermediate case that values Tesla at $2,000 per share. The intermediate scenario assumes Tesla will generate $1.02 trillion in revenue by 2027, and that 44% of that revenue (or $449 billion) will come from robotaxis.
+
+For context, Ark's valuation model implies annualized revenue growth of 68% through 2027, which represents a material acceleration from annualized revenue growth of 49% over the last three years. I find that forecast wildly optimistic, and I say that as a Tesla shareholder, so it stands to reason that some investors will find Ark's valuation model to be utter nonsense.
+
+Here is the bottom line: Cathie Wood is clearly very bullish on the disruptive potential of robotaxis, and she has made prescient calls on Tesla stock in the past. It's also noteworthy that Elon Musk says Ark's valuation model is the best analysis he's seen. Of course, Musk has been overly optimistic at times -- he predicted that Tesla would have 1 million robotaxis on the road in 2020 -- but under his watch, Tesla has still become a leader in the BEV space with industry-leading margins. To that end, investors shouldn't be surprised if Tesla also finds its way to the top of the robotaxi market in the future.

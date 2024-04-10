@@ -1,0 +1,47 @@
+Wed, 14 Feb 2024 08:00:00 GMT
+
+Tesla (TSLA) CEO Elon Musk recently expressed his intention to move his company's incorporation from Delaware to Texas, weeks after the Delaware Chancery Court rejected his pay package. Columbia Law Professor John Coffee joins Yahoo Finance Live to discuss the implications.
+
+Coffee urges Tesla shareholders to understand Musk "may have different interests than their own." He notes some CEOs seek states with "very little judicial oversight," which can harm shareholders in the long run.
+
+For more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance Live.
+
+Editor's note: This video has been edited to remove a statement representing that a shareholder lawsuit against Tripadvisor had reached the Delaware Supreme Court. The case remains pending in Delaware Chancery Court.
+
+This article was written by Angel Smith
+
+RACHELLE AKUFFO: "Move your company out of Delaware before they lock the doors." That's what Elon Musk posted to his social-media platform X. This comes as the Tesla CEO continues his campaign to reincorporate Tesla in Texas instead of Delaware.
+
+Now two weeks ago, a Delaware judge invalidated the $56-billion compensation package that Musk earned as CEO of the EV company. Now, Musk then vowed to move immediately to hold a shareholder vote on Texas incorporation. The vote hasn't been scheduled, but if it is, what do Tesla investors need to know?
+
+Well, joining us now on this is John Coffee, Columbia Law School professor and director of the Center on Corporate Governance, and our very own legal reporter Alexis Keenan. A big welcome to you here, John.
+
+So first, for people who are trying to get up to speed here, what is it that shareholders need to know when they're being asked about reincorporating in Texas?
+
+JOHN COFFEE: Well, they need to know, first of all, that the CEO or the controlling shareholder may have interests different than their own, and Delaware will put them under some degree of scrutiny. Other jurisdictions like Nevada are advertising that there will be very little judicial oversight, and that's what some CEOs want.
+
+Institutional investors, however, often hold the majority of the stock. The cases where we're seeing this kind of migration to the new jurisdiction are cases in which the controlling shareholder has the vote locked up. Either he owns 50% or he has de facto control because many shareholders do not vote and a 40% block is actually a de facto controlling shareholder.
+
+ALEXIS KEENAN: John, now there's a broader issue here, though, at play in that a controlling shareholder-- if you argue that Musk is, in fact, a controlling shareholder in this instance-- that they are electing the independent board members and therefore can-- whether it's Delaware's court, whether it's another business court in another state, can those independent directors really protect the minority shareholders?
+
+JOHN COFFEE: Well, I think the more that the directors are selected by the CEO, the lesser the likelihood that you'll get true independent scrutiny. Normally we want an independent nominating committee of truly independent directors selecting the new members of the board. That's what you'll see in the large public corporations.
+
+But companies like Tesla and Twitter, well, they're used to having one charismatic controlling shareholder, and the shareholders may come in expecting that they are betting on the success of that shareholder. So there was less desire for independence.
+
+RACHELLE AKUFFO: And so, John, Delaware is, of course, the legal home to just over 2/3 of the Fortune 500 companies, and that's been increasing over the past five years. But when you look at the protections that are offered in Delaware versus some of these special business courts in Nevada and Texas, what should people be aware in terms of sort of how they're leaning towards some of these officers and directors in some states versus in Delaware?
+
+JOHN COFFEE: Well, from the perspective of an independent person, what you know is companies often want Delaware because they can eliminate juries in any trial. All cases in Delaware involving corporations are going to be heard by judges only in the so-called Court of Chancery. That means you don't have the risk factor of a runaway jury. Juries can get the bit in their teeth and decide to make rulings that look against the weight of the evidence to others, all right? The new business courts may or may not be able to escape juries. That depends on what the state constitution says. But that does give you one residual advantage.
+
+And even if you set up a business court, they don't come to it with the century of jurisprudence history, the case law, and the answers to all questions already in their decided decisions. Delaware gives you an elaborate body of law where you can predict the outcome based on the facts. That's not true if you establish a business court tomorrow because, in some states, you may have less than a couple of dozen decisions about corporate law. The Delaware judiciary in this area is specialized in hearing corporation cases and not much else, but it makes them very expert in their field.
+
+ALEXIS KEENAN: John, we're learning now through Reuters that both the parties, the shareholders in the pay-dispute case and Tesla and its directors and Musk, that they are going to agree on doing a pause, a stay of the decision of the Delaware chancellor until this case is appealed to the Delaware Supreme Court. So can you just walk us through what that means for a timeline for resolving that matter and what really has to happen next?
+
+JOHN COFFEE: The Delaware Supreme Court can move quickly. You see this in many takeover battles where it goes from the Chancery Court to the Supreme Court for an injunction and is resolved in a matter of weeks. This is not a case that has a background merger that's being delayed, so I don't think they'll rush quite as expeditiously.
+
+But you'll go up to the Delaware Chancery-- the Delaware Supreme Court, which I think is going to be leaning in the direction of the chancellor. She wrote a very fact-specific, 200-page decision making all kinds of findings of fact. And appellate courts generally don't like to reverse findings of fact because they weren't there. They didn't hear the trial. They didn't see the credibility of the witnesses. And thus some deference is given to an experienced trial judge. And the chancellor is the sort of senior member of the Chancery Court and is given-- and is really respected within the nation's corporate-law bar.
+
+So I think the odds on reversal are, at best, it's an outside shot. She may there may be a 20% chance that they would reverse the chancellor. They may change some of the language, however, and suggest they're a little bit more friendly towards executives and their compensation. But I would not predict-- I would not predict that they would overturn the chancellor, and this could be resolved easily by the summer.
+
+BRAD SMITH: John Coffee and Alexis Keenan, thank you so much for taking the time here with this conversation. We're going to continue to track the developments as it plays out. We appreciate it.
+
+JOHN COFFEE: OK, thank you.

@@ -1,0 +1,41 @@
+Tue, 23 Jan 2024 08:00:00 GMT
+
+Large language models (LLMs) allow users to get a glimpse into the milieu of their social environment, as the responses of these models are determined by the aggregate thoughts and opinions of people at large. This means that models like Grok, a recently released LLM by X, can potentially be used as a starting point for finding high-return investments. This has led to the creation of this list of growth stock picks by Grok AI.
+
+Grok differs from models like ChatGPT and Claude as it has access to real-time data. Additionally, it has been trained on tens of billions of tweets. The advantage of using Grok over other models is that by the nature of its training data, it’s potentially more responsive to changes in investor opinion and sentiment, allowing users to get a real-time feel of how the market feels about a company before opening a position.
+
+In the context of growth stocks, which are more speculative by nature than more mature businesses, Grok can be an invaluable tool for honing in on the best investment ideas. So here are the best growth stock picks by Grok AI for investors to consider.
+
+As Elon Musk owns a majority stake in X and was a key initiator of the Grok AI project, it may then not be so surprising to see Tesla (NASDAQ:TSLA) as one of those growth stock picks by Grok AI.
+
+Still, TSLA has reached a kind of cult status of its own, and Wall Street analysts collectively believe that its share price will increase by 7% over the next twelve months.
+
+Here’s what Grok had to say about TSLA stock:
+
+“As the world continues to shift towards sustainable energy solutions, Tesla is well-positioned to be a leader in the electric vehicle market. With their innovative technology and growing global presence, Tesla’s stock is poised for significant growth in the coming years.”
+
+Grok’s assessment seems to be supported by analyst estimates for TSLA’s top and bottom lines. The company is expected to increase its EPS to $5.10 by 2025, along with strengthening its top-line revenue.
+
+Amazon (NASDAQ:AMZN) is another name that’s reached a cult-like status amongst growth investors. The recovery of its stock price has many investors feeling that the best is yet to come, as its stock price has gained roughly 60% over the past year.
+
+“Amazon has consistently shown strong growth over the years, and with the continued expansion of its e-commerce and cloud computing services, they are likely to continue this trend. Additionally, their recent investments in healthcare and grocery delivery services could provide new avenues for growth in the future.“
+
+Investors may also appreciate that Wall Street shares some of Grok’s enthusiasm. AMZN stock is one of the few stocks in the Magnificent Seven that carry a “Strong Buy” recommendation.
+
+Block (NYSE:SQ) was Grok’s final recommendation, and I also share some of its enthusiasm.
+
+The main reason I believe SQ stock will continue to be a strong performer is due to its Cash App competing strongly with other services like Venmo and Zelle. It also has a heavy presence in the crypto market, offering Bitcoin products and enabling Bitcoin-based commerce on its merchant platform.
+
+Since I’m bullish on both fintech and Bitcoin (BTC-USD), I believe that SQ’s continued integration of both will give it a key competitive advantage moving forward, especially as its peers are focused on traditional fiat transfers.
+
+But here’s what Grok had to say about SQ stock:
+
+“Square’s innovative approach to financial services and payment processing has made them a popular choice among small businesses and consumers alike. With the increasing popularity of digital payments and the company’s expansion into new markets, Square’s stock is likely to see significant growth in the coming years.“
+
+On the date of publication, Matthew Farley did not have (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.
+
+Matthew started writing coverage of the financial markets during the crypto boom of 2017 and was also a team member of several fintech startups. He then started writing about Australian and U.S. equities for various publications. His work has appeared in MarketBeat, FXStreet, Cryptoslate, Seeking Alpha, and the New Scientist magazine, among others.
+• None ChatGPT IPO Could Shock the World, Make This Move Before the Announcement
+• None Musk’s “Project Omega” May Be Set to Mint New Millionaires. Here’s How to Get In.
+
+The post The 3 Most Promising Growth Stocks in 2024, According to Grok AI appeared first on InvestorPlace.

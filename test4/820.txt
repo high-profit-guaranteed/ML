@@ -1,0 +1,37 @@
+Mon, 18 Sep 2023 07:00:00 GMT
+
+Tesla (NASDAQ:TSLA) stock doesn’t pay a dividend, but there’s actually a new ETF that’s indirectly based on Tesla stock and offers a terrific monthly dividend (currently yielding nearly 48% on a forward basis). However, there may be a price to pay for that yield because the YieldMax TSLA Option Income Strategy ETF (NYSEARCA:TSLY) won’t provide complete exposure to the upside in Tesla stock. Still, I am bullish on TSLY stock because I like Tesla and big dividends, so this seems like a great combination.
+
+I’ve been hearing about TSLY stock on social media a lot lately, and I’m excited to discuss this controversial investment avenue. When you find out how much the stock distributes to its shareholders, you might be shocked.
+
+Alternatively, you may be tempted to back up the truck and buy as many TSLY shares as possible. Hold your horses, though, as there are notable benefits and drawbacks to owning the YieldMax TSLA Option Income Strategy ETF. So, let’s dive in without any further ado.
+
+The Pros and Cons of the TSLY ETF
+
+As I mentioned earlier, Tesla stock doesn’t pay a dividend. On the other hand, the TSLA share price has appreciated greatly over the past few years (though there have been negative years, like 2022).
+
+If you’re more of an income-focused investor, then you might be frustrated that Tesla doesn’t pay a dividend. On the other hand, if share-price momentum is your highest priority, then it’s probably fine to just buy and hold TSLA stock if you like the company.
+
+Let’s back up for a moment, though. What exactly is the YieldMax TSLA Option Income Strategy ETF, anyway?
+
+I won’t get into the complicated details of this, but in a nutshell, the TSLY fund doesn’t actually hold any Tesla common stock shares. Instead, it uses a synthetic covered call strategy (buying a call option and selling a put option). This strategy seeks to track the performance of Tesla stock as closely as possible while also generating income, and that’s where the capital for the dividend distributions comes from. The fund also holds U.S. Treasury bonds, but that’s only a minor source of capital.
+
+There’s a major drawback to this strategy, though. If you know about options, then you’ll know that selling covered calls will bring you some income, much like a dividend (and the TSLY fund actually pays investors the covered-call income in the form of a dividend). However, selling covered calls also caps (i.e., limits) how much money the investor will make from share-price appreciation.
+
+This explains why TSLA stock has more than doubled year-to-date (up 153%), while TSLY stock is “only” 76%. Capping your share-price upside potential with TSLY could incur a substantial opportunity cost if Tesla stock rockets higher. At least you’ll collect some nice dividends along the way, though. Just bear in mind that TSLY’s dividends are subject to change and, in a worst-case scenario, could be eliminated altogether.
+
+For instance, the YieldMax website admits that distributions aren’t guaranteed with TSLY stock. However, I doubt that the TSLY ETF will suddenly stop paying dividends, as many investors would probably get angry and sell their shares.
+
+Another drawback is that TSLY’s gross expense ratio is 0.99%, which is moderately high. On the other hand, owning TSLA stock does not bring an expense ratio with it since it’s not an ETF.
+
+TSLY isn’t the only ETF of its kind. YieldMax does this with other stocks as well. One example is the YieldMax NVDA Option Income Strategy ETF (NYSEARCA:NVDY), which loosely follows Nvidia (NASDAQ:NVDA) stock and pays a 50.84% annual dividend yield, according to YieldMax.
+
+Is TSLY Stock a Buy, According to Analysts?
+
+There are no ratings on TSLY stock, but there are plenty of analysts with forecasts for TSLA stock, which TSLY is based on. On TipRanks, TSLA comes in as a Hold based on 11 Buys, 12 Holds, and five Sell ratings assigned by analysts in the past three months. The average TSLA price target is $270.80, implying 2.1% upside potential.
+
+If you’re wondering which analyst you should follow if you want to buy and sell TSLA stock, the most accurate analyst covering the stock (on a one-year timeframe) is Daniel Ives of Wedbush, with an average return of 14.76% per rating and a 70% success rate. Click on the image below to learn more.
+
+Conclusion: Should You Consider TSLY Stock?
+
+Only a very specific group of investors ought to consider TSLY stock. For one thing, you have to like Tesla since TSLY would almost certainly drop if TSLA stock plummets. Also, you should prioritize dividend income over capital gains if you’re considering TSLY. Finally, you’ll definitely want to have at least a basic knowledge of how covered calls work (it’s not as complicated as you might think). If you meet those three requirements, then TSLY could be worth considering.

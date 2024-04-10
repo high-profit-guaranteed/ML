@@ -1,0 +1,23 @@
+Mon, 11 Sep 2023 07:00:00 GMT
+
+It appears that Wall Street is now looking at Tesla (NASDAQ:TSLA) with a fresh lens. Following an optimistic note from Morgan Stanley, which noted that Tesla’s Dojo supercomputer could add up to $500 billion to the company’s enterprise value, TSLA shares saw significant momentum on Monday. At the end of the trading day, Tesla was up over 10% at $273.58 per share.
+
+Morgan Stanley analysts, led by longtime Tesla watcher Adam Jonas, dubbed the electric vehicle maker as a “Top Pick” in a recent note. They also raised their rating for the EV maker from “Equal Weight” to “Overweight.” Morgan Stanley’s price target for Tesla stock was raised from $250 per share to a very optimistic $400 per share as well.
+
+“The same forces that have driven AWS to reach 70% of Amazon total EBIT can work at Tesla, in our view, opening up new addressable markets that extend well beyond selling vehicles at a fixed price. The catalyst? Dojo, Tesla’s customer supercomputing effort in the works for the past 5 years.
+
+“The more we looked at Dojo, the more we realized the potential for underappreciated value in the stock. We believe Dojo can represent the next step-change in market perception of Tesla,” the analysts stated.
+
+Amidst Monday’s rally, Tesla’s valuation hit $868.34 billion. In a single day, Tesla added over $70 billion to its market cap.
+
+As noted in a Reuters report, Tesla was not the only megacap company that experienced a favorable Monday. Amazon climbed 3.5% during the day, and Microsoft saw a 1.1% rise. Interestingly enough, artificial intelligence programs also boosted Meta Platforms. Meta surged 3.25% on Monday, thanks in part to reports stating that the social media company was working on a new AI system.
+
+The S&P 500 rose 0.67%, the Nasdaq gained 1.14%, and the Dow Jones Industrial Average rose 0.25% on Monday as well.
+
+Morgan Stanley’s optimistic stance on Dojo is backed up by the electric vehicle maker. The Dojo supercomputer is expected to significantly reduce the training time of Tesla’s AI systems, which should accelerate the rollout of improvements and refinements to systems like Autopilot and Full Self-Driving. Musk noted in June that Dojo is already online and that the supercomputer could be used for more than Tesla’s FSD program.
+
+“This is not intended to be just limited to Tesla cars. Those of you who’ve seen the Full Self-Driving beta can appreciate the rate at which the Tesla neural net is learning to drive. And this is a particular application of AI, but I think there’s more applications down the road that will make sense,” Musk said.
+
+Don’t hesitate to contact us with news tips. Just send a message to simon@teslarati.com to give us a heads-up.
+
+Tesla adds $70 billion to its market cap in one day amid Wall Street’s AI optimism

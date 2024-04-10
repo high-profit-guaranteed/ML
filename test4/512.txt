@@ -1,0 +1,33 @@
+Thu, 20 Jul 2023 07:00:00 GMT
+
+Tesla (TSLA) CEO Elon Musk on Wednesday said the company is using so much Nvidia (NVDA) hardware to power its self-driving training systems, the chipmaker can’t keep up with its demand. Musk discussed Tesla’s massive need for high-powered Nvidia chips during Tesla’s Q2 earnings call, during which he discussed the company’s custom-built supercomputer.
+
+“We’re using a lot of Nvidia hardware,” Musk said during the earnings call. “We’ll actually take Nvidia hardware as fast as Nvidia will deliver it to us. Tremendous respect for [CEO] Jensen [Huang] and Nvidia. They’ve done an incredible job.”
+
+Shares of both Nvidia and Tesla were down 2% and 7%, respectively, Wednesday along with the rest of the broader market and tech sector.
+
+According to Musk, Nvidia has too many customers vying for its products. And while the company has prioritized some of Tesla’s orders, Nvidia can’t provide as many chips as the electric automaker requires.
+
+Tesla has worked with Nvidia for years, and the electric automaker already runs a Nvidia-powered supercomputer. But because of the boom in AI, demand for Nvidia’s chips is pressuring customers like Tesla.
+
+To address this, Musk says Tesla is building its own supercomputer, called Dojo, that runs on custom silicon. The company says it's beginning construction of the machine this month.
+
+“If [Nvidia] could deliver us enough GPUs, we might not need Dojo, but they can’t,” Musk said.
+
+Nvidia is benefiting handsomely from the AI boom, and its growth is unlikely to slow anytime soon. Tesla’s need for Nvidia, and its own hardware, also points to the wide breadth of the AI market and variety of use cases that range from Musk’s pursuit of self-driving vehicles to smart home systems.
+
+The current explosive interest in AI kicked off when OpenAI debuted its ChatGPT generative AI chatbot in November 2022. One of the fastest-growing apps in history, ChatGPT jump-started a generative AI revolution. Microsoft (MSFT), which is investing billions in OpenAI, used the company’s technology in its Bing chatbot and Edge web browser it launched in February.
+
+Google parent Alphabet (GOOG, GOOGL) followed that news with its own AI announcements during its Google I/O conference in May. Meta (META) is already working on its own generative AI capabilities, and according to Bloomberg, Apple (AAPL) is also developing its version of the technology.
+
+Shares of Microsoft and Alphabet are up 45% and 36%, respectively, year to date. Nvidia’s shares are up a whopping 214% thanks in part to the fact that it’s the market leader in AI chips that companies need to train and operate their AI platforms.
+
+During its first quarter earnings report, Nvidia issued second quarter guidance that blew away Wall Street’s expectations. The company says it will bring in $11 billion in revenue in the current quarter plus or minus 2%. Wall Street anticipated $7.2 billion.
+
+We’ll see if it meets or exceeds those expectations when the company reports its earnings on Aug. 23.
+
+Daniel Howley is the tech editor at Yahoo Finance. He's been covering the tech industry since 2011. You can follow him on Twitter @DanielHowley.
+
+Click here for the latest technology business news, reviews, and useful articles on tech and gadgets
+
+Read the latest financial and business news from Yahoo Finance

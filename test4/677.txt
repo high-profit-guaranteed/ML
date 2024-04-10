@@ -1,0 +1,23 @@
+Mon, 21 Aug 2023 07:00:00 GMT
+
+Today's top stories for Tesla Inc. TSLA encompass a significant data breach, concerns about the safety of its autonomous driving technology, and enhanced integration with Apple's Siri.
+
+Insider Data Breach Affects Thousands: A data breach in May impacted over 75,000 individuals, including both current and former Tesla employees.
+
+The breach, attributed to insider misconduct, came to light when foreign media outlet Handelsblatt alerted Tesla about possessing confidential data.
+
+Investigations pinpointed two ex-employees as the culprits who had leaked the data. Tesla has since taken legal action against these individuals and secured court orders to prevent further misuse of the data.
+
+The company remains committed to addressing the breach, collaborating with law enforcement and external forensic experts, Bloomberg reports.
+
+Tesla drivers can now harness the power of Siri to execute various commands, thanks to the integration with Apple's Shortcuts app.
+
+By updating to Tesla's iOS app version 4.24.0, users can seamlessly interact with their vehicles using Siri. This update eliminates the dependency on third-party applications and enhances the synergy between Tesla and Apple.
+
+Furthermore, there's buzz about the potential introduction of AirPlay to Tesla vehicles, enabling wireless streaming of music and podcasts from iPhones.
+
+While CarPlay remains absent from Tesla's offerings, AirPlay might soon offer a high-quality streaming alternative, Benzinga reports.
+
+ Editor's Note: The article has been updated to remove the story on Tesla's full self-driving as it was old.
+
+Disclaimer: This article was developed with the aid of artificial intelligence and Ultima Insights and underwent an editorial review.

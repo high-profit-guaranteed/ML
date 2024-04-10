@@ -1,0 +1,29 @@
+Wed, 27 Mar 2024 07:00:00 GMT
+
+Today a recent report shows a large, unusual volume in out-of-the-money (OTM) Tesla Inc. (TSLA) put options due in 37 days. This highlights that TSLA stock may have reached a bottom. It also provides a good income play for existing shareholders.
+
+The Barchart Unusual Stock Options Activity Report (UOA) on Wednesday, March 27, shows that over 2,000 put option contracts traded at the $155 strike price for expiration on May 3. This is unusual since there were only 126 contracts in outstanding interest (OI) before this activity. In other words, the Vol/OI ratio is over 16 times normal.
+
+The premium at this strike price was high at $3.45 per contract on the bid side, with just 37 days until expiration. That implies that the investor shorting these put contracts receives an immediate yield of 2.223% (i.e., $3.45/$155.00).
+
+Moreover, if the investor can repeat this trade every month for a year, the expected return (ER)is as follows: 365/37= 9.86, or roughly 10 times annually x 2.223% = 22.23%. This assumes the investor can get this exact yield every month, which may not be possible. But it highlights the high ER calculation.
+
+In addition, this shows that existing investors can enhance their returns in holding TSLA stock by shorting these OTM puts. For one, the breakeven point is $155-$3.45, or $151.55 per share. That is over 15.5% below today's price of $170.41. In other words, TSLA stock would have to crater from here before short-put investors begin to lose money.
+
+Moreover, it looks like TSLA stock may be recovering from a low point in the stock. It bottomed out recently at $162.50 on March 14. Therefore, this provides a good entry point for investors, just in case the stock falls further.
+
+However, there is some risk. For example, Tesla is likely to report its earnings in early May for Q2. It is not clear that the company's finances have rebounded from its difficult Q1 numbers on Jan. 24. The company reported 3% YoY growth in Q4 revenue and just 1% growth in automotive sales.
+
+Moreover, adjusted EBITDA (earnings before interest, taxes, depreciation, and amortization) although positive fell 27% from a year earlier. However, its free cash flow (FCF) was still strong at $2.064 billion, representing an FCF margin of 8.2%.
+
+For example, If Tesla can keep this up during 2024, its FCF could rise to $8.856 billion on estimates of $108 billion in revenue. That is over twice the $4.456 billion in FCF it made in 2023. However, to be conservative, assuming a 5% FCF margin, its FCF could rise to $5.4 billion, or 21.2% higher.
+
+Moreover, next year analysts project $129.33 billion in revenue. So, using a 5% FCF margin, FCF could rise to $6.47 billion. So, on average, over the next 12 months, its run rate FCF could be $5.935 billion.
+
+Therefore, using a 1.0% FCF yield metric, TSLA could end up with a $593.5 billion market cap sometime in the next 12 months (i.e., $5.935b/0.01). That is 4.5% higher than its market cap today of $567.88 billion.
+
+In other words, TSLA stock looks slightly undervalued here. It could be worth over $187 per share (i.e., 1.045 x $179.00) over the next 12 months.
+
+That makes shorting OTM put options worthwhile for existing shareholders to collect extra income. It also provides an easy and disciplined way to buy into TSLA stock at a lower price that could provide a good expected return. For example, using the breakeven price of $151.55 shorting the $155 puts could potentially bring an ER of over 23% (i.e., $187.48/$151.55). This assumes that TSLA stock eventually rises to that target price after the investor is assigned the $155 strike price puts (if the stock falls to that level by May 3).
+
+The bottom line is that collecting an extra 2.22% by shorting these TSLA puts looks like a good income play, especially for existing TSLA investors.

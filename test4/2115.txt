@@ -1,0 +1,47 @@
+Thu, 15 Feb 2024 08:00:00 GMT
+
+From creating chips for gaming to becoming one of the world's leading AI chip companies, it's safe to say Nvidia (NVDA) is officially one of the tech giants. In 2023, the company generated nearly $27 billion in revenue, and its market value is well over $1 trillion.
+
+Let's take a closer look at what led to Nvidia's boom with Beyond the Ticker, where we dive into the company's biggest moments.
+
+Nvidia was founded on April 5, 1993, by Jensen Huang, Chris Malachowsky, and Curtis Priem, with a vision to bring 3D graphics to the gaming industry.
+
+Nvidia launched its first hit product, the NV3. It would later go on to sell a whopping 1 million units in its first four months of availability.
+
+On January 22, 1999, Nvidia went public via IPO at $12 per share.
+
+Microsoft (MSFT) chose Nvidia to develop the graphics hardware for the first Xbox console.
+
+Nvidia became the graphics chip supplier for automaker Audi.
+
+The company launched its Nvidia Drive chip for powering driver assistance systems.
+
+Nvidia kicked off its AI efforts with the launch of its DGX-1 server for artificial intelligence applications.
+
+The company debuted the NVIDIA RTX, the first GPU capable of real-time ray tracing.
+
+That same year, Google (GOOG, GOOGL) announced it was using Nvidia’s Tesla (TSLA) P4 graphics cards for its Google Cloud Platform.
+
+Nvidia debuted its H100 graphics chip for AI, which still stands as one of the world’s most powerful chips for artificial intelligence apps.
+
+In May 2023, Nvidia eclipsed the $1 trillion market cap mark, joining the ranks of mega companies like Apple (AAPL) and Microsoft.
+
+The stock continues to surpass its all-time highs over the past month and is currently trading at over $700 per share.
+
+From a company of three engineers working on a graphics card, to thousands of employees working on chips that will power the AI supercomputers of the future, Nvidia remains at the top of the tech industry.
+
+From tech giants to retail titans, Beyond the Ticker is a historical series that takes a deep dive into some of Wall Street's trending companies and how they transformed into the financial icons they are today.
+
+Check out more of our Beyond the Ticker series, and be sure to tune in to Yahoo Finance.
+
+Editor's note: This video was produced by Zach Faulds.
+
+- From creating graphics cards for gaming, to becoming one of the world's leading AI chip companies, it's safe to say NVIDIA is officially one of the tech giants. In 2023, the company generated nearly $27 billion in revenue, and its market value is well over $1 trillion. Let's take a closer look at what led to NVIDIA's boom, with Beyond the Ticker, where we dive into the company's biggest moments.
+
+NVIDIA was founded on April 5, 1993, by Jensen Huang, Chris Malachowsky, and Curtis Priem, with a vision to bring 3D graphics to the gaming industry. In 1997, NVIDIA launched its first hit product, the NV3. It would later go on to sell a whopping 1 million units in its first four months of availability.
+
+On January 22, 1999, NVIDIA went public via IPO at $12 per share. And in 2000, Microsoft chose NVIDIA to develop the graphics hardware for the first Xbox console. Five years later, Microsoft's rival Sony, chose NVIDIA's hardware to power the PlayStation 3. In 2010, NVIDIA became the graphics chip supplier for auto maker Audi. And in 2015, the company launched its NVIDIA Drive chip, for powering driver assistance technologies.
+
+In 2016, NVIDIA kicked off its AI efforts with the launch of the DGX-1. Two years later, the company debuted NVIDIA RTX, the first GPU capable of real time ray tracing. That same year, Google announced it was using NVIDIA's Tesla for graphics cards for its Google Cloud platform. In 2022, NVIDIA debuted its H100 graphics chip for AI, which still stands as one of the world's most powerful chips for artificial intelligence apps.
+
+And in May, 2023 NVIDIA eclipsed the $1 trillion market cap mark, joining the ranks of mega companies like Apple and Microsoft. The stock continues to surpass its all time highs over the past month, and is currently trading at over $700 per share. From a company of three engineers working on graphics cards, to thousands of employees working on chips that will power the AI supercomputers of the future, NVIDIA remains at the top of the tech industry.

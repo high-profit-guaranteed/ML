@@ -1,0 +1,29 @@
+Fri, 08 Mar 2024 08:00:00 GMT
+
+While the tech rally of 2023 has continued into 2024, as well, it hasn’t been the same kind of secular rise we saw last year, where stocks rallied across the board. Among the “Magnificent 7,” Apple , Alphabet , and Tesla are all in the red this year, while Nvidia - which was the best-performing S&P 500 Index stock in 2023 - is leading the charge higher once again this year , and might just become the biggest U.S. company.
+
+As for Alphabet, the Google parent’s stock has been the worst-performing Magnificent 7 stock over the last decade . Its valuation multiples have contracted over the last couple of years, and currently, GOOG trades at a next 12-months (NTM) price-to-earnings (PE) multiple of 19.4x. Its current multiples are the lowest among its Magnificent 7 peers, and they're even below those of the S&P 500.
+
+Historically, GOOG stock has traded at a premium to the S&P 500, as well as tech peers like Meta Platforms and Apple. However, the stock’s valuation multiples have since compressed, both on an absolute as well as a relative basis. Here’s the 2030 forecast for Alphabet stock, plus the key factors that could drive the company's long-term performance.
+
+Google Has Been the Undisputed Search Leader
+
+Google has been the undisputed search leader, but the company’s dominance in the digital ad market has been under pressure. In 2022, the combined market share of Meta Platforms and Alphabet in the U.S. digital advertisement market was 48.4%, marking the first time since 2014 that their combined market share fell below 50%.
+
+While some digital ad dollars have indeed shifted to TikTok, Amazon has also scaled up its digital ad business. The e-commerce giant generated revenues of $14.6 billion from digital advertising in Q4 2023, which was 27% higher YoY. A growing list of streaming services - like Amazon Prime, Netflix , and Disney - are rolling out ad-supported tiers, which is leading to more competition in the market.
+
+To make things worse, Alphabet seems to be coming up short in the generative AI race. While the company rebranded its Bard chatbot as Gemini, the new avatar has been marred by controversy, and some responses have been flagged as racist, sexist, or even factually inaccurate. Overall, things haven’t improved much for Alphabet since the botched public debut of Bard last year, when the chatbot gave an inaccurate answer regarding discoveries from the James Webb Space Telescope.
+
+To be fair, contrary to popular belief, Bing’s market share in the global search market hasn’t really exploded either since Microsoft added Copilot to the product. However, given its current dominance, the market share is Alphabet's to defend at a time when Microsoft continues to aggressively focus on the online search market.
+
+Alphabet stock’s 2030 forecast will depend on several factors. Chiefly, these include:
+• Subscriptions: Alphabet is betting on subscriptions, and the business is now at an annual run rate of $15 billion. Over the long term, growing those subscription revenues will be among the key drivers for the company.
+• YouTube monetization: YouTube is a key pillar of Alphabet’s subscription revenues. The company continues to look at newer ways to monetize users on the platform, including through “Shorts,” which is its answer to TikTok.
+• Cloud business: Cloud has been one bright spot in Alphabet’s portfolio. Not only did that business report an acceleration in growth in Q4, but it also generated an operating profit of $864 million, as compared to an operating loss of $186 million in the corresponding quarter last year. Over the long term, Alphabet will need to grow this business profitably.
+• Regulatory issues: Regulatory issues have been a perennial challenge for U.S. tech giants. Specifically, the fees that Apple and Alphabet charge on the App Store and Play Store, respectively, have been a sore point with regulators. Earlier this month, the European Commission fined Apple 1.8 billion euros (around $1.95 billion) “for abusing its dominant position on the market for the distribution of music streaming apps to iPhone and iPad users.” Google, on the other hand, had to reinstate some delisted apps in India after a public furor. There are growing calls for Apple and Alphabet to allow third-party app stores, which - if it happens - could dampen their future earnings prospects, given the fat share that they make from in-app purchases.
+• Generative AI: Last, but not least, Google needs to up its game in generative AI. While a section of the market believes that AI is a bubble, like the tech boom of the 1990s, many others believe that generative AI is a game-changer. Alphabet needs to change the perception that it is playing second fiddle to ChatGPT, and make its Gemini a lot better over the long term.
+• Monetization of other bets: By 2030, Alphabet needs to start monetizing its “Other bets,” which includes the Waymo self-driving unit, among others. Currently, the business segment is a drag on Alphabet’s earnings, and posted an operating loss of $4.1 billion last year. However, these could be “hidden gems” in the portfolio, whose monetization can add significant value to the company.
+
+All of that said, given its tepid valuations, I believe GOOG stock still looks like a good buy, despite the current headwinds. While the company might have lost round one in the AI race, I won't write off its prospects just yet, and continue to bet on this tech name for the long term - especially as valuations in some other tech stocks have started to look a bit frothy.
+
+On the date of publication, Mohit Oberoi had a position in: AAPL , AMZN , GOOG , MSFT , TSLA , DIS . All information and data in this article is solely for informational purposes. For more information please view the Barchart Disclosure Policy here.

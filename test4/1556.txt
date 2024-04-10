@@ -1,0 +1,63 @@
+Tue, 02 Jan 2024 08:00:00 GMT
+
+Tesla stock certainly polarizes Wall Street, but love it or hate it, the company (and its divisive founder) has certainly made an impact on the auto market.
+
+Sparked by the genius of Elon Musk and Tesla (TSLA), there is now a giant race between the world’s largest automakers to produce electric vehicles with self-driving features. And these self-driving features, in addition to the rise of Uber (UBER) and Lyft (LYFT), may mean that my young children may never get a driver’s license.
+
+Countless neighborhood friends of mine, who have older kids who are old enough to get their licenses, have told me that their kids have no interest. “Why would I want a car? I can just Uber,” is what one neighbor’s son told his dad. And the research trends back up this lack of interest.
+
+As noted in Money Magazine and Business Insider, Researchers Michael Sivak and Brandon Schoettle from the Transportation Research Institute at the University of Michigan compared the percentage of people of different age groups with driver’s licenses in the United States in 1983, 2008, 2011 and 2014. The study found that in every year examined, there was a decrease in the percentage of 16- to 44-year-olds with driver’s licenses in the U.S.
+
+From 1983 to 2014, there was a drop of 47% in 16-year-olds with driver’s licenses. For people ages 20 to 24, there was a 16% decrease over the same span.
+
+And much of this data was compiled before Uber and Tesla began to really shake up the automotive world!
+
+In 2015, these same researchers noted, “In the most extreme scenario, self-driving vehicles could cut average ownership rates of vehicles by 43%—from an average of 2.1 vehicles to 1.2 vehicles per household.”
+
+
+
+And as we know, the range of opinions on Tesla and Uber is wide. Some say Elon Musk is changing the world, while others compare him to a mad scientist moving from one interest to another.
+
+One such critic is Bob Lutz, an auto industry legend who held top positions at Ford (F), Chrysler, General Motors (GM) and BMW throughout his career. In a Los Angeles Times article Lutz had plenty to say about Tesla. Here are some excerpts:
+
+What’s your take on Elon Musk and Tesla?
+
+“I don’t know why it is that otherwise intelligent people can’t see what’s going on there. They lose money on every car, they have a constant cash drain, and yet everybody talks as if this is the most miraculous automobile company of all time.”
+
+What do you think will happen with Tesla down the line? Bought by a traditional auto company?
+
+“Maybe, but who needs it? [Musk] has no technology that’s not available to anybody else. It’s lithium-ion cobalt batteries. Every carmaker on the planet has electric vehicles in the works with a 200-300-mile range.
+
+“Raising capital is not going to help, because fundamentally the business equation on electric cars is wrong. They cost more to build than what the public is willing to pay. That’s the bottom line.”
+
+What about the design?
+
+“The one advantage [Musk] has is that the Model S is a gorgeous car. It’s one of the best-looking full-size sedans ever. The Model X? It looks like a loaf of bread. There’s no arguing the Model 3 is nice-looking but it doesn’t break any new ground aesthetically.
+
+“Don’t get me wrong, what Musk has achieved, whether it is profitable or not, is incredible. He’s created an automobile company based solely on electric vehicles, and they have pretty good, not yet completely reliable, autonomous capability.”
+
+Wall Street is also divided on Tesla stock, as traders position for the stock to either crash or explode to new highs.
+
+So, with TSLA trading around 250, how might I bet on, or against, Tesla stock trading options?
+
+If I believed in Elon Musk, and the future of Tesla, I might execute the following trade:
+
+Buy to Open the TSLA June 250 Calls for $35.
+
+The most you can lose on this trade is $3,500 per call purchased, if Tesla stock were to close below 250 on June 21, 2024.
+
+However, this trade has unlimited upside potential, just like a stock purchase, but at a fraction of the cost ($3,500 vs. $25,000).
+
+If I wanted to bet against TSLA stock, I might execute the following trade:
+
+Buy to Open the TSLA June 245 Puts for $27.
+
+The most you can lose on this trade is $2,700 per put purchased, if TSLA were to close above 245 on June 21, 2024.
+
+The advantage to buying put options is that most brokerage companies don’t allow average investors to short stocks.
+
+However, they do all allow you to buy puts, which is a bearish position, because your potential loss is limited to the price you paid for the put ($2,700).
+
+Do you own Tesla in your portfolio? If so, when did you buy it?
+
+*This post is periodically updated to reflect market conditions.

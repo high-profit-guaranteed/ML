@@ -1,0 +1,27 @@
+Sat, 16 Mar 2024 07:00:00 GMT
+
+Tesla (TSLA) started rolling out FSD Beta v12.3 (2023.44.30.25) to non-employee beta testers on Tuesday. First impressions testing videos of this new Tesla Full Self-Driving build have started to surface on social media platforms like X and Facebook.
+
+The majority of early beta testers are reporting that the new v12.3 is a good improvement over the previous FSD Beta v12.2.1 which was released around 3 weeks ago. Tesla did not publish any new release notes for FSD v12.3
+
+Since this is a relatively new version of FSD Beta, the reviews and tests should be considered preliminary. Long-term testing will determine the exact improvements. However, after getting feedback and data from the testers, Tesla rolls out a new version within a month.
+
+According to the Tesla software tracking data provided by the websites TeslaFi.com and TeslaScope.com, FSD Beta v12.3 is rolling out faster than the previous version. As of this writing, 120 cars have already downloaded FSD version 12.3 (2023.44.30.25).
+
+According to FSD Beta tester AI DRIVR, for highway driving, FSD Beta 12.3 feels almost the same as it was in version 11. However, it’s now taking less unnecessary lane changes.
+
+Highway driving felt like there was less unnecessary lane changes, but still feels like V11 to me. there are areas on the highway I really wished it was more like V12, because it currently still tries to center itself in the lane even with a barrier on the left which feels sketchy.
+
+“Had two unprotected turns which felt less sketchy than before and handled them great,” AI DRIVR wrote in his post detailing his FSD Beta v12.3 first impressions. “But need to do more testing to see how much it’s improved,” he stated.
+
+Beta testers say that FSD Beta v12 in general and the latest version v12.3 in particular have started to behave like a human would in a scenario. For example in the following video, although the Tesla car running on Autopilot FSD Beta had the right of way at an intersection, it made a good decision by letting the other car pass — a good negotiation.
+
+Another FSD Beta v12.3 video shows that the vehicle autonomously stopped a bit early to let a mother and her child cross the road at a signal. More users also report that the latest FSD Beta 12.3 is more gentle for vulnerable road users (VRUs).
+
+Stay tuned for constant Tesla updates, follow us on: 
+
+Google News | Flipboard | RSS (Feedly).
+• Elon Musk discloses the Tesla Robotaxi unveiling date — know what to expect from the event
+• Tesla FSD (Supervised) v12.3.3 goes wide release, triggers debate if it’s impressive or whacky (video reviews)
+• New Tesla customers to get FSD Beta v12.3.1 test drives, capable cars to get a one-month free trial in the US, Elon Musk
+• Tesla FSD v12.3 gets good first impressions from the beta testers (videos)

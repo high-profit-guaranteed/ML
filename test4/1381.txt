@@ -1,0 +1,25 @@
+Thu, 07 Dec 2023 08:00:00 GMT
+
+Although initially considered a joke, electric vehicle (EV) giant Tesla Inc TSLA has indeed circulated a document on 48-volt vehicle architecture to rival CEOs.
+
+What Happened: Ford Motor Co F CEO Jim Farley confirmed on Wednesday that he received a document dated Dec. 5 from Tesla CEO Elon Musk.
+
+“Thanks, Elon Musk. Great for the industry!,” Farley wrote on X, formerly Twitter.
+
+Automotive reviewer Jason Cammisa joked about Tesla sending out a document titled ‘How to design a 48-volt vehicle’ in his review of the Cybertruck uploaded on Dec. 1 on the YouTube channel ‘Hagerty.’
+
+“They weren’t joking,” Farley wrote on X. However, the document has a different cover page and does not claim competitors to be “incompetent” as Cammisa portrayed in his video for comic effect.
+
+“(I) think Hagerty was having some fun. That wasn't the actual cover page,” Farley wrote.
+
+Musk responded to Farley with a brief, “You're welcome.”
+
+Why It Matters: Automakers have been using 12-volt architecture for decades. The new technology in Tesla’s Cybertruck involves the use of a 48-volt electrical system.
+
+According to Torque News, this allows for faster charging, better performance, and the steer-by-wire feature on the Cybertruck. Steer-by-wire involves no physical connections between the steering wheel and front wheels.
+
+“The guide delves into the nitty-gritty of implementing a 48-volt architecture, from the essential components to the potential impact on range and power delivery,” the report added.
+
+Check out more of Benzinga's Future Of Mobility coverage by following this link.
+
+Read Next: Tesla’s Priciest Play Yet: Early Cybertruck Reservation Holders Can Get A ‘Foundation Edition’ For A Whopping $120K

@@ -1,0 +1,13 @@
+Sun, 17 Sep 2023 07:00:00 GMT
+
+IrvinGQ of the UK highlighted its ATAX “Drive-On, Drive-Off” modular aerial delivery platform at DSEI 2023. Designed for rapid configuration to suit a multitude of mission scenarios, it employs existing PD9 pallets, Type V or the IrvinCQ composite alternatives
+
+Each ATAX module can carry 3.2 tonnes while a maximum payload of 16 tonnes can be achieved by using five connected modules. Two triple modules with a load capacity of 9.6 tonnes can be configured for sequential airdrops from C-130J or A400M aircraft.
+
+The loads rigged onto the modular airdrop platform are extracted from the aircraft by an extractor parachute which then deploys the main descent parachutes. The Platform Airbag Deceleration System was designed to provide a highly effective solution for managing the ground impact phase of aerial delivery, while the airbags can be installed with the platform on the ground, offering rapid rigging and de-rigging of the cargo. ATAX requires no specialist tools or manual handling equipment.
+
+For marine delivery, the platform can be rigged to sink without trace in an operational role or to float for recovery and re-use in a training role.
+
+One key advantage of IrvinGQ’s extraction system is that it is purely mechanical, which removes the problem of using pyrotechnic and electrical components, allowing full functional checks of the system’s safety mechanisms to be performed while the load remains within the aircraft. IrvinGQ’s Transfer Safety Link Assembly (TSLA) was developed to address a known single point of failure within the industry standard extractor retarder aerial delivery system. The TSLA prevents premature deployment of the main parachutes by the extraction parachute before the load has exited the aircraft.
+
+ATAX is compatible with C-130, C-17, C-5, A400M and KC-390 aircraft.

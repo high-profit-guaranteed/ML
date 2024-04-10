@@ -1,0 +1,15 @@
+Thu, 09 Nov 2023 08:00:00 GMT
+
+In a surprising turn of events, ExxonMobil Corp XOM has now overtaken Tesla Inc. TSLA to become the most shorted large-cap stock in the S&P 500, according to a recent report by HazelTree.
+
+What Happened: Prior to last month, Tesla had held the title of being the most shorted stock for four consecutive months, as investors anticipated a drop in the company’s share price, as reported by Business Insider.
+
+See Also: Microsoft’s Former VP Of HR Says Employers ‘Don’t Own Employees’ Lives’, Defends People Working Multiple Jobs
+
+Using a “Crowdedness Score” to rank short bets, HazelTree has awarded ExxonMobil a score of 99, the highest level, indicating shares shorted by the highest percentage of funds tracked by the firm. Tesla trails slightly behind with a score of 97. The firm’s comprehensive data collection covers 12,000 global equities and over 700 funds.
+
+Short selling is a common practice where investors bet against a particular stock by borrowing shares, selling them, and then repurchasing them at a lower price to return to the lender, thus pocketing the difference. HazelTree measures the “hotness” of a stock based on the supply and demand dynamics from short sellers.
+
+In terms of institutional supply utilization, Rivian Automotive RIVN is leading far ahead with 37%, a figure significantly higher than ExxonMobil’s 3.13% and Tesla’s 2.67%. Even though Tesla has witnessed an impressive growth of 76% this year, it is currently facing challenges due to uncertain demand for electric vehicles and rising competition.
+
+Read Next: Cathie Wood’s Ark Invest Purchases $9.5M Worth Of Robinhood Shares, Downsizes Holdings Of Grayscale Bitcoin Investment Trust

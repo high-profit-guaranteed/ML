@@ -1,0 +1,25 @@
+Thu, 22 Feb 2024 08:00:00 GMT
+
+Tesla (TSLA) started rolling out its most awaited FSD Beta release version 12 (12.2.1) earlier this week. As we reported yesterday, FSD v12.2.1 has improved in many areas and levels compared to the previous version 11.
+
+Besides the significant advancement in self-driving tech with the public rollout of FSD Beta v12, Tesla has also made the transition of the software package from old to new vehicles effortless.
+
+A Tesla owner shared the story of trading in his 2017 Model S for a new 2024 Tesla Model Y. He had bought the Full Self-Driving package with his Model S 7 years ago. Interestingly, with the Supercharging credits and FSD package, Tesla also pushed the latest FSD Beta v12.2.1 to his new Model Y.
+
+The owner shared this information in the FSD Beta Testers group on Facebook. As soon as he returned home, he found out that his new Model Y had the FSD Beta v12.2.1 (firmware version 2023.44.30.20) already installed. Tesla even upgraded his car’s firmware version to the latest version 2023.44.300.
+
+Tesla is currently offering free Supercharging credits and FSD Capability package transfers for trade-in vehicles. This offer is valid for new vehicles bought/traded between 3rd February and 31st March 2024. Tesla’s official website states:
+
+Customers who take delivery of a new Tesla vehicle between February 3, 2024 and March 31, 2024 may qualify for transferring Full Self-Driving (FSD) capability from their current vehicle to their new vehicle. If you transfer Full Self-Driving capability from your current vehicle to your new vehicle, your current vehicle will only have access to basic Autopilot features. If you would like to have Full Self-Driving capability features on both your current vehicle and your new vehicle, you can simply purchase Full Self-Driving capability for your new vehicle without participating in this offer.
+
+Contrary to expectations, Tesla has rolled out the FSD Beta v12.2.1 to a select number of customers till now. According to TeslaFi.com, there are currently only 62 vehicles have the FSD Beta v12.2.1 update installed on them out of 19,466 total data-contributing vehicles.
+
+It’s a slightly wider release till now, not a full-fledged wide release. Tesla might release FSD Beta v12 to a larger number of Tesla vehicles after evaluating data from the first limited group.
+
+Stay tuned for constant Tesla updates, follow us on: 
+
+Google News | Flipboard | RSS (Feedly).
+• Elon Musk discloses the Tesla Robotaxi unveiling date — know what to expect from the event
+• Tesla FSD (Supervised) v12.3.3 goes wide release, triggers debate if it’s impressive or whacky (video reviews)
+• New Tesla customers to get FSD Beta v12.3.1 test drives, capable cars to get a one-month free trial in the US, Elon Musk
+• Tesla FSD v12.3 gets good first impressions from the beta testers (videos)

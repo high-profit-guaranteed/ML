@@ -1,0 +1,13 @@
+Mon, 11 Mar 2024 07:00:00 GMT
+
+On Monday, Evercore ISI reiterated its In-Line rating and $175 price target for Tesla (NASDAQ: ), following a visit to the company's Austin Gigafactory and experiences with the latest Tesla models, including the Cybertruck and the Highland Model 3. The firm's analysts left with a positive outlook on Tesla's multi-year story of manufacturing innovation, efficiency, and scale. They adjusted their model to account for lower demand projections for 2024-2026, with expectations set for a turnaround with the introduction of the "Model 2" in 2026/2027.
+
+Evercore ISI highlighted what they referred to as "The Great EV Expectational Reset," suggesting a conservative volume ramp-up for Tesla's anticipated "Model 2," potentially mirroring the ramp-up stages of the Austin factory or the Cybertruck. The analysts revised their volume expectations for 2026 into 2027, taking a more cautious stance due to the staged dual ramp of the Model 2 in Austin followed by Mexico.
+
+In terms of pricing and demand, Tesla's primary focus seems to be on managing monthly payments to enhance affordability, with increased third-party leasing and a budding advertising and education program. The firm noted that it is unclear whether Tesla intends to prioritize volume growth over price and gross margin in the near term. Investor Relations at Tesla conveyed that it is still early in the education and advertising efforts to demonstrate the relative affordability of Tesla's Model 3 and Model Y, considering potential savings from the Inflation Reduction Act and gas expenses.
+
+Evercore ISI also reported a decrease in Tesla's Bill of Materials (BoM) cost, which has declined to $36,000 from $40,000 a year ago. The next generation targets a $20,000 BoM with improvements expected from battery technology, vehicle size, content, and manufacturing efficiencies. These improvements are anticipated to include a 48V architecture, structural battery pack, steer-by-wire technology, and greater manufacturing efficiency.
+
+The energy division of Tesla, particularly the Megapack product, is experiencing a successful ramp-up from 15GWh to a projected 40GWh by 2026. The analysts observed margin improvements occurring at a faster pace than price reductions in this segment.
+
+Lastly, the Cybertruck test drive was described as impressive, living up to expectations and beyond, thanks to its significant power. However, the firm noted that while the Cybertruck has received celebrity endorsements, its mass appeal and practicality among traditional truck enthusiasts may still be a topic for debate.

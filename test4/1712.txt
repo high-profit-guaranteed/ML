@@ -1,0 +1,29 @@
+Thu, 18 Jan 2024 08:00:00 GMT
+
+Hi folks, senior tech reporter Kylie Robison here. This week, the world’s richest man is asking for more money and power, because of course.
+
+“I am uncomfortable growing Tesla to be a leader in AI & robotics without having ~25% voting control,” Musk tweeted. “Enough to be influential, but not so much that I can’t be overturned.”
+
+He currently has a 13% stake in the electric car manufacturer after selling a big chunk of his shares in Tesla to help fund his $44 billion acquisition of Twitter (now known as X). He added that unless he’s able to secure the 25% voting control, he’d “prefer to build products outside of Tesla.”
+
+Perhaps Musk is having a touch of Zuck envy. The Meta CEO and Facebook founder has 61% voting control of his company thanks to special supervoting shares. In fact, dual share structures are the norm in founder-led tech companies: Alphabet, Snap, Pinterest, and Palantir all have them. The idea, in theory, is to give "visionary" tech entrepreneurs the leeway to focus on long-term bets without meddling from pesky investors hungry for short-term profits.
+
+And to Musk's credit, his track record of executing on long-term bets (from electric cars to reusable rockets) looks pretty strong compared to say, the leaders of Snap or Pinterest.
+
+“If I have 25%, it means I am influential, but can be overridden if twice as many shareholders vote against me vs for me,” Musk noted in a tweet. “At 15% or lower, the for/against ratio to override me makes a takeover by dubious interests too easy. I would be fine with a dual class voting structure to achieve this, but am told it is impossible to achieve post-IPO in Delaware.”
+
+Still, Musk's threat to move AI development out of Tesla (which livestreamed splashy "AI day" events for a couple of years) if he doesn't get what he wants, is not exactly a diplomatic or collaborative way to go about it.
+
+And his request comes at a strange time. Musk is still in the midst of a lawsuit regarding his whopping $56 billion pay package, which he references in the post, where his time spent “on the clock,” so to speak, at Tesla is under some scrutiny. Not long ago, Tesla shareholders were concerned about Musk’s time split between his companies: SpaceX, Neuralink, Boring Company, xAI, and X, even taking to the platform he owns to voice their displeasure.
+
+“There is no TSLA CEO today,” Gary Black, managing partner of Future Fund LLC, which holds approximately $50 million in Tesla shares, posted a year ago.
+
+“The market voted today that the $TSLA brand has been negatively impacted by the Twitter drama. Where before EV buyers were proud to drive their Teslas to their friends or show off Teslas in their driveways, now the Twitter controversy is hurting Tesla’s brand equity,” Black told the Wall Street Journal at the time.
+
+What’s more, Musk's erratic posts about anti-Semitic conspiracy theories and the Journal's explosive exposé on his alleged drug use hardly bolster his argument for increased influence over the $675 billion automaker. Yet, as Bloomberg’s Matt Levine points out, “his companies need to compete for his attention, and that competition is expensive.” So, maybe, the board will give him what he wants. I’m doubtful it’ll get them more of his attention, though. His hands are rather full, I mean, I just watched him play Diablo for 3 hours. He’s a busy, busy man!
+
+You're busy too, so here's a quick rundown of today's biggest tech news.
+
+Want to send thoughts or suggestions to Data Sheet? Drop a line here.
+
+This story was originally featured on Fortune.com

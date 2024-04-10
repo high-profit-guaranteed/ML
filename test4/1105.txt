@@ -1,0 +1,51 @@
+Mon, 30 Oct 2023 07:00:00 GMT
+
+Western Digital (WDC) shares rose as the company announced plans to split into two independent businesses — one focused on hard disk drives for data centers and the other on flash memory for consumer devices.
+
+ON Semiconductor (ON) shares plunged after the chipmaker missed on fourth-quarter guidance estimates, citing softening demand in the automotive sector.
+
+Tesla (TSLA) shares slipped after its battery supplier Panasonic (6752.T, PCRFY) cut production of EV batteries in September, blaming slowing economic growth and weakening demand for electric vehicles globally.
+
+Yahoo Finance's Josh Lipton and Julie Hyman break down the details of today's trending tickers.
+
+For more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance Live.
+
+PRAS SUBRAMANIAN: The shares of Western Digital rising today nicely after the company announced it will split its disk drive and flash segments into two different businesses. CEO saying the separation will, quote, "unlock significant value for Western Digital shareholders." So we did get Q1 results and forecast here, Julie.
+
+But the big news is they're going to split into two separate publicly traded companies. We got-- this is after talks to merge with Kioxia, which we were talking about last few days. That fell through. So spin off the flash business. That's memory for computers, portable devices, portable drives. And then the HDD business, which focuses on memory, the cloud data centers sounds like. Split's planned for second half of 2024.
+
+Shares had slipped pretty hard, remember? Because investors were kind of unsure what exactly was going to happen with Kioxia. But now we've got the news, maybe some relief about that news and the plan. Second option here apparently has some fans and the CEO saying spinning off the flash business is the best executable alternative at this time.
+
+JULIE HYMAN: Or plan B, in other words.
+
+I saw it quoted as plan B as well. Now, the company has been the subject of activist pressure from Elliott Investment Management because, as you said, the stock has not been doing great. And I think Elliott's been involved going back to 2022. I was just looking at a long-term stock chart. This company made its all time high back in 2014 and has not reattained that since then. That record high, by the way, was around $110 a share.
+
+PRAS SUBRAMANIAN: Wow. Yeah, look at that chart.
+
+JULIE HYMAN: Then the more near term peak in 2021 when everything else was going crazy was like in the '70s. So it's just quite interesting here that this stock has sort of been floundering, as I think we talked about the other day when we talked about this one. It's subject to commodity cycles when you're talking about these disk drives when you're talking about flash memory. And so we have seen it be sort of a very cyclical, stock. And we'll see what it looks like as it now splits up and see if it does unlock any value. We shall see.
+
+PRAS SUBRAMANIAN: We shall see.
+
+JULIE HYMAN: All right we're also taking a look-- speaking of cyclical sectors-- On Semiconductor shares, sinking today on weak fourth quarter guidance. The CEO pointing to market softness in the company's release. And executives also pointing to weakness in auto demand because On Semi does make semiconductors for that sector among others.
+
+Analysts pretty mixed on this. One analyst over William Blair saying that the outlook missed across the board. And other analysts saying, looking backward, this past quarter was decent was solid, but the outlook is indeed quite disappointing.
+
+PRAS SUBRAMANIAN: Yeah. That seems to be what they're going through right now stocks just getting hammered if you see that drop. The results, I think the Street felt like were solid. But it was that outlook that was the issue. Truist, for example, which has a buy target $122 says they think the weakness is coming from the industrial end market, which they know is consistent with what other semis have been reporting this earnings season. They said it should not be a significant surprise to investors. But apparently, judging by that reaction, it is to some.
+
+JULIE HYMAN: Yeah. And the five-year chart looks impressive for On Semi. I'm just looking at the stocks, the Philadelphia Semiconductor Index year-to-date. And I think that On is firmly met when it comes to-- it's up something like 600% year-to-date. The technical term, yeah.
+
+Exactly. Which is like really very middle or middle of the road here. So it's just it's-- it's underperformed the broader group most definitely.
+
+PRAS SUBRAMANIAN: And finally here, shares of Tesla trading lower in today's trade. That's after its EV battery producer Panasonic Holdings cut its Automated Battery production in September. Quarter company pointing to soft demand for EVs amid a global slowdown in the market. So you can see Tesla really taking it on the chin there. Now, that was one data point. I did see other reports saying they also were looking actually at On Semiconductor.
+
+PRAS SUBRAMANIAN: Right. That was another one in that disappointing forecast there an automotive chip maker? And so some were saying, well, underwhelm on guidance, maybe that's bad news. You saw that dragging down some names-- Tesla, Rivian, to name a couple.
+
+JULIE HYMAN: Yeah. And Panasonic in particular was talking about this slumping demand for higher end Tesla cars. That's something we've kind of heard from Tesla itself. It reminds me a little bit of when we look at Apple and then we start to gather sort of the tea leaves from all of the Apple suppliers to-- even if we've heard some of the leaks or the commentary from Apple itself, it then sort of is self reinforcing when you get some the suppliers make similar comments. So even though we've heard some of this from Tesla already, it sort of makes investors sit up and take notice, again, to get this kind of a reminder that one of its suppliers is saying this.
+
+PRAS SUBRAMANIAN: We've been talking to a lot of the headlines were getting recently about EVs have not been so great. Remember, Ford deferring billions in EV-related investments. That got people thinking. In other words, people are focusing on, yes, the EV market is growing, but how strongly is it growing?
+
+JULIE HYMAN: Right. And then do you have sort of a plateauing or a stalling out to use an auto analogy?
+
+PRAS SUBRAMANIAN: Exactly right. Higher borrowing costs not helping them.
+
+JULIE HYMAN: Yes, definitely not.

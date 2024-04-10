@@ -1,0 +1,39 @@
+Sat, 05 Aug 2023 07:00:00 GMT
+
+Tesla faces a few headwinds, but its plans to monetize AI could give its growth a nice long-term boost.
+
+Electric vehicle (EV) leader Tesla (TSLA 2.25%) has been in the news for the wrong reasons of late, as the National Highway Traffic Safety Administration announced on Aug. 1 that it has opened a preliminary investigation into 280,000 units of Model 3 and Model Y vehicles after receiving reports from a dozen owners asserting that their 2023 model year vehicles had lost steering control and power steering.
+
+This only added to the headaches of Tesla investors, as shares of the company have been trending lower since it released its second-quarter report on July 19. Investors weren't happy with the contraction in the company's operating margin as a result of price cuts, a lack of clarity about when the company will start delivering Cybertrucks, and the progress on its robotaxi. Nor were they pleased with the current quarter's slowdown in vehicle production due to factory shutdowns.
+
+Tesla's stock price has dropped by 10% since its earnings report, bringing its market cap down from more than $920 billion to less than $830 billion as of this writing.
+
+Elon Musk's auto company was widely believed to be on track to hit a $1 trillion market cap before its latest pullback, but now there are more doubts. However, investors should not forget that Tesla's focus on artificial intelligence (AI) could help the stock regain its mojo and the core business could by itself lift the stock into the $1 trillion market cap club by the end of 2023.
+
+AI could turn out to be a big growth driver for Tesla
+
+According to Tesla's second-quarter shareholder presentation, the company has a "commitment to being at the forefront of AI development." The company has already started the production of its Dojo supercomputer, for which it has ambitious plans over the next year or so. More specifically, Tesla aims to equip Dojo with 300,000 data center graphics processing units (GPUs) by October 2024, a move that will take the supercomputer's capacity to 100 exaflops.
+
+That would be a massive improvement over Tesla's existing supercomputer that's capable of 1.8 exaflops of computing power, driven by the 6,000 GPUs that it is equipped with. Musk says Tesla plans to spend $1 billion on the Dojo supercomputer over the coming year as it looks to hone its vehicles' self-driving capabilities.
+
+Dojo will enable Tesla to boost its machine-learning and computer-vision training model development, ingesting huge amounts of data -- such as video feeds from its EVs around the globe -- to help the company develop self-driving software. Musk indicated in the company's July conference call with analysts that he believes that the new supercomputer could play a key role in accelerating Tesla's development of a completely autonomous car.
+
+According to Musk, the company's current full self-driving (FSD) feature is expected to go "from being as good as a human" to "being vastly better than a human." What's more, Musk said he sees "a clear path to full self-driving being 10 times safer than the average human driver."
+
+It is worth noting that Musk has been promising to deliver a fully autonomous car since 2016. But the company's FSD capability remains a work in progress and still requires human supervision. It is rated as a Level 2 driving assistance system (out of the five levels of autonomous driving).
+
+Tesla's FSD has been adopted by more than 400,000 customers since it was launched in 2020. That's impressive considering that customers need to pay $15,000 up front and then a monthly subscription of $99 or $199. If Tesla can substantially improve its EVs' self-driving capabilities with the help of a more powerful supercomputer and the 300 million miles of data that FSD has already racked up, it could gain wider adoption.
+
+One way that may happen is through licensing deals. Musk is reportedly in discussions with other major automotive OEMs (original equipment manufacturers) about letting them use Tesla's FSD. Potential licensees would need to buy Tesla's hardware and software to deploy this feature.
+
+Given that the market for autonomous driving components is expected to be worth between $55 billion and $80 billion by 2030, Tesla has plenty of incentive to upgrade its autonomous driving system.
+
+Is a $1 trillion valuation in the cards this year?
+
+Tesla's AI initiatives based on the Dojo supercomputer are now in the early stages of development, and it would take at least a year for Dojo to drive tangible revenue growth for the company once it is complete. So, it may take some time for AI to positively impact Tesla's valuation.
+
+However, Tesla seems on track to deliver solid revenue growth in 2023 from its core automotive business. Analysts expect the company's revenue to increase by 22% this year to almost $100 billion. Based on Tesla's current price-to-sales ratio of almost 10, there is a chance that the company could achieve a $1 trillion market cap in 2023.
+
+But then, AI stocks tend to command far higher sales multiples, so there's a reasonable possibility of Tesla's market cap exceeding the $1 trillion mark if investors bump up the multiple. Moreover, Tesla is expected to sustain impressive revenue growth over the next couple of years.
+
+With the addition of catalysts such as AI, which could help Tesla gain licensing revenue and increase the adoption of its self-driving hardware and software, the company may be able to deliver faster revenue growth in the long run and increase its market cap well beyond the $1 trillion mark.

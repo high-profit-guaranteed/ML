@@ -1,0 +1,25 @@
+Fri, 05 Jan 2024 08:00:00 GMT
+
+Electric Vehicles traditionally have a bad reputation when it comes to performance and range in cold weather conditions. Tesla vehicles were no different before the automaker found a way to overcome this obstacle.
+
+When Tesla (TSLA) launched its Model Y midsize compact electric SUV in 2020, the company integrated the Heat Pump technology into its vehicles for the first time. With the success of the heat pump in the Model Y, the technology transitioned to the entire Tesla vehicle lineup over time. Even the newly-launched Cybertruck has a heat pump in it.
+
+Yesterday I received an email from Tesla titled, “Our Engineers Reduced Cold-Weather Range Loss”. The contents of the email showed pictures of the heat pump, its 3D visualization, and a link to a video in which Tesla shows how the company achieved cold-weather improvements to minimize range loss (watch below).
+
+“EVs get a bad reputation in cold weather. They’re known for running out of range super quickly. They charge too slowly,” a Tesla engineer explained the reason for the innovation of the heat pump. “Tesla heat pump is about changing all those notions,” he said.
+
+The Vice President of Vehicle Engineering at Tesla Lars Moravy has also been featured in this video. “The easiest way to think about a heat pump is like an air conditioner in reverse,” Lars said.
+
+Tesla’s heat pump does not only warm up the vehicle’s battery pack to maximize the range efficiency. It is also used for warming up the occupant’s cabin in cold weather conditions.
+
+A heat pump system in a vehicle is not an entirely new thing. Tesla has made several innovations in-house to maximize its efficiency in electric vehicles. Tesla needed to create a compact design for its heat pump, otherwise, the front-trunk (frunk) luggage capacity would have been compromised. The automaker’s engineering team succeeded in achieving both — simplified design and optimal functionality.
+
+Tesla’s heat pump has an ingenious component in it called the OctoValve. Vehicle teardown expert Sandy Munro discussed the heat pump and OctoValve in detail when he tore down a Tesla Model Y in 2020. Together with other parts, Tesla is now calling it “Super Manifold”.
+
+Tesla has significantly reduced the number of components required to create a heat pump. Instead of 15-20 different components, Tesla has made it into a single assembly. This simplifaction is very similar to the Starship Raptor V2 engine which reduced complexity and number of components from its previous generation Raptor engine.
+
+“Model Y heat pump is some of the best engineering I’ve seen in a while,” Tesla’s Elon Musk stated in a tweet after Model Y deliveries began in Mar 2020.
+
+According to Tesla, the heat pump decreases the vehicle’s energy consumption in cold weather by 15-20%. This is a significant amount of energy when it comes to EV range in intense cold weather and icy conditions.
+
+Let’s watch how Tesla improved its vehicles to tackle challenging cold weather situations with better efficiency than most EVs made by other manufacturers.

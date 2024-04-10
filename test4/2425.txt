@@ -1,0 +1,65 @@
+Wed, 13 Mar 2024 07:00:00 GMT
+
+The "Magnificent Seven" is a group of the world's largest technology stocks. They delivered an average return of 112% last year, led by Nvidia, which gained a whopping 239%.
+
+Nvidia continues to lead the group higher in 2024, but shares of electric vehicle (EV) giant Tesla (NASDAQ: TSLA) are heading in the opposite direction:
+
+Tesla stock is now trading 57% below its all-time high. The company is suffering from a slowdown in electric vehicle sales -- where it generates most of its revenue -- which is forcing investors to adjust their growth expectations for the future.
+
+But the head of Ark Investment Management, Cathie Wood, thinks Tesla is more than an EV company. She says it's the biggest opportunity in the artificial intelligence (AI) space thanks to its industry-leading autonomous self-driving software, and it could propel the company to an astronomical valuation in the future.
+
+Ark's price target for Tesla stock implies a 1,140% upside over the next three years, but is that realistic?
+
+Tesla faced challenges in 2023, but 2024 could be worse
+
+Tesla delivered a record 1.8 million EVs in 2023, and its Model Y became the best-selling car in the world. However, with consumers struggling under the pressure of elevated inflation and rising interest rates, the company slashed the price of its EVs by an average of 25.1% throughout last year to spur demand.
+
+Given the uncertain economic climate, Tesla chose not to issue a sales forecast for 2024. Investors don't like uncertainty, and the lack of guidance is a key reason Tesla stock is down in the early stages of 2024. Some analysts believe the company will deliver around 2.2 million cars this year, representing 22% growth compared to 2023. That's less than half the long-term annual growth target of 50% consistently forecasted by CEO Elon Musk.
+
+There is some concern that demand for EVs is fading across the industry. Late last year, Ford postponed $12 billion worth of investments in its EV operations, citing weak demand. General Motors scrapped a $5 billion deal with Honda to produce an affordable EV model, and the company abandoned its long-standing production forecast for 2024. EV start-up Rivian Automotive issued a very weak production forecast for 2024 while announcing plans to cut 10% of its workforce in February.
+
+In its conference call with investors for the fourth quarter of 2023, Tesla offered investors some details about an affordable EV model it plans to produce starting in 2025. It will feature an entry-level price point of around $25,000 to entice consumers at the lower end of the income spectrum, who would otherwise choose a gas-powered car. It could be an important growth driver for Tesla, but it won't solve the company's short-term woes.
+
+Slowing sales and falling prices sent Tesla's earnings plunging in 2023
+
+Tesla's revenue came in at a record-high $96.7 billion in 2023, which marked an increase of 19% compared to 2022. Revenue grew much slower than Tesla's vehicle deliveries, largely because of the price cuts I mentioned.
+
+But those price cuts had an even greater impact on the company's profitability. Taking in less revenue per EV sale led Tesla's gross profit margin to decline to 18.2% in 2023, from 25.6% in 2022. As a result, its non-GAAP (generally accepted accounting principles) earnings per share fell 23% to $3.12.
+
+That has serious implications for the valuation investors apply to Tesla stock.
+
+Ark's prediction for Tesla stock doesn't rest on EV sales alone
+
+Ark believes Tesla stock could jump to $2,000 per share by 2027, not only because of its EV sales, but also because of its autonomous self-driving software. In 2023, EV sales accounted for 85% of the company's total revenue, but Ark believes that will shrink to 47% by 2027, with 44% of its revenue coming from that new technology.
+
+Tesla's self-driving software remains in beta mode, but it completed more than 500 million miles of real-world testing with participating customers. It could eventually transform the company's economics in a number of ways.
+
+First, Tesla will earn a subscription fee from each customer who buys the self-driving software. Second, Musk says Tesla might consider licensing it to other carmakers. Software typically carries a high gross profit margin of up to 80%, so those two revenue sources could send the company's earnings skyward once it achieves scale.
+
+Finally, Musk wants to build a self-driving ride-hailing network so Tesla customers can monetize their cars when they aren't using them. It would operate similarly to Uber, with Tesla earning a split of the revenue in exchange for maintaining the network.
+
+Interestingly, Ark's forecast doesn't factor in a revenue contribution from Tesla's new humanoid robot, Optimus. Sales could begin in 2027, and Musk intends to eventually ship millions of units at $20,000 each, so it could be an enormous opportunity. Optimus could, theoretically, replace many human jobs in industries like manufacturing to enable plants to operate around the clock.
+
+Can Tesla stock really surge 1,140% from here?
+
+Let's circle back to Tesla's $3.12 in earnings per share for a moment. Based on that figure and its current stock price, Tesla trades at a price-to-earnings (P/E) ratio of 56.2.
+
+Therefore, despite the 57% plunge in its stock price since late 2021, Tesla is still nearly twice as expensive as its peers in the tech sector, represented by the Nasdaq-100 index, which trades at a P/E ratio of 32.9.
+
+Ark's prediction that Tesla stock will jump to $2,000 by 2027 hinges on the company generating $1 trillion in annual revenue by then. In other words, the company's revenue will have to grow more than tenfold from here, or by 80.2% compounded annually.
+
+Remember, Musk himself is only targeting a 50% annual increase in EV deliveries going forward, and the company will likely fall significantly short of that in 2024. Plus, even though self-driving software could eventually transform Tesla's economics for the better, it's still in beta mode, with no firm release date. It's unlikely mainstream adoption will occur at scale by 2027.
+
+The probability that Tesla stock soars 1,140% to reach $2,000 by 2027 appears low. However, it might still be a great long-term investment on the back of its autonomous driving software, its Optimus robot, and its affordable EV -- just not yet.
+
+Investors might do well to buy Tesla stock upon further updates on those fronts -- perhaps near the end of this year or in 2025, depending on the company's progress.
+
+Where to invest $1,000 right now
+
+When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for two decades, Motley Fool Stock Advisor, has more than tripled the market.*
+
+They just revealed what they believe are the 10 best stocks for investors to buy right now… and Tesla made the list -- but there are 9 other stocks you may be overlooking.
+
+John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool’s board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool’s board of directors. Anthony Di Pizio has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Amazon, Meta Platforms, Microsoft, Nvidia, Tesla, and Uber Technologies. The Motley Fool recommends General Motors and recommends the following options: long January 2025 $25 calls on General Motors, long January 2026 $395 calls on Microsoft, and short January 2026 $405 calls on Microsoft. The Motley Fool has a disclosure policy.
+
+The Biggest Loser in the "Magnificent Seven" Could Soar 1,140%, According to Cathie Wood's Ark Invest was originally published by The Motley Fool

@@ -1,0 +1,41 @@
+Mon, 01 Jan 2024 08:00:00 GMT
+
+Only three of the seven make the cut as buys at current levels.
+
+The "Magnificent Seven" stocks dominated the market in 2023. The worst performer in the group, Apple (AAPL 0.72%), rose 49%, and the best, Nvidia (NVDA -2.04%), jumped nearly 240%. But with such strong runs behind them, do any of them have room left to grow in 2024?
+
+The answer: Yes, and some are still worth buying at their current prices.
+
+Apple and Nvidia are both richly valued for their performance
+
+I'm breaking the seven up into buy, sell, and hold groups. Starting with the sell set, I think Apple and Nvidia's stock prices far outpaced their businesses.
+
+Nvidia's 2023 success has been spurred on by the artificial intelligence (AI) arms race, and its business has responded in kind. In its fiscal 2024 third quarter (which ended Oct. 29), revenue rose 206% year over year. Furthermore, management guided for $20 billion in fiscal Q4 revenue, up 231%. The stock's movement was warranted given the company's sales growth, but I'm concerned that investors are forgetting that Nvidia operates in a cyclical industry.
+
+Nvidia goes through boom and bust cycles, and right now is certainly a boom. However, it's unknown how many AI data centers will need to be built in the near to medium term. If demand for its high-powered chips is satisfied shortly, the stock may come crashing back down to earth. Plus, it's trading at 65 times earnings -- a quite expensive premium.
+
+From a business standpoint, Apple is the opposite of Nvidia. Its sales declined throughout 2023. Even so, its stock skyrocketed. This makes little sense, and more headwinds are coming up: a U.S. International Trade Commission order this month forced Apple to halt the import and sale of some Apple Watches due to a patent dispute (although a court ruling temporarily allowed sales to resume). With all this in mind, 2024 could be a tough year for the company. And considering that Apple stock has a higher valuation than "Magnificent Seven" members Alphabet (GOOG 1.28%) (GOOGL 1.13%) and Meta Platforms (META -0.45%), it doesn't make a lot of sense to own it compared to its peers.
+
+Microsoft and Tesla need to show me some results
+
+I view Microsoft (MSFT 0.40%) and Tesla (TSLA 2.25%) as holds currently. Microsoft had a strong year, as its revenues and earnings per share (EPS) steadily rose. However, Microsoft trades at a steep premium, even on a forward earnings basis.
+
+Microsoft is executing well, but its valuation is a bit too much from a historical perspective to consider buying. Still, it's far from a sell.
+
+Tesla is one of the hardest companies to value on Wall Street, as its valuation is wrapped up in expectations for future products. It's also set to face some added headwinds. Starting in 2024, some Tesla models will only qualify for half of the $7,500 federal EV tax credit due to where the automaker sources materials for their batteries and where it produces them.
+
+When judging whether any given moment is a better time to buy or sell Tesla stock, I like to look at its price-to-earnings and price-to-sales ratio compared to historical trends. For Tesla, these are trading roughly near the midpoint of valuations seen since mid-2022.
+
+I'm taking a wait-and-see approach to Tesla stock heading into the new year as the stock doesn't look like a bargain at these prices.
+
+That leaves Alphabet, Meta Platforms, and Amazon (AMZN 0.26%) in the buy now category. These stocks trade at reasonable levels and are expecting strong tailwinds next year.
+
+Even though Alphabet and Meta have AI investments, they are mostly advertising businesses. In 2022 and 2023, the advertising market was fairly weak as companies pulled back on their marketing spending due to fears that a recession was coming. However, now that we have lapped that pullback, Alphabet and Meta are posting meaningful growth in their advertising businesses. Their ad revenues grew by 9% and 24%, respectively, in Q3.
+
+Next year should be another strong recovery year for advertising, which will boost both companies.
+
+Amazon has also had a strong 2023, with its margins rising.
+
+However, this chart doesn't tell the full story, as this takes into account Amazon's profits over the past 12 months. If you focus on its latest quarterly results, Amazon's margins are nearing (or have already set) all-time highs.
+
+The fact that Amazon posted solid results in historically weak quarters bodes well for Q4, which is usually its strongest one. No investor knows what a fully profitable Amazon looks like, but 2024 could give us a glimpse, making it a strong buy now.

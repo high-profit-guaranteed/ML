@@ -1,0 +1,52 @@
+Thu, 11 May 2023 07:00:00 GMT
+
+In 2021, I warned investors that Cathie Wood’s pre-split $3,000 price target for Tesla (NASDAQ:TSLA) stock was a growing sign of distress, not strength. To reach that lofty $3 trillion valuation by 2025, Tesla would have to exceed $100 billion in annual free cash flow, or at least be on track to be doing that within several years.
+
+Instead, shares of the electric vehicle (EV) firm have since fallen more than 20%.
+
+That’s because Wood’s predictions involved developing revenue streams that don’t yet exist. Consider the math. Assuming Tesla sells 2 million vehicles worldwide by 2025, each car must generate after-tax profits exceeding $50,000 to reach Wood’s price target.
+
+That’s not impossible, given enough time. Apple (NASDAQ:AAPL) expanded its revenue streams in the 2010s by first selling music, then building out an enormously profitable app store. Today, the tech firm produces roughly $350 in free cash flow for every iPhone, iPad and MacBook sold.
+
+Tesla must do similar maneuvering to achieve an Apple-like valuation, from adding infotainment packages to self-driving taxi services. And while the EV firm could achieve this someday, my 2025 price target for Tesla is far more modest.
+
+By 2025, I expect TSLA stock to trade at $208.
+
+Make no mistake: Tesla is an incredible firm by any measure. Take its financials. In 2022, the company produced $81.4 billion in revenues from selling 1.31 million vehicles, a 158% increase in revenue from 2020 and a 20-fold increase from 2015. Analysts expect the EV maker to generate 24% growth annually through 2025.
+
+Buyers also willingly pay a significant premium. Using normalized net income numbers from Reuters, Tesla earned a 17% net margin in 2022, or about $10,880 per car sold. That makes it one of the most profitable large carmakers in the world. By contrast, Ford (NYSE:F) earned only $1,771 per vehicle, excluding non-operating charges.
+
+At the root of this stunning performance is Tesla’s army of supporters. Fans of the EV firm care little about its quality control issues and controversial CEO. Instead, they see Teslas as alluring for their “styling, performance […] and the fact that they’re new and different.” Indeed, Tesla was the first mass-market EV maker to achieve a 400-mile range rating from the U.S. Environmental Protection Agency (EPA). Put another way, these vehicles are so far ahead of the competition that they can command such a premium.
+
+Nevertheless, Tesla’s lead is quickly eroding in five key areas.
+• Availability. General Motors (NYSE:GM) plans to produce 2 million EVs per year by 2025. Ford aims to hit that figure a year later. In European markets, Chinese EV makers from BYD (OTCMKTS: ) to Nio (NYSE:NIO) also have aggressive expansion plans.
+• Styling. Higher-end automakers including Mercedes (OTCMKTS: ) and BMW (OTCMKTS: ) now offer a full suite of electric vehicles.
+• Range. At least four non-Tesla models now achieve 400-plus miles on a single charge and several more may follow suit for the 2024 production year.
+• Self-Driving. Tesla’s focus on camera-only systems has put it at a significant disadvantage to firms like Mobileye (NASDAQ:MBLY) using lidar.
+• Ecosystem. Tesla has struggled to expand its ecosystem of energy storage, solar panels and vehicles in the way Apple did with its software products.
+
+Taken individually, no single challenge is too great for Tesla to overcome. Buyers might still prefer Tesla’s 400-mile range EV to Rivian’s (NASDAQ: ) if the former seamlessly integrates into their home solar system for a quick recharge. And no amount of fancy styling by a Chinese upstart will hide that their self-driving technologies are far behind their Western counterparts’.
+
+Taken together, however, these challenges show that Tesla is failing to build a “moat” while it still can. Competitors are quickly catching up and Tesla is squandering its lead by pursuing cost-cutting measures instead of creating a stronger product ecosystem.
+
+This means Tesla’s valuation for 2025 should focus on existing products, not imagined ones like autonomous taxi services or subscription services for solar energy.
+
+In a more bullish scenario, I assume that growth at Tesla trends toward the higher end of estimates. Revenues reach $208 billion by 2028 and EBIT margins (earnings before interest and taxes) widen from 17% to 20.3%. This assumes that Tesla reaccelerates its technological lead over legacy Detroit automakers and a new legion of fans hop aboard. These assumptions push Tesla’s justified value to $289 today. Reverse-discounting two years to 2025 brings us to a $327 price target.
+
+In a neutral case, Tesla’s growth continues as assumed above, but its profitability suffers as price wars heat up. EBIT margins fall to the 10% levels seen by BMW, which essentially cuts return on invested capital (ROIC) by half. In this scenario, Tesla is worth $131 today or $148 in 2025.
+
+Finally, there’s the bear case. Here, Tesla’s growth and margins both suffer. If Tesla only reaches $140 billion of revenues by 2025, its justified value could be as low as $97 today or $110 by 2025.
+
+History tells us not to underestimate the bullish case of high-growth companies, especially when dedicated fans are involved. So, assigning a 40-30-30 probability to each outcome brings my ultimate TSLA stock price target to $208 for 2025.
+
+When it comes to Tesla, there’s a significant wild card at play:
+
+The controversial CEO has built multiple successful businesses beyond Tesla. Venture capitalists valued SpaceX at $137 billion in its latest funding round. The Boring Company could be worth $5.7 billion despite having little to show for it. When building game-changing companies, having an iconoclastic CEO comes in handy.
+
+But there’s also a problem. Today, Musk’s attention has been drawn away from Tesla and toward Twitter — a social media platform he hopes to turn into an “everything app.” And without his often-mercurial guidance, Tesla’s innovation has begun to slow. The company’s anticipated release of the Cybertruck pickup, for instance, has been consistently delayed. Rivian and Ford have beaten their competitor to the punch. And without Musk’s constant promotion, Tesla’s Powerwall 3 has fallen on deaf ears. These are the products with which Tesla needs to create an ecosystem.
+
+This couldn’t come at a worse moment for the electric vehicle firm. GM and other legacy automakers see 2023 as a pivotal year for EV production. And third-party automaker suppliers — from solid-state battery companies to self-driving firms — are beating Tesla at its own game.
+
+In the 2010s, Apple put itself on a path to a $3 trillion valuation by building a hardware-software ecosystem that could extract hundreds of additional dollars from iPhone and Mac buyers. If Tesla follows suit, it will become worth that value someday. But if it fails, Teslas will eventually look like Samsung phones. Ubiquitous, but unable to extract much money from their less-than-loyal fans.
+
+As of this writing, Tom Yeung held a long position in GM stock. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.

@@ -1,0 +1,51 @@
+Sat, 20 May 2023 07:00:00 GMT
+
+Here's a deep dive into Tesla's energy generation and storage segment, whose Q1 revenue rocketed 148% year over year after surging 90% in the prior quarter.
+
+Last month, electric vehicle (EV) pioneer Tesla released its first-quarter 2023 results. You can read my earnings article here, but the quick recap is that revenue grew 24% year over year, while adjusted earnings per share (EPS) fell 21%. The revenue growth slowdown and profit decline were largely driven by the company's vehicle price cuts, which began in the prior quarter.
+
+Naturally, Tesla's flagship EV segment generated the lion's share of financial news coverage. The energy generation and storage segment, however, was the quarter's growth star -- and by far, as was the case in the prior quarter. This fast-growing business deserves more attention because it's on track to continue to account for a larger percentage of Tesla's overall sales and profits.
+
+What does Tesla's clean energy business do?
+
+Tesla's energy generation and storage business sells and installs solar panels and solar roof tiles for homes and stationary energy storage products for residential, commercial, and electric utility grid use.
+
+Its storage products include the Powerwall (residential), Powerpack (businesses), and Megapack (utilities and large-scale commercial projects). These products were launched in 2012, 2015, and 2019, respectively. All three are rechargeable lithium-ion battery energy storage systems (BESS). The lithium-ion batteries class also powers electric vehicles.
+
+In late 2016, Tesla entered the solar energy business via its approximately $2 billion acquisition of SolarCity, an installer of residential solar power systems. It makes good sense for Tesla to sell both solar systems and a battery storage product for homes. These synergistic products can be bundled together, enabling homeowners to generate clean energy and store it to use when it's not sunny and during power outages.
+
+Indeed, the growth of renewable energy -- such as solar and wind -- is the primary demand driver for Tesla's energy storage products. Renewable energy provides intermittent power. So energy storage products are needed to store excess power produced when the sun is shining and the wind is blowing, which allows this power to be used when current power production falls short of demand.
+
+How big is Tesla's clean energy business relative to the company's overall size?
+
+In the first quarter of 2023, Tesla's energy business accounted for 6.6% of the company's total revenue. This is a solid increase from the recent quarters because of the combination of the energy business growing revenue a whopping 148% year over year and the auto business growing revenue "only" 24%.
+
+Tesla's energy segment is less profitable than its auto business, so it contributes a smaller percentage to total gross profit (when it's profitable) than to total revenue. Its auto business has generally had a quarterly gross profit margin averaging in the mid-20% range in recent years.
+
+The company has made good progress over the years in increasing the profitability of its energy segment. Its more recent numbers would likely have been better had the company not had to deal with significant supply chain issues, including last year's chip shortage. The solar energy business is still dealing with supply chain issues.
+
+In 2016 and 2017, the energy segment's growth was particularly powerful because the company's energy storage business was new and small when it expanded into solar by buying SolarCity in late 2016.
+
+Annual growth was fairly steady from 2018 through 2022, with the exception of 2019. But if we hone in on the three most recent quarters, it becomes clear that the energy segment's revenue has taken off in the last two quarters.
+
+Why has the clean energy segment's revenue skyrocketed in the two most recent quarters?
+
+As the growth drivers column in the above chart suggests, Tesla's energy segment's powerful recent growth is largely driven by the segment's energy storage part, whose capacity deployments have greatly accelerated over the last three quarters.
+
+That's because Tesla is not as production-capacity constrained as it had been. For several years, demand for its battery storage products has outpaced the company's ability to churn them out at its Gigafactory Nevada. That's particularly true with respect to the grid-scale Megapack.
+
+Tesla increased the production capacity of its Megapack by recently constructing a dedicated 40 GWh Megapack factory in Lathrop, California. It has been ramping production at this factory, though it's still not operating at full capacity, which is 10,000 Megapacks per year. Each Megapack can store over 3 MWh of energy, which Tesla touts as "enough energy to power an average of 3,600 homes for one hour."
+
+Earlier this year, Tesla announced it would be constructing another 40 GWh Megafactory -- this one in Shanghai, China -- to help meet the robust demand for its energy storage products. Construction is slated to begin later this year.
+
+How large is the global grid-scale battery energy storage market?
+
+The powerful demand for Tesla's Megapacks begs the question: How large is this overall market, and how fast is it projected to grow?
+
+The global grid-scale battery storage market size was estimated at $3.1 billion in 2020 and is projected to grow at a compound annual growth rate (CAGR) of more than 24% through 2027, when it's expected to generate revenue of just over $15 billion, according to Grandview Research.
+
+This projected CAGR is for the world. Growth should be faster in geographic areas where renewable energy is growing faster than average.
+
+Tesla is much more than just an EV maker
+
+Tesla's energy generation and storage segment has a long runway for growth because renewable energy still has a long runway for growth. In summary, Tesla is much more than just an automaker and has avenues beyond its EV business to grow revenue and profits significantly over the long term.

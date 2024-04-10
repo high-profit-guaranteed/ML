@@ -1,0 +1,33 @@
+Tue, 19 Mar 2024 07:00:00 GMT
+
+Tesla (NASDAQ:TSLA) has been the worst-performing member of the Magnificent Seven since the start of 2024. Down 30% this year, momentum has gone into reverse, and the narrative has very much changed. Disappointing earnings have been compounded by a host of ratings downgrades. There’s also the perception that while previous weakness may have reflected macroeconomic issues, there are now company-specific concerns, including weak margins and a lack of differentiating factors versus the peer group.
+
+So, let’s have a closer look at why I, and many other analysts, think Tesla is losing its shine.
+
+It’s no secret that Tesla has been putting pricing pressure on its peers by reducing the selling prices of its vehicles. Elon Musk’s company has repeatedly made price cuts, notably on the Model Y, its most popular vehicle, which has seen its selling price fall by 26.5% in the past year in the United States.
+
+As a result, we’ve seen margins suffer as Tesla has struggled to bring down its own costs in line with its pricing cuts. In Q4, we saw its total GAAP gross margin fall from 23.8% a year ago to 17.6%, representing a 612-basis-point change. Likewise, its operating margin fell from 16% in Q4 2022 to just 8.2% in Q4 2023, representing a 784-basis-point change. Resultantly, free cash flow for 2023 fell to $4.4 billion, down from $7.6 billion in 2022.
+
+But What About Growth?
+
+Tesla has always been a growth-focused company, and that’s been reflected in its expensive valuation. It’s also been seen as the market leader for some time, and as Cathie Wood said in that endlessly repeated Bloomberg advert, “It’s in pole position to dominate.” However, Tesla delivered fewer vehicles in Q4 than Chinese peer BYD (OTC:BYDDF). I’m not sure Tesla is in pole position to dominate anymore.
+
+This is evidence that Tesla is now operating in a much more competitive market. In several markets, including the right-hand drive UK, Tesla elected to stop selling the Model S and Model X. In turn, this means that buyers have fewer Tesla models to choose from in a market that is much more competitive.
+
+At this moment, Tesla doesn’t appear to have any significant economic moats. Maybe that will change if regulation aids the adoption of autonomous vehicles. It’s certainly possible, but there may be some speed bumps ahead.
+
+Moving forward, analysts are expecting earnings to grow by around 15.3% annually over the next three to five years. While that might sound good, it’s weaker than peers like Li Auto (NASDAQ:LI), which trades at a lower valuation. Moreover, it seems unlikely that several of Musk’s plans for the business, notably the Cybertruck and autonomous taxi fleet, are to positively contribute to earnings this decade. The Cybertruck is reportedly losing $10,000 per vehicle at the current production rate.
+
+Tesla stock is currently trading at 55x forward earnings. That certainly seems like an excessive multiple, considering the forecasted growth rate over the medium term and the absence of any serious economic moats. Given the forecasted growth, its forward earnings ratios come in at 40.4x for 2025, 34.4x for 2026, and 28.5x for 2027. By comparison, Li Auto’s forward earnings metrics are 15.1x for 2024, 11.3x for 2025, and 8.9x in 2026 — much more attractive.
+
+Equally, the all-important price-to-earnings-to-growth (PEG) ratio is 3.6 for TSLA. This is by no means an enticing ratio, and it infers that Tesla stock is overvalued considerably. By comparison, Li Auto is trading with a PEG ratio of 0.78. Being under one – the benchmark for fair value – the Chinese NEV (new energy vehicle) maker appears to be undervalued, and notably so compared to Tesla.
+
+Is Tesla Stock a Buy, According to Analysts
+
+Tesla stock is rated a Hold, according to analysts, with 10 Buys, 18 Holds, and seven Sell ratings assigned in the past three months. The average Tesla stock price target is $207.74, inferring 21.3% upside potential from current levels. However, the variance in stock price targets is considerable. The highest stock price target is $320 and the lowest is $23.53.
+
+Investors may rightly be wary of some of the headwinds facing Tesla. It’s no longer the market leader by volume, and its margins have experienced a significant drop-off over the past 12 months and beyond. Moreover, growth expectations are no longer as bullish as they once were amid weakening demand for electric vehicles, as well as strong and varied competition.
+
+In short, Tesla trades at multiples appropriate for a stock with a stronger growth trajectory and stronger margins. Of course, companies can turn their fortunes around, but it’s not entirely clear where this will come from in the near term.
+
+In the long run, the prospect of driverless taxi fleets driving revenue forward offers some hope. All in all, I maintain a neutral rating on the stock, although I wouldn’t be surprised to see more downward pressure in the near term.

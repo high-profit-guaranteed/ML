@@ -1,0 +1,13 @@
+Fri, 26 Jan 2024 08:00:00 GMT
+
+Tesla Inc TSLA CEO Elon Musk said on Friday that the EV giant plans to purchase chips from Advanced Micro Devices Inc AMD to advance artificial intelligence, in addition to spending over $500 million on hardware from NVIDIA Corp NVDA.
+
+What Happened: The CEO was responding on X to reports of Tesla investing $500 million to install a Dojo supercomputer in Buffalo, New York. Musk confirmed the news but added that while the investment amount of $500 million is a large sum of money, Tesla will spend more on buying hardware from suppliers including Nvidia. The company is also planning on getting chips from AMD, he added in another post.
+
+“The table stakes for being competitive in AI are at least several billion dollars per year at this point,” Musk wrote.
+
+Why It Matters: During Tesla’s fourth-quarter earnings call on Wednesday, Musk said that the company is pursuing the ‘dual path’ of Nvidia and Dojo, given the ‘high risk’ nature of its Dojo program. The Dojo chip is an AI training chip designed by Tesla itself to train its self-driving systems.
+
+“I would think of Dojo as a long shot. It’s a long shot worth taking because the payoff is potentially very high. But it’s not something that is a high probability. It’s not like a sure thing at all. It’s a high-risk, high-payoff program,” Musk said.
+
+Check out more of Benzinga’s Future Of Mobility coverage by following this link.

@@ -1,0 +1,53 @@
+Sun, 03 Sep 2023 07:00:00 GMT
+
+The next decade of economic power could rest in these three companies' hands.
+
+Most of history's most successful investors think long-term, looking for the companies that will lead the economy for years. That can demand some foresight, but you don't need to get overly fixated on finding a diamond in the rough.
+
+The reality is that companies like Nvidia (NVDA -2.04%), Amazon (AMZN 0.26%), and Tesla (TSLA 2.25%) have all been on the public markets for roughly two decades and are widely considered winners already.
+
+However, their growth stories are getting more exciting by the year. Here is why these three companies could continue ascending and potentially rule Wall Street by the decade's end.
+
+Big tech can't get enough of Nvidia's chips
+
+Justin Pope (Nvidia): The company that began specializing in dedicated GPUs for gaming computers has evolved into the dominant chip dealer for anything and everything artificial intelligence. Nvidia has spent years preparing for an anticipated shift toward AI, which requires massive amounts of computing power to process data and train models. That anticipation has rewarded both the company and shareholders in spades.
+
+OpenAI, the company behind viral sensation ChatGPT, built its model on Nvidia hardware years ago. Tesla's Elon Musk recently commented that the company uses so much Nvidia hardware that the chipmaker can't keep up with orders fast enough. It's been announced that Alphabet, already building on Nvidia's chips, will extend their partnership to encourage developers to build on Google AI infrastructure powered by Nvidia's upcoming next-generation GH200 Grace Hopper Superchip.
+
+These developments began trickling down to Nvidia's earnings; the company's data center revenue grew 171% year over year in the second quarter. Building relationships with all these technology leaders should bolster Nvidia's business because it could cement its hardware and software into these systems and grow as smaller companies work on them. After all, most can't afford to build their own.
+
+Analysts believe Nvidia's total revenue will approach $54 billion this year but nearly triple by the decade's end. Investors should resist the temptation to look too far ahead because things could always change. However, it seems clear that Nvidia is on an upward trajectory, and it should be exciting to see exactly how high the business can go in the coming years.
+
+Thanks to solid leadership and terrific business segments, Amazon could grow even larger by 2030.
+
+Jake Lerch (Amazon): With a current market capitalization of nearly $1.4 trillion, Amazon is already massive. However, by 2030, Amazon will likely have grown even bigger. Indeed, it's not unrealistic to think Amazon could grow to be the largest American company by then.
+
+Consider this: Amazon boasts some of the best business segments around. The company's sprawling e-commerce business is backed by the world's premier logistics network and supports over 200 million Prime members worldwide.
+
+What's more, Amazon Web Services (AWS) is the leading cloud infrastructure services provider. Indeed, AWS controls about a third of the lucrative cloud services market. To put it another way, that's roughly the same amount as its two closest competitors (Microsoft and Alphabet) combined.
+
+In addition, Amazon is once again executing at a level not seen since founder Jeff Bezos left his role as Chief Executive Officer (CEO) back in July 2021. In August, Amazon reported a blowout quarter, highlighted by:
+• None $22.1 billion of revenue from AWS, up 12% from a year ago.
+• None Raised revenue guidance for the third quarter to between 9% and 13% growth.
+
+That demonstrates that new CEO Andy Jassy knows what he's doing. In addition to bolstering sales, Jassy embarked on a round of cost-cutting measures that have paid off. Amazon delivered earnings-per-share of $0.65 in the second quarter -- nearly double what analysts had expected.
+
+In summary, Amazon has excellent business segments and solid leadership guiding it. That winning recipe could see this megacap soar even higher by 2030.
+
+Shifting autonomous driving into gear could put this company's growth in the fast lane
+
+Will Healy (Tesla): The rise of Tesla continues to surprise investors. Its market cap of over $800 billion already makes it one of the world's largest publicly traded companies. With production closing in on an annual rate of 2 million units this year, it has become a force in the EV and battery industries.
+
+But despite its success and massive size, it could become a more notable innovator in the AI space. Its chips and neural networks are preparing Tesla to offer full self-driving capabilities within a software-as-a-service (SaaS) platform, or robotaxi.
+
+Moreover, innovation investor Cathie Wood and her team at Ark Invest have outlined how Tesla's technology and vehicles will lead the autonomous driving market in the coming years. It believes that the robotaxi platform will also make Tesla one of the world's largest companies.
+
+To this end, Ark Invest forecasts that Tesla stock will reach $2,000 per share by 2027. If that prediction comes true, that stock price would take Tesla's market cap to more than $6 trillion. In comparison, today's market cap leader, Apple, supports a market cap of around $3 trillion.
+
+Additionally, Ark Invest outlined a bear case where Tesla rises to $1,400 per share if revenue from the robotaxi platform falls short of expectations. Still, that stock price takes Tesla's market cap to around $4.5 trillion, which could still make it one of the three largest companies.
+
+Investors have good reason to take Wood and her team seriously. Ark's early investments in Nvidia and Bitcoin delivered massive returns. Also, in 2018, Wood said Tesla would reach a split-adjusted $266 per share, which at the time meant a stock price increase of 1,100%. Today, it trades near that level after reaching a 52-week high of $313 per share.
+
+Admittedly, several tech companies are developing autonomous driving platforms. Moreover, other companies and analysts have hyped the technology for years without releasing a full self-driving product.
+
+Nonetheless, Tesla has long served as a technology innovator. If it can succeed with robotaxis, the AI stock could become one of the world's largest companies.

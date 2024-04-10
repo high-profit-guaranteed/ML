@@ -1,0 +1,11 @@
+Tue, 18 Jul 2023 07:00:00 GMT
+
+Tesla Inc's TSLA Megapack is a large-scale energy storage solution designed to bolster the reliability and sustainability of power grids. Each unit boasts an energy storage capacity of 3 MWh, enough to power an average of 3,600 homes for an hour.
+
+Tesla has now secured contracts worth approximately $413 million to install 218 Megapacks in two energy storage facilities in Massachusetts, with a combined capacity of 400 MW/800 MWh, as shared by PV Magazine. The decision will enable the state to achieve 80% of its 1 GWh energy storage deployment target set for 2025.
+
+The two facilities, named Cranberry Point Energy Storage and the Medway Grid, received the final ruling approval on June 30. The Medway facility, in the town of Medway, will be connected to an Eversource substation and will house 140 Tesla Megapacks, leveraging lithium-ion phosphate technology.
+
+The approval from the Massachusetts Energy Facilities Siting Board effectively circumvents previous verdicts that denied the facilities' construction. Initially, the projects were deemed not to fall under the board's jurisdiction, but with the recent exemption granted from zoning by-laws, the projects can now proceed unhindered.
+
+The Cranberry Point facility, developed by San Francisco's Plus Power, will also use Tesla Megapack batteries and lithium phosphate batteries. Previously, the town of Carver, where the facility is, imposed a moratorium on solar and battery projects. Gov. Maura Healey invalidated these moratoriums, arguing that the restrictions hindered the state's solar energy policy and lacked adequate justification to serve the public interest, thereby clearing the path for the crucial energy projects.

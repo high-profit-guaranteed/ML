@@ -1,0 +1,25 @@
+Mon, 11 Dec 2023 08:00:00 GMT
+
+As the hype around Tesla, Inc.’s TSLA Cybertruck launch settles down, users have begun comparing the electric pickup truck from the company’s stable with rival offerings.
+
+Documents related to Cybertruck posted on the Environmental Protection Agency’s website last week show the EV paling in comparison to Rivian Automotive, Inc.’s RIVN R1T in certain metrics.
+
+What Happened: Both versions of Cybertruck, namely the Cybertruck Beast and Cybertuck all-wheel drive have less efficiency at higher speeds compared to Rivian’s R1T variants, a Reddit user going by the handle Wugz said in a post.
+
+Wh/mi, which is the amount of energy used to go per mile was higher for the Cybertruck at speeds of 50 miles per hour and 70 miles per hour.
+
+See Also: Everything You Need To Know About Tesla Stock
+
+Other Performance Metrics: Certification Summary Information posted on the EPA’s website shows that both Cybertruck variants have a lithium-ion 816V battery with 150A energy capacity. This would translate to a pack size of 122.4 kWh. This compares to 149 kWh and 135 kWh, respectively, for Rivian’s Max Pack and Large Pack, Electrek reported.
+
+Why It’s Important: Cybertruck is seen as a catalyst that can kickstart Tesla’s deliveries, which have taken a hit from the softening of demand. Future Fund’s Gary Black expects the vehicle to have a “halo effect” on the sales of the rest of Tesla’s vehicle lineups.
+
+However, analysts have expressed concerns over its pricier nature and production ramp-up. The high-end trims, the Cyberbeast and all-wheel drive, are priced at $99,000 and $80,000, respectively. Rivian, which sells three variants of R1T, has a starting price of $73,000.
+
+Deepwater Asset Management’s Gene Munster, though positive about the Cybertruck, sees only a marginal contribution to growth until 2026.
+
+Tesla ended Friday’s session up 0.49% at $243.84, according to Benzinga Pro data.
+
+Check out more of Benzinga’s Future Of Mobility coverage by following this link.
+
+Related Link: C-Suite Exodus At Tesla? After Dojo Supercomputer Lead’s Rumored Exit, AI Infra Head Tim Zaman Jumps Ship To Google’s DeepMind

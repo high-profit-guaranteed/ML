@@ -1,0 +1,31 @@
+Sat, 28 Oct 2023 07:00:00 GMT
+
+Another quarter, another Tesla (TSLA 2.25%) earnings report covered in great detail. Retail investors' most owned stock gets tons of love from the financial media, and for good reason: It has crushed the market over the past 10 years. Shares have posted returns around 10x the market average in the last decade, with the company now sporting the 9th largest market capitalization in the world. Having a famous CEO like Elon Musk doesn't hurt, either.
+
+But there are still a lot of bears who are skeptical of Tesla's future, especially after its stock price has climbed so quickly. They claim that Tesla trades at a premium earnings multiple, faces growing pressure from competitors, and is failing to revamp its products to expand its electric vehicle (EV) customer base.
+
+Are the bears right? I think they might be. Here's why.
+
+Tesla has significantly lowered the selling prices on its EV lineup over the past 12 months, which is likely to spur more customer demand. Despite seeing progress in its cost of goods sold per vehicle, this has led to rapidly deteriorating profit margins for the company. This was evident in its third-quarter 2023 earnings.
+
+In Q3 of this year, Tesla's vehicle deliveries grew 27% year over year to 435,000. But with lower selling prices, revenue was only up 9% from 2022. The further we move down the income statement, the worse the numbers look. Gross profit declined 22% in the period, with gross margin falling from 25.1% in 2022 to 17.9% in 2023. Due to the high level of fixed costs involved in automotive manufacturing, operating profit slipped even further, down 52% year over year. Operating margin was just 7.6% in the quarter and has compressed every quarter for the last five.
+
+And it looks like the compressing margins are going to continue. At the end of Q3 and through the beginning of the fourth quarter, Tesla implemented even more price cuts on its EV lineup. Even if these cuts lead to growing deliveries and revenue growth, profits will almost assuredly decline in Q4. Earnings are all that matter at the end of the day, and that's what investors should care about -- not revenue.
+
+Competition is coming, just not from the legacy players
+
+So why has Tesla had to lower its prices? First, its cars were on the higher end price-wise before these cuts. If we look at the Car Gurus Index, Tesla's used vehicle price hit over $60,000 early last year, or more than twice the average car price in the United States. In order to become a mass-market automaker -- the company's stated goal -- it will need to bring its prices on par with the mass market. This has happened over the past year, with a used Tesla now selling for around $40,000 versus just under $30,000 for the industry average. Expect this to converge further in the years to come.
+
+Globally, we are also seeing some strong competition emerge in the EV space. The traditional automakers have struggled, but the new companies are thriving with innovative products. Chinese leader BYD is growing like gangbusters with its inexpensive vehicles. It may not gain traction in the United States due to geopolitical tension, but it could present problems for Tesla in China and Europe, two huge EV markets.
+
+In the U.S., Tesla is facing pressure on its premium vehicle lineup with the emergence of Rivian Automotive. Rivian delivered around the same vehicles as Tesla did for its S/X lineup, an impressive feat given it only started delivering to customers a little over a year ago. Tesla does have the Cybertruck coming, which will probably help with its premium vehicle sales, but Rivian seems to be taking a ton of share here. The vast majority of Tesla's sales now come from its lower-margin and more affordable 3 and Y vehicles.
+
+The problem with Tesla is that -- even though its costs have declined -- production costs per vehicle were still $37,500 in Q3. This is barely below its selling prices right now and leaves little room to cover overhead expenses.
+
+Why the stock is overvalued
+
+With declining margins, Tesla's stock now looks to be wildly overvalued. Over the last 12 months, the company has generated $96 billion in revenue. Applying its Q3 operating margin of 7.6%, that equates to $7.3 billion in earnings. Today, the stock trades at a market cap of $678 billion, and that's before considering heavy stock-based compensation diluting the share count even further. $7.3 billion in earnings and a $678 billion market cap is a price-to-earnings (P/E) ratio of 93. The market average is 25, and the average automaker trades at a P/E close to 10.
+
+Here's the dilemma. Sure, Tesla could increase its margins if it restricts supply and focuses on the high end of the market. If you want to be Porsche, there's nothing wrong with that. But if you are going to be a mass-market producer, you need to sell vehicles at affordable prices, which means low margins. You can't have both, but that is what Tesla's market cap is implying at current prices. This is creating a lot of risks for stockholders right now.
+
+The bears are probably correct on Tesla. Even though the past has been so bright, the future doesn't look as promising for the EV leader, especially with such sizable market capitalization.

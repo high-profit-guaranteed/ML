@@ -1,0 +1,201 @@
+Wed, 24 Jan 2024 08:00:00 GMT
+
+Tesla is out with the company's Q4 2023 earnings results, and the stock is reacting to the news in after-hours trading. The electric vehicle company reported adjusted earnings-per-share (EPS) of $0.71/share and revenues of $25.2 billion. Earnings missed the EPS whisper number of $0.77/share and analyst estimates of $0.74/share. Revenues also missed Wall Street analyst estimates of $25.6 billion.
+
+Check out the full TSLA Q4 2023 earnings report on the Tesla Investor Relations website.
+• One-time non-cash tax benefit of $5.9B recorded in Q4 for the release of valuation allowance on certain deferred tax assets
+• Operating cash flow of $13.3B; free cash flow of $4.4B in 2023
+• Operating cash flow of $4.4B; free cash flow of $2.1B in Q4
+• $3.0B increase in our cash and investments in Q4 to $29.1B
+• Operations Model Y became the best-selling vehicle in the world
+
+In 2023, we delivered over 1.2 million Model Ys, making it the best-selling vehicle, of any kind, globally. For a long time, many doubted the viability of EVs. Today, the best-selling vehicle on the planet is an EV.
+
+Free cash flow remained strong in 2023 at $4.4B, even as we focused on future growth projects with our highest capital expenditures and R&D expenses in company history.
+
+Energy storage deployments reached 14.7 GWh in 2023, more than double compared to the previous year, while Energy Generation and Storage business profits nearly quadrupled in 2023. Gross profit of our Services & Other business increased from a ~$500M loss in 2019 to a ~$500M profit in 2023.
+
+Cost of goods sold per vehicle declined sequentially in Q4. Our team remains focused on growing our output, investing in our future growth and finding additional cost efficiencies in 2024.
+
+In late December, we started rolling out V12 of FSD Beta. Trained on data from a fleet of over a million vehicles, this system uses AI to influence vehicle controls (steering wheel, pedals, indicators, etc.) instead of hard-coding every driving behavior. V12 marks a new era in the path to full autonomy.
+
+We are focused on bringing the next generation platform to market as quickly as we can, with the plan to start production at Gigafactory Texas. This platform will revolutionize how vehicles are manufactured.
+
+Revenue Total revenue grew 3% YoY in Q4 to $25.2B. YoY, revenue was impacted by the following items:
+• growth in other parts of the business (+)
+• lower FSD revenue recognition YoY due to FSD Beta wide release in North America in Q4`22 (-)
+
+Our operating income decreased YoY to $2.1B in Q4, resulting in an 8.2% operating margin. YoY, operating income was primarily impacted by the following items:
+• increase in operating expenses partly driven by AI and other R&D projects (-)
+• lower FSD revenue recognition YoY due to FSD Beta wide release in North America in Q4`22 (-)
+
+While it did not impact Operating Income, we did record a one-time non-cash tax benefit of $5.9B in Q4 for the release of valuation allowance on certain deferred tax assets.
+
+Quarter-end cash, cash equivalents and investments increased sequentially by $3.0B to $29.1B in Q4, driven by free cash flow of $2.1B and financing activities of $0.9B.
+
+Our company is currently between two major growth waves: the first one began with the global expansion of the Model 3/Y platform and the next one we believe will be initiated by the global expansion of the next-generation vehicle platform. In 2024, our vehicle volume growth rate may be notably lower than the growth rate achieved in 2023, as our teams work on the launch of the next-generation vehicle at Gigafactory Texas. In 2024, the growth rate of deployments and revenue in our Energy Storage business should outpace the Automotive business.
+
+We have sufficient liquidity to fund our product roadmap, long-term capacity expansion plans and other expenses. Furthermore, we will manage the business such that we maintain a strong balance sheet during this uncertain period.
+
+While we continue to execute on innovations to reduce the cost of manufacturing and operations, over time, we expect our hardware-related profits to be accompanied by an acceleration of AI, software and fleet-based profits.
+
+Cybertruck production and deliveries will ramp throughout this year. In addition, we continue to make progress on our next generation platform.
+
+Tesla's earnings results conference call is set to kick off at 5:30 p.m. ET. Keep an eye on this article for a transcription of the earnings call right here.
+• Elon is on the call, god help us all.
+• Tesla as a team did an incredible job in 2023
+• Fremont factory impact on the local economy championed by Elon
+• I'm super proud of the people who work there
+• Model Y is the best selling vehicle in the world
+• Continue to see very strong growth in storage business
+• I said that the storage business would grow faster than the auto business, and it is
+• lots to look forward to in 2024
+• Tesla is in between two growth phases
+• We will be rolling out v12 to all FSD-eligible vehicles
+• Not just for object detection
+• As a side note, I think that Tesla is the most efficient company when it comes to AI inference
+• Hardware 3 is several years old
+• We are quite far ahead on the AI inference efficieny front
+• New Model 3 is now available globally
+• Very far along on the next-generation low-cost vehicle
+• This is going to be profound in its design and the design of the manufacturing system
+• far more advanced than any other vehicle factory process
+• The most important part of Tesla is manufacturing expertise
+• Texas will be the first location for next-gen, followed by Mexico
+• We had a great year with record deliveries, despite the high interest rate environment
+• If we execute on all of these things, I do see a path where Tesla may one day be the most valuable company in the world
+• It's in the set of possible outcomes, and previously I didn't think it was a possible outcome
+• Looking forward to this year
+• Ended the year with over $96 billion of revenue
+• Q1 2024 book tax rate will be similar to other S&P 500 companies
+• Predicting auto gross margin is hard to do
+• We are approaching the limits of cost reductions in our current platforms
+• We are still in the customer acquisition phase
+• We are being creative with communicating the value of EVs to new buyers
+• Two additional things about the U.S. market
+• Cap Ex for 2024 to be over $10 billion
+• One again, thanks to everybody at Tesla, investors, and suppliers
+• Given that you moved the production of next-gen vehicle to Austin, may we see the vehicle in 2025?
+• Elon - I am often optimistic, I don't want to blow your minds, but our current schedule says that we ill start production towards the end of 2025
+• that is just what our current schedule says
+• We need the engineers to be living on the line
+• We are currently expecting to start production late next year
+• We will be sleeping on the line
+• Head-and-shoulders above any other manufacturing facility
+• Hard to predict the s-curve in the intermediate
+• I don't know what the unit volume will be next year
+• it does seem likely that we will begin production next year
+• Elon - there are entire coimpanies that just produce battery cells
+• It's hard to do
+• tremendous amount of new tech in the cells and the manufacturing of the cells
+• now shifts to costs and production ramp
+• currently running one production line, and one assembly line, but 4680 ramp will be big this year
+• we do expect ramp supply agreements with our suppliers
+• Should retail investors be concerned about Elon's 25% of voting request?
+• Elon - I see value in creating an AI robotics juggernaut
+• My concern is that I will have so little influence, that I could be voted out by some random shareholder advisory firm
+• I want to be a steward of that future technology
+• Elon doesn't want to control the company, but wants enough voting rights to have a strong influence
+• if there is some way to achieve that, that would be great
+• CFO says there are a lot of elements through cost-cutting or engineering redesigns
+• We just have to chase down every penny possible
+• This is a very difficult thing to predict precisely
+• We have lots of people who want to buy our car, but simply can't afford it
+• Question about 50% revenue CAGR in 2024 or 2025?
+• CFO - we won't be growing as fast as before
+• We have recently broken ground on Giga Mexico
+• We have started the work on next-gen in Texas first
+• Elon - Model 3 was the worst ramp ever
+• Model Y was a variant of the Model 3 ramp
+• Optimize one line first and then spread to other factories
+• Elon - I don't think the partners believe it's real
+• Elon - If I were a CEO of another company, I would be contacting Tesla to license FSD
+• the tech we are developing for the car will apply to Optimus easily
+• By far the most sophisticated humanoid robot being developed anywhere in the world
+• I think we got a good chance of shipping some Optimus units next year
+• but this is a brand new product, and it is hard to make a precise prediction
+• we will be updating the public with progress on Optimus very regularly
+• I was in the Optimus lab late last night
+• The team is doing amazing work
+• that's obviously a case where we want to make sure that Optimus is safe at scale
+• and make it impossible to upload malware to a humanoid robot
+• we're gonna want to localize shutoff that can't be controlled from a central server
+• we have to give extreme thought to safety
+• I do think it has the potential to be the most valuable product ever
+• We can get it to walk around, but we want utility before mass production
+• a small robot capable of doing generalized tasks is what it will be
+• as we improve the tech in the car, we improve the tech in the robot
+• we're really building the future
+• the Optimus lab looks like the set of Westworld...
+• Reservation to order conversion rate has been encouraging
+• We will soon sell out of all of those in 2024
+• we are now all hands on deck focused on ramping
+• Elon - we are very much in a production constraint situation, not a demand situation
+• the demand is off the hook
+• Expects 250k Cybertrucks delivered per year once we ramp
+• Elon - the future looks like the future
+• It's our best product ever
+• Investor question what are the preliminary results of your ad campaign efforts? Will you expand educational ads?
+• We are more focused on affordability vs awareness
+• target of these ads was to drive awareness and measure the return on investment
+• trying to address misconceptions of EVs
+• We reached 10 million people, and generated half a million visits to the website
+• Still studying the effectiveness of these digital campaigns
+• CFO - We don't want to overspend
+• We understand the importance of creating awareness
+• Japan market share is one area where marketing could help - Elon
+• Eww, Tesla uses Teams for these calls
+• thoughts on if Tesla is more like a tech company or more like an industrial company that could hit a wall on cost cuts
+• CFO - we are constantly looking for what we can do to reduce costs
+• the team is constantly going to where we can reduce costs further
+• probably not going to be cutting costs as rapdily as recent years going forward
+• more that we're still chasing
+• kudos to both manufacturing and supply chain team from the CFO
+• Do not project past cost cuts into the future
+• bigger we become, the more we put into efficiency
+• We are also getting into tiers of supply chain to negotiate pricing
+• We are not static on the design side
+• Our car is more computer than car
+• Elon - we have a crazy amount of compute in our cars
+• follow up - what do you consider the size of your addressable market? what kind of market share?
+• Elon - I don't think we have a firm idea of this
+• hard to say, exactly
+• Look at the automotive industry as well - CFO
+• EVs are still a small market share of overall vehicle market
+• and it's a growing pie overall
+• it's not about how many EVs you can sell, it's about how many great cars you can sell
+• people are stretching their wallets to be able to afford a Tesla - Elon
+• Can we expect a Tesla AI Day this year?
+• we have found that when we do one of these days, our competitors look at the presentations frame by frame
+• we have to be careful to reveal all of our secret sauce recipe
+• Followup, thoughts on the topic of China-based OEMs expanding to the Western markets?
+• Can you see a partnership with a Chinese manufacturer in the United States?
+• Elon - The Chinese car companies are the most competitive in the world
+• I think they will have success outside of China, but that depends on trade barriers
+• They are going to destroy most other manufacturers with no trade barriers
+• Supercharger network or FSD licensing could be opportunities with China OEMs
+• Walking through the gates between now and shipping the next-gen EV project?
+• To what extent do you think that Cybertruck is a proving ground for the next-gen platform?
+• We are going through validation phases for all the next-gen manufacturing processes now
+• we have to design a machine that has never existed to build a car with a process that never existed
+• it makes us hard to copy
+• you have to copy the machine that makes the machine that makes the machine
+• your release does not mention dojo? Any update on that?
+• Elon - The AI part of your question is a deep one
+• We're obviously hedging our bets here with our NVIDIA chip orders
+• A lot of our progress in FSD is training limited
+• It's much like a human
+• The more you put into training, the less you need to put into inference
+• We need a lot of training
+• we're pursuing the dual path of NVIDIA and Dojo
+• Think of Dojo as a long shot, a long shot worth taking
+• Dojo is working and it is doing training programs
+• It's possible with the right architectural decisions that Tesla may have more compute than everyone else combined
+• CFO- definitely more opportunity for cost cuts
+• there is still some tailwinds left on the commodity front
+• Elon - it boggles my mind that we can save a billion dollars by 1% cost reductions
+• Stock is trading at $197.28/share at the end
+
+This article is only meant for educational purposes, and should not be taken as investment advice. Please consider your own investment time horizon, risk tolerance, and consult with a financial advisor before acting on this information.
+
+At the time of this article, Shacknews primary shareholder Asif A. Khan, his family members, or his company Virtue LLC had the following positions:

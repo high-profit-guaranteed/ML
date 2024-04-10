@@ -1,0 +1,173 @@
+Wed, 19 Jul 2023 07:00:00 GMT
+
+Tesla is out with the company's Q2 2023 earnings results, and the stock is reacting to the news in after-hours trading. The EV company reported earnings-per-share (EPS) of $0.91/share and revenues of $24.9 billion. Earnings slightly beat the EPS whisper number of $0/89/share and analyst esimates of $0.82/share. Revenues topped analyst estimates as well.
+
+We will be streaming the TSLA Q2 2023 conference call on our Shacknews Twitch channel. Stop by if you want to react to the news in chat.
+• $0.7 Billion increase in our cash and investments QoQ to $23.1 Billion
+• Model Y became the best-selling vehicle globally in Q1
+
+Q2-2023 was a record quarter on many levels with our best-ever production and deliveries and revenue approaching $25B in a single quarter. We are excited that we were able to achieve such results given the macroeconomic environment we are currently in.
+
+Our operating margin remained healthy at approximately 10%, even with price reductions in Q1 and early Q2. This reflects our ongoing cost reduction efforts, the continued production ramp success in Berlin and Texas and the strong performance of our Energy and Services & Other businesses.
+
+Our commitment to being at the forefront of AI development entered a new chapter with the start of production of Dojo training computers. We are hopeful that our immense neural net training needs will be satisfied using our in-house designed Dojo hardware. The better the neural net training capacity, the greater the opportunity for our Autopilot team to
+
+iterate on new solutions.
+
+In conclusion, we are focusing on cost reduction, new productdevelopment that will enable future growth, investments in R&D, better vehicle financing options, continuous product improvement and generation of free cash flow. The challenges of these uncertain times are not over, but we believe we have the right ingredients for the long-term success of the business through a variety of high potential projects.
+
+Total revenue grew 47% YoY in Q2 to $24.9 Billion. YoY, revenue was impacted by the following items:
+• + growth in other parts of the business
+
+Our operating income decreased slightly YoY to $2.4B in Q2, resulting in a 9.6% operating margin. YoY, operating income was primarily impacted by the following items:
+• - cost of production ramp of 4680 cells and other related change
+• - increase in Operating expenses driven Cybertruck, AI and other large projects
+• + growth in vehicle deliveries (despite margin headwind from underutilization of factories)
+• + lower cost per vehicle, which includes lower raw material cost and IRA credit
+• + gross profit growth in Energy business as well as Services & Other
+• Other income (below operating income line) was positively impacted by FX movements on certain intercompany balances.
+• Quarter-end cash, cash equivalents and investments increased sequentially by $0.7B to $23.1B in Q2, driven mainly by free cash flow of $1.0B, partially offset by other financing activities, including debt repayments
+• We are planning to grow production as quickly as possible in alignment with the 50% CAGR target we began guiding to in early 2021. In some years we may grow faster and some we may grow slower, depending on a number of factors. For 2023, we expect to remain ahead of the long-term 50% CAGR with around 1.8 million vehicles for the year.
+• We have ample liquidity to fund our product roadmap, long-term capacity expansion plans and other expenses. Furthermore, we will manage the business such that we maintain a strong balance sheet during this uncertain period.
+• While we continue to execute on innovations to reduce the cost of manufacturing and operations, over time, we expect our hardware-related profits to be accompanied by an acceleration of AI, software and fleet-based profits.
+• Cybertruck remains on track to begin initial production later this year at Gigafactory Texas. In addition, we continue to make progress on our next generation platform.
+
+Some interesting stories of note from Tesla's Q2 2023 earnings release:
+• Musk says over 300 million miles have been driven using Tesla (TSLA) FSD beta
+• Elon Musk says Tesla (TSLA) Q3 2023 production will see a slight decrease from Q2
+• Musk says Tesla (TSLA) will allow FSD vehicle transfer for customers one time during Q3
+• Tesla (TSLA) is open to licensing FSD hardware and software to other car companies
+
+Tesla's earnings results conference call is set to kick off at 5:30 p.m. ET. Keep an eye on this article for a transcription of the earnings call right here.
+• Call is supposed to start now - 5:30 p.m ET
+• Elon and Zach are on the call
+• Model Y is the best-selling vehicle of any kind selling globally
+• This is an incredible achievement by the Tesla team
+• This came in spite of high interest rates and market uncertainty
+• still on target for 1.8 million vehicles
+• Q3 production will see a slight decrease in production
+• In order to build autonomy we need more training data to build the neural net
+• speaking the the benefits for more training
+• there is no substitute for a massive amount of data
+• Tesla has more driving data than any other company on Earth
+• Success in AI endeavors is a function of talent, unique data, and computing resources
+• We have outstanding capabilities in all three arenas
+• I don't know how anyone could do what we're doing without our training data
+• Dojo training computer is designed to lower the cost of neural net training
+• it is built for video training
+• we see the need for neural net training tech
+• will use NVIDIA and Dojo for now
+• today, over 300 million miles have been driven using FSD beta
+• Between autopilot, dojo computer, inference computer, and our optimus robot, Tesla is clearly at the cutting edge of AI development
+• Continuing to build release candidates for Cybertruck in Texas
+• We are trying to get it right in the Goldilocks zone
+• We can't wait to start delivering Cybertruck later this year
+• Ford, Mercedes, GM, and many OEMs have decided to adopt the standard
+• We believe in helping other companies to accelerate the EV revolution
+• Tesla is very open to licensing our FSD software and hardware to other car companies
+• already discussing with another OEM about licensing our FSD tech
+• Lithium-ion and cathode facility is progressing will
+• Thanks all Tesla employees for their hard work in uncertain times
+• Zach also has some opening remarks
+• we continue to work towards our goals of maximizing production, but doing so in a way that maximizes our cost management
+• working to minimize idle time at factories as much as possible
+• what is the status of the 4680 cells? How far is the company away from achieving what you claimed at Battery Day?
+• Against our battery/energy density targets, Cybertruck is on track
+• Important to remember that we focused mainly on cost reductions at Battery Day, which we are seeing at the Texas factory
+• Autobidder does have small margins and does not have a material impact on energy revenues
+• Tesla began paying Texas customers for participating in our virtual power plant
+• Unfortunately, bringing Tesla Electric to other states involves dealing with bureaucracy that slows down the growth of the service
+• Question: Could you quantify the battery cost benefits from IRA?
+• Zach - we provided previous guidance that we expect IRA to positively affect costs by $150-250 million each quarter
+• This includes the joint efforts with Panasonic
+• We are also seeing benefits in aluminum and steel prices
+• As we continue to work on reducing Austin and Berlin costs, these factories are still above Model Y costs elsewhere
+• On commodities front, we are hedged in the lithium market
+• Seeing reduced costs across a lot of input costs
+• next question on FSD, have you considered allowing FSD transferability so they can take it from one Tesla to another
+• For Q3, we will be allowing transfer of FSD
+• When will we get more info about Cybertruck orders and builds?
+• Elon - Demand is so off the hook, that you can't see the hook
+• Cybertruck has a lot of new tech
+• Question: Critics of gigacasting claim it will increase repair costs to customers
+• Elon - that must be why everyone is copying us
+• Lars - that is simply not true
+• Elon - I think it will be how most cars are made in the future
+• Question: how many Tesla Optimus robots have been built?
+• Elon jokingly says 10 million, but there are about 5-10 actual robots
+• Elon - we have no off the shelf actuators that exist for compelling humanoid robots
+• We have had to design our own actuators for Tesla Optimus Robot
+• Every one of them is a custom design
+• We are using the same inference engine
+• We will be able to have Tesla robots do something useful in Tesla factories some time next year
+• Another cool thing about Optimus is that just in the US alone there are 2 million amputees, and by combining a Neuralink implant with a robotic appendage, we believe we can give people cyborg bodies
+• It would be incredible to help millions of people around the world
+• How has the ordering trended in Q2 and Q3? How is this affecting vehicle prices?
+• We know our real-time demand and real-time production
+• Buyinga new car is a big decision, so any time there is economic uncertainty people usually pause on new vehicle purchases
+• As interest rates rise, the cost of buying anything with borrowed money goes up
+• We have had to decrease vehicle prices in an effort to combat interest rate hikes
+• Elon asks for people to DM him on Twitter if they have an economic crystal ball
+• We can't control these macro shocks or the manic-depressive nature of the stock market
+• We are in "turbulent" times
+• I have a lot of confidence in the long-term value of Tesla
+• Where things go along the way, one cannot predict
+• The old addage of buy and hold is right
+• Identify a company that you know and love
+• when the market is overly exuberant, you sell
+• I am not telling you to sell Tesla
+• Elon - the short-term variances in Gross Margin and profit are minor to the long-term
+• Autonomy will make all of these things seem silly
+• He just recommended people follow TSLA investors on Twitter... K
+• We will deliver over the long-term
+• Elon - we actually make our shit
+• variability in pricing of the products is about matching supply and demand
+• this is how we are managing the next few quarters
+• make sure the long-term of the business is exactly what we want it to be
+• Dan Levy from Baraclays ask "First, question about AI and Dojo acceleration of focus? How is that process refined? What should we expect on R&D expenses of Dojo?"
+• Elon - we will be spending over a billion dollars on Dojo
+• Not optimized for LLM, it is about computer vision
+• we're using a lot of NVIDIA hardware
+• Tesla stock is down nearly 3% since the conference call began
+• We want to get to 10-100 times better than human vision when driving
+• It's a march of nines and we want to achieve the best safety possible
+• lots of video and compute required for the video training we need
+• Elon - fundamental rate limiter for FSD is more visual training of the neural net
+• Zach - hard to predict how long it will take
+• Question: "In the year ahead, you are sticking to your 50% CAGR target, are you thinking differently about margins to get more share?
+• Elon - you can think of every car we sell with full autonomy as something that could be worth more than it is in the future
+• Would Tesla benefit from lowering the price of FSD?
+• Elon - people have quite fairly made fun of my estimates for achieving FSD in the past
+• I think we will be better than humans by the end of the year
+• I have been wrong in the past, I may be wrong this time
+• The price of FSD is very low - Elon Musk
+• Like to ask about this AI topic
+• How might xAI overlap or compete with Tesla?
+• Does xAI enhance the value of Tesla?
+• Elon - I think it will enhance the value of Tesla
+• the best AI engineers in the world were willing to join a startup
+• Do you think you can hit the 1.8 million vehicle target with current prices?
+• If interest rates continues to rise, that affects the affordability of cars - Elon
+• Collin Rush from Oppenheimer asks "can you speak to the maturity of the Dojo OS?"
+• Elon says "this is a custom software stack"
+• Drink! (every time he says stack)
+• He said it again.
+• How are you managing geopolitical risk?
+• This is a period of geopolitcal risk, so we have a number of locations for production - Elon
+• Mark Delaney from Goldman Sachs asks question on when COGS could hit lower than the historical level
+• Zach says this is very difficult to forecast because of some things are uncontrollable
+• Now we are seeing what seem to be deflationary action in commodity prices - Elon
+• Economies of scale come into play on a lot of supplier relationships
+• Zach - we have a mentality of continuous improvement at Tesla
+• Every quarter, we have seen an improvement towards being more efficient
+• Still early on bringing costs down in Berlin and Austin, despite the trend in Q2
+• Mark asks for a finer point on the downtime expected in Q3 2023
+• Zach - we don't know the exact number of cars that will be impacted
+• Elon - we are getting into the weeds
+• Call comes to its merciful conclusion.
+
+This article is only meant for educational purposes, and should not be taken as investment advice. Please consider your own investment time horizon, risk tolerance, and consult with a financial advisor before acting on this information.
+
+At the time of this article, Shacknews primary shareholder Asif A. Khan, his family members, or his company Virtue LLC had the following positions:
+
+Asif Khan is the CEO, EIC, and majority shareholder of Shacknews. He began his career in video game journalism as a freelancer in 2001 for Tendobox.com. Asif is a CPA and was formerly an investment adviser representative. After much success in his own personal investments, he retired from his day job in financial services and is currently focused on new private investments. His favorite PC game of all time is Duke Nukem 3D, and he is an unapologetic fan of most things Nintendo. Asif first frequented the Shack when it was sCary's Shugashack to find all things Quake. When he is not immersed in investments or gaming he is a purveyor of fine electronic music. Asif also has an irrational love of Cleveland sports.

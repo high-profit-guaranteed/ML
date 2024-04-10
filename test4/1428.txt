@@ -1,0 +1,57 @@
+Fri, 15 Dec 2023 08:00:00 GMT
+
+Tesla TSLA is recalling more than 2 million vehicles after the U.S. safety regulator cited safety concerns.
+
+
+
+Per the US safety regulator, the autopilot features are either too confusing for the drivers or too easy to misuse.
+
+
+
+Per the National Highway Traffic Safety Administration (“NHTSA”) filings, the automaker did not agree with the agency’s analysis but has agreed to issue a recall and release an over-the-air update. The agency found that under some circumstances, the Autosteer feature may increase the risk of a collision.
+
+
+
+Per the filings, the Autosteer feature provides steering, braking and acceleration support to drivers in certain conditions. However, the drivers are supposed to remain attentive and keep their hands on the steering wheel while using the feature.
+
+
+
+The Autopilot system uses several controls to find out if the drivers are attentive or not. Per the report, NHTSA found that the controls may not be sufficient to prevent drivers from exploiting the feature.
+
+
+
+Tesla will recall a total of 2,031,220 of its Model S, Model X, Model 3 and Model Y. The automaker has started rolling out a software update, which will be free for Tesla’s customers.
+
+
+
+NHTSA began an investigation into 11 incidents that involved Tesla cars with Autosteer and Autopilot in 2021, leading to the recent recall.
+
+
+
+Per Part 573 Recall report, the company is planning to launch additional controls and alerts to persuade the driver to adhere to their continuous driving responsibility even when the Autosteer feature is active.
+
+
+
+The new update will increase the prominence of visual alerts, simplify engagement and disengagement of Autosteer and require additional check-ins while using Autosteer to ensure that the driver is concentrating.
+
+TSLA currently carries a Zacks Rank #4 (Sell).
+
+
+
+Some better-ranked players in the auto space are Volvo VLVLY, Renault SA RNLSY and BYD Company Limited BYDDY, each sporting Zacks Rank #1 (Strong Buy) at present. You can see the complete list of today’s Zacks #1 Rank stocks here.
+
+
+
+The Zacks Consensus Estimate for VLVLY’s 2023 sales and earnings indicates year-over-year growth of 4.2% and 70.6%, respectively. The EPS estimates for 2023 and 2024 have increased 8 cents and 7 cents, respectively, in the past seven days.
+
+
+
+The Zacks Consensus Estimate for RNLSY’s 2023 sales and earnings indicates year-over-year growth of 4.5% and 128.1%, respectively. The EPS estimate for 2024 has increased 2 cents in the past 60 days.
+
+
+
+The Zacks Consensus Estimate for BYDDY’s 2023 sales indicates year-over-year growth of 160.2%. The EPS estimates for 2023 and 2024 have increased 59 cents and 55 cents, respectively, in the past 60 days.
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+To read this article on Zacks.com click here.

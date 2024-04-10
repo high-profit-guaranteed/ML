@@ -1,0 +1,21 @@
+Fri, 08 Sep 2023 07:00:00 GMT
+
+Tesla Inc TSLA CEO Elon Musk on Thursday had both recommendations and jokes for Anduril Industries founder Palmer Luckey on the capabilities of its Fury, an autonomous air vehicle.
+
+What Happened: Anduril, a defense technology company, acquired autonomous aircraft developer Blue Force Technologies on Thursday. Fury— a group 5 autonomous air vehicle with fighter-like performance— was developed by Blue Force.
+
+“It (Fury) is capable of pulling 9Gs at Mach 0.95 for a tiny fraction of the cost of similarly performant fighter craft,” Luckey said on X, formerly Twitter.
+
+Musk responded to Luckey and opined that fighter aircraft with actual people in them seem extremely unwise in retrospect. He further enquired what was hindering the vehicle from acquiring a Mach of about 1.5. Mach number lower than 1 implies that the vehicle travels slower than the speed of sound. He also recommended that achieving a “high” altitude could help increase speed.
+
+Luckey responded to the question explaining that the constraints are imposed by the pre-existing commercial engine used in the aircraft. “Keeps costs low and maintainability high, the right choice for this bird,” Luckey said.
+
+Musk, in turn, recommended that they go to max altitude with the Fury and then do a max thrust vertical dive. “You will find out fast if the engine is the limiting factor lol,” Musk wrote.
+
+Why It Matters: With the acquisition of Blue Force Technologies, Anduril seeks to increase its reach within the Department of Defense. The company is now making significant investments to continue the development of the Fury, it said in a statement.
+
+The U.S. Air Force, U.S. Navy and U.S. Marine Corps have all signaled their intention to modernize and adopt advanced autonomous capabilities, it added.
+
+Check out more of Benzinga's Future Of Mobility coverage by following this link.
+
+Read Next: ‘Bro Is Calling His Entire Staff:' Nio CEO Cracks Social Media Up As He Quietly Checks Out Tesla's Refreshed Model 3

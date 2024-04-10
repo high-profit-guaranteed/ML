@@ -1,0 +1,5 @@
+Tue, 29 Aug 2023 07:00:00 GMT
+
+Tesla Inc. is facing increased scrutiny from federal regulators over its driver-assistance system known as Autopilot, with investigators demanding to know if the electric carmaker has made it easier for drivers to take their hands off the wheel.
+
+The US National Highway Traffic Safety Administration said in a letter posted to agency’s website on Tuesday that it has become aware Tesla has “introduced an Autopilot configuration that, when enabled, allows drivers using Autopilot to operate their vehicles for extended periods without Autopilot prompting the driver to apply torque to the steering wheel.”

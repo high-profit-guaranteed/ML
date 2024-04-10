@@ -1,0 +1,62 @@
+Thu, 11 Jan 2024 08:00:00 GMT
+
+Wall Street analysts are too bullish on fourth quarter earnings expectations for most S&P 500 companies. The percentage of S&P 500 companies whose Street EPS exceeds Core EPS equals 73% through 3Q23. I covered the stocks most likely to beat in 4Q23 Earnings: Where Street Estimates Are Too Low & Who Should Beat. Street Earnings refer to Zacks Earnings, which are reported to remove non-recurring items using standardized assumptions from the sell-side.
+• the frequency and magnitude of overstated Street Earnings in the S&P 500 and
+• five S&P 500 companies likely to miss 4Q23 earnings, and
+• a deep dive into what causes Tesla’s (TSLA) earnings to be overstated.
+
+Street EPS Are Higher Than Core EPS for 363 S&P 500 Companies
+
+For 363 companies in the S&P 500, or 73%, Street Earnings are higher than Core Earnings in the trailing twelve months (TTM) ended 3Q23. In the TTM ended 2Q23, Street Earnings were overstated for 357 companies.
+
+The more interesting trend, however, is in the percentage of the S&P 500 where Street Earnings overstate Core Earnings by more than 10%. That number equals 40% (199 companies), which is down from 42% (208 companies) in the TTM ended 2Q23.
+
+Those 199 companies make up 29% of the market cap of the S&P 500 as of 1/4/24, which is down from 30% of the market cap in 2Q23, measured with TTM data in each quarter. See Figure 1.
+
+Figure 1: Overstated Street Earnings by >10% as % of Market Cap: 2012 through 1/4/24
+
+The 363 companies with overstated (by any amount) Street Earnings make up 76% of the market cap of the S&P 500 as of 1/4/24, which is down from 70% in 2Q23, measured with TTM data in each quarter.
+
+Figure 2: Overstated Street Earnings as % of Market Cap: 2012 through 1/4/24
+
+Note that this analysis is based on my firm’s team analyzing the financial statements and footnotes for ~3,000 10-Ks and 10-Qs filed with the SEC for 3Q23 results. I estimate that the cost of this work for most firms would be around $1 million each quarter.
+
+When Street Earnings are higher than Core Earnings, they are overstated by an average of 22%, per Figure 3.
+
+Figure 3: Street Earnings Overstated by 22% on Average in TTM Through 3Q23
+
+Five S&P 500 Companies Likely to Miss 4Q23 Earnings
+
+Figure 3 shows five S&P 500 companies likely to miss calendar 4Q23 earnings because their Street EPS estimates are overstated. Below, I detail the hidden and reported unusual items that caused the overstated Street Earnings in the TTM ended 3Q23 for Tesla (TSLA: $238/share). Because investors and analysts tend to anchor their earnings projections to historical results, errors in historical Street EPS lead to errors in Street EPS estimates.
+
+Figure 4: Five S&P 500 Companies Likely to Miss 4Q23 EPS Estimates
+
+*Assumes Street Distortion as a percent of Core EPS is the same for 4Q23 EPS as for TTM ended 3Q23.
+
+Tesla: The Street Overestimates Earnings for 4Q23 by 17%
+
+The Street’s 4Q23 EPS estimate of $0.74/share for Tesla is $0.12/share higher than my estimate for 4Q23 Core EPS of $0.62/share. Large gains on automotive regulatory credits and “other Income” drive much of the difference between Street and Core EPS estimates. After removing these non-recurring gains, my analysis of the entire S&P 500 reveals Tesla as one of the companies most likely to miss Wall Street analysts’ expectations in its calendar 4Q23 earnings report.
+
+Tesla’s Earnings Distortion Score is strong miss and its Stock Rating is unattractive, in part due to its -1% free cash flow (FCF) yield, price-to-economic book value (PEBV) ratio of 37.4, and market-implied growth appreciation period (GAP) of >100 years. Tesla’s economic book value, or no growth value, is $6/share, or 97% below its current price.
+
+Below, I detail the unusual gains that materially boost and distort Tesla’s TTM 3Q23 Street and GAAP earnings. After removing all unusual items, I find that Tesla’s TTM 3Q23 Core EPS are $2.59/share, which is lower than TTM 3Q23 Street EPS of $3.11/share and GAAP EPS of $3.10/share.
+
+Figure 5 shows the differences between Tesla’s TTM Core Earnings and GAAP Earnings so readers can audit my research. Given the small difference between GAAP and Street Earnings, the adjustments that drive the difference between Core and Street Earnings are likely mostly the same.
+
+Total GAAP Earnings Distortion of $0.51/share, which equals $1.8 billion, is comprised of the following:
+
+Hidden Unusual Expenses, Net = -$0.12/share, which equals $420 million and is comprised of
+
+-$420 million in inventory and purchase commitments write-downs in the TTM period based on
+
+Reported Unusual Gains Pre-Tax, Net = $0.59/share, which equals $2.1 billion and is comprised of
+
+$1.8 billion in automotive regulatory credits in the TTM period based on
+
+$275 million in other income in the TTM period based on
+
+-$34 million in restructuring and other expenses in the TTM period based on $176 million reported in the 2022 10-K
+
+The $0.52/share of Street Distortion in the TTM ended calendar 3Q23 highlights that Core Earnings account for a more comprehensive set of unusual items when calculating Tesla’s true profitability.
+
+Disclosure: David Trainer, Kyle Guske II, Hakan Salt, and Italo Mendonça receive no compensation to write about any specific stock, style, or theme.

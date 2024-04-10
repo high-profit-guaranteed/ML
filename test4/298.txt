@@ -1,0 +1,23 @@
+Thu, 15 Jun 2023 07:00:00 GMT
+
+This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy.
+
+Tesla shares recently eclipsed the AI-focused NVIDIA stock to take the mantle of the market's leadership. But now, after a bristling rally that has broken the stock's all-time record for 13 consecutive up days, probabilistic outcomes favor weakness, with the upcoming OpEx likely to act as the ultimate catalyst for this regime change.
+
+SpotGamma has tabulated the forward return of Tesla shares once the Risk Reversal measure goes positive, as has been the case recently.
+
+For the benefit of those who might be unaware, SpotGamma defines its Risk Reversal metric as the difference between the implied volatility (IV) of 25-delta call and put options with 1-month expirations. As a refresher, a 25-delta contract has a roughly 25 percent probability of expiring in the money. Logically, an at-the-money option has a delta of 0.50 (50 percent probability of expiring in the money).
+
+As is evident from the table above, in 12 of the past 17 instances when the Risk Reversal measure went positive, Tesla posted weak returns in the next 20-day period. Consequently, probabilistic outcomes favor weakness ahead for the high-flying EV stock, particularly after the upcoming OpEx event.
+
+Of course, a number of factors contributed to the recent strength in Tesla shares. First, as we noted in a recent post, Tesla's NACS is set to become the dominant charging standard in North America after GM and Ford both communicate their willingness to adopt the standard from 2025 onward. As per a recent tabulation by Piper Sandler, the EV giant is set to earn $3 billion in revenue from non-Tesla owners by 2030 from the widespread adoption of NACS.
+
+Then, the Tesla permabull analyst at Morgan Stanley, Adam Jonas, highlighted the lucrative nature of a potential "full-scale" car financing subsidiary.
+
+At the culmination of Tesla's record 13-day winning streak, Jonas published another investment note, stating:
+
+Meanwhile, it appears that Tesla is finally done reducing the prices of its EVs. As an illustration, consider the fact that the company has again increased the price of Model Y in the US by a nominal $250.
+
+Yet, the company does remain cell-constrained, particularly for new product offerings.
+
+Do you think further weakness is in store for Tesla in the days ahead? Let us know your thoughts in the comments section below.

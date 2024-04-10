@@ -1,0 +1,45 @@
+Tue, 23 Jan 2024 08:00:00 GMT
+
+After a long wait since Elon Musk demonstrated Tesla’s Full Self-Driving (FSD) version 12 last year, the automaker has finally started its rollout to non-employees.
+
+However, Tesla (TSLA) has sent this update for download to a select few non-employee Tesla owners who have been testing the system for years. These Tesla owners have a solid track record for driving their cars with previous FSD Beta versions.
+
+Tesla has introduced a new feature called Automatic Set Speed Offset in the FSD Beta v12 update (details below).
+
+Omar, a Tesla retail investor and Model S owner with the social media handle Whole Mars Catalog has been one of these very few FSD v12 testers who received this update yesterday. After getting the FSD 12 software update, he received a call from Tesla asking him to be extra cautious and careful when testing this latest build. The Tesla staff explained the reason as follows (in Whole Mars Catalog’s words):
+
+I got a call last night from someone on the Autopilot team, they said, look, you’ve got FSD Beta 12, it’s a little bit rough still, it’s not ready to go out to everybody. The nags are turned up to 11, becase of that and we plan to scale them back later as we get into a wider release. But be super careful with it, be extra aware, this is a very early build.
+
+Last year, Tesla CEO Elon Musk announced that version 12 of Autopilot Full Self-Driving software would not be a beta release. However, Tesla reverted this decision and added the ‘Beta’ terminology with the employee-only rollout last month.
+
+Non-employees getting this release also have the FSD Beta 12 written with the release notes. In this specific test, the vehicle has the latest version 12.1.2 of the FSD Beta installed on it.
+
+Interestingly, some influencers and YouTubers who have usually been prioritized in getting FSD Beta updates haven’t received the FSD Beta v12 yet. One of them is Chuck Cook who tests FSD Beta in Jacksonville, Florida.
+
+Chuck’s FSD Beta test loop includes a difficult unprotected left turn (UPL) in JAX. Chuck even spotted some Tesla employees testing FSD Beta on this UPL last year — and most probably, these Tesla-owned vehicles were installed with FSD Beta 12.
+
+The reason that Chuck Cook did not get the new FSD Beta update might be due to this UPL. As Tesla has mentioned this is still an early build, the automaker might not have pushed the update to Chuck’s car to avoid any criticism arising from testing at this complex unprotected left turn.
+
+However, Chuck thinks that FSD Beta v12 will not be a revolutionary step forward from version v11. The expectations from this update should be kept reasonable.
+
+During his FSD Beta v12 testing in California, Whole Mars Catalog reports that after this update, left turns have significantly improved compared to the previous versions.
+
+Tesla Autopilot with the FSD Beta v12 has also demonstrated better identification of traffic lights. This improvement has certainly increased safety for the occupants and passengers alike.
+
+At the start of the test, the tester’s car did not take off despite it was put in Autopilot mode. Moments later a human appeared from behind a vehicle parked on the side of the road — this person was visible to the car but not the human eye — let’s watch how it happened.
+
+Tesla has added a new feature Automatic Set Speed Offset in the FSD Beta v12 update. This new feature can be turned ON or OFF by going to the Autopilot settings panel on a Tesla vehicle’s center touchscreen display.
+
+By using this feature, a Tesla vehicle’s AI vision constantly adjusts the speed of the vehicle according to environmental conditions and various scenarios. The information dialog box of the FSD Beta 12 setting for this feature reads as:
+
+According to Elon Musk, FSD 12 is developed on an entirely new architecture. The Tesla software team has replaced around 300,000 lines of C++ code with end-to-end neural network processing.
+
+We will still have to wait for this update’s wide rollout to be able to observe the full impact of the new neural network architecture in place. Stay tuned till then and let us know your thoughts in the comments box below.
+
+Stay tuned for constant Tesla updates, follow us on: 
+
+Google News | Flipboard | RSS (Feedly).
+• Elon Musk discloses the Tesla Robotaxi unveiling date — know what to expect from the event
+• Tesla FSD (Supervised) v12.3.3 goes wide release, triggers debate if it’s impressive or whacky (video reviews)
+• New Tesla customers to get FSD Beta v12.3.1 test drives, capable cars to get a one-month free trial in the US, Elon Musk
+• Tesla FSD v12.3 gets good first impressions from the beta testers (videos)

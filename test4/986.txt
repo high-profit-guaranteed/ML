@@ -1,0 +1,55 @@
+Tue, 17 Oct 2023 07:00:00 GMT
+
+Tesla is somewhat of a cult stock. It has a huge following in the millennial and Gen Z demographics and a checkered past with short sellers. This guide unpacks everything you need to know about buying Tesla stock.
+
+Tesla (NASDAQ: TSLA) is the world's most renowned electric vehicle manufacturer. Led by its influential and unconventional CEO, Elon Musk, the company has made EV the future and brought innovation to the auto segment with features like the controversial autopilot function in its cars.
+
+Tesla's competitors include Nikola (NASDAQ: NKLA) and Fisker (NYSE: FSR), but also incumbent car manufacturers such as Ford (NYSE: F) and GM (NYSE: GM), who are also producing electric vehicles. Being a pioneer in self-driving automation, Tesla also counts tech heavyweights Apple (NASDAQ: AAPL) and Google (NASDAQ: GOOGL) as competitors.
+
+Founded in July 2003, with headquarters in San Carlos, CA, Tesla launched its IPO in June 2010, listing at $17 a share, making it the most successful EV IPO in history. In 2020, Tesla turned an annual profit for the first time. In late 2020, Musk decided to open to Texas to reduce his tax burden. Texas is also the location of a Tesla gigafactory and Spacex operations.
+
+Disclaimer: eToro securities trading is offered by eToro USA Securities, Inc. (‘the BD”), a member of FINRA and SIPC. Investing involves risk, and content is provided for educational purposes only, does not imply a recommendation, and is not a guarantee of future performance. Finty is not an affiliate and may be compensated if you access certain products or services offered by the BD.
+
+Still not sure about which stock broker to use? Check out our stock trading comparison to compare fees, tradable assets, and more.
+
+To buy Tesla stock — or any stock for that matter — you need to open an account with a broker. The broker acts as the bridge between you and the market, allowing you to trade. Here's what you need to look for.
+
+There is no reason to pay commissions on your trades. Apps like Webull and Robinhood make it possible to trade for free and many other large brokers like TD Ameritrade have also adopted the zero-commission model.
+
+A single share of TSLA is expensive, which is above many small and beginner investor budgets. With fractional shares, you can buy part of a share of TSLA, giving you exposure to the price action at a risk you can afford while also allowing you to invest in other companies to diversify your risk.
+
+Look for brokers offering paper trading accounts to let you test out their platform before signing up. This feature is less common among the recent crop of investment apps, but can be found on trading platforms such as E*TRADE and Interactive Brokers.
+
+Look for charges on inactivity, as well as account fees and transaction fees. Choose the broker offering you the best deal.
+
+Margin trading lets you leverage the capital you have in your account. As an example, with a 6:1 leverage ratio, you can trade $3,000 of TSLA stock with a $500 account balance. If Tesla shares fall in value though, you may have to put up additional maintenance margin so be sure to have back up liquidity. Trading on margin is inherently risky and not suitable for beginners.
+
+All trading platforms come with charts, but those charts typically display market data that has been delayed by up to 15 minutes. Look for brokers offering real-time data for an affordable subscription fee.
+
+To buy Tesla stock, you'll need to open an account with your broker and fund it through a wire transfer or a debit card transaction. However, it's important to note that your first deposit and withdrawal may take up to two weeks to hit your account. The broker needs to verify your information before they open your account, and this process could take up to two weeks.
+
+What would you do if you lost your life savings tomorrow? If your answer involves financial panic and disaster, then it's probably not a good idea to dump your life savings into your trading account.
+
+Start small with an amount you can afford to lose. Trading is an acquired skill, and you'll get better with practice. However, risking everything you have as a newbie is a haphazard trading strategy. Be sensible with your risk management.
+
+Tesla stock is available as an individual stock or bundled together with equities from other firms in an ETF. Exchange-traded funds offer traders a less volatile trading experience, safeguarding them from heavy price movements of any one stock.
+
+ETFs spread your risk across multiple stocks in a weighted basket, with a professional asset manager overseeing the ETF stock selection and performance. ETFs are a great choice for investors.
+
+ETFs such as Invesco QQQ Trust (QQQ), SPDR S&P 500 ETF Trust (SPY), iShares Core S&P 500 ETF (IVV), Vanguard S&P 500 ETF (VOO), and ARK Autonomous Technology & Robotics ETF (ARKQ) all have exposure to Tesla.
+
+After choosing the best vehicle for your trade, it's time to place your order.
+
+The market order lets you buy Tesla stock at the next price available in the order book. However, the issue with this order type is the slippage you receive when executing your order. You might click the buy button at $600, but the broker only fills you at $610. The extra $10 is known as the "slippage."
+
+The limit order prevents you from absorbing slippage in your fill. You'll enter the limit order price, and the broker can only fill you at this price. It's the best choice for professional day traders that want accurate pricing in their trades.
+
+The stop limit order lets you take profit when your trade reaches your profit target. If you enter Tesla at $600, with a price target of $630, the broker sells your stock when the price reaches that level.
+
+This order type is essential for newbie traders and an important risk management tool. If you buy at $600, you set the stop-loss order at $580, per your risk tolerance. If the price moves to this level, the broker liquidates the trade to prevent you from taking a loss you can't afford.
+
+With the configuration done, it's time to place your order using your broker's trading platform. You'll see that your platform has data fields for the ticker, limit price, share size, and order type. Complete the relevant fields and when you're ready to buy, click the buy button.
+
+Tesla stock experiences volatility in price action from earnings reports. However, market developments like limitations in the lithium-ion market or news of fatal car crashes from drivers using autopilot may also swing the price.
+
+Interestingly, Elon Musk, Tesla's CEO, likes to tweet about the stock, generating share price volatility. An example would be when Musk tweeted that he intended to take the company private if the stock price hit $420, with "funding secured," causing the stock to jump up 14% intraday.

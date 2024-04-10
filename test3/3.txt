@@ -1,0 +1,5 @@
+Fri, 02 Feb 2024 08:00:00 GMT
+
+Tesla drivers no longer have to squint to read the warning lights in their electric vehicles, thanks to eagle-eyed auditors at the US National Highway Traffic Safety Administration.
+
+The regulator posted an unusual recall report on its website Friday from Tesla Inc. , in which the manufacturer acknowledges that 2.2 million of its cars used too small a font size to warn about braking issues. The automaker started releasing an over-the-air software update late last month to address this, free of charge.

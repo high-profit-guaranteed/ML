@@ -1,0 +1,57 @@
+Thu, 17 Aug 2023 07:00:00 GMT
+
+Some companies, like Tesla (TSLA), have seen their stocks fall, despite reporting earnings that beat analyst estimates. Envestnet Co-Chief Investment Officer Dana D'Auria suspects it's more macro-factors such as the Fed and valuations driving investors. So what are investors looking at? D'Auria says forward guidance is one thing. "We've already priced in an expectation almost that we would be doing well this year," D'Auria said, adding that investors are concerned about how rising rates and a hawkish Fed could impact companies as well.
+
+JULIE HYMAN: Following the massive tech stock rally that came amid the first quarter results season, this quarter has been more rocky. With more than 80% of S&P 500 companies reporting earnings, it's obvious that investors aren't so easily impressed this time around.
+
+According to FactSet, companies that have beat earnings in the second quarter have seen an average price decrease of a half a percent two days before the earnings release through two days after the release. That marks the largest average negative price reaction to positive EPS surprises since 2011. Just to give one example, Tesla down almost 20% since reporting its earnings a month ago despite beating expectations.
+
+Joining us now, Dana D'Auria, Envestnet co-chief investment officer, to talk more about how we are seeing these companies react and also what else you're seeing in the market. But let's talk about earnings first here and the sort of diminishing returns from beating estimates. What is it gonna take to impress investors at this point?
+
+DANA D'AURIA: You know, I think there's a lot that's being macro-driven at this point. So, certainly, we had a remarkable first half in the markets. And you know, that came as a surprise, I think, across the board pretty much, right?
+
+There was an expectation coming into this year that you were gonna have lackluster markets, recession probably starting midyear, second half of the year. And it just hasn't materialized. And it's been a phenomenal first half of the year.
+
+But now, of course, as markets do, their sort of weighing, you know, new information coming in. Is the Fed really going to back off? Are we going to see more rate increases? And you know, when you have an earnings season even beating but valuations are high, it's gonna just take a little bit more, I think, to kinda ease the market's concerns that maybe perhaps we've priced in too rosy of a scenario.
+
+BRAD SMITH: What are investors looking for then? What are they trying to hear from CEOs to give them confidence that would actually warrant, even if a company does beat on both earnings and revenue expectations and give upbeat guidance, give them all of the kind of elixir that they're looking for?
+
+DANA D'AURIA: You know, I think there's an element to it of EPS growth for next year that's being looked at, what is forward guidance? We've already priced in an expectation almost that we would be doing well this year. But I do think there's also, as I say, a macro aspect to this.
+
+I think there's, you know, concern among investors that the individual companies will, in fact, be harmed perhaps by-- we now have obviously rates rising in the 10-year, you know, hawkish comments coming out of the FOMC meeting, which shouldn't be a surprise. But markets tend to, you know, absorb these things as they do.
+
+So I think, you know, hearing that we're beating but that perhaps we're not forecasting, you know, the growth that we would like in 2024 can be concerning. I think also that if you think rates are gonna continue to increase, you're concerned about places in the market that are doing well, growth, right? These big companies that perhaps-- and tech in general, growth in general where interest rates make a big difference.
+
+You know, interest rates rising have to bring up concerns about banks again, regional banks. You know, we've obviously-- at the beginning of the year and when we were seeing problems there, that was considered by many to be the sign that, OK, something's breaking. Now the problems are beginning. Kind of dissipated, right? We came in and, you know, kind of took care of those concerns. But that is really coming back to the fore now. And you're seeing those kind of concerns seep back into the market.
+
+JULIE HYMAN: Although, it's interesting. We're seeing rates at their highest since around 2008 when you look at the 10-year. Tech's doing OK today. I'm just looking at the KBW Bank index. It's up today. So at what point-- at what level would yields really start to become problematic for these challenged areas again?
+
+DANA D'AURIA: I think some of it has to do with how dependent the individual companies are on, you know, the credit markets. So you're gonna see it more in-- first, I think in small cap areas where there's just complete dependency. And you are seeing a little bit of that, right? And you know, to the extent that rate hikes are more than what the market is pricing in, you know, this expectation what is going to happen in September.
+
+Even whether we get the hike or we don't get the hike, right? There's an element of, OK, but over the long haul, what are we looking at? Is it higher rates to go or-- you know, what we're pricing in now, of course, is rate decreases next year. Is that gonna materialize?
+
+And we know that the FOMC meetings were a bit hawkish. And we know since then, we've had some data that suggest that the Fed has no reason to reverse course on hawkishness. Now, obviously, there were some who disagreed. You saw a little bit more dispersion in the comments that came out.
+
+But if you're leaning toward hawkishness, I think, you know, the data that's come since that meeting kind of only pushes you that way, right? We saw a little bit of cracks in unemployment. And that kind of reversed. Jobless claims came back in under. You're seeing inflation moderating a lot. That's great. GDP blowout, basically reading, right? Retail sales up.
+
+So the expectation and about what the Fed's gonna do is probably going to largely lean hawkish. And if that's the case, you know, to the extent that impacts these companies, to the extent that they're in credit markets, you would expect that to experience that.
+
+BRAD SMITH: To what extent has the international part of the equation been a looming cloud over this earnings season?
+
+DANA D'AURIA: You know, I'm somebody who looks closely at valuations as the metric, right? If you look across research on markets and what really does at the end of the day drive expected returns over time, valuations are a big piece of it. And international markets are valued well comparatively with US markets now.
+
+And I don't necessarily think, you know, we represent the retail clients, right? Advisory clients. I don't know that that's really well worked into how they're viewing. And I think to a certain extent, it should be, that benefit from diversification. You may not experience the same level of growth. You may not expect to. But at a certain price, something is going to make sense more than something else, right? That's priced to more of a perfection?
+
+JULIE HYMAN: What about in the US? What is more attractive on that valuation basis?
+
+DANA D'AURIA: So, you know, I do say to tend to tilt value. Look, it's really hard to argue with what tech has done and now communications, right? The enormous 8 has done. AI is probably what's carried us through the first half of this year, let's be honest. There was this AI boom that nobody sort of saw coming.
+
+I tell you we work with hundreds of money managers. And many of them were coming in saying, fixed income focus going into 2023, right? And here we have an AI boom. And suddenly, there's this possibility for this great outcome. But at the end of the day, if you look at the average retail clients' portfolio, whether it's actively managed or it's just market indexed, they have a ton of that type of right tech, the enormous eight, inherently, that bet on AI.
+
+So I tend to say, look, to the extent that you want to be in markets over the long haul, you're not worried about-- which you shouldn't be, right? You're not so much worried about what's happening in the short term, tilt a little bit towards those lower-valued companies towards, you know, the sectors maybe that are throwing off cash flow but are not necessarily exciting and bringing that AI type story to you because over the long haul, they do tend to outperform.
+
+And you know, also defensive, right? So think health care in terms of if I want to be in a sector, I want to be in parts of the market that, you know, they're plodding forward. But they tend to be defensive over time. They tend to have good quality indicators. We know these types of companies do outperform over the long haul.
+
+So I'm not saying take tons of tracking error to the overall market but to the extent that you're gonna tilt in your portfolio. I recommend tilts towards quality-type companies, high-profitability companies, value, or names.
+
+JULIE HYMAN: All right, Dana, thanks for coming in. Good to see you in person, Dana D'AURIA is Envestnet co-chief investment officer. Appreciate it.

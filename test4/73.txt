@@ -1,0 +1,201 @@
+Wed, 19 Apr 2023 07:00:00 GMT
+
+Tesla is out with the company's Q1 2023 earnings results, and the stock is moving in after-hours trading. The EV company reported earnings of $0.85/share and revenues of $23.3 billion, with results coming in line with analyst expectations of $0.85/ share and revenue estimates of $23.3 billion.
+
+We will be streaming the TSLA Q1 2023 conference call on our Shacknews Twitch channel. Stop by if you want to react to the news in chat.
+
+Here are the highlights from Tesla's Q1 2023 earnings report:
+• $0.2B increase in our cash and investments in Q1 to $22.4B
+• Model Y was the best-selling vehicle in Europe in Q1
+• Model Y was the best-selling vehicle in the US in Q1 (ex-pickups)
+
+In the current macroeconomic environment, we see this year as a unique opportunity for Tesla. As many carmakers are working through challenges with the unit economics of their EV programs, we aim to leverage our position as a cost leader. We are focused on rapidly growing production, investments in autonomy and vehicle software, and remaining on track with our growth investments.
+
+Our near-term pricing strategy considers a long-term view on per vehicle profitability given the potential lifetime value of a Tesla vehicle through autonomy, supercharging, connectivity, and service. We expect that our product pricing will continue to evolve, upwards or downwards, depending on a number of factors.
+
+Although we implemented price reductions on many vehicle models across regions in the first quarter, our operating margins reduced at a manageable rate. We expect ongoing cost reduction of our vehicles, including improved production efficiency at our newest factories and lower logistics costs, and remain focused on operating leverage as we scale.
+
+We are rapidly growing energy storage production capacity at our Megafactory in Lathrop and we recently announced a new Megafactory in Shanghai. We are also continuing to execute on our product roadmap, including Cybertruck, our next generation vehicle platform, autonomy and other AI enabled products.
+
+Our balance sheet and net income enable us to continue to make these capital expenditures in line with our future growth. In this environment, we believe it makes sense to push forward to ensure we lay a proper foundation for the best possible future.
+
+Total revenue grew 24% YoY in Q1 to $23.3B. YoY, revenue was impacted by the following items:
+• + growth in other parts of the business
+
+Our operating income decreased YoY to $2.7B in Q1, resulting in a 11.4% operating margin. YoY, operating income was
+
+primarily impacted by the following items:
+• + growth in vehicle deliveries (despite margin headwind from underutilization of new factories)
+• + gross profit growth in Energy business as well as Services & Other
+
+Quarter-end cash, cash equivalents and investments increased sequentially by $217M to $22.4B in Q1, driven mainly by free
+
+cash flow of $441M, partially offset by other financing activities, including debt repayments.
+
+We are planning to grow production as quickly as possible in alignment with the 50% CAGR target we began guiding to in early 2021. In some years we may grow faster and some we may grow slower, depending on a number of factors. For 2023, we expect to remain ahead of the long-term 50% CAGR with around 1.8 million cars for the year.
+
+We have sufficient liquidity to fund our product roadmap, long-term capacity expansion plans and other expenses. Furthermore, we will manage the business such that we maintain a strong balance sheet during this uncertain period.
+
+While we continue to execute on innovations to reduce the cost of manufacturing and operations, over time, we expect our hardware-related profits to be accompanied with an acceleration of software-related profits. We continue to believe that our operating margin will remain among the highest in the industry.
+
+Cybertruck remains on track to begin production later this year at Gigafactory Texas. In addition, we continue to make progress on our next generation platform.
+
+Some interesting stories of note from Tesla's Q1 2023 earnings release:
+• Listen to the Tesla (TSLA) Q1 2023 earnings call here
+• Tesla Model Y was the best-selling non-truck vehicle in Europe and U.S. during Q1 2023
+• Tesla (TSLA) Q1 2023 EPS down 21% from Q1 2022, despite 24% year-over-year revenue growth
+• Tesla (TSLA) Q1 2023 profit margins are all materially lower from year-ago quarter
+• Musk begs for people to refine lithium instead of 'making a picture sharing app'
+• Tesla cuts prices again in the U.S.
+
+Tesla's earnings results conference call is set to kick off at 5:30 p.m. EDT. Keep an eye on this article for a transcription of the earnings call right here.
+• Model Y success in spite of production and delivery issues
+• Worth pointing out that the current macro environment remains uncertain
+• Pushing for higher volume, larger fleet is the right move
+• We expect our vehicles, over time, will drive profitability via autonomy
+• Harvest margins in the future as we perfect autonomy
+• Not made like other products
+• Megapack had its strongest quarter ever
+• Data advantage that no one else has
+• DOJO could become a service for other companies too
+• Really think that DOJO potential is very significant
+• Wanna make and sell as many cars as we can
+• Continue to invest in growth as fast as possible
+• Elon thanks Tesla employees for doing an incredible job
+• Per unit costs at Austin and Berlin improved
+• Grow volumes in vehicles and energy at the same time
+• How do you determine price cutting criteria?
+• Elon "we do our best to evaluate production output and macroeconomic conditions"
+• Zach "can't get into the details"
+• Second question, will Tesla Energy be bigger than auto?
+• Elon clarifies that it will be bigger in auto in gigawatt hours, not necessarily revenues
+• We are seeing faster growth with stationary storage than vehicle sales
+• Zach, we will get to a point where we provide battery storage guidance
+• Relative to the whole company, energy storage is still a relatively small segment
+• As the business grows and smoothes out, including our numbers more formally will happen in a few quarter
+• Zach says "in terms of margins, generally in the same area we have seen in vehicle margins"
+• We are aiming at mid-20 percent margins on everything we do
+• Zach says the company is making progress
+• 4680 factory in Texas will be 70% less capex than existing battery factories
+• A number of cathode material side efforts under way
+• Cathode precursor lower process cost described at Battery Day is being integrated into Texas plant
+• Structural pack concept 50% lower capex for the same output of gigawatt hours/year
+• Q1 was all about cost and quality for pack team
+• Next question, what do you anticipate 2023 auto gross margin will be?
+• Zach says "this is a difficult environment to make projections"
+• Regarding costs, there are a set of costs we do control, and others we don't
+• Most of the efforts are cost optimization in Austin
+• Similar story in Berlin, without the 4680 pack considerations
+• Aggressively going across every cost bucket we can
+• Still at the maximum of pain of commodities in cost structure
+• Elon "it's worth mentioning that lithium prices have dropped"
+• Zach we expect commodity prices will drop by the end of the year
+• Next question, how has global ordering tracked since recent price cuts?
+• Elon: "orders are in excess of production"
+• A product like this only comes along once in a long while
+• Alex from Piper Sandler asks "first question, Lathrop growth, when will that facility be close to full utilization?"
+• Zach classic ramp at Lathrop, but supplier ramps also a factor
+• We will that unlock latter half of the year
+• "Second question, on ability to serve other markets out of Shanghai, what other regions are you not yet serving effectively?"
+• Elon: Good question, there are many markets we do not serve well yet
+• The markets do add up to something significant
+• It's high time that Tesla offers its cars to the rest of the world
+• "First, if you could discuss your FSD take rates?"
+• "Next, do you think you need to reduce your prices of FSD?"
+• Elon: tricky price in question, value of autonomous vehicle is enormous
+• That value is ultimately will be very significant
+• There will be a little two steps forward and two steps back
+• I think we will do "it" this year, says Musk
+• Elon wishes he has a crystal ball that could predict battery commodity costs
+• Just my guess, stormy economic weather for 12 months, and things could get sunny next spring
+• Zach, not all EV components/commodities are super liquid
+• Small mismatches in supply and demand can cause temporarily large price swings
+• Seeing quite a bit of softening in the lithium carbonate market
+• Because of price spikes, more companies are investigating upstream sources
+• Lithium refining is a choke point, not supply, according to Musk
+• Lithium is a very common element on Earth - Musk
+• We will have the most lithium refining capability when compared to everybody else combined
+• Can other people please do this work?
+• Instead of making a picture sharing app, please make a lithium refinery
+• We have a lot of fish to fry, and we wish other people would do that
+• Elon - two macro factors that are tricky
+• How do you rate all other Tesla businesses versus the vehicle business?
+• Elon - DOJO is a longshot bet that could pay off in a very very big way
+• Solving autonomy will unlock a lot of value if it happens
+• "I think it will happen" - Musk
+• "Every day we get a daily real-time update of how many cars were ordered and delivered" - Musk
+• I am not sure there is a company on Earth that has more real-time data than Tesla, outside of SpaceX Starlink...
+• We know how many cars were ordered yesterday
+• Our finger on the pulse is real-time and does not have latency
+• We look at pricing 7 day/week
+• On balance, our decisions are pretty good/better than the rest of the industry
+• Zach, regarding EV market share, we don't look at it that way
+• We don't look at it that way
+• It is about the car market
+• Gotta stop looking at it as EV vs EV
+• "All cars will be EVs" - Musk
+• We will look back on ICE cars as we look at steam engines today
+• Colin Rush from Oppenheimer asks "how much of the cost structure is variable, and plus/minus lithium cost variances?"
+• Elon - depends on what time scale you are looking at, most of the car costs are variable
+• If I had to guess, I think we will see improved costs from suppliers
+• Drew "we are already starting to see that"
+• Some of lithium prices are already trending the right way
+• Takes several months to flow into cost structure
+• Air expedites are down from the peaks
+• Attacking all vectors and becoming cost efficient
+• We are focused on ramping Megapack
+• We are being selective on projects that best fit our mission and objectives
+• Improving the speed at which you can plug Megapack into the grid
+• Elon - makes crystal ball reference for the 10,000th time on this call
+• If things go well, 2 million, which is the upside case
+• 2nd question on opening up the Supercharger network?
+• Drew - as you may have seen we opened our V4 and Magic Dock chargers last quarter
+• Continuing to roll out those improved offerings as we build new stations
+• Balancing our ability to serve customers vs all EVs
+• Roll out to continue over the coming quarters
+• Follow up on leveraging cost position mentioned in release
+• Can you give us a sense as to how far you are willing to take this?
+• Elon - I think we may have answered this question a few times
+• It depends on the macroeconomic environment
+• Zach adds investing with 2024 and 2025 in mind
+• What happens to margins over the next couple of quarters only matters in how it affects investment plans for 2024 and 2025
+• We are planning to keep the business healthy, but don't focus too much on the near-term
+• The focus is to position the company best for exiting this macroeconomic time
+• Do you have a view on elasticity of demand?
+• In some cases, some people can't get a loan at all
+• I think banks are not leaning forward in providing loans these days
+• There is quite a powerful story here, that Tesla is in a uniquely strong strategic position
+• We could technically sell cars at zero profit now, and unlock future profits with FSD revenues
+• First, good luck with the Starship launch
+• Now that you have gotten to know Twitter, what can you tell TSLA shareholders about how X app could affect the company?
+• It could potentially make it easier to buy cars - Elon
+• There is probably some benefit - Musk
+• and a bunch of rival companies went bust
+• Is the recent cost cutting leading history to repeat itself
+• could this catalyze a darwinian moment in the EV market
+• "We really don't think of competitors that much" - Musk
+• Focused on improving service and making cars more affordable
+• We are making a car that is an asset that could be worth more in the future
+• Drew - "we want all EVs to succeed"
+• Elon "We are not out to destroy competitors"
+• First question, ramping supply at Austin and Berlin
+• How important is it to ramp to get better cost efficiency
+• Should we generally expect that you will produce at max capacity regardless of macroeconomic conditions
+• Elon - there could be a macro shock so severe that people stop buying, but outside of that we will keep making as fast as we can
+• Remind us what the margin profile of Austin and Berlin will look like compared to Shanghai
+• Elon - won't be as great as Shanghai, but we do expect to make significant improvements in Austin, Berlin, and Fremont
+• Longer term, I agree we should look at Tesla market share of total vehicles, is there a limit to developing global market share?
+• Elon - seems to be working well so far
+• We hear different feedback from customers, seeing growing pains?
+• Elon - we are always going to have growing pains
+• Sometimes service is behind sales, sometimes it is ahead
+• Tesla is growing faster than any company in history - Musk
+• (company did not grow EPS this quarter) - Asif
+• Best service is no service - Elon
+• The reason incumbents succeed and new companies fail is their ability to operate at lower margins
+• Newcomers succeed when customers are willing to pay a premium
+• In the absence of electrification or autonomy, a newcomer is unlikely to succeed
+
+This article is only meant for educational purposes, and should not be taken as investment advice. Please consider your own investment time horizon, risk tolerance, and consult with a financial advisor before acting on this information.
+
+At the time of this article, Shacknews primary shareholder Asif A. Khan, his family members, or his company Virtue LLC had the following positions:

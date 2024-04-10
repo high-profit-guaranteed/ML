@@ -1,0 +1,73 @@
+Thu, 28 Sep 2023 07:00:00 GMT
+
+With the launch of OpenAI's ChatGPT and giants like Microsoft and Google rushing to launch their own generative artificial intelligence products, investors have been keen to find opportunities in the segment.
+
+With the lack of niche AI companies to invest in, non-core companies that massively benefit from the AI boom have been at the center of attention. At the forefront among these beneficiaries is Nvidia Corp. NVDA, which has fetched multibagger returns this year.
+
+Nvidia originally designed its GPUs with video games in mind, but researchers would soon discover their handiness in training deep learning models. The company, under the leadership of its President and CEO Jensen Huang, capitalized on the development by launching general-purpose GPUs.
+
+Meanwhile, the popularity of electric vehicle stocks led by Tesla Inc. TSLA among retail traders and investors has been significantly muted.
+
+
+
+With wider market conditions becoming unfavorable and CEO Elon Musk's heightened focus on social media venture X, which he rebranded from Twitter, Tesla has fallen relatively out of favor as seen with its price trajectory.
+
+Figure: Comparison of market price trajectory of TSLA and NVDA over a period of one year. Credit: Neer Varshney /Benzinga
+
+Tesla’s price has fallen about 16.5% over the past year, from $287.81 on Sept. 28, 2022, to $240.50 on Sept. 27, 2023, the timeframe studied by Benzinga.
+
+In the same timeframe, Nvidia price has surged about 233.6%, from $127.28 to $424.68.
+
+Also Read: S&P 500 Nears Crucial Support: Analysts Warn of Disappointing Returns If 200-Day Average Is Breached
+
+A theoretical $100 investment in both stocks a year ago would have fetched wildly different returns.
+
+The $100 investment would be worth $333.65 in Nvidia, a handsome $250.09 higher than the $83.56 returned by Tesla stock.
+
+Figure: Comparison of scaled returns delivered by TSLA and NVDA over a period of one year. Credit: Neer Varshney /Benzinga
+
+Linear regression in statistics is considered a fine indicator to measure the correlation between two stocks. The coefficient of determination (R2) for Nvidia stock price's dependency on Tesla comes at about 0.4454, which indicates a moderate positive relationship between the two stocks.
+
+
+
+This is not a surprise given the wider trend and the tendency of major tech stocks to see similar movements and react to the same events. It is also worth noting that while the coefficient is good for measuring correlation, it doesn't on its own imply any kind of causation.
+
+Figure: Linear regression analysis of TSLA and NVDA to see if there is a correlation in how the stocks move. Credit: Neer Varshney /Benzinga
+
+TSLA Or NVDA: What About Dividends?
+
+Tesla as a matter of principle doesn't pay dividends. The company has never declared any dividends and says it doesn't plan to either. "We intend on retaining all future earnings to finance future growth and therefore, do not anticipate paying any cash dividends in the foreseeable future," the electric vehicle maker declares on its website.
+
+Figure: Comparison of how much dividends TSLA and NVDA have declared over the last three years..
+
+Nvidia like most of its growth-centric tech peers is also not among the dividend aristocrats. The chipmaker has been shelling out a humble 4 cents in revenue each quarter for the past year.
+
+How NVDA Vs. TSLA Compare On PE
+
+The P/E ratio or price-to-earnings ratio helps us see how much investors are willing to pay for every unit of a company’s earnings.
+
+Investors typically seek a stock with a moderate P/E as a value bargain, but there is no hard and fast rule as to whether a higher or a lower P/E is good.
+
+Many investors are willing to bet bigger sums on stocks where they see the potential for growth in the longer term — these stocks can continue reaching greater heights even after having a higher P/E, as is the case with both the stocks in consideration today.
+
+Similarly, a stock with a low P/E could simply be one that investors do not see any growth potential for, and therefore do not consider it a good buy at current prices, despite them being relatively moderate in line with current earnings.
+
+In the case of Tesla, the trailing P/E is 69.31, while the forward P/E is 54.91.
+
+In the case of Nvidia, the trailing P/E is 103.08, and analysts forecast a more moderate forward-looking P/E at 26.93.
+
+The PEG ratio adds a key dimension to the P/E ratio — by dividing it by the stock's project growth based on analyst estimates.
+
+In the case of Tesla and Nvidia, the stark difference in the PEG ratio is notable.
+
+Nvidia's 0.56 PEG ratio implies that the stock is undervalued in terms of the growth rates projected by the analysts.
+
+Tesla's PEG ratio of 9.41 implies that investors expect the stock to grow significantly above the growth rates that analysts are forecasting.
+
+As for which stock is likely to deliver better returns in the coming years — the analyst consensus is quite clear, according to data from Yahoo! Finance.
+
+Nvidia’s stock has a 39.5% upside from the latest price, according to a consensus of 45 analysts, with an overall Buy sentiment.
+
+Tesla stock has a downside of 5.32%, according to a consensus of 36 analysts, with an overall Hold sentiment.
+
+Now Read: Tesla’s VP Of Vehicle Engineering On New Model 3 Highland: ‘It’s All A Bit Like Artwork’

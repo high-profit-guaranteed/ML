@@ -1,0 +1,105 @@
+Wed, 19 Apr 2023 07:00:00 GMT
+
+Tesla’s (NASDAQ:TSLA) first quarter 2023 earnings call comes on the heels of the company’s Q1 2023 Update Letter. Tesla’s first quarter numbers were quite impressive, with the electric vehicle maker meeting EPS expectations despite posting lower gross margins during the quarter.
+
+A number of milestones were highlighted by Tesla in the first quarter. Tesla Giga Berlin was listed with a capacity of over 350,000 Model Y per year, and the FSD Beta program reached 150 million cumulative miles. The Cybertruck is also closer than ever to its first deliveries, with the all-electric pickup truck’s production line now being set up.
+
+The following are live updates from Tesla’s Q1 2023 earnings call. I will be updating this article in real time, so please keep refreshing the page to view the latest updates on this story. The first entry starts at the bottom of the page.
+
+17:35 CDT – And that wraps up the Q1 2023 earnings call! Not gonna lie, this is one of the most info-heavy earnings calls to date, with lots of questions answered from both the investor and analyst sides.
+
+Once again, thanks for staying with us for yet another live blog! Until the next one!
+
+17:31 CDT – Following a question from Jefferies, who asked if there is a limit to the direct selling business to grow market share, Elon Musk notes that Tesla’s direct selling strategy seems to be working so far. And while the analyst brought up the issue of customers who may be missing human interactions for things like service, Musk noted that “the best service is no service.” He also noted that Tesla uses the feedback loop to improve car design so it needs less service.
+
+17:29 CDT – Following a question from Barclays, who asked about the margin profile of Berlin and Austin and how it compares to Shanghai. Musk notes that Shanghai is well optimized, though Tesla expects Giga Berlin and Giga Texas to achieve good margins as well.
+
+17:26 CDT – Following a question from Morgan Stanley, Tesla executives such as Elon Musk reiterated that the company doesn’t really think of competitors that much. Executives also noted that Tesla wants all EVs to succeed, as shown by the company opening its Supercharger Network to other brands.
+
+17:21 CDT – A question from Wolfe Research is asked, with the analyst asking about margins on Tesla’s lineup of services.
+
+Elon Musk reiterates that it’s hard to predict these things. Zachary Kirkhorn also cautioned investors not to be too caught up with the short-term, as Tesla typically adopts strategies designed for the long-term. In a way, gross margin levels only matter in terms of how Tesla will invest it in the following years.
+
+Elon Musk also noted that Tesla is in a unique position because Tesla can technically sell its cars for 0% profit now and yield it in other ways in the future (i.e. through autonomy). He notes that really, no other automaker can do that.
+
+17:16 CDT – A question from Goldman Sachs is asked, with the analyst asking if Tesla is still seeing a 1.8 million target for this year, or will the company be going for 2 million.
+
+Elon Musk noted that from a production standpoint, at least, if things go well, Tesla has a shot at 2 million this year. That being said, Tesla feels comfortable with a target of 1.8 million vehicles for 2023.
+
+17:10 CDT – A Baird analyst asks about Tesla’s programs such as Dojo and Optimus. Elon Musk notes that Dojo has a multi-billion dollar potential. “I look at Dojo as a long shot bet — but a long shot bet that could pay off in a very big way,” Musk said.
+
+He also mentioned upcoming projects such as heat pumps for homes and commercial offices. Musk noted, however, that such products are a “back-burner item.”
+
+Tesla also highlights the idea that there is no such thing as an “EV market share vs ICE.” Tesla sees it as a “car market” overall. “All cars will be EVs,” Musk said.
+
+17:03 CDT – A Deutsche Bank analyst asks about specific ways Tesla could further monetize its products, such as the Robotaxi platform.
+
+Musk explains that the Robotaxi idea is quite a general term, though he reiterates that all vehicles with Hardware 3 could be a Robotaxi. The Robotaxi is also almost synonymous with Tesla’s next-generation vehicle.
+
+A question on automotive gross margins was asked. Kirkhorn noted that several factors contributed to Q1 2023 gross margin results. Elon Musk also mentioned interest rate, and uncertainty in the economy contributed to Q1 2023 results as well.
+
+16:59 CDT – Cannacord asks about FSD take rates and if there are any significant positives and negatives. The analyst also asks if FSD pricing will also be dropping.
+
+Elon Musk notes that this is a tricky question since the value of an autonomous car is enormous. He notes that improvements are dramatic, though it’s more of a “two steps forward, one step back” kind of progress. Musk jokes that he believes FSD will be achieved this year (for the nth time now).
+
+“The trend is very clearly towards full autonomy,” Musk said.
+
+Tesla also highlighted that the company is not impacted by lithium pricing because it has contracts in place. After all, on the lithium front, at least, the chokepoint is refining capacity. The same extends to the refining of the cathode and anode materials.
+
+Elon also begs — literally begs — everyone to go into refining, to much laughter from other executives.
+
+16:51 CDT – The fifth investor question is asked: “How has global order intake tracked since the most recent round of price cuts?”
+
+“Orders are in excess of production,” Elon Musk said.
+
+The final question from investors is asked: “Can you give updated specs and pricing for Cybertruck, and any new features that will make it to production?”
+
+Musk states that Tesla will save it for Cybertruck handover happening toward the end of Q3, though he also stated that the wait would be worth it.
+
+“A product like this only comes only once in a while. It will not be disappointing at all,” Musk said.
+
+16:49 CDT – The fourth investor question is asked: “What do you anticipate FY23 automotive gross margins (ex-credits) will be at the company’s current pricing levels?”
+
+Zachary Kirkhorn noted that it’s difficult to predict this at the moment, especially as Tesla is busy with projects such as the Giga Texas battery factory. So far, Giga Texas’ cost optimizations are focused on stabilizing production and lowering 4680 costs. “We see a pretty good projection for Austin factory,” Kirkhorn said, noting that Giga Berlin also has a lot of areas for cost reduction.
+
+Kirkhon also expresses this thanks to Tesla’s supply chain team, though he also noted that commodities remains max pain point for Tesla.
+
+16:45 CDT – Third investor question is asked: “How well are 4680 cells meeting the expectations described on battery day? How long will it be until the cells meet those goals?”
+
+Austin’s 4680 battery cell facility is progressing well. A Tesla executive noted that Giga Texas’ 4680 factory would be 70% lower CAPEX when fully ramped. The lithium corpus christi refinery will also be breaking ground in May. Tesla also achieved a 25% reduction in COGS.
+
+16:43 CDT – Second investor question is asked: “Do you still believe Tesla Energy will be bigger than auto and when will you provide more formal guidance on megapack and overall Tesla energy?”
+
+“I should just clarify, bigger than auto, from the standpoint of GWh deployed,” Musk said. So while Tesla Energy may not have the total revenue of the company’s automotive business, its battery deployments will be substantially larger. He also affirmed growth in line with expectations.
+
+Zachary Kirkhorn also noted that it would be a few more quarters until Tesla publishes guidance on its Energy business.
+
+16:40 CDT – First investor question is up: “What is the process to make auto pricing adjustments? What variables do you consider? How frequently do you review pricing?”
+
+“We do our best to review the production output and macro conditions,” Musk said.
+
+16:39 CDT – Zachary Kirkorn congratulates the Tesla Energy team for a record quarter. “Our storage business is starting to take shape,” he said. He assures that automotive gross margins remain at healthy levels. He highlights the need to focus on cost efficiencies so that Tesla could achieve its goals.
+
+16:36 CDT – Elon Musk’s opening remarks were a recap of Q1. He highlights that the Model Y was the best-selling vehicle in Europe and it also performed amazingly in the United States. He states that Tesla’s operating margins are still among the highest in the industry. Musk also notes that Tesla is looking to make a lot of margins as the company perfects autonomy.
+
+“While we reduced the price significantly in Q1, our operating margins remain the best in the industry,” Musk said.
+
+As for the Cybertruck, alpha versions are being built today. Volume production line is coming along nicely in Giga Texas. Delivery event for the Cybertruck will likely be set for Q3 2023. The demand for the Cybertruck is notable, Musk said, though it will take some time to get its manufacturing line down pat.
+
+Megapack is making breakthroughs, with the battery posting its best quarter ever in Q1. Goal is set at 40 GWh a year for now. He also highlights Tesla’s ramp for the Megapack, such as the start of a new Megafactory in Shanghai.
+
+As for FSD Beta, the program has reached 150 million miles. “This is a data advantage that really no one else has,” Musk said, adding that training data will be key in getting an advantage in the autonomous driving space. He notes that work on the Dojo supercomputer is still ongoing, and that the program would be advantageous in the future. “
+
+“I really think DOJO potential is really significant,” Musk said.
+
+Musk also thanks Tesla’s global team for their milestones this quarter.
+
+16:31 CDT – The earnings call begins! Tesla Head of Investor Relations Martin Viecha opens the call. Elon and other Tesla executives are present.
+
+16:28 CDT – If there’s something quite interesting about this earnings call, it’s the fact that everything seems to be on time. That Update Letter was posted really quickly after markets closed today. Tesla bulls probably appreciate this, as it’s far less stressful than the long wait times for Update Letters several years ago.
+
+16:25 CDT – Looks like the livestream’s about to go live. To be fair, Tesla’s pretty cool for being so open with its earnings call livestreams. There’s one in YouTube and one on Twitter. Here’s the Twitter one.
+
+16:15 CDT – Hi everyone, and welcome to yet another live blog! Tesla’s Q1 numbers are pretty much in line with what TSLA bulls expected. Gross margins took a hit, but that’s understandable because of the company’s aggressive pricing strategy. Tesla’s war chest remains impressive though, at $22.4 billion.
+
+Don’t hesitate to contact us with news tips. Just send a message to simon@teslarati.com to give us a heads up.

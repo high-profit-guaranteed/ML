@@ -1,0 +1,25 @@
+Fri, 16 Feb 2024 08:00:00 GMT
+
+Microsoft announced in January that it has collaborated with a U.S. national laboratory to develop a groundbreaking battery material that reduces lithium usage by 70%, garnering attention from Tesla CEO Elon Musk.
+
+The development was followed by scientists at the Pacific Northwest National Laboratory (PNNL) in Washington, who have now advanced the solid-state electrolyte into operational prototype batteries, according to a company statement. Yet, the definitive battery chemistry remains under review, pending extensive testing.
+
+This innovative battery material incorporates sodium and additional elements alongside lithium, a costly metal. With lithium-ion batteries currently dominating the market in devices from smartphones to electric vehicles and satellites, this new composition could not only lower the cost of batteries but also decrease the likelihood of fires, as per Microsoft’s statement.
+
+As part of the collaboration, Microsoft used advanced AI and high-performance computing to sift through 32 million candidates for battery materials and identify select workable ones within 80 hours. In the end, Microsoft had a list of 23 materials, five of which were already known.
+
+Musk Responds: Musk reacted to the development from Microsoft and said, “Interesting.”
+
+Tesla relies on lithium-ion batteries for its electric vehicles as well as its energy storage product Megapack. The battery is the single most expensive part of an EV and owing to its high costs, EVs too are priced higher than a traditional combustion engine vehicle.
+
+Musk has often noted affordability as the key element hindering larger-scale EV adoption.
+
+"I mean, to be totally frank, if our car costs the same as an RAV4, nobody would buy an RAV4 or at least they’re very unlikely to," the CEO said during the company’s third-quarter earnings call.
+
+Last week, Musk in a freewheeling X Spaces conversation, said that Earth has ample raw materials for solar energy and lithium batteries, dismissing concerns of scarcity for sustainable energy. "Even if the only way that you powered all of Industry on Earth and all power, including heating and transport, electrically, you could do that with solar and lithium batteries," he said.
+
+Check out more of Benzinga’s Future Of Mobility coverage by following this link.
+
+Read Next: You Can Finally Order Tesla’s New Model 3 In America: What It Costs And How To Unlock A $7,500 Discount
+
+This story was previously published by Benzinga and has been updated.

@@ -1,0 +1,41 @@
+Wed, 18 Oct 2023 07:00:00 GMT
+
+Tesla stock is down 3% during after-hours trading on Wednesday, following the release of its third-quarter earnings report.
+
+Tesla (TSLA 2.25%) stock is down 3% in after-hours trading on Wednesday as of 6:13 p.m. ET, following the electric-vehicle (EV) pioneer's release of its third-quarter 2023 results. The stock's decline is largely attributable to the fact that the quarter's revenue and earnings both missed Wall Street's consensus estimates.
+
+The following is an overview of Tesla's third quarter, centered on seven key metrics.
+
+Quarterly revenue grew 9% year over year to $23.35 billion. This result fell somewhat short of the $24.1 billion Wall Street had expected.
+
+Revenue growth was driven by increased vehicle deliveries and growth in other parts of the business, offset by lower vehicle average selling price (ASP) and foreign-currency headwinds.
+
+Segment year-over-year revenue performance was as follows:
+• Energy generation and storage revenue surged 40% to $1.56 billion. Growth was driven by a 90% increase in energy storage capacity deployments to a record 3.98 gigawatt hours (GWh). Solar power deployments dropped 48% to 49 megawatts (MW), which the company attributed to "sustained high interest rates and the end of net metering in California."
+• Services and other revenue jumped 32% to $2.17 billion. The company said that its pay-per-use Supercharging, insurance business, body-shop operation, and part sales were the main growth drivers.
+
+2. Vehicle production and deliveries were up 18% and 27%, respectively
+
+In Q3, Tesla produced 430,488 vehicles (nearly 417,000 Model 3 and Y units and nearly 14,000 Model S and X units), up 18% from the year-ago period. The company also delivered 435,059 vehicles (more than 419,000 Model 3/Y and almost 16,000 Model S/X), up 27% year over year.
+
+In Q3, the automotive segment's gross margin (gross profit divided by revenue), based on generally accepted accounting principles (GAAP), was 18.7%.
+
+While this is still a solid result relative to the auto industry, gross margin continued its slide both year over year and sequentially. This number was 27.9% in the year-ago period and 19.2% last quarter. These declines are due to Tesla's ongoing vehicle price cuts.
+
+There is a glimmer of good news, however. The sequential decline was smaller than it's been since Tesla started its significant price-cutting late last year.
+
+The quarter's operating income plunged 52% year over year to $1.76 billion. Operating margin (operating income divided by revenue) was 7.6%, lower than the 17.2% in the year-ago period and the 9.6% from the prior quarter.
+
+The big drop in operating income was largely driven by a 43% jump in operating expenses. Tesla management has made it clear for some time that, despite the current industrywide slowdown in EV sales, it will continue to invest in its businesses.
+
+In Q3, GAAP net income was $1.85 billion, or $0.53 per share, down 44% from the year-ago period. Adjusted for one-time items, net income landed at $2.32 billion, or $0.66 per share, down 37% year over year. This result missed the $0.72 adjusted earnings per share (EPS) number Wall Street had projected.
+
+The quarter's cash generated from operations fell 35% year over year to $3.31 billion. Free cash flow dropped 74% to $848 million, driven by a 36% increase in capital expenditures (essentially longer-term growth initiatives). Tesla ended the quarter with $26.08 billion in cash, cash equivalents, and short-term investments, up 24% year over year.
+
+The company said in its release that it remains on track to begin deliveries of its Cybertruck, its futurist-looking pickup, by the end of the year.
+
+There were no major surprises in Tesla's earnings release. Granted, investors were likely somewhat disappointed that the company's top and bottom lines fell short of Wall Street's estimates, though neither was that large a miss.
+
+Of course, the continued slide in profitability metrics is not a good thing, but it's to be expected given Tesla's strategy of boosting EV sales -- which have slowed down industrywide -- by cutting prices.
+
+The company's energy generation and storage business continues to be a bright spot, with its robust 40% year-over-year revenue growth. And its services and other business also had a good quarter, with 32% revenue growth. These solidly growing businesses differentiate Tesla from other pure-play EV makers.

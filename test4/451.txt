@@ -1,0 +1,17 @@
+Fri, 14 Jul 2023 07:00:00 GMT
+
+Tesla Inc TSLA CEO Elon Musk said on Friday that an update is “coming soon” to fix user complaints about a steering wheel nag while under full self-driving mode.
+
+What Happened: Musk responded to Twitter users flagging Tesla to resolve the problem in his signature manner: “Update coming soon.”
+
+“The steering wheel nag is actually making things more dangerous at this point,” Whole Mars Catalog wrote, quote-tweeting another user saying FSD would be much more enjoyable if that issue was resolved.
+
+Why It Matters: The steering wheel nag is a prompt that reminds users to apply pressure on the steering wheels when an autopilot or FSD beta is enabled. If the driver does not heed the visual prompts on the touch screen, it escalates into a beeping noise.
+
+The cabin camera, meanwhile, determines the driver’s inattentiveness and provides audible alerts to revert the driver’s attention to the road.
+
+Currently, both camera and steering wheel inputs are monitored to assess driver attentiveness.
+
+Check out more of Benzinga's Future Of Mobility coverage by following this link.
+
+Read More: Elon Musk’s SpaceX Rockets Towards New Heights With Near $150B Valuation: Report

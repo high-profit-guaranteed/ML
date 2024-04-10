@@ -1,0 +1,64 @@
+Wed, 13 Sep 2023 07:00:00 GMT
+
+Tesla (TSLA) stock price rose from a $249.01 close on Friday to a massive opening on Monday with $264.34 — reaching its peak at $277.50 on Tuesday and closing at $267.48 at the end of the day. Today, the Tesla stock is gaining momentum once again, as of this writing (11:30 am EST), a Tesla share is being traded at $272.45.
+
+The rise of Tesla’s share price this week has been courtesy of a Morgan Stanley report that takes an optimistic view on the future of the company’s Dojo supercomputer. In short, Dojo is a cluster of Tesla’s in-house custom-made chips for training the Autopilot Full Self-Driving (FSD) neural network (NN). This report is the result of extensive research by equity analyst Adam Jonas and his associates at Morgan Stanley.
+
+Morgan Stanley published a 66-page report that takes a deep dive into how Dojo is bound to give Tesla a distinct advantage over other automakers in the near future. The international financial services firm raised its TSLA price target (PT) from $250 to $400 and switched its Top Pick from Ferrari (RACE) to Tesla (TSLA).
+
+According to this report, Tesla is untapping a potential of a $10 trillion total addressable market (TAM). With the rise in Tesla’s share price
+
+“We believe that Dojo can add up to $500bn to Tesla’s enterprise value, expressed through a faster adoption rate in Mobility (Robotaxi) and Network Services (SaaS),” the report stated.
+
+“The change drives our PT increase to $400 vs. $250 previously. We upgrade to Overweight and make Tesla our Top Pick,” Morgan Stanley added to its declaration in the report.
+
+Dojo is Tesla’s custom-designed supercomputer that the automaker uses to train the Autopilot/FSD neural networks inside the company. It’s a cluster of artificial intelligence application-specific integrated circuits (AI ASICs). The current version is the 1st generation AI ASIC named D1 (Dojo V1). The next-generation Dojo V2 chips are already in development at Tesla.
+
+Tesla CEO Elon Musk disclosed some details of the Dojo NN training supercomputer in 2020 in a tweet that he posted to attract Silicon Valley talent. “Tesla is developing a NN training computer called Dojo to process truly vast amounts of video data. It’s a beast,” Musk posted. He dubbed the development of Dojo as a “fundamental architectural rewrite, not an incremental tweak”.
+
+Dojo is planned to work alongside the Tesla supercomputer that currently trains the FSD neural net. The existing Tesla supercomputer cluster is based on Nvidia’s A100 GPUs. According to Tesla, Dojo is 6x faster compared to the A100 chips. Dojo is also efficient because it’s custom-designed for video training vs. Nvidia’s general-purpose AI training GPUs.
+
+Tesla receives video training data from 400,000 vehicles running FSD or FSD Beta. These vehicles record and send back videos of real-life driving situations back to the Tesla Mothership in Palo Alto, California. This huge amount of data is then filtered and the needed clips are fed to the neural network for AI learning.
+
+In its Q2 2023 update, Tesla reported that FSD Beta testers have accumulated 300 million miles of training data.
+
+In Diagram 1 above, we can see how a 10-cabinet ExaPOD Dojo D1 server rack is formed.
+• 10 cabinets are combined to make an ExaPOD (3,000 D1 chips inside)
+
+According to Morgan Stanley’s research, each Dojo V1 ExaPOD will have 1.1 exaFLOPs of compute power (1018 floating-point operations/sec). This makes Dojo one of the most powerful supercomputers in the world.
+
+In a tweet last year, Elon Musk clarified that the Dojo V1 chips are purposefully made to handle vast amounts of video training data. However, the next-gen Dojo V2 chips will be able to process general-purpose AI training to NNs.
+
+In its report, Morgan Stanley disclosed that Tesla has already placed a huge order of 40K – 50K D1 chips this year. “Our APAC semiconductor team’s channel checks suggest that somewhere between 40k – 50k D1 chips have been ordered by Tesla this year,” the financial firm reports.
+
+This suggests that Tesla is following the guided timeline to make Dojo functional by the start of next year and scale it up to 100 exaFLOPs of compute processing towards the end of 2024.
+
+Although it’s an extensive report you can download it in PDF from this Dropbox link, there are some major areas where Morgan Stanley thinks that Dojo will add value to Tesla as a company.
+
+First of all, there is the possibility of Full Self-Driving becoming a reality in the near future. This seems imminent after Elon Musk’s demonstration of FSD V12 and the company putting “Autosteer on city streets” in the list of available features rather than coming soon.
+
+If FSD 12, is a success at least in the United States and Canada, a new consistent revenue stream will open up for Tesla in the form of FSD subscriptions and purchases ($12,000 for one vehicle). We saw a spike in monthly FSD subscriptions when Tesla rolled out FSD Beta as a wide release last year. Another revenue stream will open in the form of Robotaxis, of which, Tesla plans to own a big chunk itself.
+
+The other metric is cost savings. According to Morgan Stanley’s research, in reaching the 100 exaFlOPs of compute power, Tesla will save around ~6.5 billion dollars using the Dojo D1 ASIC chips compared to Nvidia’s A100s.
+
+Since a Dojo D1 tile is 6 times faster than an Nvidia DGX A100 GPU box, Tesla can achieve the same amount of processing power for a 6x reduced cost. The cost of an Nvidia DGX A100 station is around $200,000 and 6 stations are needed to match the power of a Dojo D1 tile (refer to Diagram 1 above).
+
+So, a Dojo D1 tile costs around $200,000 and the same amount of compute with Nvidia DGX A100 stations costs around $1.2 million. To scale this up to 100 exaFLOPs, Stanley’s research suggests that Tesla will be able to save ~$6.5 billion using its own Dojo D1 chips.
+
+As Tesla becomes more and more self-reliant on its natively-built supercomputers and machine learning AI technology, Dojo will also benefit other companies and projects Elon Musk owns.
+
+Musk has already confirmed that Tesla’s humanoid robot Optimus will use the same neural network for its vision which is used by its cars for Autopilot/FSD. However, Morgan Stanley thinks that with the compute power and reduction of cost, Musk’s other projects i.e. X (Twitter), xAI, SpaceX, The Boring Company, and Neuralink will also benefit from the technology.
+
+Thus Dojo is going to be a milestone in creating the X enterprise that Elon Musk dreams of. The ecosystem of Musk’s companies can even benefit from the same AI/Vision/Neural Network for a bigger purpose.
+
+Before and After Dojo
+
+Morgan Stanly predicts that the AI machine-learning landscape will change after Dojo becomes functional. Tesla is planning to bring it to 100 exaFLOPs by Q4 2024.
+
+The following chart by the financial services company’s research team shows how Dojo will impact industry targeting, AI learning speed, Capex on infrastructure, energy usage, and data processing cost.
+
+Interestingly, according to Morgan Stanley, data processing with Dojo will be a paradigm shift — from cost to revenue (e.g. Tesla Autopilot FSD package purchases and subscriptions we discussed above).
+• Elon Musk discloses the Tesla Robotaxi unveiling date — know what to expect from the event
+• Tesla FSD (Supervised) v12.3.3 goes wide release, triggers debate if it’s impressive or whacky (video reviews)
+• Tesla (TSLA) vehicle deliveries drop in Q1 2024 by 20% QoQ — but it still did better than BYD
+• A T-boned Cybertruck is spotted in Tampa, FL caused by rash driving (video)

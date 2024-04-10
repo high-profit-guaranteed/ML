@@ -1,0 +1,17 @@
+Mon, 25 Mar 2024 07:00:00 GMT
+
+Tesla executive Rohan Patel clarified some facts about Supercharger NACS access for non-Tesla vehicles like Rivian and Ford.
+
+Patel—Tesla’s Vice President of Public Policy and Business Development—recently replied to a question from Teslavangelist, who questioned the number of Supercharger stalls non-Tesla owners actually had access to with NACS connectors.
+
+Tesla recently opened the Supercharger Network to Ford and Rivian electric vehicles (EVs) through its NACS connecter. Both automakers claim that NACS connectors provide Ford and Rivian owners access to over 15,000 Tesla Supercharger locations. Teslavangelist pointed out that non-Tesla EV owners only have access to V3 and V4 Superchargers, doubting they have access to 15,000 Supercharger stalls.
+
+Patel clarified that Rivian and Ford EV owners actually have access to 16,000 Supercharger stalls. He explained that around 11,000 Superchargers are exclusive to Tesla customers, most of which are V2 stalls.
+
+“Multiple stations being added every week, and really our only limiting factor is utility interconnection which takes too damn long,” posted Patel on X.
+
+Grok further explained that Tesla has more than 2,100 Supercharger stations and over 20,000 stalls in the United States. Rivian and Ford NACS users have access to a portion of those Superchargers. Rivian rolled out an infotainment update that helps owners find which Tesla Supercharger stalls are compatible with NACS connectors, making trip planning easier.
+
+Tesla plans to roll out Supercharger NACS access to other automakers in the following months, including Lucid, BMW, General Motors, and Hyundai.
+
+If you have any tips, contact me at maria@teslarati.com or via X @Writer_01001101.

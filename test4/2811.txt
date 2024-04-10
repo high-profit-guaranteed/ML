@@ -1,0 +1,87 @@
+Fri, 05 Apr 2024 15:05:01 GMT
+
+* Entry-level Tesla car won’t be built, three sources tell Reuters
+
+* Tesla to focus on self-driving taxis instead, sources said
+
+* Strategy shift comes as Tesla faces competition from China EV makers including BYD
+
+April 5 (Reuters) - EXCLUSIVE-TESLA CANCELS LOW-COST CAR PLANS-SOURCES EXCLUSIVE-TESLA FOCUSES ON DEVELOPING SELF-DRIVING ROBOTAXIS ON SAME SMALL VEHICLE PLATFORM-SOURCES
+
+Tesla has canceled the long-promised inexpensive car that investors have been counting on to drive its growth into a mass-market automaker, according to three sources familiar with the matter and company messages seen by Reuters.
+
+The automaker will continue developing self-driving robotaxis on the same small-vehicle platform, the sources said.
+
+The decision represents an abandonment of a longstanding goal that Tesla chief Elon Musk has often characterized as its primary mission: affordable electric cars for the masses. His first “master plan” for the company in 2006 called for manufacturing luxury models first, then using the profits to finance a “low cost family car.”
+
+He has since repeatedly promised such a vehicle to investors and consumers. As recently as January, Musk told investors that Tesla planned to start production of the affordable model at its Texas factory in the second half of 2025, following an exclusive Reuters report detailing those plans.
+
+Tesla’s cheapest current model, the Model 3 sedan, retails for about $39,000 in the United States. The now-defunct entry-level vehicle, sometimes described as the Model 2, was expected to start at about $25,000.
+
+Tesla did not respond to requests for comment.
+
+The stark reversal comes as Tesla faces fierce competition globally from Chinese electric-vehicle makers flooding the market with cars priced as low as $10,000. The plan for driverless robotaxis, which could take longer to deliver, presents a stiffer engineering challenge and more regulatory risk.
+
+Two sources said they learned of Tesla's decision to scrap the Model 2 in a meeting attended by scores of employees, with one of them saying the gathering happened in late February.
+
+“Elon’s directive is to go all in on robotaxi,” that person said.
+
+The third source confirmed the cancellation and said new plans call for robotaxis to be produced, but in much lower volumes than had been projected for the Model 2.
+
+Several company messages reviewed by Reuters about the decision included one on March 1 from an unnamed program manager for the affordable car discussing the project’s demise with engineering staff and advising them to hold off on telling suppliers “about program cancellation.”
+
+A fourth person with knowledge of Tesla’s plans expressed optimism about the decision to pivot away from the cheap-car strategy in favor of robotaxis, a segment Musk has envisioned as the future of mobility. The source cautioned that Tesla’s product plans could change again based on economic conditions.
+
+Squeezing profits from entry-level vehicles is a challenge for any automaker. But Tesla’s delay in pursuing the car Musk once called his dream made it much tougher because it now faces far more competition in that price range.
+
+While Tesla spent years developing its highly experimental Cybertruck, a pricey electric pickup, Chinese automakers have raced ahead on affordable EVs, grabbing market share, gaining economies of scale and offering consumers bargain prices that Western automakers are struggling to match.
+
+As Chinese EVs surged to challenge Tesla’s dominance, Musk was tending to his sprawling empire, which includes rocket-maker SpaceX, brain-chip developer Neuralink, and social media giant X, which Musk acquired in 2022. Formerly called Twitter, the platform has foundered under Musk’s volatile management, shedding most of its value as the company has lost revenue and advertisers.
+
+Plans for the affordable Tesla have been seen as key to delivering on Musk’s stratospheric ambitions for sales growth. Musk said in 2020 that Tesla aspired by 2030 to sell 20 million vehicles – twice as many as the world’s largest automaker, Toyota, sells today. With the death of the Model 2, it’s unclear how he’ll get there.
+
+Expectations for a $25,000 vehicle have underpinned Wall Street analysts’ more modest, but still ambitious, forecasts for Tesla sales. Those forecasts, according to a Tesla investor-relations document, call for vehicle sales rising to 4.2 million by 2028 from 1.8 million last year.
+
+Musk has wavered on the project before. In a biography of the entrepreneur released last year, author Walter Issacson reported that Musk in 2022 “put a hold on” the entry-level EV plans, reasoning that a Tesla robotaxi would make the car irrelevant. Musk’s advisors urged him to stay the course, the book said.
+
+Tesla called the affordable-car project NV91 internally and H422 externally when discussing it with suppliers, according to two of the sources and company messages reviewed by Reuters.
+
+Messages from the unnamed Tesla program manager to staffers referenced those code names in discussing the project’s termination. One of those messages sent March 1 said that “suppliers should halt all further activities related to H422/NV91.”
+
+The sources said they did not know all the reasons behind the decision to kill the project.
+
+In another March 1 message, the manager thanked engineering staffers for their efforts and urged them to document what they had learned.
+
+“I’d like to thank everyone for all your hard work and dedication to pushing boundaries and executing the best design possible given the aggressive constraints we had to work within,” the message said. “We would not want all our hard work to go to waste, so it’s important that we tie things off and document things properly.”
+
+The messages showed meetings on the affordable-car project being canceled. The two sources said some engineers have been reassigned.
+
+Tesla’s timeline and business model for robotaxis remain unclear. Musk has publicly predicted a future of mobility in which driverless taxis could eventually become a more common mode of transport than human-driven cars. He has said Tesla, the world’s most valuable automaker, would be "worth basically zero" without achieving full self-driving capability.
+
+Currently, self-driving cars have only been approved by U.S. and Chinese regulators for tightly limited, experimental use on public roads.
+
+Tesla has yet to prove it can produce an autonomous car despite years of predictions by Musk that one was just around the corner, an expectation that partly underpinned Tesla’s soaring valuation. The automaker faces lawsuits and investigations into crashes involving its Autopilot and Full Self-Driving driver-assistance systems, which are not fully autonomous. Tesla has blamed the accidents on inattentive drivers.
+
+Tesla's Autopilot woes are among a number of problems that have drawn scrutiny. The automaker faces another investigation into the driving-range estimates of its cars, launched after Reuters reported last year that Tesla had rigged the in-dash range meters in its vehicles to give rosy projections. Reuters reported in December that the automaker blamed “driver abuse” for chronic failures of suspension and steering parts it long knew were defective.
+
+Tesla's image as a climate-friendly innovator has also suffered with Musk’s tilt toward right-wing politics and polarizing public statements, which have turned away some prospective Tesla buyers, according to surveys and experts.
+
+The automaker reported an 8% year-over-year drop in deliveries on Tuesday, just after its chief Chinese competitor, BYD, reported a 13% gain. Tesla shares dropped 5% on the news, deepening a slide of more than 40% since last July, amounting to a loss of about $400 billion in market value.
+
+Still, Tesla’s market capitalization of $545 billion is higher than the combined worth of the next three most valuable carmakers, Toyota, Porsche and Mercedes-Benz. Tesla’s stock value has long been based on future expectations for mass-market sales and driverless cars rather than its current sales and profits.
+
+The affordable-car project’s cancellation comes as Tesla and other established automakers have been rocked by slowing EV demand growth in the United States and Europe, and cut-throat competition in China.
+
+If Tesla had moved forward with the low-cost car, it wouldn’t have arrived on the market until the latter half of 2025, by the company’s estimate. But the entry-level EV segment is already crowded with compelling models from BYD and many other Chinese brands.
+
+Tesla is late to the segment in part because of a pivotal decision by Musk. In 2020, after releasing its hit crossover, the Model Y, Tesla focused on the highly experimental Cybertruck instead of an affordable car.
+
+Musk unveiled a prototype of the angular, stainless steel-clad truck in 2019 and predicted a starting price of about $40,000. The vehicle finally arrived last year as a 2024 model. The two versions available now start at about $80,000 and $100,000. Tesla says a lower-end Cybertruck costing about $61,000 won't be ready for delivery until 2025.
+
+The company has also struggled to work through manufacturing problems, particularly with the truck's pioneering battery technology. Musk hopes to sell the vehicle in high volumes but warned investors last fall about "enormous challenges" ramping up production and making the vehicle profitable.
+
+"We dug our own grave with the Cybertruck," he said.
+
+During the same period, BYD has seen its electric-vehicle sales soar in China, growing from about 130,000 to more than 1.5 million, not including its thriving business in plug-in hybrids or its fast-growing exports.
+
+BYD already offers a slew of low- and mid-range models, including its Seagull hatchback for less than $10,000. The Chinese automaker now plans to export that car for more than double that price - but still lower than the target for the cheap car Tesla had planned to build.

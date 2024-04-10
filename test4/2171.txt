@@ -1,0 +1,47 @@
+Wed, 21 Feb 2024 08:00:00 GMT
+
+If Tesla CEO Elon Musk is serious about moving the electric car company out of Delaware and reincorporating in Texas, he got good news yesterday from a judge in Delaware Chancery Court.
+
+In a case involving Tripadvisor , Vice Chancellor Travis Laster said that the online travel site can go ahead with plans to move its state of incorporation from Delaware to Nevada. The move was pushed by Tripadvisor’s controlling shareholder, Greg Maffei, but was opposed by shareholders who argued that Maffei’s goal was to evade accountability in Delaware courts.
+
+Laster ruled that the company's shareholders can try to recover damages, because moving out of Delaware means they will give up certain litigation rights under Nevada’s business-friendly laws. But he also said Delaware courts will only block companies from ditching Delaware under extreme circumstances.
+
+That’s helpful language for Tesla and Musk, who called last month for Tesla shareholders to vote on a move to Texas after a Delaware judge invalidated his $56 billion pay package.
+
+Even more helpful: The Delaware judge laid out how companies with a controlling shareholder can move out of the state without leaving themselves open to claims by other shareholders.
+
+Generally speaking, Delaware courts give extra scrutiny to business decisions by corporations controlled by one shareholder, usually through the ownership of a majority of the company’s shares. Musk does not own a majority stake in Tesla, but in a couple of recent cases — most notably, the case challenging Musk’s pay package — Delaware judges have deemed Musk to be a controlling shareholder.
+
+Companies can avoid the extra scrutiny, as Laster explained in the Tripadvisor decision, if they meet two requirements. First, the board must create a special committee of directors who are independent of the controlling shareholder. That committee must reach an independent determination of the best course for the company.
+
+And second, a majority of independent shareholders must ratify the board’s decision in a fully informed vote.
+
+The Tripadvisor opinion leaves no doubt that the two-step “cleansing,” process, to use Delaware lingo, applies when a controlled company decides to abandon Delaware for a friendlier jurisdiction.
+
+“If the question is whether a company can come up with a mechanism to get out of Delaware, the answer is absolutely yes,” said shareholder lawyer Randall Baron of Robbins Geller Rudman & Dowd, who led an unsuccessful 2022 challenge to Tesla’s allegedly conflicted acquisition of a solar energy company controlled by Musk. “I don’t think Delaware wants the reputation of being the Hotel California."
+
+So if it’s clear that a theoretical company can take advantage of the two-step cleansing process to exit Delaware without incurring liability to minority shareholders, the question is whether Tesla, specifically, can rely on such cleansing if its board decides to make the move to Texas.
+
+Neither a Tesla spokesperson nor Musk’s go-to outside counsel, Alex Spiro of Quinn Emanuel Urquhart & Sullivan, responded to my query. But I talked to three law professors and two shareholders about whether Tesla will be able to convince a Delaware court that it is entitled to deference on a decision to move out of the state.
+
+Their answers ranged from possibly to probably not — and all agreed that Musk has made things harder for Tesla’s board by loudly advocating for the company to reincorporate in Texas.
+
+Shareholder lawyer Joel Fleming of the Equity Litigation Group and law professor Ann Lipton of Tulane University said that Musk’s actions, including a poll of his followers on X about moving Tesla out of Delaware, will allow dissenting shareholders to argue that the board’s consideration of the move was tainted, since Musk has already said unequivocally that he wants the company to reincorporate in Texas.
+
+“The idea to move out should probably not start with the controlling shareholder,” said Eric Talley, a professor at Columbia Law School. “Tesla is starting with one glove tied behind its back.”
+
+It might nevertheless be possible, said Talley and law professor Jill Fisch of the University of Pennsylvania, for Tesla to convince a Delaware judge that independent board members reached an unconflicted determination to reincorporate in Texas. That could require Tesla to appoint a new director without any ties to Musk, Fisch said.
+
+Would shareholders outside of Musk’s control vote for the move to Texas, as required in step two of the cleansing process?
+
+Musk’s fans likely would, but Talley, Fisch and Fleming pointed out that plenty of institutional investors also own Tesla stock. Those investors typically pay attention to recommendations from the big shareholder advisory firms Glass Lewis and ISS — and at least one of those firms, Fisch predicted, will likely oppose Tesla’s move out of Delaware.
+
+Then there’s the requirement that any shareholder vote must be fully informed. To meet that standard, Tesla would have to file voluminous proxy disclosures about Musk’s anti-Delaware agitation. And no matter how fulsome the disclosures, said Fleming and law professor Lipton, shareholders who oppose a move to Texas will probably file lawsuits claiming that the proxy left out important information.
+
+There is a wildcard here: If Musk and Tesla delay making the move to Texas, they may get a boost from Delaware’s Supreme Court.
+
+In a case involving the spinoff of dating site Match.com, the state justices are right now considering whether to pay greater deference to the boards of the controlled companies in all transactions except for deals to squeeze out minority shareholders. The Delaware justices’ decision could end up helping Tesla fend off any shareholder challenge to a board decision to move out of the state.
+
+That would be an ironic outcome: Delaware’s highest court showing its faith in corporate boards, only to see Tesla capitalize on that deference to leave the state.
+
+Explainer — Did Delaware 'lock the doors' to stop companies from leaving, as Musk claims?

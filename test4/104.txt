@@ -1,0 +1,35 @@
+Thu, 27 Apr 2023 07:00:00 GMT
+
+Tesla’s (TSLA) inventory in the US has reached a new high, which is worrisome at this time in the quarter, and it is pointing to price cuts maybe not working as well as the automaker intended.
+
+Since the beginning of the year, Tesla has consistently reduced prices of its electric vehicles in the US to create more demand.
+
+In some cases, prices were cut by over 20%.
+
+During its earnings call last week, the automaker made it clear that it is monitoring new orders daily against production capacity, and it plans to continue adjusting prices in order to create the demand to match the production rate.
+
+Unfortunately, there’s no easy way to track these metrics, but there’s a way to track Tesla’s inventory in the US, which can give us a general idea.
+
+At the end of last quarter, Tesla disclosed having 15 days’ worth of inventory, which has been its highest in years. The automaker tried to justify it with vehicles in transit, but it’s hard to believe there were that many vehicles in transit at the end of the quarter.
+
+Sure enough, new inventory data, which doesn’t include vehicles in transit, tracked by Matt Jung shows that Tesla’s new inventory vehicles in the US have reached a new high of around 2,600 vehicles:
+
+We can see a big drop at the end of the quarter and after Tesla’s second-to-most recent price drop, but despite a second price drop this month, the inventory appears to keep climbing.
+
+Interestingly, Tesla’s biggest problem appears to be the Model X:
+
+The automaker appears to be stuck with over 1,200 Model X vehicles on inventory in the US.
+
+Model 3 also appears to start being a problem with inventory jumping 50% over the second half of the month despite the recent price cuts.
+
+The only good news is that the price cuts appear to have worked for the Model Y, which is now Tesla’s best-selling vehicle.
+
+Model Y inventory was cut in half to about just 300 units following the two most recent price cuts.
+
+Now it’s important to take these data points with a grain of salt since they also might be a result of Tesla deploying more inventory in the US during a short period of time ahead of switching production for other markets.
+
+But regardless of that, in general, higher inventory is certainly not a good sign for demand.
+
+It will be interesting to see if Tesla decides to again adjust prices down in the US – especially for Model X.
+
+Although when it comes to the electric SUV, Tesla’s recent offer of six years of Supercharging for owners of older Model S and Model X vehicles to upgrade might have done the trick already, and it has yet to be reflected in the inventory vehicles.

@@ -1,0 +1,27 @@
+Sat, 02 Sep 2023 07:00:00 GMT
+
+Tesla Inc's TSLA Full Self-Driving (FSD) Beta program began in October 2020 and has been subject to numerous revisions.
+
+With the introduction of FSD Beta Version 11 — and the subsequent updates bringing it to 11.4.7 — the company started using a single software stack for both city and highway driving, bringing it closer to FSD Version 12.
+
+If you're a Tesla fanatic, you'll notice the word “Beta” wasn't in front of FSD Version 12 — it's not supposed to be.
+
+What Happened: In an exclusive sit-down with Benzinga CEO Jason Raznick on “The Raz Report,” Ark Invest founder Cathie Wood shed new light on the future of Tesla’s FSD program. Amid a June update from CEO Elon Musk, Wood’s insights offer a nuanced perspective on what could become a game-changing technology for Tesla and the automotive industry.
+
+Musk, in late June, said that Version 12 of FSD will no longer be in Beta — which suggests that Tesla's FSD will be purportedly perfected at the time of release. When Raznick asked Wood about the implications, she answered, “Well, if you received the last software upgrade, you’ll see how much FSD has improved.”
+
+She attributed Musk's comment to artificial intelligence, noting that the Tesla CEO needed large language models to "accomplish this last mile" of FSD development, and mentioned that the data already indicates that driving a Tesla with FSD is six times safer than the average car.
+
+
+
+Read also: Musk’s Strategy Working? Tesla’s Market Share Soars In Q2 Amid Bold Price Cuts And Margin Fears
+
+Wood’s focus on safety reflects Ark Invest’s broader investment philosophy, which prioritizes disruptive technologies with transformative potential.
+
+“What we’re seeing is certain breakthroughs in AI [are] taking Tesla closer to its goal,” Wood said, adding that Tesla’s current safety metrics are based on the information that accidents during which FSD is enabled occur “once every 3.2 million miles” — a significant improvement over both Tesla’s pre-FSD metrics and the average human driver.
+
+Wood also shared her thoughts on the concept of a “network effect” for Tesla’s fleet, with its much rumored taxi system being the backdrop. The Ark Invest founder compared Tesla to Cruise Automation, a driverless Uber Technologies Inc UBER competitor which was acquired by General Motors Co GM in 2016.
+
+“It only took [Cruise] three months, so 90 days to figure Austin out, I’m sure it’s motivating Elon even more."
+
+Read next: EXCLUSIVE: Cathie Wood Flips The Script, Warns Of Looming Deflation

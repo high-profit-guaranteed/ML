@@ -1,0 +1,41 @@
+Sat, 11 Nov 2023 08:00:00 GMT
+
+Since its IPO in June of 2010, shares of Tesla Inc. (NASDAQ: TSLA) have added more than 13,000% to their $17 IPO price. Tesla stock got off to a good start, adding more than 40% by the time U.S. markets closed that day.
+
+That’s not to say that the ride has been smooth. At its peak in November of 2021, Tesla stock’s value was nearly double its value at the current price.
+
+At the stock’s peak, a $10,000 investment in Tesla’s IPO would have been worth more than $4.4 million. In addition to share price appreciation, the company has split the stock twice since the IPO. A 5-for-1 split in August 2020 and a 3-for-1 split in August 2022. The two stock splits increased 588 shares purchased at the IPO for $10,000 to 8,820 shares. Those shares would have been worth about $365 each at their peak.
+
+In October of 2021, Tesla’s market cap hit the $1 trillion mark for the first time. Its value peaked the following January at $1.2 trillion. Here’s a look at the company’s performance since fiscal 2020, along with consensus estimates for 2023 following three quarters of results. Tesla does not pay a dividend. The price-to-sales ratio uses the stock price on the last day of the fiscal year.
+
+When analysts talk about Tesla’s future the one thing that gets the most attention is the company’s profitability. And that’s all tied up in its net margin, a number derived by dividing total revenue by net income. As more competitors, particularly from China, enter U.S. and European markets, Tesla may find its margins squeezed by lower cost vehicles.
+
+The good news is how fast the market ‌for battery-electric vehicles (BEVs) and plug-in hybrids (PHEVs) is growing (EVs designate both types). More than 10 million EVs were sold last year, and more than 6 million were sold through the first half of 2023. About 14% of all new passenger vehicles sold last year were EVs, according to BloombergNEF.
+
+By 2030, BloombergNEF estimates that EVs will account for 44% of all new passenger car sales. If the global passenger car fleet remains around its current level of 1.3 billion vehicles, EVs are expected to account for 70% of the fleet by 2050.
+
+Our predicted returns for Tesla stock in 2030 are 750% (bull), 400% return (base), and 0% return (bear). We’ll break down each of these scenarios in more detail below.
+
+Tesla sold more BEVs in the first half of 2023 than any other EV maker by more than 200,000. Its closest competitor is China’s BYD, with a total of more than 600,000. Including PHEVs, BYD sold about 1.2 billion EVs in the first half of this year.
+
+Tesla’s revenue rose by nearly 71% between 2020 and 2021, by more than 51% year over year in 2022, and is on track to rise by nearly 20% in 2023. More competition means ‌lower revenues and, often, lower margins. What does Tesla have to do to beat that?
+
+To maintain or beat its current level of revenue growth, Tesla must successfully launch new vehicles and get more revenue from its other businesses. These other businesses include its battery business, charging stations, and solar installation services. In 2020, vehicle sales accounted for all but $4.3 billion (13.6%) of total revenue. In 2021 and 2022, the non-EV business accounted for $6.6 billion (12.3%) and $10.0 billion ($12.3%), respectively, of total revenue.
+
+The company needs to refresh its vehicle models and pursue its push into robotaxis to help boost sales and maintain its good margins. Self-driving software and licensing generate even higher margins. Tesla’s Dojo supercomputer that’s used to train AI models for self-driving cars went into production in July.
+
+It wouldn’t hurt for Tesla to begin meeting analysts’ earnings and revenue estimates, either. Recent price increases in the United States and China, if left in place, may help keep analysts onside.
+
+Let’s assume Tesla succeeds wildly and annual revenue growth improves by around 35% over the 7-year period to 2030. That translates into 2030 revenue of around $795 billion.
+
+Net income has increased by more than 50% in each of the past two years. Let’s further assume that it continues to increase at the same rate as revenue–30% annually. That pencils out to around $146.5 billion in 2030.
+
+Tesla stock currently trades at a price-to-sales multiple of about 7. The five-year average is closer to 10. Splitting the difference, let’s assume a multiple of 8.5. Finally, assume no additional stock splits and 3.75 billion diluted shares outstanding. On 2030 revenue of $795 billion and a multiple of 8.5, Tesla stock, trading recently at around $212 a share, would be worth around $1,800 per share, a return of more than 750%.
+
+Figuring out the base case is less complicated. The average of four analysts’ estimates of Tesla’s 2030 revenue is $352.88 billion. Using an 8.5 price-to-sales multiple, Tesla’s stock price in 2030 would be around $800 a share. Still a return of almost 400% over the 7-year period.
+
+Tesla CEO Elon Musk has said that he wants to manufacture 20 million vehicles worldwide by 2030. Toyota, the world’s largest automaker, produced 9.57 million vehicles in 2022. The number 2 automaker, Volkswagen, produced 8.26 million vehicles last year. Tesla produced 1.37 million. Tesla’s chances of reaching what Musk called the “aspirational” goal of building 20 million vehicles a year are regarded as slim and none.
+
+It’s virtually impossible to imagine a scenario short of armageddon that would drive Tesla stock to a zero percent return. Here are the average sales estimates for Tesla’s next seven years:
+
+Sales average $223.71 billion for the seven years. If Tesla recorded only $223.71 billion in 2030 revenue–about $130 billion less than the existing estimate–that would still be a return of almost 140% using an 8.5 price-to-sales multiple. That’s not the worst bear-case scenario anyone’s ever seen, but it is a long way from a return of 750%.

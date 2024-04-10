@@ -1,0 +1,52 @@
+Mon, 29 Jan 2024 08:00:00 GMT
+
+If you’re a small investor in Tesla like I am, seeing your precious stock tumble this week has been quite disheartening. It has led me to wonder if the longevity I always assumed for Tesla shares and my portfolio was misplaced. I had only bought a couple of shares here, a couple of shares there. Was that practice so bad? With Tesla’s volatility over the last year+, now I’ve become baffled. Should I sell? Stay the course and wait it out? Or buy low, sell high, as so many bigger investors do?
+
+The news that Cathie Wood’s Ark Invest bought up TSLA stock on both Thursday and Friday of last week gave me more proverbial food for thought. And maybe a little hope.
+
+Chip in a few dollars a month to help support independent cleantech coverage that helps to accelerate the cleantech revolution!
+
+The Run-Up to the Tesla Q4 and FY 2023 Update
+
+Tesla stock had hit its highest point at more than $400 in 2021, and along with that peak came a company valuation above $1 trillion. But it has since plummeted 52%.
+
+In 2023’s third quarter, Tesla’s total revenue increased just 9% year over year to $23 billion. As Trevor Jennewine writes on the Motley Fool, this is a sharp slowdown from 56% growth in the prior-year period, with its non-GAAP net income declining 37% to $2.3 billion.
+
+On Wednesday night Tesla missed earnings views, worried aloud about 2024 as a transition year, and was noncommittal that any substantive growth would take place prior to 2026. Tesla had hit its goal of 1.8 million EV deliveries in 2023 and sold more EVs than any other automaker in the world. Yet TSLA stock plunged 12.1% on Thursday to 182.63, its worst levels since May. It did rebound slightly Friday to 183.25.
+
+A whole bunch of economic factors contributed to the fall: surging inflation, higher interest rates than many people have seen in their lifetimes, and weak consumer confidence. Tesla experienced margin pressure from ramping up production of the Cybertruck, too.
+
+In October, Tasha Keeney, director of investment analysis and institutional strategies at ARK Invest, stated, “Notwithstanding its current growing pains, we continue to believe that Tesla is years ahead of the competition in producing cost effective vehicles.”
+
+Ark Invest’s Ark Innovation ETF (ARKK) bought 148,246 Tesla shares on Thursday, as reported by IBD, while Ark Next Generation Internet ETF (ARKW) added 29,624 shares. The 177,870 shares were worth $32.48 million as of Thursday’s close.
+
+On Friday, Cathie Wood’s Ark Invest bought 182,541 Tesla shares, worth $33.45 million as of the closing price. ARKK bought 151,984 shares and ARKW added 30,557. That’s a two-day tally of 360,411 shares. In fact, Ark Invest has been buying shares of Tesla across the month of January; the firm has at least 6% of its total portfolio in Tesla.
+
+ARK Invest focuses solely on offering investment solutions to capture disruptive innovation in the public equity markets. A whole slew of their exchange-traded funds fall under the disruptive technologies umbrella: artificial intelligence, autonomous vehicles, fintech, DNA sequencing, robotics, and 3D printing. Its star, Ark Innovation ETF, soared by 67% last year, though it remains more than 70% below its peak.
+
+With analysts organized by cross-sector innovation themes to capitalize on technological convergence across markets and industries, ARK Invest looks to a long term investment time horizon. The company’s investment philosophy is based on the premise that the market can be distracted by short-term price movements, so ARK’s active management focuses on the long term effect of disruptive technologies.
+
+Portfolio manager Cathie Wood and her team are focused on long term capital appreciation and recommend an investment horizon of at least 7 years. It shakes up the immediate gratification approach to investing that so many Wall Street analysts take. The investment firm adheres to 3 criteria for innovation.
+• Experience dramatic cost declines and unleash waves of incremental demand: When a technology crosses certain cost or performance thresholds, its addressable market can widen and diversify dramatically.
+• Cut across sectors and geographies: A technology that cuts across industries and geographies can enjoy dramatic increases in addressable markets as applications are “discovered” by different business sectors. Spanning across sectors also provides better product-market fits, insulates against business cycle risk, and garners attention from multiple disciplines.
+• Serve as a platform for additional innovations: A technology upon which other innovations can be built may expand its use-cases in ways that are almost impossible to imagine. As a result, innovation platforms may be underestimated over expansive time horizons because successful forecasts require anticipation of the scope of new products and services.
+
+How does Tesla stock fit into this 3-pronged paradigm?
+
+Clearly, Tesla has had a disruptive influence on transportation and technology, and Cathie Wood has long been bullish on Tesla. Tesla holds more autonomous driving data than anyone in the automotive or technology industries, and more data translates into more refined training in machine learning models.
+
+Musk and team anticipated the vertical alignment that would be necessary to be a viable all-electric car company. It shifted the auto industry toward EVs and continues to achieve consistently growing revenues. Then again, the EV industry is slowly maturing, and Tesla is no longer the disruptive start-up it once was. It now sells millions of cars each year, which means it can’t grow as quickly as it did in the past. Plus, the company faces competitive threats from new EV companies and legacy automakers all over the world.
+
+Tesla has a variety of subsidiary divisions that are making strides in full self-driving (FSD) software, robotaxi services, and cloud artificial intelligence (AI) services through its Dojo supercomputer. Yet that investment rationale hinges tightly on AI that is still in the introductory stage. Musk wants a larger stake in exchange for greater company access to his AI R&D, and the Financial Times reported on Friday that Musk’s new AI startup is looking to raise $6 billion. It’s not the first time he’s pouted his way to financial deals.
+
+Tesla’s cost of global goods sold per vehicle declined sequentially in 2023 to slightly above $36,000. The company says it “remains focused on growing our output, investing in our future growth and finding additional cost efficiencies in 2024.” Battery pack production increased and battery demand was somewhat lower than expectations, leading to a supply-and-demand imbalance that brought prices down to $139/kWh.
+
+Innovations are baked into the Tesla model. The company views its vehicles as a means of selling higher-margin software and services, much like Apple uses its iPhones to sell services. Musk, who crowned himself “Technoking” of Tesla in an SEC filing, resembles Apple co-founder Steve Jobs in his fascination with and emphasis on all things tech. From car repairs to software updates, Tesla relies on technology. Need a performance update? Tesla’s over-the-air updates will take care of that. Tesla also owns and operates 5 massive Gigafactories building batteries and EVs.
+
+Our colleague, Vijay Govindan, posed some questions about Tesla prior to one of our CleanTechnica morning yoga sessions. These questions are worth mulling over as we look ahead and try to decide if we small investors can continue to hold onto TSLA. Govindan feels that Musk is great at hyping the big picture but what is needed now are the small details. Here are his questions and suggestions. Your thoughts?
+• Tesla needs someone like Gwynne Shotwell, who is currently the president and COO of SpaceX. Shotwell is responsible for day-to-day operations and managing all customer and strategic relations.
+• Where is FSD? What is the holdup?
+• Where is the small-sized Tesla?
+• How will Tesla manage the move to open South Carolina?
+• How can Tesla produce more spare parts?
+• What will Tesla do to address Hertz and Sixt concerns?

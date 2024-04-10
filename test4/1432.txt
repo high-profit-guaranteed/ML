@@ -1,0 +1,27 @@
+Sat, 16 Dec 2023 08:00:00 GMT
+
+Has “bad news” suddenly been redefined as “good news?” It almost seems this must be the case, when you consider that on Wednesday, the National Highway Traffic Safety Administration announced a recall of more than two million Tesla (NASDAQ:TSLA) electric cars sold in the U.S. – a number that according to the AP includes “nearly all” Tesla vehicles ever sold in the U.S. – and Tesla stock… went up.
+
+AP goes on to explain that after a two year long investigation, NHTSA has concluded that Tesla’s Autopilot self-driving system is defective and needs to be fixed, including with new software that warns drivers more frequently of potential dangers, and also measures to prevent Autopilot being engaged in certain situations. What’s more, the recall is quite wide-ranging in scope, encompassing all Model S, 3, X, and Y EVs that were sold between October 5, 2012, and December 7, 2023.
+
+Surprisingly, despite the gravity of the situation, Wall Street doesn’t appear overly concerned about the recall. On Thursday, Morgan Stanley analyst and well-known Tesla fan Adam Jonas came out with a report giving his spin on the NHTSA news, and putting it in context for investors. So what does Jonas think?
+
+According to Jonas, this “recall” is really no big deal, and not least because when you’re talking about a software-heavy product like Tesla’s EVs, “recalls” aren’t really recalls at all. They’re software updates, coded back home at Tesla HQ and then broadcast out to every affected car via over-the-air updates. And knowing how low-touch and high-efficiency this update process has proven in the past, Jonas concludes that the recall will have no “material cost impact” on Tesla in fiscal 2024.
+
+Indeed, according to Jonas this putative bad news is almost a kind of good news, because (in his view) Tesla’s software was already “overdue for tweaking,” and may spur Tesla to get a move on with readying its Full Self Driving software for a “v12” update.
+
+The news also gave Jonas an opportunity to review and reiterate his arguments for why Tesla stock, which currently costs about $251 a share, is actually worth $380 a share, and deserves an Overweight (i.e. Buy) rating. (To watch Jonas’ track record, click here)
+• The core Tesla automotive business at $86 a share, based on the assumption that Tesla will grow its production to 7.4 million units per year by 2030.
+• A future “Tesla Mobility” autonomous car business at $82 more dollars per share, based on his belief Tesla will eventually operate a 600,000-car fleet charging $01.8 per mile for taxi service.
+• Tesla as a provider of car parts and technology to other companies — $42 more per share.
+• Tesla’s solar and energy storage business at $48 per share.
+• Tesla offering insurance to buyers of its cars at $8 per share.
+• And finally, Tesla “network services” (everything from driving software to Supercharger power stations) at $115 per share.
+
+Add it all up, and you get to $380 per share, which implies 50% upside from current levels. Call it wishful thinking if you want. But when you’re wishing this big, it’s true that a one-time “recall” that boils down to essentially a software update can’t do a whole lot to damage the total valuation of Tesla stock.
+
+The rest of the Street is less confident, however; based on 14 Buys, 13 Holds, plus 6 additional Sells, the stock has a Hold consensus rating. Moreover, the recent gains have taken the stock beyond what most consider its fair value; at $246.64, the figure represents possible downside of ~3% over the next 12 months. (See TSLA stock forecast)
+
+To find good ideas for stocks trading at attractive valuations, visit TipRanks’ Best Stocks to Buy, a tool that unites all of TipRanks’ equity insights.
+
+Disclaimer: The opinions expressed in this article are solely those of the featured analysts. The content is intended to be used for informational purposes only. It is very important to do your own analysis before making any investment.

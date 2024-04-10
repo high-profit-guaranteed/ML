@@ -1,0 +1,35 @@
+Thu, 16 Nov 2023 08:00:00 GMT
+
+Tesla stock (TSLA) has been on fire recently, up another 2% on Wednesday and up over 10% since the start of the week. While factors like the possibility of flattening or lower interest rates and reports of EV incentives in India boosted bullish sentiment this week, one Wall Street bank revealed Tesla’s non-automotive pursuits could be of interest to investors as well, especially over the long term.
+
+In a note titled, "Contextualizing Tesla’s AI and FSD opportunities," Goldman Sachs' Mark Delaney and his team updated their outlook on the addressable market for software products and services like hardware, AI, and data and tried to model the business as best they could.
+
+Of note is the team’s determination that Tesla’s Full Self-Driving (FSD) software, though still in beta testing, is already worth $1 billion to $3 billion in terms of annual revenue. Tesla charges an upfront fee of $12,000 for its FSD software, or $199 a month on a subscription basis.
+
+Read more: Are electric cars more expensive to insure?
+
+In terms of upside, Delaney wrote that the market opportunity for software like FSD could be $10 billion to $75 billion a year in revenue by 2030, stemming from Tesla’s growing fleet of vehicles. That’s a stunning amount, given that Tesla’s total revenue for 2022 was $81.5 billion.
+
+"We believe that Tesla’s software related revenue could be tens of billions of dollars per year by 2030 (mostly from FSD)," Delaney wrote. "These scenarios suggest that in an upside case FSD could account for tens of billions of revenue per year (and more if we consider licensing of Dojo or selling FSD to other OEMs)."
+
+Delaney modeled low, mid, and high 2030 revenue and EPS projections for Tesla across its various businesses. Excluding vehicles, Delaney’s model shows that those businesses could be worth $115 billion to $225 billion in 2030, with software (the bulk of which would be FSD) worth the aforementioned $10 billion to $75 billion, services and other revenue (such as from the Optimus humanoid and Supercharger Network) coming in at $75 billion to $100 billion, and energy at $30 billion to $50 billion.
+
+The Goldman teams’ full-year EPS projections for the low, mid, and high scenarios are $9.84, $18.08, and $31.91, respectively. Tesla’s full-year EPS for 2022 was $4.03.
+
+With that being said, Delaney and the team only reiterated its stock rating at Hold with a $235 price target because hitting those metrics would require $800 billion to $1 trillion in revenue in a "steady state" by 2040, with a mid-high teens EBIT margin.
+
+A global auto market at 100 million units per year by 2040 and Tesla selling 15 million units a year will help reach that valuation, with room for upside, Delaney predicted.
+
+"[Auto sales] could account for ~$525-600 bn of revenue. We believe services could be >$150 bn as Tesla’s installed base grows (and from opening its charging network and insurance). We believe energy, software and robotics would make up the balance (or provide upside)," Delaney wrote.
+
+The main downside risks to Delaney’s forecast stem around the possibility of steeper price reductions, increased competition in EVs, operational risks, delays with key products like batteries, and of course delays or issues with developing software like FSD.
+
+Currently, FSD has been stuck in beta testing, as the software still has kinks to work out. And of course there are looming investigations by safety regulator NHTSA and the Department of Justice into the software’s capabilities as well as Tesla’s touting of them to the public.
+
+It’s still a high bar to clear, and not without risk, but Goldman’s bull case for Tesla’s non-automotive businesses is starting to materialize, at least from an investment perspective.
+
+Pras Subramanian is a reporter for Yahoo Finance. You can follow him on Twitter and on Instagram.
+
+Click here for the latest stock market news and in-depth analysis, including events that move stocks
+
+Read the latest financial and business news from Yahoo Finance

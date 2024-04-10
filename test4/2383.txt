@@ -1,0 +1,43 @@
+Sat, 09 Mar 2024 08:00:00 GMT
+
+Tesla's dominance of the EV market is waning -- but this company's dominance of the microchip market isn't.
+
+It may be one of the so-called "Magnificent Seven" stocks, but Tesla (TSLA 2.25%) hasn't been so magnificent of late. Share prices of the electric vehicle (EV) maker are down nearly 40% since July and have been more than halved since their late-2021 peak. That weakness coincides with the rise of more serious competition and subsequent price cuts on Tesla-made EVs.
+
+Connect the dots -- perhaps this electric vehicle company isn't quite as bulletproof as many investors once believed. Maybe it doesn't even deserve to be one of the Magnificent Seven.
+
+If Tesla isn't deserving, what company might be a suitable replacement to keep the lucky number Seven intact? There's another heir-apparent name that I think could easily take Tesla's place (and maybe should have from the start). That stock is Taiwan Semiconductor Manufacturing (TSM 1.83%).
+
+It's not a household name, but there's a good chance that you or someone living in your household regularly uses a product that TSMC, as the company is better known these days, made.
+
+See, TSMC is contracted by companies ranging from Nvidia to Apple to Qualcomm to make the microchips and computer processors that they design for themselves. It's the world's largest chip foundry, in fact, with numbers from TrendForce suggesting it controls nearly 60% of the $600 billion semiconductor market. Moreover, it makes the vast majority of the world's high-performance processors.
+
+Many investors now understand this much reliance on one manufacturer in one country is a big risk; the advent of the COVID-19 pandemic disrupted the entire tech sector's supply chains, largely because it disrupted TSMC's.
+
+That's why several chip companies, including Intel and the aforementioned Apple, are now working to ensure these disruptions don't become serious problems again in the future. How? By arranging for more in-house and domestic production of microchips.
+
+Two reasons not to sweat the shakeup
+
+This shift isn't the existential threat to TSMC that it might initially seem, though, for a couple of reasons. Chief among these reasons is the simple fact that -- for all its potential pitfalls -- outsourcing the production of semiconductors to third-party manufacturers still makes the most fiscal sense for most brands.
+
+In simplest terms, chip foundries are expensive. Intel's investment in new U.S.-based production facilities could reach as much as $30 billion when all is said and done, for perspective. That's a lot. It's so much, in fact, that it's cost-prohibitive for most other chip names to follow suit.
+
+It's going to remain more cost-effective for most companies to punt foundry duties to a proven contract manufacturer like TSMC. In this vein, Apple is opting to help TSMC establish a new chip manufacturing facility in Arizona rather than build one of its own.
+
+And the other reason Taiwan's dominating microchip manufacturer isn't apt to be dethroned anytime soon? Time is on its side.
+
+Although it was initially planned to be operational by late 2022, TSMC's foundry in Arizona won't likely even be able to start production until 2026, and won't be completed until 2027 or even 2028. In the meantime, Intel's plans for a pair of new manufacturing sites were unveiled in late 2022 as well, but they won't go into production until at least late 2026 as well. One of the big issues holding things up is finding enough qualified staff to work in the plants.
+
+Problem? The world just can't wait that long for new chipmaking capacity. Information technology market research outfit Gartner believes the worldwide semiconductor market's revenue will grow to the tune of 17% in 2024, driven by raw demand. To reach that pace, tech companies are going to have little choice but to tap TSMC if they haven't already. To this end, analysts say the chipmaker's top line is set to grow 22% this year, and another 20% next year.
+
+As long as the company can continue proving it's capable of delivering, the recently stoked interest in in-house foundry solutions could wane going forward.
+
+Now bigger than Tesla, and built to stay that way
+
+And a more promising future still isn't the only reason Tesla should arguably be swapped out of the Magnificent Seven with TSMC, by the way. There's also the simple matter of market capitalization. With a current market cap of $700 billion, TSMC is a bigger company than Tesla is at this time, making its overall impact on the broad market greater than Tesla's. That's one of the top hallmarks of the Magnificent Seven stocks.
+
+More than that, though, TSMC's market cap is likely to remain greater than Tesla's for the foreseeable future. That's because the chipmaker's long-term leadership potential is secure. Tesla's isn't.
+
+Just consider the numbers. EV Markets Reports says Tesla's share of the domestic electric vehicle market has fallen from roughly 60% in 2021 to only 46% last year, despite generous price cuts. Ford, Hyundai, Stellantis, and General Motors all finally turned up the heat on their electric vehicle businesses. China's BYD Auto's share of the worldwide EV market also caught up with Tesla's last year, according to data from Counterpoint Research. The current trajectory of this data further suggests BYD will become the planet's single-biggest EV maker (as measured by unit sales) this year.
+
+So again, connect the dots. Tesla may have at one point deserved a spot on the Magnificent Seven roster. It doesn't any longer, though. TSMC is outplaying Tesla, with more of this same outperformance in store for the foreseeable future.

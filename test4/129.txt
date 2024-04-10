@@ -1,0 +1,27 @@
+Fri, 05 May 2023 07:00:00 GMT
+
+Elon Musk has received massive flak for backing an “open letter” asking to pause AI trials “more powerful” than OpenAI’s chatGPT-4 — and he is once again being targeted by fellow “PayPal Mafia” Reid Hoffman.
+
+What Happened: LinkedIn co-founder Hoffman, who sold his product to Microsoft Corp MSFT in 2016, discussed Elon Musk’s differing views on AI during a session at the Milken Institute’s Global Conference 2023, according to Business Insider.
+
+“And Elon — while signing that letter — is trying to hire a whole team and stand up an AI effort,” Hoffman stated.
+
+See Also: Watch Out, Google: Microsoft Just Opened Up Bing AI For Everyone
+
+Hoffman was referring to Musk’s plan to develop an AI system that seeks maximum truth. The Tesla Inc. TSLA CEO dubbed it as “TruthGPT,” which seemed like a direct dig at OpenAI’s chatGPT.
+
+“I think some of it’s a little bit less well-intentioned, like ‘Everyone else slow down, so I can speed up,” Hoffman said.
+
+Hoffman also praised Musk, saying he has done some “amazing stuff” with SpaceX and Tesla, but said the Twitter CEO has an “I-must-build-it-with-my own hands” tendency.
+
+He added, “It’s overall, I think, broadly a mistaken effort because actually, I think everything we’ve seen so far in terms of development is the best ways to get safety is through larger scale models — they actually train to align better with human interests and so the call to slow down is actually, in fact, less safe.”
+
+Why It’s Important: Hoffman has previously commented on the open letter during an appearance on CNBC’s “Squawk Box.” At the time, he disapproved of halting AI development and criticized Musk for his stance, the report noted.
+
+It was previously reported that Musk had assembled a team of AI researchers and engineers and secured thousands of high-powered GPU processors from Nvidia Corp. NVDA.
+
+Musk reportedly wanted to run OpenAI — the company he co-founded in 2015 — by himself, but fellow co-founder Sam Altman and others turned down his proposal.
+
+Check out more of Benzinga’s Consumer Tech coverage by following this link.
+
+Read Next: Apple’s AI Playbook: Why Tim Cook Is Not Following The Google And Microsoft Model

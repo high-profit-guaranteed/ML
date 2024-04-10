@@ -1,0 +1,27 @@
+Tue, 26 Dec 2023 08:00:00 GMT
+
+Income investors who bought the YieldMax TSLA Option Income Strategy ETF (TSLY) have underperformed the market in 2023. The ETF crashed by over 10% while Tesla more than doubled. Other simpler ETFs like SPY, QQQ, and DIA also rose by double digits.
+
+Are you looking for signals & alerts from pro-traders? Sign-up to Invezz Signals™ for FREE. Takes 2 mins.
+
+The field of income ETFs has grown rapidly in the past few months. Some of the top funds in the industry are the likes of JPMorgan Equity Premium Income ETF (JEPI), JPMorgan Nasdaq Equity Premium Income (JEPQ), and Defiance Nasdaq 100 Enhanced Options Income ETF (QQQY).
+
+These funds saw robust inflows in 2023 as investors chased their substantial monthly yield. TSLY advertises a 75% yield while JEPI, JEPQ, and QQQY have over 10% in annualized yields. Such a return would be great in a period when US Treasuries peaked at about 5%.
+
+However, as I warned here and here, while these funds offer an attractive monthly return, the reality is that their total returns are much lower than their underlying assets. This situation is more pronounced when these assets are in an uptrend.
+
+For starters, TSLY is an ETF that aims to take advantage of Tesla’s stock price while limiting its downside. It does that by investing most of its holdings on synthetic assets that track Tesla stock. This part of the portfolio aims to benefit from the stock’s upside.
+
+The other part is where the fund sells call options on its synthetic assets. In this case, if the stock drops, the options trade becomes worthless but the fund keeps the premium, which it distributes to its investors.
+
+If the stock rises, the fund takes both the premium and benefits from its price movement. While the stock surge is a good thing, the strike price can be triggered, capping its upside.
+
+The challenge with these active ETFs is that, based on historical data, they tend to underperform their core assets. In this case, an investor who allocated funds to Tesla made more money than the one who bought TSLY.
+
+This situation could continue in 2024 if the stock market rally intensifies. Most analysts believe that stocks could continue rising in 2024 if the Federal Reserve and other central banks pivot.
+
+Turning to the daily chart, we see that the TSLY stock price has crawled back in the past few weeks and is now about to retest the first support of the pitchfork tool. The 25-day and 50-day Exponential Moving Averages (EMA) have made a bullish crossover. Also, the stock has moved above the 38.2% Fibonacci Retracement level.
+
+Therefore, the outlook for the stock is bullish, with the next point to watch being at $12.86, its highest point on September 15th. This price is about 6.70% from the current level and is at the 38.2% retracement point.
+
+In the long term, the ETF is forming a head-and-shoulders pattern, meaning that it could retreat in 2024. If this happens, the key price to watch will be at $9.73, the lowest point on October 31st.

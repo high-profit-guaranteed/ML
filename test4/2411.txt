@@ -1,0 +1,67 @@
+Mon, 11 Mar 2024 07:00:00 GMT
+
+The stock market has sold off a little recently, but it has still been an overall excellent start to the year, with the S&P 500 up 7% as of market close March 6. However, some major stocks are under pressure.
+
+The "Magnificent Seven" -- Microsoft (NASDAQ: MSFT), Apple (NASDAQ: AAPL), Nvidia (NASDAQ: NVDA), Amazon (NASDAQ: AMZN), Alphabet (NASDAQ: GOOG)(NASDAQ: GOOGL), Meta Platforms (NASDAQ: META), and Tesla (NASDAQ: TSLA) -- collectively make up 29% of the S&P 500. The performance of these companies has ripple effects throughout the broader market.
+
+Alphabet, now down 6% year to date, just joined Apple and Tesla in falling below its 200-day moving average. Here's why I'm watching that metric. It's not a buy or sell signal, but it's interesting.
+
+Watching where a stock has been
+
+The 200-day moving average shows the average closing price of a stock over the last 200 trading days. Traders track moving averages to gauge a stock's momentum.
+
+For example, a so-called golden cross is when the 50-day moving average passes the 200-day moving average, a sign that investors are getting bullish on a stock. Interestingly enough, the current price of four Magnificent Seven stocks is above the 50-day moving average and the 200-day moving average -- which is a very bullish sign.
+
+The 200-day moving average is often seen as a critical level of support. If a stock's price falls below the average, it is a bearish sign that investors have turned negative on the stock.
+
+Notice that the 200-day moving average can be quite different from the midpoint between the 52-week high and the 52-week low.
+
+In the case of Apple, its 200-day moving average is only 8% below the 52-week high but nearly 25% above the 52-week low. That usually means the 52-week low was short-lived, or the stock has hovered around the 52-week high for a while.
+
+A great divide has formed in the Magnificent Seven between stocks that are in favor and those that are out of favor. Knowing how the market feels about a stock can help you brace for volatility, but it doesn't necessarily mean a stock is worth buying or selling.
+
+The market gets things wrong all the time. One of the best recent examples is Meta Platforms. Since the end of 2022, Meta Platforms is up over 310%. In 2022, it lost over 64% of its value.
+
+If you were following moving averages alone, you may have been selling Meta Platforms in 2022 and would have missed out on the epic rally since then. If you simply held the stock, you would have done quite well.
+
+Another recent example is Target (NYSE: TGT). On Nov. 9, 2020, Target collapsed to a three-year low. Since then, it is up a staggering 62.5% in just four months -- a monster move for a stodgy dividend-paying stock.
+
+In sum, moving averages indicate market trends and can lead to accelerated buying and selling.
+
+Using moving averages to your advantage
+
+The best way to use moving averages is to understand how the market is reacting to something and see if you agree or not. For example, if you think that Alphabet has some challenges, but they don't warrant the stock falling below the price that is its 200-day moving average, you could use it as a buying opportunity.
+
+Similarly, if you believe Nvidia is doing very well, but not so well that the stock's price should be 80% higher than the price of its 200-day moving average, then you may want to hold off buying the stock.
+
+In other words, you can use the price of a stock relative to the 200-day moving average to see if the market agrees with you or not. If it doesn't agree and a stock is oversold, it could be a great buying opportunity. If it does agree, then the positives may already be priced in and the risk/reward isn't worth it.
+
+Some of the greatest wealth-generating moments are when the market turns negative on a stock even though the investment thesis hasn't changed. There may be some challenges, but oftentimes the sell-off is overblown.
+
+It happened in 2022 with many tech companies. Before that, there was the pandemic-induced plunge. There was also the notable 2018 U.S.-China trade war sell-off.
+
+The point is that sell-offs happen all the time, and they sometimes go too far. Right now, there may be some stocks that have run up too far too fast, while others are facing a wave of criticism that may be overblown.
+
+What the Alphabet sell-off tells us
+
+The biggest takeaway from the price action of the Magnificent Seven stocks is that the market can keep going up even if important, heavily weighted stocks are selling off.
+
+Apple used to be the most valuable company in the world and a clear market leader. Alphabet was once the third-most-valuable company. Tesla was once worth over $1 trillion, and was the single best-performing stock in 2020. And yet all three stocks are now moving in the opposite direction of the market.
+
+The market is rewarding companies that are growing, have strong earnings, and/or have a clear runway toward monetizing artificial intelligence (AI). It is also punishing companies that should be leading AI but have lagged behind the competition (like Alphabet).
+
+The market as a whole can offset the losses from Apple, Alphabet, and Tesla largely because other sectors are doing well, too. Industrials, financials, and consumer staples are examples of sectors outside of big tech that are all making new 52-week highs.
+
+Alphabet breaking below its 200-day moving average is a sign that there could be further selling pressure. But if you believe the investment thesis hasn't changed, then you may want to ignore this signal.
+
+Should you invest $1,000 in Alphabet right now?
+
+Before you buy stock in Alphabet, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Alphabet wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Stock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than tripled the return of S&P 500 since 2002*.
+
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Daniel Foelber has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Alphabet, Amazon, Apple, Meta Platforms, Microsoft, Nvidia, Target, and Tesla. The Motley Fool recommends the following options: long January 2026 $395 calls on Microsoft and short January 2026 $405 calls on Microsoft. The Motley Fool has a disclosure policy.
+
+A Third "Magnificent Seven" Stock Just Broke Below This Key Indicator. Should Investors Be Worried? was originally published by The Motley Fool

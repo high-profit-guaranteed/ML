@@ -1,0 +1,43 @@
+Fri, 09 Feb 2024 08:00:00 GMT
+
+Investors often debate whether Tesla (NASDAQ: TSLA) is merely an electric carmaker masquerading as an artificial intelligence company or a genuine artificial intelligence company that also makes electric vehicles. For Morgan Stanley analyst Adam Jonas, there is no doubt Tesla fits into the latter category. His conviction is underscored by a bull-case price target of $500 per share, implying 170% upside from its current price.
+
+Here's what investors should know about Tesla and its AI ambitions.
+
+Tesla struggled with economic headwinds in 2023, and things may not improve in 2024
+
+Tesla reported disappointing financial results for the fourth quarter, missing expectations on the top and bottom lines. Total revenue increased just 3% to $25.2 billion as high interest rates suppressed demand for electric vehicles. Additionally, non-GAAP (adjusted) net income dropped 39% to $2.5 billion as price cuts meant to stimulate demand led to material margin compression.
+
+Furthermore, while Tesla does not provide precise guidance, management did warn that volume growth could be much lower this year as it leans into its next-generation vehicle. For context, Tesla delivered 1.81 million vehicles last year (up 38%), and it produced 1.85 million vehicles (up 35%).
+
+Tesla shares have declined 26% year to date due to the combination of disappointing fourth-quarter results, worrisome guidance, and allegations of drug use by CEO Elon Musk and certain board members. However, Wedbush Securities analyst Dan Ives says that narrative ultimately amounts to "noise for the stock." The long-term investment thesis remains intact, and the recent drawdown creates a buying opportunity for Tesla bulls.
+
+Tesla could become more profitable as it leans into artificial intelligence
+
+Tesla is the market leader in battery electric vehicles, and the company has touted its once industry-leading operating margin as proof of superior manufacturing technology. Margins have since contracted as price cuts have chipped away at profitability, but Tesla is still a force to be reckoned with in the manufacturing department.
+
+Tesla produces battery packs (the most expensive part of an electric car) at a lower cost per kilowatt hour than its peers, and Cairn Energy Research Advisors says the company's leadership will persist through the end of the decade. Moreover, Tesla will use a new manufacturing system that could cut production costs in half to build a next-generation vehicle in late 2025. That vehicle, which may start as low as $25,000, has two implications for investors.
+
+First, costs associated with the production ramp will drag on profitability in the near term. Second, the low price could significantly boost demand in the long run, creating more upsell opportunities with adjacent products like full self-driving (FSD) software. Tesla already sells FSD beta subscriptions in some geographies, but the company plans to monetize the software through licensing deals and robotaxi services in the future.
+
+Tesla has a strong position in the burgeoning autonomous vehicle market, given that it possesses more autonomous driving data than its peers. To elaborate, the company has a growing number of FSD-enabled cars on the road, and each one increases its ability to collect training data for the underlying artificial intelligence (AI) models. Tesla hopes to accelerate the timeline to full autonomy with Dojo, a supercomputer purpose-built for training computer vision systems, which itself could become a revenue stream in the future.
+
+Ultimately, Musk believes FSD could push Tesla's gross margin to 70% in the future, up from 18.2% last year. Morgan Stanley analyst Adam Jonas is equally bullish on adjacent mobility and network services. In fact, he attributes more than half of his $500 per share price target to products like FSD software, robotaxi services, paid charging, insurance, and AI cloud services through Dojo. Jonas believes those offerings will put Tesla in front of a $10 trillion addressable market by 2030.
+
+Tesla stock is difficult to value because the investment thesis is somewhat theoretical
+
+Going forward, Grand View Research says electric vehicle sales will increase 15% annually through 2030, while the autonomous vehicle market expands at 22% annually during the same period. However, Tesla is a difficult stock to value because a sizable portion of the bull thesis is built on products that are either partially or entirely theoretical. Even Wall Street has trouble nailing down estimates.
+
+Indeed, the Wall Street consensus calls for Tesla to grow sales at 18% annually over the next five years, but that figure encompasses a wide range of estimates. For instance, Adam Jonas of Morgan Stanley expects Tesla to grow sales 23% annually over the next eight years. In both cases, those estimates make the present valuation of 6.7 times sales look attractive, but investors should bear in mind that AI software and services are baked into the Wall Street forecasts to varying degrees.
+
+Investors who lack confidence in that narrative should avoid Tesla. There are plenty of other AI stocks worth buying. Alternatively, Tesla bulls should consider buying a small position in the stock today but not with the expectation of a 170% return in the near term. That is highly unlikely, given the difficult industry climate and negative sentiment surrounding the stock. But give it five to 10 years, and Tesla could produce a return of that magnitude or higher.
+
+Where to invest $1,000 right now
+
+When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for two decades, Motley Fool Stock Advisor, has more than tripled the market.*
+
+They just revealed what they believe are the 10 best stocks for investors to buy right now… and Tesla made the list -- but there are 9 other stocks you may be overlooking.
+
+Trevor Jennewine has positions in Tesla. The Motley Fool has positions in and recommends Tesla. The Motley Fool has a disclosure policy.
+
+1 Artificial Intelligence (AI) Growth Stock to Buy Before It Soars 170%, According to a Wall Street Analyst was originally published by The Motley Fool

@@ -1,0 +1,39 @@
+Wed, 23 Aug 2023 07:00:00 GMT
+
+GraniteShares is rolling out another batch of single-stock ETFs to catch the latest wave of trading momentum.
+
+The $1.7 billion asset manager, which has six single-stock ETFs already on the market, on Tuesday launched four more to try and capitalize on growing buzz around Nvidia, Tesla and Advanced Micro Devices.
+
+“There’s a lot of interest in these products, partly because they are an easy way to get access to shorting or leveraging popular stocks,” said Will Rhind, founder and chief executive of GraniteShares.
+
+The GraniteShares 1.5x Short NVDA Daily ETF (NVD) launches the day before the high-flying Nvidia reports earnings on Wednesday. The firm’s stock is up more than 220% so far this year, and Rhind is banking on traders looking for an easy way to bet against the run lasting much longer.
+
+NVD, which offers the greatest short exposure of Nvidia in an ETF so far, is the flipside of the GraniteShares 1.5x Long NVDA Daily ETF (NVDL) that launched in December and has grown to more than $215 million in AUM.
+
+“That fund is a huge success, and it has been very popular since the beginning,” Rhind said.
+
+The other funds that launched Tuesday are the GraniteShares 1.75x Long TSLA Daily ETF (TSLR), GraniteShares 1.5x Short TSLA ETF (TSDD), and GraniteShares 1x Short AMD Daily ETF (AMDS).
+
+Like NVD, the other three new ETFs represent unique exposures to the underlying stocks.
+
+TSLR, at 1.75 times leverage, is the greatest leveraged Tesla exposure on the market. TSDD, at 1.5 times, is the greatest short-side leverage on the market for Tesla. And AMD is the first single-stock ETF available to short Advanced Micro Devices, which is up more than 67% so far this year.
+
+“Single-stock exchange-traded funds are all about leverage, so the fact that GraniteShares now has the highest-leverage Tesla ETFs on the market gives them a chance to attract the attention of volatility-hungry traders and potentially collect assets,” said Sumit Roy, senior analyst at etf.com.
+
+Roy added that TSLR will be competing against the Direxion Daily TSLA Bull 1.5X Shares (TSLL), the first single-stock ETF to top $1 billion in assets under management, while TSDD will compete with the AXS TSLA Bear Daily ETF (TSLQ).
+
+“Meanwhile, NVD will complement GraniteShares’ existing long Nvidia fund, the GraniteShares 1.5x Long NVDA Daily ETF, which has seen some success and has around $100 million in AUM,” Roy added.
+
+Single-stock ETFs have only been on the market for a year, and GraniteShares has designs on capturing broad market share.
+
+Rhind said there are approximately 30 single-stock ETFs remaining on its earlier filings that can be rolled out when the time is right.
+
+“Being first matters hugely, which is why we’ve tried to avoid products where there is a competitor,” he noted. “We’ve been running these in Europe for three years, and they’ve been very popular there because it’s another way to get leverage on stocks.”
+
+GraniteShares’ single-stock ETFs charge 0.99%, which is on the high side for an ETF, but Rhind said for these kinds of trading strategies, liquidity is the priority.
+
+“People look at liquidity more than anything else when it’s a trading product; that’s why SPY is still so dominant. It has trading volume and size even though the price is little higher than some competitors offering exposure to the S&P 500,” he said.
+
+Rhind also underscored that single-stock ETFs are designed as trading vehicles and could experience tracking error if they are tucked inside a portfolio for the long term.
+
+“These are short-term products that rebalance every day because the objective is to maintain the same leverage every day,” he explained. “The general rule of thumb is, with the compounding effect, in a trending market, you outperform. But if the market goes against you, you will underperform, and they also tend to underperform in a choppy market.”

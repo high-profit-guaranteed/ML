@@ -1,0 +1,5 @@
+Fri, 08 Dec 2023 08:00:00 GMT
+
+Tesla Inc. has lost another key member of the team working on artificial intelligence and a supercomputer to develop autonomous technology.
+
+Bill Chang, a principal system engineer working on AI, left Tesla in October. Chang updated his LinkedIn profile on Thursday to say he’s stepping back from the Dojo supercomputer project. He had appeared on stage at Tesla’s 2022 AI day, explaining the infrastructure, technology, power and cooling challenges associated with Dojo.

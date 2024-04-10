@@ -1,0 +1,47 @@
+Tue, 12 Mar 2024 07:00:00 GMT
+
+We all love high yields—but every now and then we run across one here at Contrarian Outlook that’s so high it’s a blaring warning sign.
+
+Case in point: the 60.4% yield (no, I didn’t misplace a decimal there!) on a tech-focused fund called the YieldMax TSLA Option Income Strategy ETF (TSLY).
+
+That’s right: buy this one and, going by the headline yield, you could recover your upfront investment in less than two years through dividend payouts!
+
+But, well, not so fast: because in this case (as in pretty well all cases when dividend yields strain the bounds of reality), some income-hungry investors are being drawn to a high yield that not only can’t last, but masks poor long-term performance, too.
+
+In fact, despite that outsized yield, another tech fund we’ll cover in a bit—a closed-end fund (CEF)—clobbers TSLY while offering a dividend that’s only about one-tenth the size.
+
+Before I continue, let me be clear that I’m not criticizing Tesla (TSLA) here. Despite the name, this fund has little to do with Tesla. As YieldMax admits, “The Fund does not invest directly in TSLA.” Instead, it invests in a variety of call and put options on Tesla shares that aim to generate a profit from the volatility of Tesla stock.
+
+These options fund the dividend, but the problem is that this is a very unsustainable way to fund a payout, as history shows:
+
+This kind of dividend cut is not normal, but it does demonstrate the power of high yields to attract investors, despite a non-existent dividend-growth record. And TSLY has attracted investors, to the tune of $778 million in net assets.
+
+Now, for comparison’s sake, let’s roll in that CEF I mentioned a second ago, the Columbia Seligman Premium Technology Growth Fund (STK), a 5.5%-yielder that, as the name suggests, sports a portfolio that mainly consists of large-cap tech names. Its top-10 holdings lean toward semiconductor firms like Lam Research (LRCX), Broadcom (AVGO) and Teradyne (TER).
+
+Like TSLY, STK sells options to help fund its dividend, but it simply sells call options. These give the buyer of the option the right to buy the fund’s stocks at a fixed date and price in the future—STK keeps the premium it charges for this right no matter how these trades play out.
+
+That helps fund the dividend with little risk to the fund (save for its top performers being sold, or “called away.”) And of course, STK actually holds the stocks on which it sells options—and is far more diversified than TSLY, with its sole reliance on Tesla.
+
+The result has been a payout that has held firm for over a decade, with a few big special payouts issued here and there, as well.
+
+Clearly, STK is more preferable for income investors, even with its smaller headline yield. But it’s also more preferable for investors of all stripes who don’t like to lose money, as we can see when we compare the total returns of these two funds since TSLY’s IPO a little over a year ago:
+
+As you can see, TSLY has lost investor money since its IPO a bit over a year ago (even with that massive dividend), while STK is up over 40%. And while shares of Tesla have also underperformed STK in that time period, they’ve run ahead of TSLY, showing that despite the dividend, you’d have been better off simply owning the stock itself!
+
+There’s more reason to prefer STK over TSLY, too, beyond the more sustainable payouts and the outperformance. STK has also beaten the NASDAQ—shown below by the performance of the benchmark Invesco QQQ Trust (QQQ)—over the last decade, which I chalk up to management’s ability to identify better performers and ignore the laggards.
+
+I think this means STK is long overdue for a dividend hike, especially since the fund yielded more like 8.6% back when I was first bullish on it back in 2017. It’s been on a tremendous run since then.
+
+This means that investors who bought around then have kept their 8.6% yield and are sitting on capital gains that they can cash in whenever they want. So far, at least, TSLY has provided the exact opposite: capital losses.
+
+Will TSLY turn around? Anything’s possible, but there’s no indication of such a shift, since the market isn’t meeting the fund’s need for more TSLA volatility.
+
+While the stock’s volatility has ticked up in recent weeks, largely on concerns that other electric-car companies are moving in on its turf. If the stock steadily falls and TSLY fails to capture that movement, investors won’t see their dividends go up.
+
+None of this should surprise anyone. A 60% yield is not sustainable, no matter what kind of stock or fund you’re talking about.
+
+Admittedly, that doesn’t mean a 5.5% yield with STK—while solid and likely to grow—is the best game in town, either. For one, the fund trades at a 9% premium to net asset value, or NAV, as I write this. That a rich valuation reflects investor enthusiasm about tech stocks right now (part of the reason why TSLY has attracted the inflows it has, as well).
+
+But even with that premium, STK is a solid bet to keep outperforming unsustainable high-yielders like TSLY. And your yield on cost will rise if the fund raises payouts, as I expect it will.
+
+Michael Foster is the Lead Research Analyst for Contrarian Outlook. For more great income ideas, click here for our latest report “Indestructible Income: 5 Bargain Funds with Steady 10.9% Dividends.”

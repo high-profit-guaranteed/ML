@@ -1,0 +1,25 @@
+Thu, 20 Jul 2023 07:00:00 GMT
+
+Tesla (TSLA) delivered a wild amount of energy storage again last quarter, but its solar business is significantly down.
+
+With the release of its results, Tesla always disclosed the amount of energy storage and solar power it deployed during the last quarter.
+
+The company confirmed that it deployed 66 MW of solar and 3,653 MWh of energy storage in Q2 2023:
+
+The energy storage deployment is down a bit from last quarter, but it is up over 200% from last year.
+
+Energy storage deployments increased by 222% YoY in Q2 to 3.7 GWh, another strong quarter due to the ongoing ramp of our first dedicated Megapack factory (Megafactory) in Lathrop, CA. The ramp of this 40 GWh Megafactory – the first of many – has been successful with still more room to reach full capacity. While energy storage deployment rate can be volatile due to project timing, production rate improved further sequentially in Q2.
+
+Andrew Baglino, SVP of Engineering at Tesla, elaborated on Tesla’s energy storage division.
+
+More specifically, the executive said that the last assembly line at the Megafactory is coming online next year to reach full 40 GWh annual production:
+
+On the solar side, though, things are not looking as rosy, and Tesla is blaming it on the interest rate:
+
+Tesla’s solar deployment is down 38% year-over-year, but the company delivered roughly the same amount of solar quarter-to-quarter.
+
+The company doesn’t disclose how much of that solar deployment is from rooftop solar panels or solar roofs.
+
+Lately, Tesla appears to be focusing its energy business more on the electricity retailing side of things with controllable loads side with its Tesla Electric and Charge on Solar products.
+
+If you are looking to install solar on your own home, to find a trusted, reliable solar installer near you that offers competitive pricing, check out EnergySage. EnergySage is a free service that makes it easy for you to go solar – whether you’re a homeowner or renter. They have hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20 to 30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them. EnergySage can help you compare quotes with solar installers who carry Tesla Powerwalls and even Tesla Solar in some markets.

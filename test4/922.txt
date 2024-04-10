@@ -1,0 +1,69 @@
+Wed, 04 Oct 2023 07:00:00 GMT
+
+Tesla has two major events in October that options traders can capitalize on
+
+The following is a guest post from our friends at TradeStation.
+
+Tesla Inc (NASDAQ:TSLA), one of the top underliers in the options market, could be entering an active time for traders.
+
+The electric vehicle (EV) giant has two major catalysts on the calendar for October: quarterly deliveries -- which occurred on Monday -- and earnings set for after the close on October 18. Both fall before October expiration, opening the door to potential option strategies like vertical spreads. There could be other catalysts, especially with CEO Elon Musk always teasing out the mysterious Cybertruck.
+
+While any of these events could trigger a rally, investors aren’t crazy to see downside risk in a fast-moving name like TSLA. (Its 56% historical volatility (HV) over the last month is the highest in the entire S&P 500 Index (SPX), according to TradeStation data.) Moments like the next few weeks are one reason why options exist.
+
+Tesla (TSLA) daily chart, showing key levels and option strategies discussed in this article. Historical and implied volatility are displayed in the lower study.
+
+Bulls might notice at least two recent patterns on the chart. First is the price action around $240. The stock bounced there in mid-June, plunged through it in mid-August, only to jump back above it in on August 29. TSLA moved down to hold that same level again on Monday. That may suggest it’s confirmed as support.
+
+OptionStation Pro, showing various expirations for Tesla (TSLA). Notice how monthly options are shaded in lighter gray.
+
+Second, this week’s pullback represented almost exactly a 50% Fibonacci retracement of the rally between the August 18 low and the September 15 high.
+
+This might seem like a favorable setup in the eyes of bullish traders. Looking to the upside, they may target the $300 area where TSLA peaked in mid-July.
+
+Buying 100 shares would cost $26,700 based on Monday’s close. That’s a steep cost for most investors, with potentially significant losses if it drops. But a vertical spread could cover the distance for a fraction of the cost.
+
+There are two simple ways to achieve this with TradeStation’s OptionStationPro.
+
+First, users can load the simple option chain and select the individual contracts.
+
+Say you want to play a move between $270 and $290. We start by picking the expiration date. We also check the “Spread” section to ensuring the correct strategy is displayed. In this case, it should say “Single” for single-leg options. It has other choices, like Vertical and Diagonal, as we’ll see shortly.
+
+The screenshot below shows what happens after clicking on the 20 Oct 23 expiration. The list of options expands. It can be increased or decreased with the “Strikes” menu near the top.
+
+OptionStation Pro showing 20-October expirations for TSLA. Red arrows show the menus. The yellow arrow shows the 270 calls being purchased.
+
+Users can select the first leg of the spread by simply clicking on Ask for the 270s. This will assume a buy order.
+
+Holding down the Control key, they can then click on Bid for the 290s. This assumes a sell order.
+
+The platform will automatically combine these into a single trade (because Control is held down). It will display the current bid and ask for the proposed position. Users can adjust their limit price and number of contracts. They can also change the order type (Market, Stop Limit etc.) with the drop-down menu on the left.
+
+OptionStation Pro showing the purchase of the 270/290 call spread. Yellow arrows mark the contacts being traded. Red arrows show the order controls.
+
+The second method is to let TradeStation create the vertical spread for you. In this case, we click the box to the right of Spread and select Vertical.
+
+OptionsStation Pro will now display a series of potential vertical spreads with their strike prices.
+
+Once again, traders looking to buy (or risk capital now by paying a debit), will click the Ask. The same combination of calls will populate the entry section at the bottom. Users can make the same adjustments to size, order type and pricing.
+
+That vertical call is a bullish strategy with the potential to earn about 500% from TSLA rallying about 18% over the next four weeks. There’s an equally bearish alternative doing something similar with puts.
+
+In this case, traders may look for a drop toward $215, which is near the mid-August low.
+
+OptionStation Pro showing the purchase of the 235/215 put spread (yellow arrow). The red arrow shows how Vertical spreads have been selected.
+
+Using the same $20 spread width, they could click Ask on the 235 puts. Holding down the Control key, they would next click on the Bid for the 215 puts. Once again, the position will be created in the order section below.
+
+Based on current prices the downside trade could earn 285% from TSLA dropping 14%.
+
+In conclusion, the market is always full of events and volatility. It’s impossible to consistently predict which way things will go. However it is possible to profit for certain outcomes with predefined risk. Hopefully these examples show how to position either bullishly or bearishly in one of the market’s most active names.
+
+This content is for informational and educational purposes only. This is not a recommendation regarding any investment or investment strategy. Any opinions expressed herein are those of the author and do not represent the views or opinions of TradeStation or any of its affiliates.
+
+Options trading is not suitable for all investors. Your TradeStation Securities’ account application to trade options will be considered and approved or disapproved based on all relevant factors, including your trading experience. See Characteristics and Risks of Standardized Options. Visit www.TradeStation.com/Pricing for full details on the costs and fees associated with options.
+
+Investing involves risks. Past performance, whether actual or indicated by historical tests of strategies, is no guarantee of future performance or success. There is a possibility that you may sustain a loss equal to or greater than your entire investment regardless of which asset class you trade (equities, options, futures, or digital assets); therefore, you should not invest or risk money that you cannot afford to lose. Before trading any asset class, first read the relevant risk disclosure statements on the Important Documents page, found here: www.tradestation.com/important-information.
+
+TradeStation Securities, Inc., TradeStation Crypto, Inc., and TradeStation Technologies, Inc. are each wholly owned subsidiaries of TradeStation Group, Inc., all operating, and providing products and services, under the TradeStation brand and trademark. TradeStation Crypto, Inc. offers to self-directed investors and traders cryptocurrency brokerage services. It is neither licensed with the SEC or the CFTC nor is it a Member of NFA. When applying for, or purchasing, accounts, subscriptions, products, and services, it is important that you know which company you will be dealing with. Please click here for further important information explaining what this means.
+
+Securities and futures trading is offered to self-directed customers by TradeStation Securities, Inc., a broker-dealer registered with the Securities and Exchange Commission (“SEC”) and a futures commission merchant licensed with the Commodity Futures Trading Commission (“CFTC”). TradeStation Securities is a member of the Financial Industry Regulatory Authority, the National Futures Association (“NFA”), and a number of exchanges.

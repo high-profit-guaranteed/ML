@@ -1,0 +1,43 @@
+Thu, 18 Jan 2024 08:00:00 GMT
+
+Electric carmaker Tesla (NASDAQ: TSLA) and ad tech company The Trade Desk (NASDAQ: TTD) were winning investments over the last five years, with shares soaring 830% and 380%, respectively. That price appreciation led both companies to split their stocks.
+
+Those stock splits are old news, but the underlying message still matters: Tesla and The Trade Desk have proven their ability to create value for shareholders, and winners tend to keep on winning. Indeed, certain Wall Street analysts still see substantial upside in both stocks.
+
+Adam Jonas of Morgan Stanley has a 12-month price target of $380 per share on Tesla, implying 80% upside. Similarly, Laura Martin of Needham has a 12-month price target of $100 per share on The Trade Desk, implying 50% upside. Investors should never rely too much on short-term price targets, but they can be a starting point for further research.
+
+Here's what investors should know about these artificial intelligence stocks.
+
+Tesla struggled in the third quarter. Growth slowed as high interest rates weighed on consumer demand, and earnings declined as price cuts and initial Cybertruck production costs caused margins to contract. In total, third-quarter revenue increased 9% to $23 billion, and GAAP net income dropped 44% to $1.9 billion. But those headwinds are temporary, and the investment thesis remains intact.
+
+Tesla led the industry in battery electric vehicle sales through November, capturing 19.2% market share. Moreover, while operating margin contracted about 10 percentage points in the third quarter, the company had the highest operating margin among volume carmakers last year, something CEO Elon Musk attributes to superior manufacturing technology. Tesla could reclaim that title as its artificial intelligence (AI) software and services business generates more revenue.
+
+Management believes full self-driving (FSD) software will be the primary source of profitability over time, and the company plans to monetize the product in three ways: (1) subscription sales to customers, (2) licensing to other automakers, and (2) robotaxi or autonomous ride-hailing services. Tesla's strong presence in the EV market and material data advantage put it in a favorable position to lead in those categories.
+
+Specifically, with millions of autopilot-enabled cars on the road, Tesla has more autonomous driving data than its peers, and data is essential to training machine learning models. That advantage should help Tesla achieve full autonomy before other automakers. Ultimately, Musk believes Tesla could earn a gross profit margin of 70% or more as FSD software and robotaxi services become bigger businesses.
+
+Going forward, EV sales are forecasted to increase at 15% annually to reach $1.7 trillion by 2030, and the autonomous vehicle market is projected to grow at 22% annually to approach $215 billion during the same period. That gives Tesla a good shot at annual sales growth of 20% (or more) through the end of the decade. Indeed, Morgan Stanley analyst Adam Jonas expects revenue to grow at 25% annually over the next eight years.
+
+In that context, its current valuation of 7.9 times sales seems quite reasonable, especially when the three-year average is 14.8 time sales. Patient investors that believe Tesla could disrupt the mobility industry should consider buying a small position in the stock today, provided they are willing to hold their shares for at least five years. There is no guarantee shareholders will make money over the next year.
+
+The Trade Desk reported strong financial results in the third quarter, growing nearly three times faster than industry-leader Alphabet in terms of advertising sales. Specifically, revenue increased 25% to $493 million, and non-GAAP net income jumped 29% to $167 million. The Trade Desk also maintained a retention rate exceeding 95%, as it has for the last nine years. Investors have good reason to believe that momentum will continue.
+
+The Trade Desk operates the ad tech industry's largest independent demand-side platform, software that helps advertisers run campaigns across digital media. That independence -- meaning the company does not own media content that could bias ad spending -- is core to the investment thesis for two reasons. First, The Trade Desk has no reason to prioritize any ad inventory, so its values are better aligned with advertisers. That supports high customer retention.
+
+Second, The Trade Desk does not compete with publishers by selling inventory, so publishers are more likely to share data with the company. That point is particularly important. The Trade Desk sources data from many of the largest retailers in the world, including Walmart and Target. That creates measurement opportunities that other ad tech platforms cannot provide. In fact, CEO Jeff Green says The Trade Desk has an unrivaled data marketplace.
+
+Green also believes that robust and unique data underpins superior artificial intelligence, which further supports the idea of unmatched campaign measurement and optimization capabilities. In keeping with that view, analysts at Quadrant Knowledge Solutions recognized The Trade Desk as the most technologically sophisticated ad tech platform on the market in 2023.
+
+Going forward, ad tech spending is forecasted to increase at 14% annually through 2030, but The Trade Desk should outpace the industry average, as it has in the past. To quote Green, "We're gaining market share as we're outperforming our advertising peers, both big and small." Investors can reasonably expect annual sales growth near 20% through the end of the decade.
+
+In that context, the current price-to-sales multiple of 18.7 is reasonable, and it's certainly a discount to the three-year average of 26.9 times sales. Patient investors willing to hold the stock for at least five years should consider buying a small position today. There is no guarantee shareholders will see a 50% return on their investment in the next 12 months, but that type of return (and more) is certainly possible over a five-year period.
+
+Where to invest $1,000 right now
+
+When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for two decades, Motley Fool Stock Advisor, has more than tripled the market.*
+
+They just revealed what they believe are the ten best stocks for investors to buy right now... and Tesla made the list -- but there are 9 other stocks you may be overlooking.
+
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Trevor Jennewine has positions in Tesla and The Trade Desk. The Motley Fool has positions in and recommends Alphabet, Target, Tesla, The Trade Desk, and Walmart. The Motley Fool has a disclosure policy.
+
+2 Stock-Split Artificial Intelligence (AI) Stocks to Buy Before They Soar 50% and 80%, According to Certain Wall Street Analysts was originally published by The Motley Fool

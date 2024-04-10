@@ -1,0 +1,43 @@
+Mon, 05 Feb 2024 08:00:00 GMT
+
+Twenty years ago, General Electric was the fifth-largest American company, with a market cap of $243 billion. By 2014, it had fallen to the 11th largest, and, as of this writing, it has fallen all the way to 52nd.
+
+The lesson? The pecking order can change quickly on Wall Street. And, for investors, it's always wise to examine whether your investments are rising or falling -- and why.
+
+So, let's dive in and explore how the market caps of Advanced Micro Devices (NASDAQ: AMD) and Tesla (NASDAQ: TSLA) compare and see whether AMD could grow larger than Tesla by 2025.
+
+As of this writing, Tesla is roughly twice the size of AMD. Tesla's market cap stands at $598 billion, while AMD's is $274 billion.
+
+However, as you can see, that hasn't always been the case. At its peak valuation of $1.2 trillion, Tesla was more than six times the size of AMD, which was less than $200 billion.
+
+Yet, as recently as 2020, the two companies had an almost identical market cap of nearly $65 billion. Moreover, until 2012, AMD was the larger company.
+
+At any rate, as all this history proves, valuations change. And at the moment, AMD is once again gaining ground on Tesla. Here's why.
+
+Why AMD is catching up to Tesla
+
+In short, the reason is Artificial Intelligence (AI). In my opinion, both companies are AI companies. AMD designs semiconductors that serve as the "brains" behind AI. Tesla, on the other hand, wants to use AI to develop features like full self-driving (FSD) and robotics.
+
+To put it another way, AMD is further along in the AI adoption cycle -- meaning organizations are already snapping up its AI product (AMD designs AI chips that consumer-facing AI giants like Microsoft and Meta Platforms can't buy enough of right now).
+
+However, Tesla hasn't crossed the AI adoption threshold yet. It is still working on the research and development of its key AI software. In the meantime, it must focus on selling vehicles that will act as a platform for the company's AI-powered software. This development gap is why its stock is currently giving up ground to AMD.
+
+The next big catalyst for Tesla stock should be the completion and rollout of FSD and robotaxis. Management, including Elon Musk, has been promising it for years. However, it's not here yet. Therefore, investor focus remains on the company's declining gross margins and lackluster production estimates.
+
+AMD's stock, meanwhile, is soaring as the demand for AI chips is through the roof. Hyperscalers like Microsoft, Alphabet, and Amazon are in a frenzy to buy AI chips, and AMD has just debuted a new series of accelerators designed to challenge Nvidia's market dominance.
+
+The result? AMD's market cap has grown by 49% over the last six months, and Tesla's has decreased by 29%. If that trend were to continue, the two companies' market caps would be nearly identical by the end of summer 2024.
+
+Granted, trends don't always hold, and they alone shouldn't be what people base their investments on. Nevertheless, it is worth noticing that AMD's and Tesla's market caps seem to be on a path to parity if current conditions persist.
+
+Should you invest $1,000 in Advanced Micro Devices right now?
+
+Before you buy stock in Advanced Micro Devices, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now... and Advanced Micro Devices wasn't one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Stock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than tripled the return of S&P 500 since 2002*.
+
+Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Jake Lerch has positions in Alphabet, Amazon, and Tesla. The Motley Fool has positions in and recommends Advanced Micro Devices, Alphabet, Amazon, Meta Platforms, Microsoft, and Tesla. The Motley Fool has a disclosure policy.
+
+Will AMD Be Worth More Than Tesla by 2025? was originally published by The Motley Fool

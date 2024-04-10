@@ -1,0 +1,101 @@
+Wed, 24 Jan 2024 08:00:00 GMT
+
+Tesla’s (NASDAQ:TSLA) Q4 and FY 2023 earnings call comes on the heels of the company’s fourth quarter and full year 2023 Update Letter. Similar to past quarters, Tesla remained profitable in Q4 despite factors like reductions in the company’s average selling price and the cost of the Cybertruck ramp. Still, Tesla posted revenues of $25.17 billion and an 8.2% operating margin in Q4 2023.
+
+Tesla highlighted several details in its Q4 and FY 2024 Update Letter. For one, the company emphasized that the Model Y became the world’s best-selling car with 1.2 million units sold in 2023. Tesla Energy also had a breakthrough year, with energy generation and storage profits almost quadrupling in 2023.
+
+The following are live updates from Tesla’s Q4 and FY 2023 earnings call. I will be updating this article in real time, so please keep refreshing the page to view the latest updates on this story. The first entry starts at the bottom of the page.
+
+17:33 CDT – And that wraps up Tesla’s Q4 and FY 2023 earnings call! In a way, this earnings call was quite smooth. Elon Musk avoided outlandish predictions (he didn’t even predict that Tesla would achieve full autonomous driving this 2024!), and the company’s executives addressed every question in a professional and objective manner. Overall, I’m quite optimistic about Tesla this 2024.
+
+Thank you once more for joining us for yet another live blog. Until the next big event!
+
+17:32 CDT – Colin Langan from Wells Fargo asks if there are still some opportunity for Tesla to go below its current costs. The CFO noted that Tesla is continually looking for places where it can lower its costs. Taneja declined to provide details, but he noted that Tesla is definitely opportunity to reduce costs Musk joked that a 1% reduction on costs is roughly equal to $1 billion in savings.
+
+“With good execution, it’s not a slam dunk, but if we execute very well, Tesla would be the most valuable company in the world,” Musk said.
+
+17:22 CDT – Dan Levy asks what extent the Cybertruck is a proving ground for Tesla’s next-generation platform. Tesla executives noted that the Cybertruck is not really a proving ground for the next-gen platform, since Tesla is already far along in the development of its upcoming vehicles.
+
+It should also be noted that the manufacturing machine that will be used for the next-gen car is unique, making it hard to copy.
+
+Levy asks a follow-up question about Project Dojo. Musk notes that Tesla is pursuing a dual path with both NVIDIA and Dojo. He admits that Dojo is a long shot, however, since it is a higher-risk, high payoff program. He confirmed that Dojo is already working and doing training programs, and Dojo 1.5 and other iterations could be explored in the future.
+
+17:20 CDT – Adam Jonas of Morgan Stanley asks if Tesla will hold an AI Day event this year. Musk noted that Tesla’s competitors have started copying Tesla’s innovations that are highlighted in these events, so he is quite cautious. He did note, however, that an event may be held sometime this year.
+
+As a follow-up, Jonas asks about China-based OEMs expanding to the Western market. He asks if Tesla would consider collaborating with Chinese carmakers. Musk admitted that China-based OEMs are very impressive so they would likely see a lot of success outside China. “They’re extremely good,” Musk said. “If there are no trade barriers, they would dominate.”
+
+He noted that there is no obvious opportunity to partner with a Chinese OEM, though Tesla is happy to help with the Supercharger Network and FSD licensing.
+
+17:17 CDT – In a follow up question, Ferragu asked about what Tesla believes is its total addressable market with the company’s current portfolio. Musk stated that Tesla does not have a firm idea of this, though executives noted that in the automotive industry, EVs still comprise a very small portion.
+
+Musk noted that cars like the Model Y are actually expensive vehicles, so it’s quite remarkable that the vehicle became the world’s best-selling car in 2023.
+
+17:13 CDT – Analyst questions begin. Pierre Ferragu from New Street Research asks about Tesla’s cost reduction. He notes that the costs per car is going down over several quarters, which is good but quite normal industries like microelectronics. He asks if Tesla can continue its pace.
+
+The CFO reiterated that he believes Tesla can maintain its pace even if it is a game of pennies. “We are constantly looking for what we can do to reduce costs,” Taneja said. He did advise that one should not project previous cost reductions.
+
+17:07 CDT – A question about Cybertruck orders is asked. Tesla executives noted that Cybertruck’s constraint right now is production, not demand. There is also a good chance that the company could meet the Cybertruck’s existing orders this year.
+
+Tesla executives also responded positively to the idea of including Tesla Energy in the company’s quarterly production and delivery reports. Tesla Energy should be included starting Q1 2024.
+
+As for the preliminary results and return on investment of Tesla ads and education campaign, executives noted that the company is currently adopting strategies that focus on its cars’ safety, features, and technology. So far, these digital ads seem to be working as they are reaching people who are not really that familiar with electric cars.
+
+Tesla is going to keep exploring digital campaign, though the company also does not want to overspend on digital campaign. That said, Musk noted that there is definitely some need to raise awareness among consumers, particularly in areas like Japan.
+
+17:02 CDT – A question is asked about the timeline of Optimus’ production. Musk noted that Tesla’s experience with its vehicles would actually be useful since the company’s cars are already robots. He also noted that Optimus has the potential to far exceed the value of Tesla’s other products combined.
+
+Musk noted that there’s a good chance some Optimus units could be shipped sometime next year. Considering Tesla’s history with its projects, however, it would not be surprising if it takes significantly more time before regular consumers can purchase a production Optimus robot.
+
+“The team is dong amazing work,” Musk said. He also stated that Tesla is making sure Optimus is safe, especially at scale. He also noted that the barrier is getting Optimus to do something useful. “Gotta get the utility up,” Musk said.
+
+16:58 CDT – A question is asked about the construction of Giga Mexico and Giga Nevada. Tesla executives noted that Giga Nevada’s groundbreaking for its expansion already happened, and for Giga Mexico, Tesla has already started long lead work. But it is still taking it slowly.
+
+When asked about other carmakers potentially licensing FSD, Musk noted that other automakers are probably still not believing that FSD could be real. But “some tentative conversations” are happening.
+
+16:55 CDT – A question is asked if Tesla anticipates a 50% volume CAGR to be realized in either of 2024 or 2025. The CFO noted that there will be periods where Tesla won’t be growing at the same rate.
+
+16:54 CDT – A question is asked about Tesla’s expectation for automotive gross margins in FY 2024. Taneja stated that Tesla is focused on reducing the costs of its vehicles in Q4. “This is a constant exercise and we just have chase down every penny possible,” the CFO said.
+
+“If the interest rates comes down quickly, I think margins will be good,” Musk said.
+
+16:53 CDT – A question is asked about Elon Musk’s concerns that he does not have 25% of voting rights on Tesla has been asked. Musk noted that he sees a path to making Tesla an AI juggernaut, though he also is wary of activists that infiltrate Tesla’s institutional shareholders.
+
+16:51 CDT – A question about the barriers to ramping 4680 cells is asked. Musk clarified that battery production is a notably challenging endeavor. The Tesla executives noted that 4680 production is ahead of Cybertruck ramp, and more efforts are underway to ramp the batteries’ production even further.
+
+“Definitely this year would be a good year for ramping 4680,” a Tesla executive said. Musk adds that Tesla’s 4680 project does not in any way affect the company’s battery supply deals.
+
+16:49 CDT – Investor questions begin. Musk joked that he is often optimistic with time, but Tesla’s current schedule states that production of the next-generation platform should start around the end of 2025. There’s just a lot of new technology in the car, but it also includes a lot of new manufacturing innovations.
+
+It would be a hard project, but once optimized, it would probably be a game-changer when it comes to volume vehicle production. Musk also noted that the vehicle would be produced at Giga Texas, since it would be easier for Tesla to have its engineers on hand for the project.
+
+“We’re currently expecting to start production in late 2024. We will be sleeping on the production line. But I am confident that once it’s growing, it would be heads and shoulders above,” Musk said.
+
+16:45 CDT – Tesla CFO Vaibhav Taneja takes the floor. Like Musk, he thanks Tesla’s team for their work in 2023. He notes that Tesla achieved record results in 2023 despite high interest rates.
+
+Taneja also highlighted the idea that a lot of consumers are still not familiar with Tesla. Thus, it is pertinent for the company to educate as many customers as possible. The CFO also shared some optimism about Tesla Energy, whose growth should outpace the company’s automotive business this year.
+
+“We are currently expecting our capital expenditure this 2024 to be in excess of $10 billion,” the CFO noted.
+
+16:40 CDT – Musk states that Tesla is in the middle of its second growth wave. This wave, as per the Q4 and FY 2023 Update Letter, would likely be driven by the next-generation platform. Musk also noted that FSD V12 should be available to regular customers in the near future.
+
+“Tesla is the most efficient company at AI inference. We’re quite far in regards to other companies in the world in terms of AI inference,” Musk said.
+
+He also discusses the upgraded Tesla Model 3, a car that Musk noted would be great to test drive. He also noted that Tesla is far along in the development of its next-generation platform. Musk noted that the vehicle would start its production at Giga Texas, followed by other sites like Giga Mexico and other locations. “We’re very excited about [Tesla’s next vehicle.]” Musk said.
+
+Summing up his remarks, Musk reiterated that he sees a path to Tesla becoming the world’s most valuable company.
+
+16:35 CDT – Elon Musk starts his opening remarks. He states that the Tesla team did a stellar job in 2023, with the company hitting an annualized run rate of 2 million vehicles per year near the end of Q4. The Fremont Factory also produced 560,000 cars in 2023, making it the highest productivity car plant in the United States.
+
+“It was there when we got it, and now it’s the most productive plant on this side of the world. It’s enriched the community in so many ways. It’s really a gem,” Musk said. “I’m super proud of the people that work there.”
+
+He also noted that the Model Y became the world’s best selling car in the world with over 1.2 million units sold in 2023. FCF is notable as well.
+
+16:34 CDT – Tesla VP of IR Martin Viecha opens the call. He introduces Elon Musk and other Tesla executives.
+
+16:32 CDT – Ok, it’s past 16:30 CDT and the call hasn’t started yet. Elon Time?
+
+16:25 CDT – The ambient music begins in Tesla’s stream for the Q4 and FY 2023 earnings call. Will it start on time, in three minutes? We shall see.
+
+16:15 CDT – Hello, everyone, and welcome to our live blog of Tesla’s fourth-quarter and full-year 2023 earnings call. Tesla missed analyst estimates for a number of key metrics, and it shows in the after-market performance of TSLA shares. Despite this, it is difficult to deny that the electric vehicle maker had an impressive 2023, with the company meeting its vehicle delivery goal of 1.8 million vehicles and the Cybertruck finally starting its customer deliveries.
+
+Don’t hesitate to contact us with news tips. Just send a message to simon@teslarati.com to give us a heads up.

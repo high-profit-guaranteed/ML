@@ -1,0 +1,25 @@
+Mon, 30 Oct 2023 07:00:00 GMT
+
+Tesla (TSLA) stock dropped 4.8% on Monday, dropping below $200 and hitting lows not seen since late May despite a broader market rally and rebound in beaten-down tech.
+
+Two pieces of news were weighing on Tesla stock. The first is from Tesla battery supplier Panasonic, which cut automotive battery production in Japan in its September quarter and guided its annual profit forecast down by 15%, ostensibly from the effects of a global slowdown in EV sales.
+
+Panasonic makes battery cells for EVs for automakers across the globe, but in the US the Japanese company partners with Tesla to produce cells at the Nevada Gigafactory.
+
+That being said, the company said it lowered production in Japan and for global customers, not for North American operations. Panasonic did drop supply of its 1865 EV batteries to Tesla during Q2; these older batteries are still used in Tesla Model S and Model X vehicles, which don’t qualify for Inflation Reduction Act (IRA) EV tax credits.
+
+“The IRA has a price ceiling up to $80,000 and since the high-end models exceed that level, demand decreased,” Panasonic CFO Hirokazu Umeda said on Monday.
+
+The second piece of potentially bad news for Tesla came when chipmaker ON Semiconductor reported weaker-than-expected profit and revenue guidance due to softening sales.
+
+ON Semiconductor makes silicon carbide chips, which Tesla has been using in the company’s EV powertrain and other key components. Silicon carbide chips generally withstand more heat, are more energy efficient, and have a longer life expectancy than standard silicon chips. Investors may be eyeing a drop in silicon carbide demand as a leading indicator in softness for EV sales, most notably Tesla’s.
+
+Tesla investor Gary Black of The Future Fund weighed in on today’s Tesla plunge. "$TSLA weakness today could be due to big $ON guidance miss (-18%). ON sells silicon carbide chips to EV makers and cited 'increased risk to automotive demand due to high interest rates,'" Black wrote on X, formerly Twitter, around midday on Monday.
+
+Tesla shares are down nearly 22% in the past month, but still up 60% for the year.
+
+Pras Subramanian is a reporter for Yahoo Finance. You can follow him on Twitter and on Instagram.
+
+Click here for the latest stock market news and in-depth analysis, including events that move stocks
+
+Read the latest financial and business news from Yahoo Finance

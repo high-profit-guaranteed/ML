@@ -1,0 +1,23 @@
+Wed, 14 Jun 2023 07:00:00 GMT
+
+Tesla Inc TSLA CEO Elon Musk on Wednesday said that Toyota Motor Corp TM should join the ‘NACS coalition’ of automakers who have adopted Tesla’s North American Charging Standard (NACS) in the U.S.
+
+What Happened: “They should join the NACS coalition!” Musk wrote in response to a Business Insider article flagging the long charging times taken by the automaker’s EVs.
+
+In the article, the reporter recounted their experience driving Toyota’s all-electric bZ4X SUV from New York to Washington DC, in April.
+
+According to the report, charging the vehicle took the driver a ‘frustratingly long time.’ They also received lower than expected range and had to choose range over comfort and not turn on the heat when it got too chilly.
+
+The Toyota SUV has capped maximum charging rate at 100 kW in favor of battery longevity. During the journey, however, the vehicle pulled only 50kW maximum from charging stations, and the nine-hour journey took two rounds of charging, which together took two hours, the report said.
+
+“I’d be lying if I said I didn’t curse these silly electric cars under my breath once or twice,” the driver wrote.
+
+Why It Matters: Last week, General Motors GM jumped onboard Tesla’s NACS. GM will integrate the charging standard into its EVs starting in 2025 and expects it to increase access to charging for GM's EV drivers at 12,000 Tesla superchargers across the U.S.
+
+Ford Motor Co. announced a similar collaboration with Tesla last month.
+
+With Tesla, users can recover up to 200 miles/ 275 km with a 15-minute charge, the automaker said on Twitter.
+
+Check out more of Benzinga’s Future Of Mobility coverage by following this link.
+
+Read More: Cathie Wood’s ARK Sees Tesla’s Collaboration With GM Popularize Its Charging Standard

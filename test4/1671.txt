@@ -1,0 +1,31 @@
+Tue, 16 Jan 2024 08:00:00 GMT
+
+The CEO is angling for control of 25% of the EV manufacturer’s already volatile stock, plus, the company has a habit of missing EPS and revenue expectations
+• Tesla is set to report earnings on Jan. 24 after the stock market closes at 3:10 p.m. CST.
+• Elon Musk’s voting share drama could add to the stock's expected turbulence.
+• Tesla is expected to report earnings-per-share (EPS) of $0.73 on $25.76 billion in revenue.
+• Last quarter, Tesla had the same EPS expectation and missed by almost 10%.
+
+Tesla (TSLA) has had a volatile stock price range for a few years now, and the new drama with Elon Musk demanding 25% control of the company certainly doesn't help. It seems like Musk has created a lot of drama for the stock over the years, which has certainly contributed to the realized volatility in the stock's price. The new threat to move his AI and robotics efforts elsewhere unless he receives more control of the company is a new twist in the Tesla saga.
+
+The stock opened the year at $250.08 and currently sits at $222. It has an expected move of +-$76.70 through the December options cycle based on current implied volatility, which gives the stock an expected range of around $150-300.
+
+Looking at the slope of recent price action, we can see the market has not looked too kindly upon Tesla, as we've only seen a few green bullish days for the past month or so. The stock slipped from a recent high of $265.13. For this earnings report, the company is expected to report the same earnings per share (EPS) figure of $0.73 that was expected last quarter. Tesla missed that mark by 9.81% after reporting an EPS of $0.66. Revenue expectations were also missed last quarter by 3.29%, and revenue expectations are higher this time around at $25.76 billion.
+
+Tesla's expected move for next week, which contains the earnings announcement, currently sits at +-$16.94. This translates to more than a 7% expected stock price move and makes up for over 50% of the expected move through the March 2024 options cycle.
+
+Earnings reports for Tesla have been volatile to say the least as mixed results are apparent in the past four quarterly earnings reports. With that said, we do see call skew in the options market currently, which means equidistant options from the stock price to the downside and upside reflect a higher price to the upside:
+
+This doesn't mean the stock is going higher, but it does mean the velocity of a big move is perceived to be to the upside, as upside speculation/protection is more expensive for next week.
+
+If you believe the Elon Musk drama can be ignored for actual data around Tesla's performance—and the recent selloff can be reversed on a positive earnings report—it wouldn't be too surprising to see the stock come off recent highs after the report next week.
+
+Last quarter, Tesla missed on EPS and revenue expectations and the stock dropped over $20. For this report, the same EPS figure that Tesla missed is expected, and revenue is expected to be higher. If either of these estimates are missed, we may see continued downside movement in TSLA stock, given the drama surrounding the company and the fact that other AI-EV-tech stocks are flourishing even in the general market selloff we've seen to start the year. Investors and traders may just be more comfortable finding a different company with less drama if Tesla paints a bearish picture for the future.
+
+Tune in to Options Trading Concepts Live at 11 a.m. CDT on Wednesday, Jan. 24, for a deeper look at options trading strategies for the earnings announcement!
+
+Mike Butler, tastylive director of market intelligence, has been in the markets and trading for a decade. He appears on Options Trading Concepts Live, airing Monday-Friday. @tradermikeyb
+
+For live daily programming, market news and commentary, visit tastylive or the YouTube channels tastylive (for options traders), and tastyliveTrending for stocks, futures, forex & macro.
+
+Trade with a better broker, open a tastytrade account today. tastylive, Inc. and tastytrade, Inc. are separate but affiliated companies.

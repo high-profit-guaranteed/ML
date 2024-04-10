@@ -1,0 +1,21 @@
+Fri, 09 Jun 2023 07:00:00 GMT
+
+Shares of Tesla (NASDAQ: ) stock jumped 10% on news of a deal that will let electric vehicles (EVs) from General Motors (NYSE: ) use Tesla’s SuperCharger network.
+
+Tesla shares rose 4.5% on June 8 and another 6% overnight. This morning TSLA will open at about $250/share, a market capitalization of over $790 billion. GM also rose 4% overnight and is set to open at about $37.20, with a market cap of over $50 billion.
+
+TSLA stock is now up 130% in 2023. Ford Motor (NYSE: ) adopted the Tesla charging standard last month.
+
+America’s EV market has been hampered by a lack of charging standards. There are Level 1 chargers that use 120-volt AC household current. There are Level 2 chargers using 240-volt AC current. Then there are Level 3 chargers using 480-volt DC current. The 480-volt chargers can recharge a car’s battery from 30% to 80% in about a half-hour. This is called DC Fast.
+
+For DC Fast, GM cars use a plug called the Combined Charging System (CCS), common in Europe. Tesla built a proprietary connector but has built CCS into its European cars. Tesla began opening its SuperCharger network to other electric vehicles in 2021. It renamed its plug the North American Charging Standard (NACS).
+
+Under the agreement, GM will support both the NACS and Tesla SuperChargers starting next year. Initially, this will be done through an adapter. Starting in 2025 GM will build the connector into its EVs. It will also add Tesla’s network into its vehicle and mobile apps, allowing drivers to find and pay for electricity easily.
+
+The DC Fast market was worth $8.5 billion in 2022 but is growing 27% per year, expected to reach $110 billion in 2032. Tesla is estimated to get a 10% profit margin on electricity sales at its SuperCharger network.
+
+TSLA Stock: What Happens Next?
+
+A single charging standard should increase the market for all EVs by removing range anxiety: the fear of running out of electricity far from a refueling station. Tesla has about 58% of the U.S. EV market.
+
+On the date of publication, Dana Blankenhorn did not hold (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.

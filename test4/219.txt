@@ -1,0 +1,15 @@
+Tue, 30 May 2023 07:00:00 GMT
+
+Tesla Inc TSLA CEO Elon Musk on Monday apologized to a user for glitches in the performance of the electric car’s auto wipers.
+
+What Happened: Responding to a Twitter user’s call for a ‘fix’ on auto wipers in autopilot, Musk said, “Sorry, this is one of the last neural nets to be updated to surround video (from single camera, single frame).”
+
+The user called for permission to cancel wipes on autopilot. “It makes no sense to allow this to keep happening,” the user wrote while retweeting a video shared by another Tesla user. The video shows wipers working on a clear day and is adjoined by a message that reads, “This is stupid and quite annoying.”
+
+Why It Matters: Tesla’s autopilot requires the wipers to be set to Auto on the Model 3 and Model Y. The setting is automatic and unchangeable. In auto mode, the car decides the optimal frequency at which the wipers should wipe when liquid is detected on the windshield. Though Tesla claims that the wiper will not wipe if no liquid is detected, several users have flagged concerns pertaining to its functioning.
+
+However, Tesla hacker Green said that the new FSD Beta 11.4.2 will introduce the auto wiper v4 with the option to disable the ‘deep rain’ feature.
+
+Check out more of Benzinga's Future Of Mobility coverage by following this link.
+
+Read More: Remember Elon Musk Promised A ‘Fallout’ Party For His Tunnel Company’s Opening Of Las Vegas Loop? This Is When It Will Take Place

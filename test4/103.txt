@@ -1,0 +1,59 @@
+Thu, 27 Apr 2023 07:00:00 GMT
+
+Ark Invest's $2,000 price target for Tesla by 2027, which implies a market cap of $6.3 trillion, has virtually no chance of coming to fruition.
+
+Few, if any, stocks have captivated Wall Street's and investors' attention quite like electric-vehicle (EV) manufacturer Tesla (TSLA 2.25%). While EVs have been widely discussed as the next evolution of the consumer auto market to reduce carbon emissions, it's Tesla that's (pardon the pun) led the charge.
+
+Among current S&P 500 components, Tesla is tough to top. Over the trailing-10-year period (as of April 24, 2023), Tesla stock has gained 4,680%, which outpaces the total return of the benchmark S&P 500, including dividends paid, by more than 4,450%!
+
+In some ways, this outperformance is warranted. Tesla is the first automaker in more than a half-century to build itself from the ground up to mass production. It's also produced three consecutive years of generally accepted accounting principles (GAAP) profit. That's quite the feat, considering that the EV divisions of virtually all new and legacy automakers are bleeding red.
+
+But for one prominent Wall Street pundit, Tesla's march higher isn't anywhere close to finished. Last week, Ark Invest -- the investment management firm headed by growth-driven money manager Cathie Wood -- issued a $2,000 price target by 2027 for Tesla stock.
+
+Keep in mind, this $2,000 value is what Ark's Monte Carlo analysis views as most likely to occur, with a bear and bull estimate respectively modeling a $1,400 and $2,500 share price. Put another way, Cathie Wood and her Ark Invest team are expecting Tesla stock to appreciate by 1,130% over the next four years, which would give the company a market cap of around $6.3 trillion.
+
+While Cathie Wood has previously made correct calls that gained her and Ark Invest notoriety, a $2,000 price target on Tesla by 2027 is utter nonsense. I'm going to share four reasons why.
+
+One of the first figures that makes little sense in Ark Invest's Tesla forecast is the total number of vehicles produced.
+
+Tesla produced 1.37 million EVs in 2022. Cathie Wood and her team are now modeling between 10.3 million cars sold in the bear case and 20.7 million sold in the bull outcome for 2027. Based on Tesla's own guidance of 1.8 million EVs produced for 2023, this works out to a 55% (bear case) to 84% (bull case) compound annual production growth rate over the subsequent four years.
+
+With a full ramp up of Tesla's four existing gigafactories, the company is pacing in the neighborhood of 2 million annual EVs in capacity. If Ark Invest's Monte Carlo analysis is correct, the company would likely have to open and successfully ramp up more than a dozen new gigafactories over the next four years. That's roughly one new gigafactory each quarter for the next four years.
+
+It's unlikely Tesla has the financial capacity to open this many new production facilities without borrowing a lot of money. More importantly, Tesla doesn't have the best track record when it comes to opening new gigafactories on schedule or quickly ramping them up for optimal production.
+
+2. Vehicle margins are already under pressure
+
+Another unrealistic figure proposed by Cathie Wood and her team is the EV gross margin, excluding regulatory emission credits, expected by 2027. In Ark's bull model, the average selling price (ASP) for Tesla EVs is $26,000, leading to an ex-credits EV gross margin of 23%. In the bear model, the ASP is $34,000, leading to an ex-credits EV gross margin of 34%.
+
+The simple problem is this: Tesla's ex-credits automotive gross margin dropped to 18.3% during the first quarter of 2023, with an ASP that's substantially higher than what Ark is modeling four years from now.
+
+While some folks have pointed to Tesla's multiple rounds of price cuts in the U.S., China, and Europe as a sign of improved production efficiency, the company's growing inventory levels suggest otherwise. When March came to a close, Tesla had 15 days' worth of global vehicle inventory, which is a 400% year-over-year increase and its highest mark since the third quarter of 2020. Rapidly rising inventory suggests more price cuts will be needed, which are expected to adversely impact EV gross margin.
+
+Tesla may have ridden its first-mover advantages to a lofty valuation, but its recent price cuts are demonstrating that competition is indeed having a negative impact on this EV juggernaut.
+
+3. FSD has been a "failure to deliver" for Elon Musk and Tesla
+
+Ark Invest's baseline ($2,000) and bull ($2,500) outlooks for Tesla are also heavily dependent on the success of robotaxis -- i.e., a self-driving/driverless taxi. In the bull outcome that sees Tesla stock reach $2,500 in four years, Wood's company has modeled in (I hope you're sitting down for this) $613 billion in autonomous ride-hailing revenue for 2027.
+
+But there's one big snafu: Tesla hasn't solved full self-driving (FSD), which is going to be a necessity for a robotaxi service.
+
+For nine years, CEO Elon Musk has been promising that level 5 autonomy was just a year away. In fact, Musk claimed that his company might achieve full autonomy "this year" during Tesla's first-quarter conference call a little over one week ago.
+
+Unfortunately, Tesla's EVs haven't moved beyond their level 2 autonomous designation, which allows for partial driving automation. Meanwhile, Mercedes-Benz has surpassed Tesla and achieved level 3 autonomy, albeit at speeds under 40 mph on Nevada roads. Translation: Tesla is nowhere close to achieving full self-driving, which means robotaxis aren't a moneymaking option anytime soon.
+
+To build on the above point, Cathie Wood and her team have placed a significant emphasis on robotaxis in Tesla's valuation for their Monte Carlo analysis. Robotaxis are expected to account for 44% of Tesla's $1.02 trillion in sales by 2027, 64% of the company's expected $354 billion in adjusted earnings before interest, taxes, depreciation, and amortization (EBITDA), and a whopping 67% of its proposed $6.1 trillion enterprise value.
+
+For a moment, let's put aside the fact that Tesla hasn't been able to move beyond level 2 autonomy and focus solely on Ark's astronomical revenue and valuation forecasts for this operating segment.
+
+As you can imagine, estimates for the size of the global ride-hailing and taxi business vary quite a bit. According to Straits Research, it generated $196.1 billion in global sales in 2021. For ResearchAndMarkets.com, it was an estimated $209.3 billion in 2021. No matter what report or estimate you believe is the most accurate, none remotely comes close to the roughly $450 billion in sales Wood's investment firm is modeling at the baseline for Tesla's robotaxi business by 2027.
+
+In other words, Wood and her team have offered a truly otherworldly sales expectation and valuation -- an approximate $4 trillion enterprise value in 2027 -- for a business segment that doesn't currently exist for Tesla.
+
+Despite Tesla's best efforts to become more than just a car company, it's (thus far) failed to do so. The company's energy storage and supercharger segments generate low margins, while solar panel installation has been a money loser since day one. The only aspect of Tesla's business that generates a profit and should hold any consideration for its valuation is its ability to sell and lease EVs.
+
+The problem for Tesla is that traditional auto stocks usually trade between six and eight times their earnings per share. Even taking into account Tesla's premium growth rate and net cash position, it doesn't support the company trading at nearly 50 times Wall Street's consensus earnings for 2023.
+
+To make matters worse, Tesla's free cash flow almost completely dried up during its price-cutting campaign in the first quarter. Wall Street had expected around $3.2 billion in free cash flow (FCF). Tesla delivered $441 million in FCF, and that was with the help of $521 million in regulatory emission credits, which flow straight to FCF. If we're looking solely at Tesla's operating performance, sans credits, it produced an $80 million free-cash outflow in the first quarter.
+
+There's simply no way to bridge the gap between Tesla's existing struggles and Cathie Wood's utopian forecast looking four years into the future. Ark Invest's price target is utter nonsense.

@@ -1,0 +1,19 @@
+Fri, 23 Feb 2024 08:00:00 GMT
+
+EV giant Tesla Inc will issue a software update to 8,700 vehicles in China which may have issues with displaying reversing images, thereby posing a safety hazard.
+
+What Happened: According to the China State Administration for Market Regulation, Tesla will update software on a total of 1,071 imported Model S and X vehicles and 7,629 domestically produced Model 3 sedans.
+
+These vehicles may have an unstable rear camera integrated circuit communication owing to software issues, thereby resulting in an inability to display reversing images, the market regulator said.
+
+The company will fix the issue via an over-the-air update, for which drivers will not have to visit a store. For vehicles that cannot be reached via an OTA update, however, Tesla will contact them via their service centers and upgrade software, the regulator said.
+
+The state regulator further advised drivers to update software as soon as possible to mitigate the risk circumstances.
+
+Why It Matters: Late last month, Tesla issued a recall for nearly 200,000 of its vehicles in the U.S. citing the same issue and offered a fix via an OTA update. The recall in the Western nation covered Model S, X, and Y vehicles.
+
+Check out more of Benzinga’s Future Of Mobility coverage by following this link .
+
+Read More: Tesla's Model 3 Long-Range Gets Price Hike For Third Time This Month, But It's Teeny
+
+© 2024 Benzinga.com. Benzinga does not provide investment advice. All rights reserved.

@@ -1,0 +1,5 @@
+Tue, 02 May 2023 07:00:00 GMT
+
+A long-shot bid to launch double-leveraged, single-stock exchange-traded funds tracking the notoriously volatile Tesla Inc. has been filed with US regulators after past attempts have failed.
+
+The T-Rex 2X Long Tesla Daily Target ETF would trade under the ticker TSLT and use derivatives to track twice the daily returns of Elon Musk ’s electric-vehicle maker, according to a Tuesday filing . Its sister fund, the T-Rex 2X Inverse Tesla Daily Target ETF, would trade under the ticker TSLZ and follow the reverse performance of Tesla stock by the same magnitude.

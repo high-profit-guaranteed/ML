@@ -1,0 +1,28 @@
+Wed, 06 Sep 2023 07:00:00 GMT
+
+Update September 2023: Both new and existing Moomoo users are eligible for an up to $400 ACAT Transfer promotion. The sweet spot is $100 cash reward for a $2,000+ of assets transferred from another broker (can be stocks or ETFs). Existing users must visit the link and login/register first. Full terms here.
+
+New users should first take advantage of their new user free TSLA/GOOG stock promo. See original post below for more details on how to maximize this promo. Full terms here. After that, then take advantage of ACAT transfer promo as an existing user.
+
+Moomoo is a full-featured brokerage app with free stock trades, free options trades, and so on. Right now, they have increased their sign-up bonus significantly if you can deposit $5,000+ and maintain the deposit for 60 days. You must be a new client that has never made a deposit at Moomoo previously.
+
+If you open a new Moomoo account via referral link (works on desktop, but recommend opening on mobile device if going to use app) and then deposit $5,000 during the promotion period and maintain the average asset balance of $5,000+ for 60 days, you can receive all of the following:
+• 15 free shares of stocks, each worth between $2 and $2,000.
+
+If you conservatively assume the minimum $2 per share value and the current share prices for TSLA (~$252) and GOOG (~$135), the total bonus value would be an estimated 30 + 252/135 = $165 to $282. That’s an excellent ROI on a $5,000 deposit for 60 days, and you can also invest the $5,000 as you wish. terms here.
+
+If there is a cash reward in the offer, note the following details about the cash reward and stock claiming process. In order to “cash out” your $50 coupons, you will need to make a trade worth at least $500 each (varies by promo). A simple trade would be to buy 5 shares of SGOV (1-3 month T-Bill ETF) which would cost about $500.xx. You’d trigger the cash coupon. In three business days, the trade will clear and you will own $500.xx of SGOV and $50 (whatever the coupon value) will be deposited as cash into your account. You can then sell the SGOV if you want, and clear roughly $500.xx again (some interest may have accrued or have been distributed). In the end, you’ll have roughly $550.xx in cash and can do whatever you want with it – reinvest, transfer out, etc. Pretty simple.
+
+Where can I claim my rewards?
+
+
+
+
+
+ – Within 5 business days of a successful draw, your free stock will be added to your account as “Pending” or “Frozen”. You can check it at the bottom of the “Brokerage Account” page in “Trade”. How does moomoo choose your free stock in a draw?
+
+ Your free stock is chosen randomly according to a specific probability distribution, so you may not receive the same stock as others.
+
+ There is approximately a 92% chance of getting a share of stock worth $2-$9.99, a 7.9% chance of getting a share of stock worth $10-$99.99, and a 0.1% chance of getting a share of stock worth $100 or more. Do I have to make a lump-sum deposit to meet the deposit criteria and get my bonus?
+
+ No. You can make deposits in any amount each time. If you successfully make an initial deposit during the promotion period and your average asset balance meets the promotion criteria, you will be eligible for the bonus.

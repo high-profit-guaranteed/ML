@@ -1,0 +1,23 @@
+Tue, 30 May 2023 07:00:00 GMT
+
+On Monday, news broke that seven ETFs offering leveraged or inverse exposure to individual stocks would close in June. They will be the first single-stock ETFs to close.
+
+With the exception of a few products, single-stock ETFs have struggled to meet the high expectations set when the first ones launched in July 2022. As ETFs offering levered exposure on a single stock exposure, these products seemed to offer the versatility needed by tactical traders. However, some critics warned their volatility could be too dangerous for retail investors.
+
+The largest of these single-stock ETFs is the Direxion Daily TSLA Bull 1.5X Shares (TSLL), with nearly $498 million in assets under management.
+
+Not surprisingly, single-stock ETFs tied to Tesla (TSLA) and NVIDIA (NVDA) are the largest products in this category. However, exposure to those stocks is no guarantee of success.
+
+For example, the AXS TSLA Bear Daily ETF (TSLQ) has $103 million in assets, yet GraniteShares is closing the GraniteShares 1x Short TSLA Daily ETF (TSLI). That fund offers essentially the same exposure as TSLQ but only has about $1 million in assets.
+
+TSLI will cease trading after the market close on June 16.
+
+AXS will close five of its other single-stock ETFs, with trading of the funds also halted after the market close on June 16. The affected products are as follows:
+
+Each of these ETFs has minimal assets ranging from less than $1 million to nearly $2 million. They offer leveraged and inverse exposure to stocks representing Nike (NKE), Pfizer (PFE), and PayPal (PYPL). Those securities are widely traded but not in the volumes seen for companies like NVIDIA and Tesla.
+
+At the same time, AXS will also close two other funds offering short exposure to popular areas of the market. The AXS Short China Internet ETF (SWEB) looks to deliver -1X the daily performance of the $4.6 billion KraneShares CSI China Internet ETF (KWEB). Meanwhile, the AXS Short De-SPAC Daily ETF (SOGU) aims to provide -1X the performance of an index of 25 post-combination special acquisition companies.
+
+SOGU is the largest of the AXS funds set to close, with nearly $12 million in assets.
+
+For more news, information, and analysis, visit the Leveraged & Inverse Channel.

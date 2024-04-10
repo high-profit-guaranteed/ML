@@ -1,0 +1,5 @@
+Fri, 27 Oct 2023 07:00:00 GMT
+
+Competition is intensifying in China’s automated-driving scene with the arrival of Jiyue 01, the first electric vehicle from a joint venture between Zhejiang Geely Holding Group Co. and Chinese search and tech giant Baidu Inc.
+
+Launching Friday, the sport-utility vehicle is equipped with Baidu’s Apollo platform, which has been in development for 10 years and used on driverless vehicles since 2016. While the Jiyue 01 still deploys a high-precision map for assisted driving, it is moving toward the pure-vision approach, which mostly uses cameras to assess the surrounding environment. Tesla similarly eschews more costly Lidars and ultrasonic radars.

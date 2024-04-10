@@ -1,0 +1,25 @@
+Fri, 22 Mar 2024 07:00:00 GMT
+
+I create so many US EV sales reports that I typically just assume stats are clear and easy to find … but then I go looking for a specific stat and it takes me a while. Recently, I even realized that we didn’t have charts or series of stats published to show how EV share of the overall US auto market had evolved in recent years — the data were just spread throughout various quarterly reports. Finishing yet another new report on that, it hit me that I should have a place where I succinctly pull together important stats. So, here we are. (In all cases, I am using “EV” for full battery electric vehicles, or BEVs. Plugin hybrids (PHEVs) are not included in the stats below unless specifically noted.)
+
+1. 7.2% EV share of US auto sales in 2023 (up from 5.5% in 2022, 3.0% in 2021, 1.7% in 2020, and 1.4% in 2019).
+
+2. 7.8% EV share of US auto sales in Q4 2023 (7.5% in Q3 2023, 6.7% in Q2 2023, 6.9% in Q1 2023, 6.5% in Q4 2022, 6.0% in Q3 2022, 4.8% in Q2 2022, 4.5% in Q1 2022, and 4.2% in Q4 2021).
+
+3. US EV sales increased 47% in 2023 versus 2022, increased 142% versus 2021, increased 356% versus 2020, and increased 385% versus 2019 (a pre-COVID year) — click that link to see more charts showing how those trends compared to the US fossil fuel auto market and to see more on the changes in volume terms.
+
+4. US EV sales reached 1,119,251 in 2023, up from 760,329 in 2022, 462,247 in 2021, 245,586 in 2020, and 230,761 in 2019.
+
+5. US EV sales reached 303,111 in the 4th quarter of 2023, up from 253,133 in the 4th quarter of 2022, 136,410 in the 4th quarter of 2021, and 95,203 in the 4th quarter of 2020.
+
+6. Mercedes, Volkswagen, Audi, and Porsche had more than 10% of their US auto sales coming from EVs in 2023 — 12.3%, 11.5%, 11%, and 10%, respectively
+
+7. Mercedes, Porsche, Audi, Volkswagen, and Cadillac had more than 10% of their US auto sales coming from EVs in 2023 — 15%, 12.4%, 11.1%, 11%, and 10.5%, respectively
+
+8. Tesla reached 4.3% of US auto sales in 2023, and was the 8th best selling auto brand
+
+9. Tesla accounted for about 56.3% of the US EV market in the 4th quarter, followed by Ford at 8.6%, Rivian at 4.6%, Mercedes at 4.5%, Chevrolet at 4.4%, and Hyundai at 4.4%. You can see the split by automotive brand or automotive group in the two charts below.
+
+10. Tesla accounted for about 59.1% of the US EV market in 2023, followed by Ford at 6.5%, Chevrolet at 5.6%, Rivian at 4.5%, Hyundai at 4.2%, Mercedes at 3.9%, and Volkswagen at 3.4%. Again, you can see the split by automotive brand or automotive group in the two charts below.
+
+Are there any other big US electric car stats or charts you’d like to see in a resource like this?

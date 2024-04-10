@@ -1,0 +1,43 @@
+Mon, 24 Jul 2023 07:00:00 GMT
+
+The earnings disappointment from Netflix (NFLX) and Tesla (TSLA) last week helped push the Nasdaq 100 Thursday to its largest one-day decline of the past five months. Heading into the weekend this likely reduced the FOMO of the tech buyers ahead of a busy week for the markets.
+
+In addition to the FOMC meeting and hoped for last rate hike there are 170 S&P 500 companies reporting. This includes tech giants Microsoft Corp. (MSFT), Meta Platforms Inc. (META), Alphabet (GOOGL), and Amazon.com (AMZN).
+
+Overall the averages, except the Nasdaq 100, recorded some solid gains last week led by a 2.6% gain in the Dow Jones Transportation Average which outperformed the Dow Jones Utility Average and Dow Jones Industrial Average by a small margin.
+
+The iShares Russell 2000 was up 1.5% while the S&P 500 gained 0.7% and the SPDR Gold Shares were up 0.4%. The market internals for the NYSE were almost 2-1 positive for the week even though they were flat Friday.
+
+The Spyder Trust (SPY ) triggered a daily doji sell signal on Thursday as the monthly R1 at $452.71 was exceeded. The R2 is at $462.30. SPY closed 1.6% above the 20-day EMA at $444.96 with the monthly pivot at $434.79. The 38.2% Fibonacci support from the March low is at $427.27. This is a level to watch on a further decline.
+
+The daily S&P 500 Advance/Decline line made further new highs this past week. It has moved further above its strongly rising WMA. Though it is extended it does not show signs of a top. The prior all-time high, line a, is now major support. A break of the short-term support at line b would be consistent with a deeper decline.
+
+The Invesco QQQ Trust (QQQ) also triggered a doji sell signal last Thursday and closed at $375.63 and above the 20-day EMA at $372.38. The July low at $363.41 is now more important support and a close below this level should signal a move to the $355-$360 area.
+
+The Nasdaq 100 A/D line continues to lead the QQQ higher after the recent move through the resistance at line b that goes back to an all-time in late 2021. Though the A/D line could drop back to its strongly rising WMA and the breakout level there are no signs yet of a major top.
+
+Over the past year, my colleague Jerry A and I have been working on refining my weekly Viper ETF Watch list. It has taken on several new dimensions under Jerry’s guidance as it now utilizes multi-timeframe analysis to assess the strength or weakness of market sector ETFs as well as individual stocks.
+
+The Dynamic Trailing Stop (DTS) adapts and learns with each closing value for each time frame which is colored green for positive or red for negative. For AAPL, the Weekly, Three Day, and Daily DTS are positive while the Four Hour DTS is negative. The QPivot is included as is the weekly % change, and weekly volume relative to the average. The bright red indicates a current signal as the daily DTS flipped to negative on NVDA while it was already negative (dark red) on AMZN, META, TSLA, and GOOGL. If the close is above the 10-day EMA it is in green or in red if the close is below.
+
+This project was started well before the recent AI frenzy but in our view it allows one to use AI to make more informed trades. The data from the table is then used to target specific stocks or ETFs that are more likely to identify good trading or investing opportunities.
+
+The negative readings from the Four Hour DTS are generally consistent with a pause in the uptrend. To warn of a more serious decline you would then look for negative signals from the Daily DTS and the Three Day DTS. Only NVDA generated a negative daily DTS signal on Friday while AVGO generated a positive Daily DTS.
+
+Only Tesla (TSLA) is giving such a warning as the 3-Day chart generated a negative signal (yellow arrow) at the end of the week. There is next support at $247.07 with the QPivot (in purple) at $230.38. A weekly close below this level would be more negative.
+
+The volume analysis has weakened over the past week but has not turned negative. The StoConf is negative and it is well above the red (overbought zone) which makes it vulnerable to a further decline.
+
+Tuesday’s earnings from Microsoft Corp. (MSFT) and Alphabet (GOOGL) are likely to set the tone for the next week or two so their multi- time frame technical readings should be important
+
+MSFT spiked to a high of $366.78 last Tuesday July 18th but then closed the week at $343.77 near the week’s low. As indicated on the table the volume was over double the average but the Daily DTS has stayed positive. The volume was the highest of the past three months which creates lots of overhead supply. There is seven week chart support now at $322.50 with the rising 20 week EMA at $314.91. The 38.2% Fibonacci support of the rally from the October 2022 low is at $307.59
+
+The relative performance (RS) confirmed that MSFT was a market leader in early March as the resistance at line b, was overcome. The RS has been declining for the past seven weeks and is now testing its WMA. A drop below it will indicate that MSFT is now likely be weaker than the S&P 500. The on-balance-volume turned positive at the start of the year but is also now just above its rising WMA.
+
+Alphabet Inc. (GOOGL) also reports its earnings after the close on Tuesday but the Daily DTS is now negative so I will be watching for further warnings from the Three Day DTS. GOOGL has been testing the resistance from the 2022 top formation in the $129 area, line a, for the past two months. A drop below the recent low at $115.35 should trigger heavier selling. The likely downside targets are in the $105-$110 area.
+
+On the rebound from the early 2023 lows the RS just made it back to the long-term downtrend, line b. This was considerably weaker than the RS behavior observed with MSFT. The RS has been declining for over six weeks and just closed below its WMA last week. This is consistent with a further decline as is the drop in the OBV below its WMA.
+
+Rally in MSFT from the 2022 lows is consistent with a new major trend but that does not appear to be the case for GOOGL The failure to overcome the GOOGL resistance in the $129 area is consistent with a rebound in the downtrend and could make it more vulnerable.
+
+The earnings reports over the next few days could trigger a deeper correction but based on the advance/decline line analysis there are no signs yet that the rally from the March lows is ending. I will be sharing the updated NQ Largest Gauge table on Twitter when there are changes this week.

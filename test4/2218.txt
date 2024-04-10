@@ -1,0 +1,36 @@
+Mon, 26 Feb 2024 08:00:00 GMT
+
+Investors with a lot of money to spend have taken a bullish stance on Tesla TSLA.
+
+And retail traders should know.
+
+We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga.
+
+Whether these are institutions or just wealthy individuals, we don't know. But when something this big happens with TSLA, it often means somebody knows something is about to happen.
+
+So how do we know what these investors just did?
+
+The overall sentiment of these big-money traders is split between 60% bullish and 39%, bearish.
+
+Out of all of the special options we uncovered, 47 are puts, for a total amount of $3,917,397, and 112 are calls, for a total amount of $5,742,405.
+
+Taking into account the Volume and Open Interest on these contracts, it appears that whales have been targeting a price range from $180.0 to $300.0 for Tesla over the last 3 months.
+
+In today's trading context, the average open interest for options of Tesla stands at 12543.61, with a total volume reaching 1,799,261.00. The accompanying chart delineates the progression of both call and put option volume and open interest for high-value trades in Tesla, situated within the strike price corridor from $180.0 to $300.0, throughout the last 30 days.
+
+Founded in 2003 and based in Palo Alto, California, Tesla is a vertically integrated sustainable energy company that also aims to transition the world to electric mobility by making electric vehicles. The company sells solar panels and solar roofs for energy generation plus batteries for stationary storage for residential and commercial properties including utilities. Tesla has multiple vehicles in its fleet, which include luxury and midsize sedans and crossover SUVs. The company also plans to begin selling more affordable sedans and small SUVs, a light truck, a semi truck, and a sports car. Global deliveries in 2023 were a little over 1.8 million vehicles.
+
+Having examined the options trading patterns of Tesla, our attention now turns directly to the company. This shift allows us to delve into its present market position and performance
+
+Where Is Tesla Standing Right Now?
+• With a volume of 11,169,353, the price of TSLA is up 2.26% at $196.31.
+• RSI indicators hint that the underlying stock may be approaching overbought.
+• Next earnings are expected to be released in 51 days.
+
+4 market experts have recently issued ratings for this stock, with a consensus target price of $258.75.
+• An analyst from Daiwa Capital has revised its rating downward to Neutral, adjusting the price target to $195.
+• Reflecting concerns, an analyst from Wedbush lowers its rating to Outperform with a new price target of $315.
+• An analyst from Piper Sandler persists with their Overweight rating on Tesla, maintaining a target price of $225.
+• An analyst from Baird has revised its rating downward to Outperform, adjusting the price target to $300.
+
+Trading options involves greater risks but also offers the potential for higher profits. Savvy traders mitigate these risks through ongoing education, strategic trade adjustments, utilizing various indicators, and staying attuned to market dynamics. Keep up with the latest options trades for Tesla with Benzinga Pro for real-time alerts.

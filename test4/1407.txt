@@ -1,0 +1,17 @@
+Wed, 13 Dec 2023 08:00:00 GMT
+
+Shares of Tesla (NASDAQ:TSLA) stock are in the red after the electric vehicle (EV) company announced that it would recall more than two million vehicles or almost every vehicle it has ever sold in the U.S. These include Models S, X, Y and 3 produced between October 2012 and Dec. 7.
+
+The recall was made amid a two-year National Highway Traffic Safety Administration (NHTSA) investigation that concluded that Tesla’s Autosteer feature within Autopilot did not provide enough safeguards to prevent misuse. Specifically, it did not ensure that drivers were paying attention while using the feature. The NHTSA enacted a probe into the company in 2021 following several crashes in which Tesla vehicles struck stationary emergency vehicles.
+
+“Automated technology holds great promise for improving safety, but only when it is deployed responsibly,” said the NHTSA. “Today’s action is an example of improving automated systems by prioritizing safety.”
+
+Since October, the EV company has held several meetings to discuss the NHTSA’s concerns and to resolve the issue. Tesla did not agree with the findings but agreed to a recall on Dec. 5. During the same month, the U.S. Department of Justice issued subpoenas toward the company’s Autopilot and full-self-driving (FSD) features.
+
+To fix the issue, Tesla will push out an over-the-air (OTA) software update on or after Dec. 12. This means that existing vehicle owners will not have to take their vehicles to an automotive shop to receive the fix.
+
+“The remedy will incorporate additional controls and alerts to those already existing on affected vehicles to further encourage the driver to adhere to their continuous driving responsibility whenever Autosteer is engaged, which includes keeping their hands on the steering wheel and paying attention to the roadway,” said the NHTSA.
+
+Of course, this news is detrimental to TSLA stock. Autopilot has long received criticism due to arguments over how safe it is and if it is truly ready for roads of all types. The recall could influence potential customers over their decision to purchase a Tesla vehicle.
+
+On the date of publication, Eddie Pan did not hold (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.

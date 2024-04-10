@@ -1,0 +1,27 @@
+Mon, 08 Jan 2024 08:00:00 GMT
+
+On Monday, U.S. indices ended the trading day in the green with the Nasdaq gaining 2.2% to 14,843.77. The S&P 500 rose 1.14% to 4,763.54 while the Dow Jones index appreciated nearly 0.6% to 37,683.01.
+
+These are the top stocks that gained the attention of retail traders and investors throughout the day:
+
+Nvidia Corp NVDA saw a notable increase of 7.34% in its stock value. Despite facing challenges due to U.S. regulations barring high-performance AI chip sales to China, Nvidia is adapting with a new lineup of lower-powered AI chips.
+
+These regulatory challenges have led to a shift in demand from major Chinese cloud companies, such as Alibaba Group Holding Limited BABA and Tencent Holding Ltd TCEHY, who are now looking to reduce their reliance on Nvidia’s products. This shift is partly due to the growing interest in local alternatives and in-house developments by companies like Baidu Inc BIDU and ByteDance, turning towards domestic producers like Huawei Technologies. Despite these challenges, Nvidia’s CEO Jensen Huang remains committed to competing in the Chinese market, with plans to mass-produce a new AI chip, the H20, specifically designed for China in compliance with U.S. export regulations.
+
+Boeing Co BA experienced a significant drop of 7.83% in its share price following an incident involving a section of fuselage blowing out on an Alaska Airlines ALK flight. This event led to a temporary grounding of the 737 Max 9 jets and an emergency landing, though no serious injuries were reported.
+
+The incident has raised concerns about Boeing’s reputation, especially given the history of the Max-family of jets. In response, global air safety regulators, including the FAA and NTSB in the U.S., have ordered immediate safety inspections. This development has affected not only Boeing but also airlines operating the 737 Max 9, such as United Airlines Holdings Inc UAL and Copa Holdings CPA, with varying impacts on their stock prices. Analysts from Goldman Sachs and Bank of America maintain their Buy ratings on Boeing but acknowledge the potential reputational risks and the need for cautious navigation through this situation.
+
+Ardelyx, Inc. ARDX saw a remarkable increase of 30.4% in its share price, following a strategic business update. The company’s optimism is centered around its FDA-approved IBS treatment, Ibsrela, which is projected to achieve significant market share and revenue.
+
+In their update, Ardelyx announced expectations for Ibsrela to capture more than ten percent market share at its peak, with the potential to generate over $1.0 billion in annual U.S. net product sales revenue before patent expiration. For the full year of 2024, the company anticipates U.S. net product sales revenue for Ibsrela to be between $140 million and $150 million. CEO Mike Raab expressed confidence in the company’s direction, emphasizing efforts to grow sales of marketed therapies and pursue business advancement through various initiatives. The significant stock price movement may also be influenced by a high percentage of shares being sold short, as per data from Benzinga Pro.
+
+Crocs, Inc. CROX experienced a significant surge of 20.7% in its share price, following an optimistic update on its fourth quarter 2023 outlook and preliminary guidance for 2024. The company’s performance exceeded market expectations and its own forecasts.
+
+Crocs reported an expected FY23 revenue of approximately $3.95 billion, marking an 11% growth compared to 2022 and slightly surpassing its initial growth projection of 10%-11%. This growth is driven by a more than 13% increase in Crocs Brand revenues, crossing the $3 billion threshold, and HEYDUDE revenues of about $949 million. For the fourth quarter of FY23, the company anticipates a revenue growth of 1% year-on-year, which is notably above its previous guidance of a decline of (4%) – (1%). Additionally, Crocs has made significant strides in reducing its net debt by approximately $277 million and repurchasing $25 million in stock during the fourth quarter. Looking ahead to FY24, Crocs projects a growth of 3% – 5%, with the Crocs brand expected to grow by 4% – 6% and the HEYDUDE brand remaining stable or slightly increasing.
+
+Tesla Inc. TSLA saw a modest increase of 1.20% in its stock price. This uptick comes in the wake of CEO Elon Musk hinting at the introduction of new products from the electric vehicle giant, sparking interest and speculation in the market.
+
+Musk’s cryptic yet suggestive comment about “a few other products coming too” has fueled curiosity about Tesla’s future offerings. The company is known for its diverse range of products and services, including its electric vehicles, the Tesla Supercharger network, and solar roof solutions. Tesla’s commitment to innovation is evident in its significant investment in research and development, which accounted for approximately 48% of its total operating expenses in the third quarter. Musk’s vision for Tesla extends beyond traditional automotive boundaries, viewing the company as an AI/robotics entity with projects like the Full Self-Driving software, Tesla Robotaxi, and humanoid robots for factory work. Despite the challenges, Tesla’s track record under Musk’s leadership in delivering on ambitious goals remains impressive.
+
+Prepare for the day's trading with top premarket movers and news by Benzinga.

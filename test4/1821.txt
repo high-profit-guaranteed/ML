@@ -1,0 +1,49 @@
+Wed, 24 Jan 2024 08:00:00 GMT
+
+Whether missed or aligned, Tesla (NASDAQ: ) investors are likely to jump on the YTD downturn.
+
+Tesla’s next quarterly earnings report is expected on Wednesday, January 24, closing the fiscal year 2023. Zacks Investment Research forecasts Tesla’s earnings per share (EPS) to settle at $0.6 per share, according to eight analyst inputs.
+
+This would be 44% lower than Tesla’s EPS of $1.07 from the respective year-ago quarter. Based on the prior Q3 earnings report delivered in October, it would be 9% lower than the $0.66 EPS.
+
+Throughout 2023, Tesla enacted multiple price cuts to its Model 3/Model Y alongside Model X/Model S lineups. This was in response to Chinese BYD doing the same and to combat the largest EV adoption obstacle – affordability.
+
+Tesla dropped prices by 22% year-over-year up until October, only to raise them for X Plaid AWD and the Model Y Long Range. Owing to the rise of manufacturing costs, the prices of Model 3/Y also jumped in Q4, but only in China.
+
+At the same time, Tesla’s total (GAAP) gross margin decreased, going from 25.1% in Q3 ’22 to 17.9% in Q3 ‘23. This means that Tesla has steadily become less profitable. The company’s operating expenses increased 43% year-over-year.
+
+The loss of 964 bp from the operating margin, which went from 17.2% to 7.6% in the same period, also showcases that Tesla has trouble converting sales into profits.
+
+After a multi-year rise, Tesla’s operating margin has been downward since Q4 2022. Image credit: Tesla
+
+This represents a trend reversal between 2021 and 2022, when Tesla’s operating expenses increased by 15% YoY, while its operating margin improved by 1,349 bp, from 5.7% to 19.2% (as of Q1 ‘22).
+
+Therefore, a bullish scenario must account for operating margin improvement above 7%. But is that likely, given Tesla’s average selling price (ASP)?
+
+In Q3 2023, Tesla reported decreased ASP due to “pricing and mix.” This profitability metric is derived by dividing total revenue by the number of sold units. A higher ASP would result from higher EV prices that would deliver higher profits.
+
+Given that Tesla has steadily increased vehicle deliveries since Q2 2019, alongside its revenue, ASP has also been rising. However, between Q2 ‘22 and Q3 ‘23, Tesla ASP decreased by ~20%, owing to aggressive price cuts. Per the latest Q3 earnings report, Tesla delivered 435,059 units, at $19.6 billion in revenue, which makes for a $45,108 ASP per car.
+
+To offset this trend, Tesla’s battery cost has steadily improved over the years, typically 20% below the industry average.
+
+It is estimated that batteries contribute up to 15% to Tesla EV pricing. Image credit: Trefis
+
+In January, lithium prices dropped to their lowest point since August 2021, 40% of which came from China’s refinement facilities for Tesla’s lithium-ion packs. Following animosity with the US, China enacted export controls on its gallium and germanium products.
+
+Although not used for Tesla’s batteries, these scarce materials are critical for semiconductor components that regulate electricity flows from batteries. Previously, in May 2023, Elon Musk noted at a Texas lithium refinery that lithium availability represents a chokepoint problem.
+
+In the meantime, China has been expanding its lithium mining operations worldwide. US legislators countered this expansion with the Inflation Reduction Act provision. It requires eligible EV tax credits only if critical materials are sourced from the US or friendly trading partners, such as Chile or Australia.
+
+In December 2023, Tesla lost its $7,500 tax credit for Model 3 RWD and LR lineups, lowering their appeal. Viral social media posts on EVs stuck in cold weather lowered Tesla sentiment.
+
+TSLA stock is down 18% over the last month. Over one year, TSLA investors are still up over 45%. The long-term investment thesis is in play, owing to Tesla’s infrastructure, branding, and production scaling efforts.
+
+Tesla’s outlook from the Q3 report is still building toward the 50% compound annual growth rate (CAGR). For fiscal year 2023, Tesla expects to remain ahead of it with 1.8 million vehicle deliveries. Although the company’s debt-to-equity ratio increased to 0.0693 in September, it drastically decreased from Q1 ‘21 when it was 0.4.
+
+At a free cash flow of $848 million, Tesla still has ample means to weather the negative sentiment and improve its operating margin. Based on 30 analyst inputs pulled by , TSLA is a “buy. “
+
+The average TSLA price target is $248 vs current $209. The high estimate (12 months ahead) is $350, while the low forecast is $132. Accounting for Tesla’s strong branding tied to SpaceX and Elon Musk, it is likely that investors will see buying on the weakness opportunity if the company misses its $0.6 EPS estimate.
+
+Neither the author, Tim Fries, nor this website, The Tokenist, provide financial advice. Please consult our website policy prior to making financial decisions.
+
+This article was originally published on The Tokenist. Check out The Tokenist’s free newsletter, Five Minute Finance, for weekly analysis of the biggest trends in finance and technology.

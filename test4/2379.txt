@@ -1,0 +1,35 @@
+Fri, 08 Mar 2024 08:00:00 GMT
+
+Year-to-date, Nivida (NASDAQ: ) has risen almost 80%. It has helped the Nasdaq and S&P 500 reach new highs, and data shows that NVDA stock has dethroned Tesla (NASDAQ: ) as the most popular stock traded by retail investors. With AI being the new buzzword thrown around and Nvidia stock price launching like a rocket, many are claiming that we are in a bubble. Let’s look at both sides and see which is more likely.
+
+The reason for Nvidia’s stock performance despite a bear market was because of its strong financials.
+
+From FY 2023 to FY 2024, Nvidia’s revenue jumped from $26.91 billion to $60.92 billion, almost a 2-and-a-half-time increase. Most importantly, profit margins jumped from a mere 16% to almost 50%!
+
+As a result, its forward P/E ratio is significantly down from prior years because of the massive jump in earnings, at just 33x. In the past 4 years, this number has jumped as high as 72.98x since 2020 and averages around 44.28x.
+
+Therefore, bulls argue that they are buying Nvidia at a discount because increased earnings have increased its valuation to justify the price.
+
+Nvidia is most likely to capture the AI market
+
+While the stocks of other hyped technology companies saw their bubbles burst, Nvidia came out of 2022 stronger because of actual advances in AI technology.
+
+In the world of AI, many argue that Nivida is the best fit to capitalize on the market; it’s said to own almost 90% of the AI chip market. Nvidia had a first-mover advantage because its original market, gaming, used parallel processors — perfect for AI applications. Other than speed itself, it also beats competitors in its network power and software. Nvidia acquired Mellanox, which helps it link thousands of GPUs in a data center together to boost performance. In terms of software, its investment in this area is a key factor as to why it beats AMD in performance, even though its chips aren’t that much more powerful.
+
+There are key areas where Nvidia is facing headwinds which could likely mean lower than projected revenue. This itself is dangerous since much of Nivida’s valuation currently comes from its expected profits.
+
+One headwind is China, where Nvidia has been caught between the cold war between the US and China, and the Biden administration has restricted Nvidia from selling its latest chips. As a result, China only accounts for single-digit revenue compared to 19% in FY 2023.
+
+In addition, there’s a heavy concentration risk. NVDA stock requires semiconductors to create GPUs, and almost all of it comes exclusively from Taiwan Semiconductors. When its competitors inevitably ramp up AI chips, Nivida will lose leverage as the biggest buyer from TSMC (NYSE: ) — it risks gross margins decreasing as TSMC can market the costs up.
+
+Aside from traditional competitors like AMD (NASDAQ: ) and Intel (NASDAQ: ) fiercely trying to capitalize on the AI wave, one of the biggest challenges to Nvidia is that once customers are turning to competitors. Big tech companies like Microsoft (NASDAQ: ) account for 15% of its revenue, Meta (NASDAQ: ) at 13%, Amazon (NASDAQ: ) at 6.2% and Alphabet (NASDAQ: , NASDAQ: ) at 5.8%. All of these companies are also designing their own AI chips. In the long term, Nvidia’s market share will certainly be tested.
+
+For investors, whether they are cynical or optimistic, the stock has historically been very volatile. It has a high beta of 1.73 (which measures volatility compared to the overall market), and the stock has dropped by over 50% on 14 occasions since it IPOed. With one buyer reportedly accounting for one-fifth of Nvidia’s AI chip sales, it’s completely possible that Nvidia stock can easily take a turn for the worst if sales slow down.
+
+In addition, the fact that so much of its value is now rested on its future performance means the stock becomes even more risky if it doesn’t meet investor expectations quarterly. Therefore, investors must recognize that Nvidia is highly risky, and should be prepared to hold it for the long term.
+
+For me, I think there are better deals out there to invest in AI stocks. It still doesn’t hurt to own a little bit of Nvidia, and buying a share of the S&P 500 index would already give most investors exposure to Nvidia. The AI market is big, and there are more stocks out there that haven’t been overhyped yet and offer more stability for returns.
+
+On the date of publication, Michael Que did not have (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.
+
+The researchers contributing to this article did not hold (either directly or indirectly) any positions in the securities mentioned in this article.

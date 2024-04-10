@@ -1,0 +1,92 @@
+Wed, 13 Sep 2023 07:00:00 GMT
+
+Tesla, Inc. (TSLA) shares kicked off this week on a high note following a Morgan Stanley upgrade and an optimistic note emphasizing the potential of Tesla’s Dojo supercomputer project and custom silicon. The firm set its new price target at $400 for TSLA. While Tesla analyst Adam Jonas is highly bullish on the long-term prospects of Dojo, it is currently early in its development.
+
+Simultaneously, Deutsche Bank highlighted potential third-quarter challenges for the electric vehicle producer, stemming from “planned summer production shutdowns which will push both production and deliveries down QoQ, discounts on inventories, and limited positive costs offsets in the quarter.”
+
+In addition, Tesla’s aggressive price reduction strategy has taken a toll on its profit margins. The company’s operating margins for the second quarter were down by 9.6% when compared to the same period in the previous year, reflecting the financial consequences of a sustained price-cutting approach.
+
+Given the challenging pricing landscape and other potential obstacles, the rest of the year could mark a rocky journey for TSLA. Given these factors, it may be prudent for potential investors to remain on the sidelines awaiting a more favorable entry point. In order to envision the trajectory of the company, it is crucial to examine some of its key financial trends.
+
+Analyzing Financial Growth and Market Trends for Tesla Inc. from 2020-2023
+
+The reported trailing-12-month revenue of TSLA has seen a notable upward trend, with some fluctuations, over the past few years, as derived from the series of data provided.
+• As of September 30, 2020, the revenue was $28.18 billion.
+• By the end of December 2020, Tesla saw a rise to $31.54 billion.
+• There was consistent growth through March, June, and September of 2021, where revenue hit $35.94 billion, $41.86 billion, and $46.85 billion, respectively.
+• At the year-end of 2021, the revenue jumped to $53.82 billion.
+• In the first half of 2022, the revenue steadily rose from $62.19 billion in March to $67.17 billion in June.
+• Strong growth persisted in the last half of 2022 as September figures reported were $74.86 billion, culminating at $81.46 billion as of December 31, 2022.
+• The growth continued into 2023, reaching $86.04 billion by the end of March and a significant leap to $94.03 billion by June 30, 2023.
+
+Based on this data, it’s evident that Tesla has shown substantial growth over this period. Specifically, from $28.18 billion in September 2020 to $94.03 billion in June 2023, reflecting an impressive growth rate, which can be calculated from the rise in value from the first to the last values in the series.
+
+The following summarizes the trend and fluctuations of TSLA’s Gross Margin over a span of three years – from 2020 to 2023:
+• December 2020 – The gross margin slightly decreased to 21.0% at the end of 2020.
+• March 2021 – In the first quarter of 2021, the value improved slightly to 21.2%.
+• June 2021 – A noticeable jump in performance was observed half-way through 2021 as the gross margin climbed to 22.0%.
+• September 2021 – The upward trend continued, with the gross margin hitting 23.1% in September 2021.
+• December 2021 – An impressive uptick was witnessed by the end of 2021, with the gross margin closing at 25.3%.
+• March 2022 – The percentage took a leap in the first quarter of 2022, reaching 27.1%.
+• June 2022 – The same gross margin value of 27.1% remained constant over the second quarter of 2022.
+• September 2022 – A slight drop to 26.6% was noted in September 2022.
+• December 2022 – The last value for the year, 25.6%, showed a further decrease in the gross margin.
+• March 2023 – First quarter of 2023 marked a decline to 23.1% in the gross margin.
+• June 2023 – The data series concluded with a gross margin of 21.5% in June 2023.
+
+From this data, we observe that the gross margin experienced an overall upward trend from September 2020 to March 2022, with fluctuations towards the end of the period under study. After reaching its peak of 27.1%, the gross margin later declined to its final value of 21.5% in June 2023.
+
+From 2020 to 2023, TSLA showed an overall positive trend in its ROIC (Return on Invested Capital). Notably, a significant rise culminated at the end of 2022, followed by a decrease in the first half of 2023. Key observations are:
+• The company’s ROIC started at 4.8% as of September 30, 2020.
+• There was a gradual increase throughout 2021, ending the year at 21.0% on December 31.
+• In 2022, Tesla experienced a sharp climb in its ROIC value through December, escalating from 30.9% in March to a peak of 39.9% by December 31.
+• Starting in 2023, the firm saw its ROIC decline to 33.8% by March 31 and further down to 31.6% by June 30, indicating a downward shift in the underlying trend following the previous rapid growth period.
+
+This demonstrates notable growth performance but also emphasizes the recent downturn that might warrant closer observation going forward.
+
+Based on the provided series of data, here are the key trends and fluctuations:
+• The ROA of TSLA has been showing a general upward trend from September 2020 to December 2022. Within this period, the ROA value rose significantly from 0.014 in September 2020 to 0.172 in December 2022.
+• TSLA’s ROA increased for consecutively two years, indicating a steady increase in profitability efficiency. The most substantial single-period growth was observed between March 2021 (ROA = 0.024) and June 2021 (ROA = 0.042), marking an acceleration in profitability performance.
+• The overall growth rate over these two years is approximately 1129%, suggesting a remarkable improvement in TSLA’s efficient usage of its assets to generate profits.
+• In the quarter ending December 2021, there was a noticeable surge in TSLA’s ROA from 0.097 to 0.172 in one year (December 2022). However, the growth rate slowed down in subsequent quarters.
+• A reversal in the trend was observed after December 2022, where the ROA slightly decreased to 0.151 and again to 0.146 by the end of June 2023. This points to a deceleration in TSLA’s profitability efficiency post-2022.
+
+The most recent data point reflects a decrease in TSLA’s ROA to 0.146 in June 2023 compared to the peak value of 0.172 in December 2022.
+
+The Analyst Price Target for TSLA showed a fluctuating trend based on the data series provided. The initial value was $800 on November 12, 2021, and it achieved a peak value of $1005 by April 15, 2022. The price target then experienced a steep decline, dipping to as low as $200 by January 27, 2023, followed by several fluctuations until reaching the last recorded value of $262.5, reported on September 13, 2023. Below are the key observations with more emphasis on recent data:
+• From November 2021 to mid-April 2022, the analyst price target experienced moderate growth, increasing from $800 to $1005, indicating a growth rate of approximately 25.6%.
+• Following April 2022, the price target faced a severe drop, reaching $200 by the end of January 2023. This marked a significant downward shift of -80% over nine months.
+• Starting February 2023, the analyst price target observed fluctuations within a relatively narrow band. It hit a low of $200 (around May 2023) and a high of $262.5 (since late July 2023).
+• The most recent recorded data on September 13, 2023, shows an analyst price target of $262.5, maintaining stability over the past couple of months.
+
+In terms of rate, there’s a decrease of about 67.2% when considering the first value ($800) against the last value ($262.5) in the series. Despite temporary stability, the Analyst Price Target for TSLA has experienced considerable volatility over this period. The most drastic shift occurred in the latter half of 2022 and early months of 2023, and while the price target appeared to stabilize post-May 2023, the decreased value marks a significant downward departure from its peak earlier in this series.
+
+Upon analyzing the series of Tesla share prices from March 17, 2023, to September 12, 2023, we can observe the following information:
+• Beginning at a value of $180.47 on March 17, 2023, there was a brief period where TSLA share prices initially increased up until March 31, 2023 (peaking at $194.77).
+• However, a downward trend occurred later, with share prices dropping to $159.74 by April 28, 2023.
+• This negative trend was then reversed in the month of May, with a price gain reaching a value of $186.64 by May 26, 2023.
+• The most substantial upward surge in share prices happened from late May until mid-July of 2023. During this period, TSLA’s share price grew consistently, reaching its peak value of $280.83 on July 21, 2023.
+• Following this peak, there is a visible deceleration as the share prices gradually decrease, eventually dropping to $228.08 by August 18, 2023.
+• September sees another significant but short-lived increase in prices, ending at $270.17 on September 12, 2023. In terms of growth rate, the overall increase from the initial price of $180.47 in March to $270.17 in September shows approximately 49.74% growth over the span of 6 months.
+
+Here is a chart of TSLA’s price over the past 180 days.
+
+TSLA has an overall C rating, translating to a Neutral in our POWR Ratings system. It is ranked #39 out of the 55 stocks in the Auto & Vehicle Manufacturers category.
+
+Based on the provided POWR Ratings, it is clear that the three most significant dimensions for TSLA appear to be Quality, Momentum, and Growth.
+
+Quality: This dimension has consistently the highest ratings. The Quality rating remained stable at 91 until June 2023, where it gradually increased to 93 by July 2023, staying constant until September 2023, when it returned to 91.
+
+Momentum: This dimension shows some volatility over time. Starting in March 2023 with a rating of 72, it climbed to 81 in April, then fell back to 71 in May. By June 2023, the Momentum rating had slightly recovered to 72, followed by a dip to 67 in July, a further drop to 57 in August, and finally decreasing slightly more to 55 by September 2023.
+
+Growth: The Growth dimension started at 62 in March, sliding down slightly to 61 by April. It experienced more noticeable falls, decreasing to 55 by May, remaining constant until July, but then dropped significantly in August to reach 40. This trend continued with a slight decline to 37 in September 2023.
+
+This data suggests that while TSLA consistently performed in Quality throughout the observed period, its Growth and Momentum scores displayed clear and significant downward trends.
+
+Stocks to Consider Instead of Tesla Inc. (TSLA)
+
+Other stocks in the Auto & Vehicle Manufacturers sector that may be worth considering are Honda Motor Co. Ltd. (HMC), Mercedes-Benz Group AG (MBGAF), and Stellantis N.V. (STLA) — they have better POWR Ratings.
+
+Steve Reitmeister is best known for his timely market outlooks & unique trading plans to stay on the right side of the market action. Click below to get his latest insights…
+
+TSLA shares rose $2.52 (+0.94%) in premarket trading Wednesday. Year-to-date, TSLA has gained 117.15%, versus a 17.50% rise in the benchmark S&P 500 index during the same period.

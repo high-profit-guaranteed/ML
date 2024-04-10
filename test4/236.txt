@@ -1,0 +1,19 @@
+Fri, 02 Jun 2023 07:00:00 GMT
+
+Owners of the Tesla Inc TSLA Model Y who have been grappling with water ingress from the vehicle's liftgate may finally get some relief.
+
+The automaker recently issued a new service bulletin aimed at rectifying the problem and potentially providing a long-term fix. This comes as good news for Model Y owners who have experienced the issue repeatedly, despite previous repair attempts.
+
+Detailed in the service bulletin SB-23-10-003, shared by DriveTeslaCanada, Tesla highlights that "water may have leaked inside the rear trunk area through the liftgate assembly" of Model Y vehicles manufactured between 2020-2023.
+
+Indications of the issue include visible water in the seals around the trunk or in the subtrunk. Some owners may also have noticed water streaming out of the tailgate's openings, either during closure or when in a fully open position, particularly if water has accumulated in significant amounts.
+
+Also Read: Elon Musk's Tesla Stock Breaks Through Bellwether Resistance: The Bull, Bear Case
+
+Tesla's fix involves instructing technicians to "reseal the liftgate assembly" on the affected Model Ys. This procedure, estimated to take around 2 hours, appears to involve replacing the liftgate lamp double-ended stud gaskets and the liftgate lamp connector gaskets.
+
+Technicians will also use a Loctite hybrid polymer and sealant to prevent the recurrence of the issue. While the specifics of the fix aren't explicitly outlined, Tesla's choice of different sealant suggests the company has learned from past repair attempts.
+
+If you're a Model Y owner experiencing this issue, Tesla will offer a free service, provided your vehicle is still under warranty. Importantly, Tesla's Mobile Service can also perform the fix for those who reside far from a Service Center. To arrange for the repair, owners can quote SB-23-10-003 when creating a service request in the Tesla mobile app.
+
+Now Read: Silicon Valley's Salary Showdown: Unveiling How Much Top Talent At Apple, Microsoft And Google Get Paid

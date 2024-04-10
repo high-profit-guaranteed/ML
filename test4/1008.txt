@@ -1,0 +1,85 @@
+Wed, 18 Oct 2023 07:00:00 GMT
+
+Tesla’s (NASDAQ:TSLA) Q3 2023 earnings call comes on the heels of the company’s Q3 2023 Update Letter. Tesla remained profitable in Q3, despite a decrease in delivery and production, as well as a reduction in the company’s average selling price. Still, Tesla posted revenues of $23.35 billion and a 7.6% operating margin in Q3 2023.
+
+Tesla did provide some key information in its Q3 2023 Update Letter. For one, the Cybertruck’s first delivery event has been announced for November 30, 2023, and the cumulative miles of Tesla’s FSD Beta program also rose to 525 million. Tesla Energy turned out to be the dark horse for the quarter with its record energy storage deployments of 4.0 GWh.
+
+The following are live updates from Tesla’s Q3 2023 earnings call. I will be updating this article in real time, so please keep refreshing the page to view the latest updates on this story. The first entry starts at the bottom of the page.
+
+17:30 CDT – And that wraps up Tesla’s Q3 2023 earnings call! This call is quite heavy on information, and Elon Musk was surprisingly cautious. Considering the circumstances across the globe, however, this is understandable. Hopefully, Tesla does survive the storms that are coming.
+
+Thanks so much for staying with us for yet another earnings call live blog. We hope to see you again in the next one!
+
+17:30 CDT – Wells Fargo asks for clarification about Elon Musk’s previous comment about Tesla not going full tilt on Giga Mexico unless the economy is strong and if Tesla’s growth can be achieved without the plant. Musk notes that Tesla will be making a factory in Mexico. It’s just going to be a matter of timing. Tesla is still working on Mexico, but the company is paying close attention to interest rates.
+
+Plus, Giga Texas, despite its scope today, is still just a tiny fraction of the land that Tesla owns. So technically, if push comes to shove, Tesla can just focus on Giga Texas and grow the complex even more. “Tesla is a very capable ship, but even a great ship in a storm has challenges,” Musk said, adding that if interest rates come down, then Tesla should accelerate.
+
+“And I apologize if I’m perhaps more paranoid than I should be. Because that might also be the case because I am. I have PTSD from 2008 — 2017 through 2019 are not perfect either. That was very tough going. So you know, the auto industry is also sort of cyclic. It’s because people tend to hesitate to buy a new car and if there’s uncertainty in the economy,” Musk said.
+
+17:23 CDT – Cannacord asks a question about Tesla’s cost per vehicle coming down in the next quarters. Is this more on scale, cost reductions like giga casting, or other things? The analyst also asks if radar was included in some Model Y in China.
+
+Elon Musk noted that Tesla has not included radar in Model 3 and Model Y cars from Giga Shanghai. Tesla is experimenting with this in the Model S and Model X, but there are no plans to do this for the Model 3 and Model Y just yet.
+
+Musk did note that Tesla is looking into the usability of radar in terms of accident prevention. He stated that cars that had radar before had a radar unit that actually generated more noise than signal. The CEO shared some comments about a Tesla-designed radar.
+
+“A Tesla-designed radar is a high-resolution radar that has some potential to be useful,” Musk said.
+
+17:15 CDT – Elon Musk briefly discussed the “Marie Antoinette vibes” in car pricing. To highlight this, Musk discussed his disdain for a work-from-home system, which he noted was unfair to those who have to be in their workplace for their jobs.
+
+17:14 CDT – A follow-up question about price elasticity was asked. Elon Musk highlighted that regular consumers are concerned with payments. He also reiterated the importance of Tesla’s focus on reducing monthly payments.
+
+“I think there’s very significant price elasticity. To be totally frank, if our car is the same cost as a Toyota RAV4, nobody would buy a RAV4. Or at least they’d be very unlikely to. A lot of these EV incentives are actually very difficult for the average person to access; They can’t front $7,500 for even 6 months,” Musk said.
+
+17:10 CDT – Wolfe Research asks if there is a way to convey the speed of improvement in Tesla’s business. He also asks for any update on the timing of Tesla’s next-generation vehicle. The Tesla team noted that this is an evolving thing, and the company is continuously looking to improve.
+
+As for the timing of the next-generation product, Elon Musk noted that Tesla will not be providing this information at this time.
+
+17:06 CDT – Pierre Farragu asks a question about FSD pricing and if Tesla could evolve the system’s pricing as it improves. Elon Musk noted that the economics of a fully autonomous vehicle are pretty astounding. “The economics of the system are just insanely positive,” Musk said. “We’re a hardware company with software margins.”
+
+17:02 CDT – Analyst questions begin! Truist starts with an inquiry about the Cybertruck and its ramp to significant volume. The analyst asks if a similar ramp should be expected for the next-generation platform.
+
+Elon Musk noted that Cybertruck’s production will ramp in 18 months. So, while the Cybertruck’s ramp will cover three calendar years, it’s really just 1.5 years. The team also noted that the Cybertruck has unique complexities affecting the production ramp.
+
+“We dug our own grave with Cybertruck,” Musk joked, to some laughter from the team. “The Cybertruck has a lot of bells and whistles.”
+
+Musk noted that Tesla’s next-generation platform is quite more conventional in that sense. There are simply not as many new things with the next-gen vehicle. Tesla is doing everything possible to simplify the next-generation vehicle to achieve levels per minute in terms of production. Musk also noted that the next-gen Tesla is “utilitarian but cool and beautiful.”
+
+16:56 CDT – A question about Optimus was asked, and if some of the robots can be deployed next year. Musk noted that at this point, Tesla is not yet ready to discuss updates with the Optimus program. But Optimus is improving, and it’s improving fast.
+
+A final investor question was asked about FSD’s international rollout. Musk noted that regulations in different countries dictate the availability of FSD outside the United States. He also admits that he has been overly optimistic about Tesla’s FSD progress.
+
+16:54 CDT – A question about FSD’s price drop was asked. Musk notes that Tesla simply wants to make the system more affordable. The current price is a temporary low, Musk stated. “Well, we just wanted to make it more affordable,” he noted.
+
+A follow-up question was asked about when Tesla will accept legal liability for FSD. Musk joked that everyone already assumes Tesla has legal liabilities. The team also highlighted that L3 systems like the Mercedes-Benz Drive Pilot are very limited, while Tesla’s FSD system is holistic. “It’s baby AGI,” Musk said.
+
+16:52 CDT – A question about Tesla’s growth rate was asked. Elon Musk notes that Tesla is already one of the fastest-growing automakers today. As for the Robotaxi, Musk noted that the vehicle will definitely be non-driven. He highlighted that he is indeed very excited about autonomy, which is pretty amazing in its own right. This is especially notable since Tesla’s work on autonomy will pave the way for Optimus.
+
+16:47 CDT – An inquiry about Giga Shanghai, Berlin, and Mexico was asked. Tesla notes that for Mexico, Tesla is working with factory design. Tesla is working on new production line for next-generation vehicle at Giga Mexico. Elon Musk states Tesla is laying the ground work for construction at Giga Mexico. “We just want to get a sense of the global economy” before Tesla goes all-in.
+
+Elon notes that Tesla is advertising. He acknowledges that advertising is useful, but if people can’t afford Tesla’s cars, advertising won’t do much good. Musk emphasizes his concerns over interest rates and the importance of Tesla’s focus on reducing monthly payments.
+
+16:44 CDT – A second investor question asked about an update on the company’s 4680 cell initiative. Tesla notes that scrap is down 40%, and production is ramping. Giga Texas is now Tesla’s main 4680 facility.
+
+16:43 CDT – Investor questions begin. First up is the company’s expectations for Cybertruck in 2024. Elon Musk notes that it’s difficult to predict this since the Cybertruck is simply so different. It would be a different thing if the Cybertruck were just a copy of another pickup truck, of course. “The more uncharted the territory, the more unpredictable the outcome,” Musk said.
+
+Musk did state that Tesla would eventually hit about 250,000 Cybertrucks per year. This will probably be achieved sometime in 2025.
+
+16:41 CDT – Tesla’s new CFO, Vaibhav Taneja, discusses the company’s finances. He mentions “despite some factory shutdowns, our cost per vehicle decreased to approximately 37,500.” He also discusses that Tesla is focused on reducing costs and investing in the future as the company navigates the years ahead.
+
+16:37 CDT – Elon highlights that while the Cybertruck is being released this quarter, expectations must be set with regard to the vehicle’s production ramp.
+
+“There will be enormous challenges in reaching volumes production and cash flow positive. This is our best product ever, but it’d going to require immense work to get cash flow positive at a price that people can afford.
+
+“I just want to temper expectations for the Cybertruck. It’s a great product, but financially, it will take a year to 18 months before it is a significant cash flow contributor,” Musk said.
+
+16:36 CDT – Elon notes that Tesla Energy and Service now contribute over half a billion dollars in quarter profit. It’s becoming one of the company’s most profitable businesses, and it’s growing fast.
+
+16:32 CDT – Oh boy, that was a technical issue. Elon Musk is already speaking. He’s discussing Tesla’s progress with autonomy. He notes that he’s seeing significant promise with FSD Beta V12, which is an end-to-end solution. “We will continue to invest heavily in AI development,” Musk said.
+
+16:30 CDT – It’s time! The Q3 2023 earnings call should be starting any minute now. The music’s stopped, so we’re just waiting for the actual call to begin.
+
+16:29 CDT – And here’s the music! I wonder if Tesla will start on Elon time?
+
+16:15 CDT – Hello, everyone, and welcome to our live blog of Tesla’s third-quarter earnings call! As expected, Tesla’s revenue and EPS took a hit in Q3, thanks in no small part to the company’s decrease in vehicle deliveries. Tesla was still profitable, though, so that pretty much proves that an EV business could consistently make money.
+
+Don’t hesitate to contact us with news tips. Just send a message to simon@teslarati.com to give us a heads up.

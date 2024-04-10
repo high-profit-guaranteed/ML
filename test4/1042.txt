@@ -1,0 +1,59 @@
+Fri, 20 Oct 2023 07:00:00 GMT
+
+While most investors are focused on Tesla's headline profit and margin figures, three relatively unnoticed datapoints in the company's third-quarter report paint a worrisome picture.
+
+Few trends have been capturing the attention of investors since this decade began quite like the rise of electric vehicles (EVs). According to Fortune Business Insights, global EV revenue is expected to soar from an estimated $500 billion in 2023 to $1.58 trillion by 2030. This works out to a compound annual growth rate of close to 18%.
+
+Despite fierce competition in the EV arena, it's Tesla (TSLA 2.25%) that's ridden its first-mover advantages to jaw-dropping gains. Since its initial public offering (IPO) in 2010, shares off the company have risen by more than 15,000%!
+
+It's been pedal to the metal for Tesla since its 2010 IPO
+
+Tesla isn't the largest auto company in the world by accident. It's the first automaker in more than a half-century to build itself from the ground up to mass production. In 2023, Tesla is on track to produce in the neighborhood of 1.8 million EVs. Further, the company's four existing gigafactories have the ability to produce around 2 million EVs annually, on a combined basis, once operating at full capacity.
+
+Additionally, Tesla is the only pure-play EV maker that's generating a recurring profit, based on generally accepted accounting principles (GAAP). It's reported three consecutive years of GAAP profits, and is very likely on its way to a fourth year of GAAP profits in 2023. Though most legacy automakers are profitable, their EV and autonomous vehicle divisions are bleeding red.
+
+Tesla is also sitting on a treasure chest worth of cash. Through the end of September, it had $26.1 billion in cash, cash equivalents, and investments. Further, it's generated positive free cash flow every quarter since reporting an outflow in the first quarter of 2020. Having abundant cash and minimal debt gives Tesla financial flexibility that most debt-burdened automakers lack.
+
+Lastly, investors appreciate the innovation CEO Elon Musk brings to the table. Since becoming CEO of Tesla, Musk has overseen the introduction of four production models (S, 3, X and Y), with the Cybertruck readying to make its debut.
+
+Three under-the-radar data points suggest Tesla is in trouble
+
+While the decade-long growth story for Tesla has been undeniably great for its shareholders, the company's latest earnings report paints a worrisome picture.
+
+On the surface, there were a number of concerning data points. Examples include slowing sales growth, declining operating margin, and a significant drop-off in free cash flow from the prior-year period. But these are all headline figures that are likely being closely monitored by the company's current and prospective investors.
+
+Of particular concern are three completely off-the-radar data points in Tesla's earnings report that appear to signal trouble for the company.
+
+The first relatively unnoticed data point in Tesla's earnings report that should be raising alarm bells is the company's global vehicle inventory. This metric, which is also referred to by Tesla as "days of supply," is calculated by dividing new car inventory at the end of a quarter by the relevant quarters' deliveries. Ideally, the lower the days of supply, the better, as it would signal strong demand for the company's EVs.
+
+For the first quarter of 2022, Tesla had just a three-day supply of new EVs, based on deliveries in Q1 2022. By the third quarter of 2022, it more than doubled to eight days of supply. Exactly one year later, as of the third quarter of 2023, it's doubled again to 16 days of supply.
+
+During Tesla's annual meeting in May, Musk stated that Tesla's pricing strategy is dictated by demand. If EV demand declines and/or inventory levels are rising, the company would be expected to respond with price cuts. Since 2023 began, the company has reduced prices on its EV lineup on more than a half-dozen occasions. These price cuts explain why Tesla's operating margin has more than halved over the past year (17.2% Q3 2022 to 7.6% Q3 2023).
+
+However, days of supply continuing to climb in the face of these price cuts suggests that we haven't seen the last of the company's price reductions. Though these cuts may be providing a very temporary sales lift, the relatively steady increase in days of supply since Q1 2022 doesn't bode well for demand or the company's operating margin in the coming quarters.
+
+2. Energy generation and storage revenue is stuck in neutral
+
+A second off-the-radar data point that should be raising eyebrows for all the wrong reasons is revenue from Tesla's energy generation and storage segment.
+
+Since Tesla is the first automaker to emerge from obscurity and become relevant in a long, long time, it's no surprise that investors are focused on its EV sales and lease figures. However, Musk is attempting to make Tesla into far more than just an auto company. Tesla's other revenue-generating channels include its residential and enterprise battery storage packs, solar panels, and its supercharger network.
+
+The problem for Tesla is that it's struggled to become more than a car company. The company's solar panel segment has been losing money since SolarCity was acquired in 2016, while energy generation and storage, as a whole, is a low-margin segment.
+
+Perhaps the bigger concern is that energy generation and storage sales growth has virtually stalled. Whereas year-over-year sales for this segment jumped 148% to $1.529 billion in Q1 2023, revenue in the two subsequent quarters clocked in at $1.509 billion in Q2 2023 and $1.559 billion in Q3 2023. On a sequential quarterly basis, this once high-growth ancillary segment for Tesla has fallen flat.
+
+In other words, Tesla's profitability remains almost entirely dependent on selling and leasing EVs.
+
+3. Renewable energy credits and interest income make up a significant percentage of pre-tax profit
+
+This leads to the third data point in Tesla's earnings report that may spell trouble: the breakdown of its pre-tax income.
+
+Considering that Tesla's market cap is greater than many of the world's legacy automakers, combined, the expectation would be that Tesla is generating the bulk of its profit from recurring operations and not a bunch of one-time benefits. But dig into the company's statement of operations and you'll find an unsettling reliance on unsustainable profit drivers.
+
+During the third quarter, Tesla sold $554 million worth of automotive regulatory credits. Tesla is given these credits for free by governments and is allowed to sell them to other automakers struggling to meet environment/carbon-offset requirements.
+
+Furthermore, it recognized $282 million in interest income from its massive cash hoard. When combined with automotive regulatory credits, $836 million -- nearly 41% -- of Tesla's $2.045 billion third-quarter pre-tax profit came from unsustainable income sources that have nothing to do with its ability to produce and sell EVs.
+
+If Tesla were valued at a single-digit forward-year price-to-earnings (P/E) ratio like most auto stocks, this wouldn't be a big deal. But Tesla is currently trading at 73 times Wall Street's consensus earnings for 2023, and this figure may move even higher following the release of its third-quarter report.
+
+Instead of innovation driving results, investors are anointing Tesla with a premium multiple thanks, in large part, to automotive regulatory credits and interest income. Caveat emptor!

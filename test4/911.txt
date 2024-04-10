@@ -1,0 +1,47 @@
+Tue, 03 Oct 2023 07:00:00 GMT
+
+September saw plugin EVs take 63.4% share in Sweden, up from 55.2% year on year. Most of the plugin growth came from full electrics, which alone took 44.4% share. Overall auto volume was 28,130 units, up some 28% YoY, and roughly in line with pre-2020 seasonal norms. The Tesla Model Y was Sweden’s bestselling vehicle of any kind in September (and year to date), by a large margin.
+
+September’s results saw combined EVs take 63.4% share, comprising 44.4% full electrics (BEVs), and 19.0% plugin hybrids (PHEVs). July 2022 figures were of 55.2%, with 35.2% BEV, and 19.8% PHEV. We can see that all of the YoY growth in share has come from BEVs, with PHEV share remaining roughly flat.
+
+Looking at volumes, BEVs grew at a strong 61% YoY, selling 12,500 units. Even PHEVs saw YoY volume growth of 22%, resulting in 5,337 sales. The 28% volume growth of the overall market was mostly powered by BEV growth, though petrol-only vehicles did see 21% YoY growth (albeit from a low baseline in 2022).
+
+Petrol-only share fell YoY from 21.1% to 20.0%. Combined combustion-only powertrains share stands at 27.7%, from 31.9% YoY, with diesel at just 7.6%.
+
+The Tesla Model Y was the overall bestseller in September, with a huge 3,050 units (close to the March ’23 record of 3,202 units).
+
+The Volkswagen ID.4 was a long way back, in 2nd spot, with the Volvo XC40 taking 3rd.
+
+The Model Y has been totally dominating Sweden’s overall auto market this year, with 13,457 registrations so far. That means almost one in every 15 cars sold this year is a Tesla Model Y!
+
+For context, the YTD volume of the overall runner up XC40 (combining all powertrain variants), is 8,603 units, and the ID.4 – in 3rd spot overall – stands at 7,755 units.
+
+Apart from some normal logistical variations across different models, there was no big surprise in the top 20 in September.
+
+Lower down the rankings, there were some new model debuts, most notably the Xpeng G9, with 41 units.
+
+The G9 is a large (4891 mm) premium priced SUV (from €60,000 and up in Sweden). Its basic version comes with a 94 kWh (usable) battery, with WLTP range of 520 km, and very impressive fast charging capability (10% to 80% in 20 minutes). It is also very powerful with 717 Nm of torque, giving 0-100 km/h in 3.9 seconds (via all wheel drive). Basically the G9 is in a similar category to the BMW iX (already quite popular in Sweden), but is around 18% less expensive at entry.
+
+Another BEV debut came for the Mercedes EQT van/minibus, with 19 units. This is frankly less interesting – being basically a rebadged Renault Kangoo – with some trim enhancements, and seating for up to 5. The EQT has a modest WLTP range of 282 km, and yet is priced from €47,ooo! The Kangoo meanwhile – with similar range – is priced from a much more realistic €29,000, so I can’t see the EQT selling in any notable volume. Perhaps these initial 19 units are the best month it will have?
+
+Another quiet debut was the Smart #1 (2 initial units) which does have strong potential in the Swedish market, and is a twin of the Volvo EX30. It is a compact SUV, with competent range (upto 440 km WLTP) and decent charging, starting from just under €42,000. Let’s see how it gets on.
+
+The BMW i5 also made its debut in September (2 initial units). Early reviews describe it as a compelling vehicle, and it starts from €70,000 which is in line with its premium E-segment peers. It will help transform the premium large sedan segment over to BEV, finishing what Tesla started in 2012. Volume could grow to be moderately high – its close peer the Mercedes EQE is now just inside the top 20 BEVs in Sweden, and its smaller sibling the BMW i4 is often close to the top 5.
+
+Finally the Lotus Eletre luxury performance SUV also debuted in September, with 3 units. Priced from €96,000, this one won’t make much impact on volumes, but is compelling in its segment and will further reinforce the notion that BEVs are the right fit for practical high performance vehicles.
+
+Let’s now turn to the trailing 3 month chart:
+
+Here Tesla’s lead is obvious, with the Model Y a good margin ahead of the Volkswagen ID.4, itself well clear of the Skoda Enyaq in 3rd.
+
+There are no great surprises in the top 20, but it is notable that premium priced BEV like the BMW i4, Audi Q8 e-tron, and Mercedes EQE are populating the ranks. This suggests that premium newcomers like the Xpeng G9 and BWM i5 are in with a decent chance of seeing relatively strong volumes in the Swedish market.
+
+Despite the auto market’s growth, the overall Swedish economy remains in the red, with Q2 showing a 1% YoY GDP drop. Inflation has moderated somewhat, but is still high at 7.5%, and interest rates have increased to 4%, close to the highs of 2008-2009. Manufacturing PMI fell to 43.3 points in September, from 45.5 in August.
+
+Industry body, Mobility Sweden, continues to emphasize that the private consumer auto market is weak, and plugin growth is instead being driven by company cars. They tell us that 66% of BEV sales in 2023 YTD are from company purchases, compared to 42% last year.
+
+The coming few months will reveal how much of an impact last November’s ending of the plugin incentive will have on the market. Up until this point, a high proportion of 2023 deliveries were ordered period to the November cut off, but these will increasingly dry up in the near future.
+
+Personally I think that the total cost of ownership advantages of plugins are now clear to buyers, especially company buyers which often take a longer view. Given Sweden’s propensity for mid and premium priced vehicles, there is also likely some margin for manufacturers’ pricing to become more keen, to somewhat counteract the effects of the subsidy cut.
+
+What are your thoughts on Sweden’s transition to EVs? Please jump in to the comments below to join the discussion.

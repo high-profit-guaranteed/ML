@@ -1,0 +1,21 @@
+Mon, 05 Jun 2023 07:00:00 GMT
+
+Tesla’s (TSLA) price cuts and incentives such as the federal EV tax credits seem to be having the desired effect on Tesla’s sales inventory and demand.
+
+US inventory bloat appeared to be a problem, at least earlier in the year, as Tesla ramped up production at its gigafactories in Austin. But a new report from Tesla data tracker Matt Jung (as first noted by Electrek) shows that Tesla inventory has been coming down recently, as compared to April when data showed inventory hitting a record high.
+
+Jung’s report pulls historical data on the total number of new Tesla vehicle listings (Model S, 3, X, Y) available in the US on Tesla’s website. The data shows inventory hitting a high of 2,689 in late April, and slipping down to 2,234 by June 4, a drop of 17%. The drop in inventory had hit 20% by the end of May before picking back up.
+
+Looking deeper into the inventory data shows that Tesla Model Y listings have dropped considerably since mid-April when listings hit 606, to 219 in early June, slipping by nearly two-thirds. This coincided with steep Tesla price cuts of the Model Y and the inclusion of all versions of the Model Y for the federal EV tax cuts.
+
+Higher-priced Model S and Model X inventory have dropped as well in recent months, while Model 3 sedan inventories have been rising steadily throughout the year. This may be the reason why Tesla has been instituting targeted price cuts for the Model 3 across several regions in the US; additionally, Model 3 sales will be helped by Tesla’s recent announcement that the Model 3 now qualifies for the full federal EV tax credit, due to battery updates.
+
+Conversely, new data from Tesla sales tracker Troy Teslike (as first noted by InsideEVs) finds that Tesla’s global order backlog increased to 83,000 as of mid-May, up from 68,000 vehicles compared to two weeks prior — a jump of 22%. Drilling down deeper, US order backlog has increased to almost 40,000 from 24,000, suggesting Tesla’s mid-April price cuts are boosting demand.
+
+Teslike’s numbers are based on “Tesla-related stats (production volume, average wait times for each model/trim)” that the site has been collecting for several years now. The numbers suggest in the US Tesla’s order backlog stood at 27 days in mid-May, an increase of 7 days compared to two weeks prior. The order backlog in days relates to the wait time a customer can expect when placing a new, custom order.
+
+Tesla will report Q2 sales data at the start of July, with investors hoping for a considerable increase from the 422,000 vehicles delivered in Q1. With that said, Tesla shares are trading higher today, and are up a whopping 78% year to date.
+
+Pras Subramanian is a reporter for Yahoo Finance. You can follow him on Twitter and on Instagram.
+
+Read the latest financial and business news from Yahoo Finance

@@ -1,0 +1,41 @@
+Sun, 16 Apr 2023 07:00:00 GMT
+
+There are plenty of ways to invest in the EV industry's bright future.
+
+Tesla (NASDAQ: TSLA) stock has been a winner so far in 2023, surging 51% year to date (though it's still down by almost 50% from where it started 2022). But concerns about the impact of its recent vehicle price cuts and intensifying competition in the electric vehicle (EV) space may lead some investors to search for other ways to invest in the EV trend.
+
+One option would be to build a diversified portfolio of EV automakers. Another would be to invest in companies that support the EV industry, which would provide a catch-all way to benefit from growing EV adoption without banking on the success of specific automakers.
+
+ON Semiconductor (ON 3.19%), Li-Cycle Holdings (LICY 2.65%), and an exchange-traded fund (ETF) -- the Global X Autonomous & Electric Vehicles ETF (DRIV 1.39%) -- offer three out-of-the-box ways to invest in various aspects of the EV industry. Here's why each opportunity is worth considering now.
+
+Lee Samaha (ON Semiconductor): There aren't many industries that are more cyclical than semiconductors, but investors shouldn't shun ON Semiconductor even in this macroeconomic environment. While Wall Street expects the company's revenue and earnings will decline this year, it's essential to put those points into a longer-term context.
+
+The company has two main end markets -- automotive (notably EV makers, and Tesla is believed to be one of them) and industrial. They contributed 40% and 28% of ON Semiconductor's revenue, respectively, in 2022, and management believes its sales for those segments will grow at compound annual rates of 17% and 7%, respectively, from 2021 through 2025.
+
+That said, this isn't a great time to be a company with business exposure to computing and smartphones as those markets are facing a slowdown in consumer discretionary spending compounded by the natural trough in sales that's following the surge that was driven by the pandemic's stay-at-home period. And ON Semiconductor does have exposure to those end markets, which it reports under its "other" segment, which accounted for the remaining 32% of its 2022 sales.
+
+The key to its long-term growth is an expansion of its footprint in the auto market through intelligent power solutions that help expand the range of EVs, power technologies that increase EV efficiency, and intelligent-sensing technologies to improve EV safety and help automate driving. Meanwhile, in the industrial automation market, its sensing technologies help drive the digitization of factories and buildings.
+
+These are desirable markets to be in, and if you can tolerate the potential for near-term bad news, then ON's stock looks attractive. The trough in its estimated earnings of $4.42 per share in 2023 would give it a valuation of just under 18 times forward earnings at the current share price. That's cheap for a cyclical company, not least one with exciting long-term prospects.
+
+Plug in for growth with this battery recycler
+
+Scott Levine (Li-Cycle): Given the wild price swings EV makers' stocks have been exhibiting, it's unsurprising that even people who are bullish about the EV industry's growth are a little wary about buying shares in individual vehicle manufacturers. In part as a result, lithium miners and EV battery makers have drawn increased attention. But one investment opportunity that has largely gone unnoticed is Li-Cycle, a battery recycling company. It operates in a nascent niche, and as an investment, its sits at the upper end of the risk spectrum, but it also carries the opportunity for significant returns.
+
+Manufacturing EV lithium-ion batteries requires more than just lithium. Cobalt, manganese, nickel, and copper are also critical materials. Li-Cycle has developed a patented process for extracting these metals from used lithium-ion batteries, something that will help reduce battery manufacturers' reliance on mining companies to supply the metals -- an especially urgent need as companies look to shore up their commodity supplies. For EV battery producers, sourcing these metals from Li-Cycle has the added benefit of reduced costs compared to traditional means.
+
+Using a patented process, Li-Cycle breaks down the cathodes and anodes of used lithium-ion batteries into a powder it calls "black mass," which it then processes to separate out all the valuable component materials. Already the company is achieving growth in black mass production. While it produced 2,218 metric tons in 2021, it produced 4,416 metric tons in 2022. The company expects further growth in 2023, projecting black mass production of 7,500 to 8,500 metric tons.
+
+The company is powering toward significant growth beyond 2023 as well. It is currently developing battery recycling facilities in Germany and Norway, and expanding in North America. For growth investors who are looking for alternative approaches to EV sector investments -- and who are comfortable with the inherent risks -- Li-Cycle is a stock to get charged up about now.
+
+A smart ETF option for investors in this space
+
+Daniel Foelber (Global X Autonomous & Electric Vehicles ETF): There are plenty of ETFs out there that invest in companies involved in the EV space. Some are chock-full of renewable energy growth stocks. Others feature EV and clean-energy opportunities. And many give significant weight to Tesla in their portfolios. But no fund is quite like the Global X Autonomous & Electric Vehicles ETF.
+
+The ETF is focused on companies that support automakers with autonomous vehicle technology, components, materials, chips, hardware, batteries, etc. Its top five holdings are Nvidia, Tesla, Apple, Alphabet, and Intel. The portfolio includes a blend of international and U.S. companies, and it's more focused on legacy automakers than newer EV start-ups. For example, Toyota is a top 10 holding and makes up 2.8% of the fund. Ford, Honda, General Motors, Kia, Hyundai, Volkswagen, and Nissan make up a combined 10% of the fund.
+
+The fund is uniquely diversified across industries that have exposure to EVs, without going all in on EVs. In this vein, the ETF provides a good starting point for investing in the EV sector. Given its diversification, the ETF isn't as correlated to the auto industry, or even to smaller growth stocks, for that matter. Its focus on well-established businesses makes it a good fit for folks interested in proven brands instead of hidden gems.
+
+No individual stock makes up more than 5% of the fund's weight -- a strategy that has both pros and cons. That level of diversification reduces the potential downsides if a single company in its holdings encounters a major unforeseen issue. But it also limits the upside for investors if a single stock in the fund massively outperforms the market.
+
+Investors who are interested in taking more risk in exchange for higher potential rewards may be better off choosing a fund with higher concentrations in certain stocks, or even hand-picking their own baskets of EV-related stocks. But for many investors, the recognizable names and diversification of the Global X Autonomous & Electric Vehicles ETF would be a great fit.

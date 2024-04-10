@@ -1,0 +1,23 @@
+Sun, 10 Sep 2023 07:00:00 GMT
+
+Morgan Stanley (MS) predicts that Tesla’s supercomputer, Dojo, could bring the automaker’s enterprise value up to $500 billion.
+
+In a recent note to investors, MS analyst Adam Jonas increased TSLA’s price target from $250 to $400 per share. The investment bank is upgrading Tesla’s rating to Overweight from Equal-Weight and making TSLA stock its “Top Pick.”
+
+Morgan Stanley reasoned that Tesla is genuinely both an auto and tech company. The investment bank has the impression that Tesla might start functioning more like a tech company, resulting in software and services being its biggest source of revenue.
+
+MS attributed Tesla’s growth as a tech company to Dojo, the supercomputer that trains the company’s Full Self-Driving (FSD) System. In his note, Adam Jonas and his team discuss the significance of Tesla’s progress with Dojo, comparing it to the work of other tech companies.
+
+“While it is difficult to explicitly validate the many claims Tesla has made about Dojo’s cost and performance, we believe Tesla has a chance of bringing forth a competitive customized solution given the company’s innovation track record and capabilities,” concluded Morgan Stanley analysts.
+
+MS thinks Tesla can tap into other industries with Dojo. The investment bank also believes Dojo could significantly impact the company’s value considering its upcoming autonomous robotaxis and Tesla Network Services.
+
+“Our bull case valuation is raised to $550 (vs. $450). And our bear case valuation is raised to $120 (vs. $90). Within our forecasts and valuation, we express the potential of Dojo through our raised assumptions, primarily for Tesla Mobility (autonomous robo-taxis) and Tesla Network Services (SaaS Business derived from Tesla vehicles and 3rd party customers in the form of faster adoption and higher ARPU,” wrote Morgan Stanley analysts in their note.
+
+In June, Elon Musk shared that Dojo has been online and running for a few months. Musk has also hinted that Dojo could apply to more than Tesla FSD.
+
+“This is not intended to be just limited to Tesla cars. Those of you who’ve seen the Full Self-Driving beta can appreciate the rate at which the Tesla neural net is learning to drive. And this is a particular application of AI, but I think there’s more applications down the road that will make sense,” he said.
+
+The Teslarati team would appreciate hearing from you. If you have any tips, contact me at maria@teslarati.com or via X @Writer_01001101.
+
+Tesla DOJO predicted to bring the company’s enterprise value up to $500 Billion: report

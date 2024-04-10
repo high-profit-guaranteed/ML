@@ -1,0 +1,31 @@
+Mon, 11 Sep 2023 07:00:00 GMT
+
+Morgan Stanley analyst Adam Jonas envisions Tesla Inc‘s TSLA custom supercomputer, Dojo, as a game-changer that could unlock new markets for the electric vehicle (EV) giant and catapult its enterprise value by a staggering $500 billion.
+
+Analyst’s Positive Outlook: Jonas has upgraded his rating on Tesla from ‘equal-weight’ to ‘overweight,’ boosting the price target by 60% to $400, the highest right now among Wall Street analysts.
+
+The Tesla Thesis: His optimism centers around the belief that Dojo has the potential to add a remarkable $500 billion to Tesla’s enterprise value, primarily driven by a faster adoption rate in mobility and network services.
+
+Dojo, initially designed by Tesla to process video data from its extensive fleet of vehicles and enhance autonomous driving capabilities, could extend its applications beyond the automotive industry.
+
+“The more we looked at Dojo, the more we realized the potential for underappreciated value in the stock. Like many other large-cap tech stocks on your screen, we believe Tesla can reasonably test its all-time highs of $400 over the next 12 months,” Jonas said.
+
+Jonas envisions potential applications in robotics, healthcare, security, and more, thanks to Dojo’s prowess in processing visual data. Essentially, any device with a camera making real-time decisions based on its visual input could benefit from Dojo’s capabilities.
+
+Tesla has now taken the lead as Jonas’s top pick, surpassing Ferrari NV RACE.
+
+See Also: Everything You Need to Know About Tesla Stock
+
+The Financial Impact: Jonas estimates that Dojo could generate approximately $6.5 billion in cost savings for Tesla over the next couple of years, based on Tesla’s claim of achieving six times the cost savings. Additionally, Tesla has assembled a team of engineers for Dojo, recruiting talent from industry heavyweights such as AMD, Digital, IBM, Apple, Nvidia, and Samsung.
+
+Jonas believes that similar to how Amazon Web Services contributes significantly to Amazon’s earnings, Tesla Network Services could represent over a third of the company’s total EBITDA by 2030. This share is anticipated to double, exceeding 60% of the group’s EBITDA by 2040. “In our view, once Tesla makes headway on autonomy and software, third-party Dojo services can offer investors the next leg of Tesla’s growth story,” he added.
+
+Elon Musk has committed to investing over $1 billion in the Dojo Supercomputer by the end of 2024. However, Tesla will continue to rely on Nvidia for computing needs.
+
+"Training compute should soon not be so much of a limiting factor," Musk said in August.
+
+Validation From Other Analysts: Jonas is not alone in recognizing Dojo’s potential. Analysts at Ark Investment Management, led by Cathie Wood, identified Dojo as one of the three key drivers of Tesla’s growth, alongside robotaxis and full self-driving capability. They emphasized that, considering Nvidia’s inability to supply sufficient GPUs to meet Tesla’s requirements, the investment in Dojo will yield significant returns over time.
+
+Price Action: On Friday, Tesla shares closed 1.2% lower at $248.50 in the regular trading session, according to data from Benzinga Pro.
+
+Check out more of Benzinga's Future Of Mobility coverage by following this link.

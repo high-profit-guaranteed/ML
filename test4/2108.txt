@@ -1,0 +1,27 @@
+Fri, 16 Feb 2024 08:00:00 GMT
+
+One stock trades at a premium valuation. The other is unprofitable but growing quickly. Which should you choose?
+
+The electric vehicle (EV) boom is losing momentum. After growing like gangbusters for several years, adoption in the United States and other markets is starting to slow. EV sales grew 42% year over year in the United States last November, down from 75% growth back in 2022. Even with major federal and local subsidies for buyers, EVs take significantly longer for dealerships to sell than gasoline-powered vehicles right now, with hybrids also growing quickly. Toyota -- which has embraced a mixed strategy of gasoline, hybrid, and electric vehicles -- has benefited from this divergence, with shares of its stock up 57% in the last year.
+
+You can see this reflected in the stock prices of EV pure plays. Both Tesla (TSLA 2.25%) and Rivian Automotive (RIVN 1.82%) are down 20% in the last six months even though the S&P 500 has climbed higher and higher. However, contrarian investors know that short-term concerns can lead to buying opportunities for investors focused on the long term.
+
+Do these price dips make either Rivian or Tesla stock a buy right now? Let's take a closer look.
+
+Tesla -- along with Chinese automotive manufacturer BYD -- is one of the two largest EV manufacturers in the world, delivering 1.8 million vehicles in 2023. This dominance is starting to erode as more and more EV competition hits the market. The company grew its deliveries by 38% year-over-year in 2023, which looks strong on its face. But to achieve this growth, Tesla had to slash the selling prices for new vehicles. You can see these price cuts reflected a down market in the value of used Teslas, which have fallen by an estimated 30% in the last 12 months. That compares to just a 4% decline for the average used car in the United States.
+
+Even more concerning, Tesla's delivery growth has started to decelerate, with the company posting only 20% growth in the fourth quarter with these price cuts factored in. This is slower than the overall growth of the EV sector. In 2024 CEO Elon Musk is projecting another year of slow growth, saying the company will post low growth until it can come up with a cheaper vehicle. Investors should be tracking the timing of this new, unnamed vehicle and when it might come to market.
+
+Ok, so Tesla is going through a rough patch. That probably means its stock trades at a discount, right? Nope. You'd typically expect a struggling company to trade at a discount to its peers, but Tesla trades at a premium. In 2023, it generated around $4 billion in free cash flow. Compared to its market cap of $600 billion, the stock has a price-to-free cash flow (P/FCF) of 150. The average stock in the S&P 500 trades at a P/FCF between 20 and 30.
+
+Add it all together, and Tesla stock does not look appealing at these levels. But is it better than Rivian?
+
+Unlike Tesla, Rivian Automotive is not an established EV maker. But it did explode onto the scene in style, going public with a market cap of over $120 billion during the bubble in 2021. At the time, it generated zero revenue. Today it has made great progress in building its premium EV truck and commercial van business, producing 57k vehicles in 2023.
+
+The issue for Rivian is that it has gone into this EV downturn still far from generating a profit. In the third quarter of 2023 (the company has yet to release its Q4 numbers), it posted a gross profit loss of $477 million on $1.3 billion in revenue. Over the last twelve months the company has burned $6 billion in free cash flow. It has less than $10 billion in cash on the balance sheet from the IPO, giving it less than two years left at its current burn rate before it runs out of money. It is a long way off from generating any sort of positive cash flow.
+
+Which stock should you buy?
+
+Today, Tesla is likely in a much better position than Rivian, but that is not saying much. Rivian has never generated a positive gross profit, let alone free cash flow, and could be headed for serious trouble if the EV sector goes into a further cyclical downturn. If you were forced to buy one of these stocks, Tesla is probably the safer bet.
+
+The good news is that you don't have to own either. In fact, I think it is prudent for investors to avoid the entire EV sector. There is a flood of supply hitting the market, intense competition, and huge costs associated with the EV boom. This is a recipe for a lot of value for customers, but terrible stock returns -- not unlike the gasoline-powered car market over the last century-plus, I might add. Stay away from EV stocks such as Rivian and Tesla. Buy some profitable blue-chip stocks for your portfolio instead.

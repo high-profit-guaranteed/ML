@@ -1,0 +1,51 @@
+Fri, 26 Jan 2024 08:00:00 GMT
+
+Tesla (TSLA) shares move on into the green Friday morning after dropping off earlier in the week. The EV maker reported a fourth-quarter earnings miss on the top and bottom lines, pushing CEO Elon Musk to warn about slowing electric vehicle productions in 2024 on the company's earnings call.
+
+Yahoo Finance Live welcomes an expert panel consisting of Autoblog Editor-in-Chief Greg Migliore, Corestone Capital Chairman and CEO Will McDonough, and Intralink Head of Automotive and Mobility Practice Daniel Kollar to address Tesla's position in the electric vehicle market and what the company's interest in AI technology may signify for its future.
+
+For more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance Live.
+
+Editor's note: This article was written by Luke Carberry Mogan.
+
+BRAD SMITH: Tesla, a massive disappointment for the market this week, shares they got hammered after the company reported weak results and warned of notably lower volume growth. The sell off, it comes following a lot of hype surrounding Tesla's AI ambitions, valuing the name as a tech company. And CEO Elon Musk was asked about Tesla's AI efforts on the company's earnings call this week. Here's what he had to say.
+
+ELON MUSK: Think of Dojo as a long shot. It's a long shot worth taking, because the payoff is potentially very high, but it's not something that is a high probability.
+
+BRAD SMITH: We've got an expert panel here to break down Tesla's results on three fronts-- AI ambitions, EV demand, and whether or not Tesla is a buy for your portfolio. We've got Greg Migliore who is the Autoblog editor-in-chief, Will McDonough, Corestone Capital Chairman and CEO, and Daniel Kollar, who is the Intralink Head of Automotive and Mobility Practice. Great to have all of you here with us this morning.
+
+Greg, I want to begin with you. You know, we've been talking Tesla for a while now and we're trying to wrap our heads around this narrative that Tesla is continuing to put into the market right now but not just the market of investors but those of potential buyers. What most notably on the demand front should everyone be remembering now that kind of sets the tone for the rest of this year?
+
+GREG MIGLIORE: Hey, good morning, Brad. Good morning, Seana, Tesla's in a-- I think an interesting position right now. The EV market is likely going to rise, but perhaps not as aggressively as we originally thought. So Tesla is still well positioned to capitalize on that. But as you can see by the earnings call, they're not immune to the many challenges that automakers face, that traditional automakers face. They've seen pressure on margins. There's always going to be demand for Teslas, but what we're seeing now is many of their products are actually starting to get dated. They need to do refreshes.
+
+So in some ways, some of the shine has come off Tesla, perhaps, for maybe two to three years ago, four years ago. They were truly a disruptor. Now I think they're very sort of a standard car company, and we saw that in the earnings call this week.
+
+SEANA SMITH: And when it comes to the stock price here, especially when you take into account the sell off that we have seen this year, Matt Malley over at Miller Tabak pointing out that, hey, maybe Tesla is becoming a bit oversold. Well, I'm curious how you're evaluating the recent moves that we've seen in Tesla from an investment standpoint and whether or not this could be a good buying opportunity here for investors.
+
+WILL MCDONOUGH: I think it is a good buying opportunity. I think Tesla's on sale and people should be paying attention. You know, I don't think Tesla plays the same game as traditional car companies, and people have a hard time valuing Tesla because they don't know should I value it as a tech company. They have AI, they have self-driving tech, they are innovating their supply chain and their manufacturing processes, or should I value it based on how many cars were sold last quarter, what their revenues were.
+
+When I look at Tesla, they grew revenue in Q4 20% and just-- I'm sorry, they grew volume 20%, in revenue, only grew 1%. While the street might panic when they see that, but the reality of it is, that's by design. They're trying to push volume into the market. They're trying to become the ubiquitous player in the EV marketplace, and they're trying to make their processes most efficient, so that they can spit out chassies as fast as demand-- as demand warrants.
+
+BRAD SMITH: And so all that considered, I mean when we think about what this means for investors going forward, there is the consideration of what margins will look like as they've initiated this broader pricing strategy and a pricing war essentially ensued as well here. When we think about, Will, ultimately how that translates through to what investors should expect and the kind of appetite or propensity for investors who this week have seen shares move lower and some of them saying for an environment where buy on the dip is once again kind of rearing its head as a theme again, is that the case for Tesla?
+
+WILL MCDONOUGH: I don't believe so. I think people should be buying this dip. I think that people should look at owning Tesla as owning the most efficient car company of the next decade. I think there could be a world in our future where F-150 Lightnings are built with Tesla batteries or on Tesla chassis. I think there could be a future where Tesla is the main line provider of all EV technology to many others, regardless of what the badge on the hood is.
+
+And when you look at Tesla, if you are to look at it as a multiple of revenue, if you are to judge them that way, you're not going to like what you see. But if you look at their growth, if you look at how fast they're able to make cars, and you look at how cheaply they're able to produce vehicles, which means they can sell them cheaper, which means they can still make a profit to a larger demographic of our population, I think all of those things are good for Tesla to continue to be a cornerstone player in this EV world that we're all leading ourselves into.
+
+SEANA SMITH: Daniel, let's talk about AI, because Adam Jonas, over at Morgan Stanley saying that there were no real AI rabbits pulled out of Tesla's hat here during the quarter. When you stack up what's realistic versus some of the ambitions that we've heard from Elon Musk, do you think-- do you think some of this hype is a bit overdone?
+
+DANIEL KOLLAR: I wouldn't say that. So you take what you've been hearing him talk about on the front and also the Chinese front, and I think that these go hand in hand right now. He sees the Chinese OEMs like BYD, Geely, NIO, Xpeng, they're his main rivals down the road. So these companies, they're not just gunning to be top dogs at EV, they're aiming to be native smart EV companies. So beyond batteries, they're putting serious effort into cutting edge AI systems, infotainment, and control systems.
+
+It's all of this is going to be based upon AI. So you know, Elon's clocked the rise in China. He knows they're eyeing Europe, maybe even the US. And so to keep up, he understands that they need to stay at the forefront of the AI.
+
+BRAD SMITH: And at the forefront of AI, how much spending do you think Tesla still needs to do in order to really get its hands around what AI, not just could be for its business, but the resources that really need to be layered in at this juncture in order to get that kind of long term ambition right, Daniel?
+
+DANIEL KOLLAR: Well, I mean, again, he's looking at his main competition down the road, and they're throwing money at this hand and foot-- hand over fist, so he's got to keep up as much as possible. And he's not just going up against other OEMs like you would the US or Europe, he's going after the entire industrial policy of the Chinese state.
+
+SEANA SMITH: Greg, bringing them back here to what this really tells us about demand for EVs, because that's also at the crux of this issue when we talk about the fact that the guidance or really lack thereof, leaving investors with a lot of question marks, is there something going on here that might be out of Tesla's control in terms of the fact that EV demand, when you take a look at the automakers across the board hasn't exactly lived up to those initial expectations? And then what that tells us about names like GM, Ford Toyota the list goes on?
+
+GREG MIGLIORE: Yeah. I think, basically, we've seen the EV market chill a little bit. I think people have many of the early adopters who have wanted their EVs have been able to get them. There's a great catalog of EVs out there right now from Tesla, from Volkswagen, Mercedes, General Motors, you name it. And the number of nameplates, I think, is expected to rise perhaps around 50 or 60 this year, so the choices are going to get even better. What's I think frustrating Tesla and other automakers is the incentives that come from the government, as well as just the never ending sort of infrastructure question.
+
+Now, Tesla got out ahead of the game with its supercharger network. So they're well positioned and other automakers are trying to join that as well. So that's one part of the equation. But right now, I think there is a bit of a reality check as the general population tries to figure out, hey, I'm interested in an electric car but maybe a plug-in electric or just a traditional hybrid actually fits my lifestyle better.
+
+SEANA SMITH: Greg, Will, Daniel's great to have all three of you here breaking down what has been one of the biggest stories driving the markets here this week with Tesla's disappointing report. We appreciate you taking the time. Have a great weekend.

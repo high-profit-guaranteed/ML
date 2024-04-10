@@ -1,0 +1,66 @@
+Wed, 22 Nov 2023 08:00:00 GMT
+
+Tesla (TSLA) stock is back above the 50-day moving average, although the stock did close off the high yesterday.
+
+By using a combination of option strategies, we could potentially buy the stock for a significant discount, or achieve a healthy profit if the stock trades sideways.
+
+Sell to open the TSLA December 15 put with a strike price of $225, which was trading around $4.55 yesterday.
+
+Sell to open the TSLA December 15 call with a strike price of $275, which was trading around $2.80 yesterday.
+
+Buy to open the TSLA December 15 call with a strike price of $280, which was trading around $2.20 yesterday.
+
+The sold put brings in around $455 in option premium, and the bear call spread adds another $60 in premium. In total, the combination of the two trades generates $515 in premium.
+
+Here’s how the trade looks at trade initiation. The blue line represents the profit or loss at expiration and the purple line shows the trade as of today.
+
+The position starts with a delta of 22, meaning it is roughly equivalent to owning 22 shares of TSLA stock. This figure will change as the trade progresses.
+
+This is how the trade could look in around two week’s time.
+
+Possible Scenarios For This TSLA Stock Option Trade
+
+Let’s work through a couple of scenarios of how this trade could look at expiration on December 15.
+
+- If TSLA stock trades sideways and finishes between $225 and $275, the sold put and bear call spread will both expire worthless. The total profit will be equal to the premium received of $515.
+
+- IF TSLA falls below $225 at expiration, we will be assigned on the sold put and will be forced to buy 100 shares at $225. However, our net cost basis will be $219.85, thanks to the $515 in option premium received. That is 8.6% below the closing price on Tuesday.
+
+- If TSLA rallies above $280, the bear call spread will suffer a full loss of $500, but this will be fully offset by the $515 premium received, leaving the trade with a small gain of $15.
+
+TSLA is currently rated a Weak Buy. The Barchart Technical Opinion rating is a 16% Buy with a Weakening short term outlook on maintaining the current direction.
+
+The market is in highly overbought territory. Beware of a trend reversal.
+
+Of 26 analysts covering TSLA stock, 7 have a Strong Buy rating, 2 have a Moderate Buy rating, 14 have a Hold rating and 3 have a Strong Sell rating.
+
+Implied volatility is 45.05% compared to a twelve-month high of 95.99% and a low of 42.67%. That gives TSLA stock an IV Percentile of 5% and an IV Rank of 4.46%.
+
+Tesla is the market leader in battery-powered electric car sales in the United States, with roughly 70% market share.
+
+The company's flagship Model 3 is the best-selling EV model in the United States.
+
+Tesla, which has managed to garner the reputation of a gold standard over the years, is now a far bigger entity that what it started off since its IPO in 2010, with its market cap crossing $1 trillion for the first time in October 2021.'
+
+The EV king's market capitalization is more than the combined value of legacy automakers including Toyota, Volkswagen, Daimler, General Motors and Ford.
+
+Over the years, Tesla has shifted from developing niche products for affluent buyers to making more affordable EVs for the masses.
+
+The firm's three-pronged business model approach of direct sales, servicing, and charging its EVs sets it apart from other carmakers. Tesla, which is touted as the clean energy revolutionary automaker, is much more than just a car manufacturer.
+
+While this type of strategy requires a lot of capital, it is a great way to generate an income from stocks you want to own.
+
+If you end up being assigned, you can start selling covered calls against the stock position.
+
+You can do this on other stocks as well, but remember to start small until you understand a bit more about how this all works.
+
+With any option trade, it’s important to have a plan in place on how you will manage the trade if it moves against you.
+
+Some traders like to add a deep out-of-the-money long put to reduce risk. For example, a December 15 put option with a strike price of $200 could be purchased for around $100. Buying this put, would cap losses below $200 and reduce total capital at risk.
+
+Please remember that options are risky, and investors can lose 100% of their investment.
+
+This article is for education purposes only and not a trade recommendation. Remember to always do your own due diligence and consult your financial advisor before making any investment decisions.
+• 5 Reasons to Buy This Future Dividend Aristocrat Now
+• 2 Top Value Stocks to Scoop Up Now
+• Is This Outperforming Growth Stock Still a Good Buy Right Now?

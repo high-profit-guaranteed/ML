@@ -1,0 +1,45 @@
+Tue, 13 Feb 2024 08:00:00 GMT
+
+CHICAGO, MILWAUKEE and NEW YORK, Feb. 13, 2024 (GLOBE NEWSWIRE) -- YieldMax™ ETFs today announced that the Board of Trustees of Tidal Trust II has approved a one-for-two (1-for-2) reverse split of the YieldMax™ TSLA Option Income Strategy ETF (NYSE Arca: TSLY).
+
+1. What is a reverse split of an ETF?
+
+A reverse split of an ETF is a type of corporate action that reduces the number of outstanding shares of the ETF while proportionately increasing the ETF’s net asset value (“NAV”).
+
+2. What is the timing and effective date of the TSLY reverse split?
+
+The TSLY reverse split will become effective prior to market open on . TSLY will begin trading at its post-split price on such date. The total market value of the TSLY shares outstanding will not be affected as a result of this reverse split, except with respect to the redemption of , as discussed below.
+
+3. Will a TSLY reverse split affect the value of a TSLY shareholder’s investment portfolio?
+
+No, a TSLY reverse split will not alter the rights or value of a shareholder’s investment portfolio.
+
+The table below illustrates, among other things, how a hypothetical dividend before and after a 1-for-2 reverse split of a hypothetical ETF does not affect such ETF’s hypothetical dividend yield. This example is provided for informational purposes only.
+
+* The Hypothetical Dividend Yield above does not represent actual dividend payment history, and is the yield a shareholder would receive if the hypothetical Monthly Dividend per Share shown above is annualized. It is calculated by multiplying such dividend per share by twelve (12), and dividing the resulting amount by the ETF NAV.
+
+The performance of TSLY is based on its portfolio holdings. A reverse split of TSLY has no impact on its portfolio or its performance.
+
+Fractional shares arise when the number of shares held by a shareholder cannot be evenly divided by the reverse split factor (see following example). In that case, the excess, post-split fractional shares are redeemed for cash that will be sent to the shareholder’s broker of record.
+
+Example: Say a shareholder owns 101 shares of an ETF worth $10 each that are subject to a 1-for-2 reverse split (in such case, the reverse split factor is 2). Prior to the reverse split, the value of the shareholder’s investment portfolio is $1,010 (101 x $10). After the 1-for-2 reverse split, the shareholder owns 50 shares worth $20 each and one fractional share (0.5 of a post-split share), which is redeemed for $10 in cash (0.5 x $20). The value of the shareholder’s investment portfolio remains $1,010 ($1,000 + $10). The reverse split does not affect the value of the shareholder’s investment portfolio.
+
+This cash payout on the redeemed fractional shares, if any, may cause some shareholders to realize a gain or loss, which could be a taxable event for those shareholders. Otherwise, the reverse split will not result in a taxable transaction for shareholders.
+
+6. How many fractional TSLY shares should a TSLY shareholder expect to receive from this reverse split?
+
+Given that the TSLY reverse split has a reverse split ratio of 1:2 (and a reverse split factor of 2), a TSLY shareholder will only receive fractional shares if the number of TSLY shares held prior to the reverse split cannot be evenly divided by 2. In such case, the shareholder will never receive more than 0.9999 fractional TSLY shares as a result of this reverse split.* The table below serves as an illustration.
+
+* This is true for each brokerage account that holds TSLY shares.
+
+8. Will a reverse split result in a ticker change for TSLY?
+
+An investor should carefully consider the investment objectives, risks, fees and other expenses carefully before investing. A prospectus or summary prospectus and other information about the Fund can be obtained by going to https://www.yieldmaxetfs.com/. Read the prospectus or summary prospectus carefully before investing.
+
+An investment in TSLY does not represent an investment in TSLA.
+
+All investments are subject to risks, including the loss of money and the possible loss of the entire principal amount invested.
+
+Past performance is not a guarantee or indicative of future investment results.
+
+For standardized performance please click here.

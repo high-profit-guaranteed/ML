@@ -1,0 +1,21 @@
+Sun, 01 Oct 2023 07:00:00 GMT
+
+EV giant Tesla Inc TSLA has provided an explanation for why Tesla’s full self-driving does what it does and the rationale behind its decision-making.
+
+What Happened: Tesla’s FSD, the company said on its official X account, does not rely on high-definition maps. Despite relying on navigation to arrive at the right destination, the car takes the path it understands to be the most likely if no route or map is available.
+
+This decision is formulated based on its understanding of what most people would do in such a situation and derived from Tesla’s global fleet of millions of vehicles.
+
+“The concept of lanes is also only loosely built into our system, enabling the car to confidently drive on unmarked roads,” the company wrote.
+
+Tesla also shared a short clip shared by Tesla Owners Silicon Valley X profile showing how FSD is able to navigate on a dirt road near a lake without any navigation. “The world has no idea that this is happening,” the owners wrote.
+
+Why It Matters: Tesla utilizes videos from its fleet of vehicles to train its FSD capability. "Roads are designed for biological neural nets & eyes, so digital neural nets & cameras will work best," Musk has previously said.
+
+Early in July, at the 2023 World Artificial Intelligence Conference, the CEO also said that Tesla is “very close” to achieving full self-driving capability.
+
+"I have been wrong about this prediction in the past, but I feel we are closer to it than we ever have been," he then said.
+
+Check out more of Benzinga’s Future Of Mobility coverage by following this link.
+
+Read More: GM’s Cruise Says Its Self-Driving Cars Beat Humans — And Has The Data To Prove It

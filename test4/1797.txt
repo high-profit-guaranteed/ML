@@ -1,0 +1,59 @@
+Wed, 24 Jan 2024 08:00:00 GMT
+
+Tesla (TSLA) reported fourth quarter earnings that missed analyst estimates on both the top and bottom lines. The EV maker reported adjusted earnings of $0.71 per share, just shy of Street estimates of $0.73. Revenue of $25.17 billion also fell short of the $25.87 billion expectation. Tesla also warned that its vehicle volume growth rate in 2024 will be "notably lower" than in 2023.
+
+RBC Capital Markets Lead Equity Analyst for Global Autos Tom Narayan says the "real story" in the results was "what they didn't say for 2024 guidance." "Not a lot of information there. Just that growth will slow. But we knew that," he says.
+
+Narayan argues that issues such as price cuts impacting margins are "near-term dynamics." Ultimately, he argues, "This stock is not about the car business in 2024. It's about autonomy in 2035, 2040 and that's probably how the company thinks about the business."
+
+For more expert insight and the latest market action, click here to watch this full episode of Yahoo Finance Live.
+
+Editor's note: This article was written by Stephanie Mikulich
+
+JOSH LIPTON: Moving on, Tesla, another big name, out with its fourth quarter report. The EV maker missing estimates on the top and bottom line. And then in 2024, here's a headline, Tesla is expecting its vehicle volume growth rate to potentially be notably lower. Well, here to dig into the latest results, we have RBC Capital Markets lead equity analyst on global autos. That's Tom Narayan.
+
+Tom, it's good to see you. At least initially here, some disappointment with these numbers from the Street, from investors in the after hours. You've had time to look over the report. What do you make of it?
+
+TOM NARAYAN: Yeah. I mean, I don't know if I'd qualify it as a miss really. It looks pretty in line to me. These guys benefit-- we all benefit from having the production numbers and the delivery numbers, we know that, for Q4. But the real story is what they didn't say for 2024 guidance, right? As you pointed out, not a lot of information there, right, just that growth will slow. But we knew that, right?
+
+The consensus numbers already has growth of 16% in 2024 for deliveries after it was up 40% in 2023. So is that already an expectations, you know? And so it's really tough to tell as is always the case. We're going to have to listen to that earnings call. Anything can happen there. Recall what happened last quarter, right, with that earnings call. The stock was down $180 billion of market cap. And guess what? In the past three weeks it's been down $180 billion worth of market cap.
+
+So I do wonder how much of this is really already priced in the negativity. But we have to see what they say on the call ultimately. We don't have anything about gross margins for 2024. Someone will definitely ask about that. What is the volume number really? What is it? Is it 2.1 million, where a consensus is? Is it lower than that? Is it higher than that? So unfortunately, not a lot to go on with this. We really just need to wait for that call.
+
+JULIE HYMAN: And so what-- like, what's your number one question then during for the call today?
+
+TOM NARAYAN: Number one question is, will automotive gross margins be up in '24 or down? As you pointed out, there's been price cutting, right, in a Model Y in Europe and China. So the consensus is baked-- ourselves are baking in margins going up by about 100 basis points. If it comes down, that's concerning, because then that means, oh, boy, like, do we have a profitability problem?
+
+But let's put all this in context. And I'm sure we'll get this on the call, too. These are all near-term dynamics. As you know, this stock is not about the car business in 2024. It's about autonomy in 2035 and 2040, right? And that's probably how the company thinks about the business.
+
+So we're all getting bogged down in this. And it totally makes sense that we do. But I do think we'll get some big picture views. They'll talk-- we'll also ask about what is going on with that $25,000 car. Are those press discussions correct that it's half a million unit run rate for an annual rate at 2025? That's important, because that's how we sell more FSD with the Tesla fleet, which achieves that autonomy thesis.
+
+So lots of questions on that. But really, about gross margins in 2024, is that-- are those going to be OK? Or are those coming down? I think a lot of folks will want to know what's going on with profitability given all those price cuts.
+
+JOSH LIPTON: Yeah. I'm interested, Tom, you talk about the big picture questions. Another one folks certainly have you're invested in this space is what seems to be waning demand for EVs, at least in North America, right?
+
+TOM NARAYAN: Yeah, absolutely. I know a lot of folks are really negative on Tesla especially because of this EV slowdown, which is very real. It's definitely happening, especially in the US. And, yeah, I mean, I'm sure we'll hear more about it on the call.
+
+The one thing I will say is, remember, it's nuanced. Tesla does have the best margins on EVs. It can cut costs, whereas competitors may not. And also, the IRA, remember, some competitors lost the IRA credit like the MACH-E and others. And GM pushed out its EV rollout. So that kind of benefits Tesla, the Model Y kept the IRA credit.
+
+So I do think that even though there is a slowdown definitely happening, the fact that competitors are retrenching in the US, that does benefit Tesla. And all they need to do is get the 2.1 million units, it's just 16% growth. They did 485,000 in Q4. All they need to do is a clip to be 525,000 per quarter. And they hit where consensus is.
+
+So I get it, EV slowdown is real. But these guys are 51% of the EV market. The next biggest guy is like 5%, 6%, right? They're the lion's share of the market. So I tend to think they can gain market share from these other guys as the EV slowdown happens as well. So it's not-- it's not the best scenario to be definitely, but I don't think it's as bad as the market seriously implying. You know, 22% down on the stock in three weeks.
+
+JULIE HYMAN: Well, I want to dig into that a little bit, Tom, because like Tesla is one of these stocks that is as much a faith and hype stock and Elon Musk stock, right, as it is, like people buying in or selling because of what the company actually does. I think it's fair to say. So the fact that it is down so much, what does that tell you? And how difficult is it to switch sentiment back on when we've seen it switched off in such dramatic fashion?
+
+TOM NARAYAN: Yeah. I mean, I think you're absolutely right, right. This is largely a retail stock, which is owns the stock because of things that happen in 2040 and, you know, robotaxis and autonomy, right? I'm a big believer in that. And so like, I get it. Sentiment got soured after the comments from the 3Q about the delayed of that $25,000 car and Cybertruck comments from the CEO and the stock sold off $180 million. And now it's down again after it gapped up, you know. And it gobbled up all of those-- the gains after that, and it's down the same amount again because of an expectation of this earnings that we're going to have today of some negativity about EV slowdown and all of these things.
+
+But I do wonder if that negative news, now we know, like, yeah-- like, what else could happen on this call besides what we see here that's already happened in the stock, you know? And I think retail investors will come in and support the stock and believe in that 10, 15-year out again. And the stock will get support again, as it usually does. And maybe we get comments on the call about these big picture things, that gets people excited.
+
+The news today about a potential acceleration of the lower priced car, that could be a catalyst for people to get excited again, because that was what everyone was worried about on the Q3 call. So but not a lot of detail on this release. Maybe we get it on the call, that I think will determine what happens tonight.
+
+JOSH LIPTON: And, Tom, I just want to get you out of here on one last question, really just competition question. As you look across the landscape here, Tom, do you think the big three-- do they ever catch up with Tesla in this EV fight?
+
+TOM NARAYAN: I mean, I don't think that that's even-- it's apples and oranges. I don't think the big three are in that fight. I don't think that's their goal, right? I mean, you know, Ford is Ford Pro, that's not really an EV strategy necessarily. And GM has very aggressively going into EVs, but the IC business is very important, right? Pickup trucks are not going to be full electric for many, many years. They also have professional category. And then Stellantis, you know, it's Jeep and Ram.
+
+Like, so I don't think that's the goal here. I mean, they're definitely going to electrify the D3 more. But they don't-- it's not necessary for them to have the same market share certainly as Tesla. And I don't think that's ultimately what will happen anyway.
+
+JOSH LIPTON: Tom, always love having you on the show. Thanks for coming and breaking down these results.
+
+TOM NARAYAN: You got it.

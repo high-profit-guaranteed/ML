@@ -1,0 +1,37 @@
+Mon, 11 Sep 2023 07:00:00 GMT
+
+Tesla’s (TSLA) stock is rising in pre-market trading on an optimistic new report about the automaker’s Dojo supercomputer coming from Morgan Stanley.
+
+The firm massively increased its price target on Tesla’s stock because of it.
+
+Dojo is Tesla’s own custom supercomputer platform built from the ground up for AI machine learning and, more specifically, for video training using the video data coming from its fleet of vehicles.
+
+The automaker already has several large NVIDIA GPU-based supercomputer clusters, which are some of the most powerful in the world, but the new Dojo custom-built computer uses chips and an entire infrastructure designed by Tesla.
+
+The custom-built supercomputer is expected to elevate Tesla’s capacity to train neural nets using video data, which is critical to the computer vision technology powering its self-driving effort.
+
+At Tesla’s AI Day in 2021, the company unveiled its Dojo supercomputer, but the company was still ramping up its effort at the time. It only had its first chip and training tiles, and it was still working on building a full Dojo cabinet and cluster, or “Exapod.”
+
+A year later, at AI Day 2022, Tesla unveiled some progress on Dojo, including having a full system tray. At the time, the automaker was talking about having a full cluster by Q1 2023.
+
+The first quarter of the year came and went without any news of Dojo being in operation.
+
+But we finally learned that Dojo came only this summer with a plan to gradually ramp it up to a 100 Exa-flop capacity by the end of 2024.
+
+With Tesla’s move to have not only its computer-based visual perception being neural net-based, but now also the vehicle controls, the company claims to be compute-constrained with its self-driving effort, so therefore, Dojo could become a difference maker.
+
+Today, Morgan Stanley released a new note to clients in which the firm’s analysts did a deep dive into Dojo.
+
+The analyst argued that Dojo alone could add about $500 billion in value to the company.
+
+Jonas argues that Tesla’s singular focus on designing its own AI chips for the purpose of training AI on videos could give it a significant advantage in the space.
+
+On top of accelerating its self-driving effort, Morgan Stanley discusses the potential of Dojo becoming a direct revenue-generator – something that CEO Elon Musk has suggested before.
+
+The new factoring-in of Dojo has resulted in Morgan Stanley raising its price target on Tesla’s stock price from $250 to $400, which is a massive change for large firm like Morgan Stanley.
+
+Here’s the breakdown of the price target change per business unit:
+
+Tesla’s stock was up by as much as 6% in pre-market trading following the release of the note.
+
+Other factors could be contributing to the stock surge, including the increasingly likely potential of a massive UAW strike, which would negatively affect Tesla’s competitors and could further open up the market for Tesla in the US if the strike lasts.

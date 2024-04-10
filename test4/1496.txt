@@ -1,0 +1,27 @@
+Tue, 26 Dec 2023 08:00:00 GMT
+
+Tesla’s stock (TSLA) has received a nice boost today from one of its biggest cheerleaders on Wall Street, and it’s based on the company achieving a “beyond an automaker” scenario.
+
+For years, Tesla investors have pushed the argument that Tesla is more than an auto company. That’s technically true. The company is also a major player in the energy space and is making advancements in AI and other spaces.
+
+However, so far, the financials are almost completely driven by its auto business. Therefore, the idea hasn’t been super popular on Wall Street.
+
+Adam Jonas, who covers Tesla for Morgan Stanley, has been among the noted Wall Street analysts most open to start accounting for other Tesla businesses in the valuation. In a new note to clients today, the analyst brought the idea back into focus:
+
+To illustrate his point, Jonas explained that only 33% of his $380 price target for Tesla is linked to the automotive business:
+
+In our opinion, Tesla is far more than an auto company. Of our $380 price target, our valuation of the ‘core’ auto business is $86/share, leaving 77% of our target derived by Network Services, Mobility, 3rd-party battery/FSD licensing, Energy and Insurance. We receive significant pushback from our clients for including non-auto revenue streams in our valuation. Our OW thesis is highly dependent upon these business lines becoming far greater drivers of earnings with clear milestones/proof-points backed by accompanying financial disclosures.
+
+Morgan Stanley also notes that the $380 price target is only that average case, and the firm also has a $550 bull case and a $120 bear case.
+
+I understand Morgan Stanley getting pushback on that, considering how Tesla’s current share price is overwhelmingly driven by its auto business.
+
+But I think its energy business is going to be massive.
+
+Not because of solar deployment or even energy storage deployment, which is going to be huge too, but because of its energy software like virtual power plants and Tesla Electric.
+
+I think those are going to become huge businesses as Tesla onboards more people through deployments of Powerwalls, gateways, and solar inverters, which can control the loads.
+
+However, I think the rest, like AI, insurance, etc., is up for debate.
+
+What do you think? Let us know in the comment section below.

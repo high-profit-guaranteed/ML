@@ -1,0 +1,15 @@
+Thu, 01 Feb 2024 08:00:00 GMT
+
+Tesla Inc (NASDAQ:TSLA) plans to expand battery production in Nevada, using surplus equipment from one of its existing Chinese battery suppliers, Contemporary Amperex Technology Co Ltd. (CATL).
+
+A small new plant will be opened in the city of Sparks, with CATL assisting with set-up but the electric vehicle (EV) manufacturer taking over to run operations, according to a report from Bloomberg.
+
+Rather than making batteries for Tesla's EVs, the factory will specialise in producing lithium-iron-phosphate (LFP) cells for the company's Megapack industrial energy storage units (pictured).
+
+CATL is the world’s biggest maker of EV batteries and specialises in LFP batteries, which are gaining traction due to being sometimes 50% to 60% cheaper than the NMC (nickel manganese cobalt) alternatives and more chemically stable.
+
+Tesla and Ford have been using LFP batteries for the past few years, with General Motors announcing last year that it will switch to LFP batteries for its Chevrolet Volt.
+
+The reported Megapack deal, involving Tesla's purchase and installation of CATL machinery with minimal involvement from the Chinese firm, underscores a broader effort to onshore critical components of the EV supply chain, which has also been seen in the resources sector for graphite, lithium and other battery metals.
+
+This comes amidst growing scrutiny over US-China technology collaborations, and the Biden administration's push for strengthened domestic supply chains.

@@ -1,0 +1,93 @@
+Tue, 26 Dec 2023 08:00:00 GMT
+
+After paring back on Tesla (TSLA) shares in the Ark Innovation ETF (ARKK), the firm has recently started to add to its position again. Ark Invest CEO Cathie Wood tells Yahoo Finance's Julie Hyman that the decisions by General Motors (GM) and Ford (F) to delay some of their EV investments was a "telltale" sign that Tesla is in position to gain market share, calling the automakers' decisions "puzzling." The move comes as Tesla CEO Elon Musk's X platform (formerly Twitter) is suffering from a decline in ad revenue, raising concerns he may have to sell Tesla shares. Wood, however, doesn't seemed to be concerned, claiming that the platform's traffic is rising and that ultimately "advertising will follow traffic." "His [Musk's] reason for buying X we believe is sound and will be successful," Wood adds.
+
+Ark is one of the firms that has applied for a spot bitcoin ETF and is currently awaiting a decision from the US Securities and Exchange Commission. Wood is hopeful that Ark's application will be approved, saying that "After being denied several times by the SEC, without hearing from anyone at the SEC, we and others we know have gotten questions from the SEC, very thoughtful, detailed, technical questions. That's a very positive move." Overall, she says the "outlook is bright" for a spot bitcoin ETF and that she does think approval will come in January. With bitcoin (BTC-USD) prices rising in anticipation of an ETF approval, Wood does think investors will "sell on the news," but that longer term, by the SEC approving these ETFs, institutional investors will be able to invest more in the crypto space, with those inflows helping to prop up the price.
+
+When it comes to the flagship Ark Innovation ETF, Wood says the fund is "diversifying once again. We are adding back some stocks that we sold and... we are looking forward to the IPO window opening again." Wood thinks that with interest rates likely peaking, more companies could go public and that Ark will be "eager investors." So what companies is Wood hoping will go public? She says she would like to see companies like SpaceX, Anthropic, Databricks, and Discord hit the public market.
+
+00:00:25 Wood discusses her Tesla investment and the EV company's autonomous driving future
+
+00:04:05 Is Wood concerned about issues at X impacting Tesla?
+
+00:07:18 Wood explains why "the outlook is bright" for a spot bitcoin ETF
+
+00:09:30 Why bitcoin could sell off if a spot ETF is approved
+
+00:15:15 Why Ark could be "eager investors" in the IPO market
+
+00:17:13 Why Wood wants to see companies like SpaceX, Anthropic, and Databricks go public
+
+JULIE HYMAN: And our next guest recently spoke to Tesla CEO Elon Musk as part of Spaces on X, hitting on topics ranging from self-driving cars to the dominance of passive investing. And this comes after she recently added Tesla shares to her benchmark fund for the first time in months. Of course, we're talking about Cathie Wood, ARK Invest founder, CEO, and CIO.
+
+And I definitely want to talk crypto with you, Cathie, but I did want to start with Tesla here, because you did have the chance to talk to Elon Musk last week and because you did recently add those Tesla shares back in. Although you didn't not have them. You just added more shares to the portfolio. Talk to me about the timing of that, first of all, of getting back out there and buying Tesla shares.
+
+CATHIE WOOD: Yeah. A couple of things have happened in the last month really that have increased our confidence in Tesla. It's already high it's the number two position in the flagship fund. But when we saw GM and Ford really pulling away from EVs until they become profitable, that was telltale for us in terms share gains available to Tesla. What's puzzling is that GM and Ford are not going to be profitable with electric unless they scale. And so it's a bit of a puzzling decision.
+
+And the other thing, of course, GM has basically shut down Cruise, partly for regulatory reasons, partly out of an abundance of caution on the autonomous side. And they're losing a lot of talent because of it. And again, we do believe that Tesla is in the pole position to be the autonomous taxi platform in the United States. Cruise pulling out adds to our confidence there as well.
+
+JULIE HYMAN: Cathie, I'm curious what your current thinking is on the timeline of when Tesla is going to be able to get there. I mean, this is something that is difficult that we have seen, not just for Tesla, but other companies. Tesla tends to push timelines back. So when do you think that is going to arrive and therefore, I would assume, unlock value, more value for the shares as well?
+
+CATHIE WOOD: Yes. Well, we're seeing some data here that I think is compelling. If you look at a Tesla-- and this is based on Tasha Keeney's work, one of our analysts on Tesla. If you look at the number of miles between accidents in a Tesla with full self-driving, it's roughly 3.2 million miles. If you look at a Tesla without full self-driving and do the same analysis, it's one every 600,000 miles.
+
+So a Tesla with FSD is five times safer than a Tesla without and six times safer than the average car on the road, which I guess isn't an accident. This is on surface streets. It's actually more than six times. The average car on surface streets is in an accident once every roughly 200,000 miles. So pretty astonishing safety metrics.
+
+And on Spaces, when we were speaking to Elon Musk, I was asking him about NHTSA-- and NHTSA is the National Highway Transportation Safety Administration-- and just how he felt the NHTSA was going to use this data. Was it important to NHTSA? And he said, absolutely, it's a data-driven organization. So we think that the numbers are compelling. And you know that 80% to 90% of all accidents are caused by human error. So taking the human out actually does make a difference.
+
+JULIE HYMAN: So that's obviously the fundamental case on the company. I want to step to something a little more technical for a moment, because-- and you and I have talked regularly about the interplay between Musk as CEO of Tesla and his other business endeavors. I'm curious how concerned you are that any further losses at X could force Musk to sell more Tesla shares and put pressure on that stock.
+
+CATHIE WOOD: Well, we think that X is-- we don't think, we know that X's traffic is going up. They've obviously had some trouble on the advertising front. But with-- advertising will follow traffic, we believe, and users, number of users. And we do believe those will continue to increase.
+
+His reason for buying X, we believe, is sound and will be successful. He wanted to preserve free speech in the only really global public town square, so to speak. And it's working. If you look at our business, if you look at ARK, our business has been built by giving our research away on X. X is the most productive social network for us, as we are attempting to engage with innovators, people who are out there heads down innovating. We're getting information we would never get from anyone else. It's not inside information. It's information about the technologies evolving out there.
+
+And I think you'll see most anyone involved in technology or in digital assets, so crypto, finds X to be a very productive and necessary outlet and really source of information. So now that's only the first step for him. He really, and again, he emphasized it on our Spaces session with him, he is looking at the everything app, think WeChat Pay, where it will be not just a social network but a network for commerce and for financial services. Remember, that's how he started out in the entrepreneurial world. It was a financial services company, digital financial services company, which he sold to PayPal. And I think his vision encompasses all of that.
+
+And if he is right, given where that stock is valued right now, I think less than $20 billion in equity market cap, if he is right, then this is going to be the beginning of a very, very strong run for X. And one other thing.
+
+CATHIE WOOD: X.AI, which he wants to take public as well, about a quarter of that will go to existing X holders. That's a very nice call option out there.
+
+JULIE HYMAN: You know, Cathie, I could spend the rest of the time talking to you just about all of what you've just said, but I'm going to leave that aside for a moment because I we'll have another opportunity, because I want to turn to this spot Bitcoin ETF that everyone is awaiting a decision on. You earlier talked about Musk's belief that NHTSA is a data-driven organization. Is the SEC a data-driven organization? Are you-- you know, the last time we talked, you were pretty confident that things were moving in your favor and in the other ETF filings favor. How are you feeling now? I guess it's been about a month or so since we've spoken about it.
+
+CATHIE WOOD: Yes. Something did change within the last month to six weeks. After being denied several times by the SEC without hearing from anyone at the SEC, we and others we know have gotten questions from the SEC, very thoughtful, detailed, technical questions. That's a very positive move. And it's not just one set of questions. It's follow-up questions. That is really good.
+
+Now you ask if the SEC is data-driven. We have had the opportunity, as many others, have to meet a number of the research people within the SEC focused on crypto assets or digital assets. And we have found them to be extremely thoughtful, extremely knowledgeable and actually a great source of comfort frankly, because we don't want-- we don't want an ETF, a spot Bitcoin ETF to get the green light if there are any uncertainties that the SEC may have.
+
+So I think we're answering those uncertainties one by one, each of the filers for a spot Bitcoin ETF. And I think the dialogues are very positive. And I think the outlook is bright for a spot Bitcoin ETF. And we do think it will be in January. Famous last words, don't want to say we know anything, because we don't. But it's just the actions of the SEC that are leading us to that conclusion.
+
+JULIE HYMAN: January 10th is the date specifically that a lot of folks are watching here. Prices have been rising in advance of anticipation for approval. Do you think they will continue to rise if indeed the spot Bitcoin ETFs are approved?
+
+CATHIE WOOD: Well, in the very short term, because of the big move we've had and it's an anticipatory move based on the expectation that a spot Bitcoin ETF will be approved, one or more-- and it probably is more-- so there has been a big anticipatory move. Those who have been moving in and enjoying some nice profits will probably, quote unquote, "sell on the news." That's an expression that traders use. So you anticipate the event, bid up the price, and then sell on the news.
+
+Now-- but that will be very short term, because what we think is going to happen here is that the SEC is going to be giving Bitcoin, a spot Bitcoin ETF, the green light for institutional investors to participate. I think a lot of institutions have been reticent before the SEC approves a spot Bitcoin ETF to do very much at all in the crypto asset world. And all we need is for the trillions of dollars in institutional assets out there to allocate maybe 0.1% or 0.2% to an ETF, which will be one of the easiest ways to gain exposure and one of the most efficient ways to gain exposure to Bitcoin.
+
+And that will move the price significantly. And just for some perspective here, right now we're at 19.5 million Bitcoin outstanding. The system is mathematically metered to stop at 21 million units. So scarcity value is beginning to have an impact, especially because as we look at long-term holders, those holding and not moving Bitcoin for one year. Those are up to 15 million units or 15 million bitcoin.
+
+JULIE HYMAN: Cathie, just quickly, sorry, because there are handful of spot Bitcoin ETFs that are looking for approval. We've talked to you before, we've talked to others before that the SEC would likely approve all of them or deny all of them, not just pick and choose. How do we know which is going to be the winner, right? Because if I look at other type of, say, commodity or currency ETFs, usually there is one that commands the large bulk of the assets. Do you think that's what's going to happen here?
+
+CATHIE WOOD: It will be a few and it will be the most liquid. And so if we're looking at our competitive advantages, we believe there are three, one is-- and this is all well-known. This is no secret. But we've been doing research on Bitcoin since 2014. That was our first paper. And as others were naysaying it, we were out there banging the drum, saying this is a new asset class.
+
+And our sales people, our distribution partner has been educating advisors over this time, because we have held GBTC in our portfolios. And they needed to understand what it was all about and how important and profound an investment we thought it was going to be. So we thought-- we've been there for a long time. We were there very early. We know a lot about it. And we have three full-time crypto analysts.
+
+Now the other thing that we have going for us is a partner in 21shares. And 21shares is the largest pure play crypto ETP, so Exchange Traded Product provider in the world. It's located in Europe. It has launched 40 funds in the last five years. So it has been through booms and busts already and has been tested. So-- and others who are in the running cannot say the same thing.
+
+So, yeah, we're trying to obviously emphasize those strong points. There are others have their own strong points as well. And those who have the most liquidity have the most to win. We do think often in the ETF world, it is winners, one or two or three maybe winners, take most.
+
+And one of the thing just to emphasize, we have in the last few months launched five crypto ETF digital asset, ETFs based on futures, which the SEC has approved. And we've wanted to do it for a few reasons. One is to prove that we have the infrastructure provider as a partner. And that the rails are working, and they are.
+
+JULIE HYMAN: Right. And Cathie, finally, I just wanted to come back around, circle back around to your benchmark fund, ARKK. And correct me if I'm wrong, but it seems here that your big bets have been pretty consistent over the past few years. You've moved them around in terms of weighting. But they've been pretty consistent. And I'm curious here, going into 2024, are there entirely new areas that you might be looking? Are there new stock ideas that you're hitting upon as we go into 2024 and beyond for that matter?
+
+CATHIE WOOD: Yes. Well, during the two years the innovation was in a true bear market, when the fear of interest rates and then the actuality or the reality of interest rates moving up just crucified innovation stocks, we concentrated our portfolio towards our highest conviction names. This year, now that we've paid our dues interest rates are up, we think we're through the worst of it, now what you're seeing is we're diversifying once again. We're adding back stock, some stocks that we sold. And we are looking forward to, especially in the AI space, but in other innovation spaces as well, we're looking forward to the IPO window opening again.
+
+What we're seeing in the private markets right now, especially since we have a venture fund as well, is there are still down rounds taking place. It is astonishing to us that the private markets lag the public markets by so much, so much time, almost a year's time. And so we're looking for IPOs. And we'll be eager investors. So you'll see us further diversifying as the IPO window opens up. And we think that will happen as interest rates look like they certainly have peaked and look like they're going to start down.
+
+JULIE HYMAN: Well, that begs the question, Cathie, I've got to ask you then quickly, any particular IPO that you can't wait to get your hands on in the public market?
+
+CATHIE WOOD: Well, you know, it's interesting, we-- because we have a venture fund right now, we are getting into names like SpaceX. And on Spaces, Elon said he didn't want to take names like that public, because the public markets are very highly regulated and shareholders are very short term in their orientation. And I think in order to earn more and more IPOs, shareholders have to become longer term in their investment time horizon.
+
+So we're hoping names like SpaceX will go public, because we'd love to expose more of our investors to great names like that. Anthropic is another one. We've just seen it go through what we think is an upround, a nice upround. Databricks, we'd love to see that go public. They just bought out one of the companies in our venture fund Mosaic. And we think that's a brilliant combination.
+
+So a lot of AI, space exploration, gaming companies, Discord is another one. So there are lots out there. And they're very exciting. I just hope-- I hope they do go public, because that's the best way to scale and to reward talent with a public stock.
+
+JULIE HYMAN: Right. Well, Cathie, we will keep in touch for sure and talk about any of those when they do go public. Thank you so much. Cathie Wood, ARK Invest CEO, appreciate it.
+
+CATHIE WOOD: Thank you, Julie. Happy new year.

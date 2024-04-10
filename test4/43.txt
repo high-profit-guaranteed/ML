@@ -1,0 +1,57 @@
+Tue, 18 Apr 2023 00:33:56 GMT
+
+After a volatile 2022, Tesla (NASDAQ:TSLA) stock is going full throttle again, racing out to a gain of over 70% year-to-date. As one of the most popular stocks in the market today (and the world’s eighth-most valuable company by market cap), Tesla is also widely held in many ETFs, and these ETFs have benefited from Tesla’s electric gains.
+
+Therefore, this article will highlight four ETFs that have harnessed the power of Tesla to supercharge their gains year-to-date. Further, I’ll explain why I believe that two of them look like better choices for investors looking to add Tesla exposure via ETFs.
+
+ARK Invest’s Cathie Wood is one of Tesla’s most vocal and high-profile proponents, recently putting a $1,500 price target on the company’s stock, so it’s no surprise to see that ARK’s flagship ARK Innovation ETF has ridden its large stake in Tesla to a gain of 27.4% year-to-date.
+
+In fact, using TipRanks’ holdings tool, which gives investors a quick and comprehensive overview of an ETF’s holdings, we can see that Tesla is ARKK’s largest holding, with a weighting of just under 10% in the fund.
+
+ARKK stock has just 28 positions, and its top 10 holdings account for 63.8% of assets, so it’s a fairly concentrated bet on Tesla and other “disruptive technology” stocks like Coinbase and Block.
+
+While top holdings like Tesla and Exact Sciences boast impressive Smart Scores of 8 out of 10, which are equivalent to an Outperform rating, you’ll notice that there is some reason for caution here. That’s because other top 10 holdings, like Zoom Video, Roblox, and Teladoc, all have the lowest possible Smart Score of 1 out of 10, which is equivalent to an Underperform rating.
+
+It all adds up to a Neutral ETF Smart Score of 5 out of 10. The Smart Score is TipRanks’ proprietary quantitative stock scoring system that evaluates stocks on eight different market factors. The result is data-driven and does not involve any human intervention.
+
+Analysts seem slightly more positive on ARKK, assigning it a Moderate Buy consensus rating. The average ARKK stock price target of just over $50 implies upside potential of nearly 28.4% versus its current price.
+
+Of the 394 analyst ratings on ARKK, 52.3% are Buy ratings, 38.8% are Hold ratings, and 8.9% are Sell ratings.
+
+TipRanks uses proprietary technology to compile analyst forecasts and price targets for ETFs based on a combination of the individual performances of the underlying assets. By using the Analyst Forecast tool, investors can see the consensus price target and rating for an ETF, as well as the highest and lowest price targets.
+
+TipRanks calculates a weighted average based on the combination of the ETF’s holdings. The average price forecast for an ETF is calculated by multiplying each individual holding’s price target by its weighting within the ETF and adding them all up.
+
+ARKK has benefited from its large position in Tesla, which has helped to drive its strong performance this year, but based on the fund’s Neutral Smart Score and the poor Smart Scores for other large holdings like Zoom Video Communications, Roblox, and Teladoc, I’m more cautious on ARKK’s near-term prospects for the time being.
+
+Like ARKK, the ARK Autonomous Technology & Robotics ETF is another ETF from ARK Invest with a large position in Tesla. ARKQ stock has benefited from its large Tesla position with a gain of 17.5% year-to-date, and the average ARKQ price target of $58.56 implies even more upside of 22.8% ahead.
+
+As you can see, Tesla is ARKQ’s largest position, with a weighting of 13.7%.
+
+ARKQ is smaller than ARKK, with just over $900 million in assets under management (AUM). It also has a more specific focus on artificial intelligence (AI) and robotics. So, while Tesla is the top holding, it also owns stocks like Nivida, which designs semiconductors for artificial intelligence applications, and more industrial stocks like Deere and Kratos, which produce vehicles and equipment that utilize AI and robotic technology for the agriculture and defense sectors.
+
+As you can see above, this group of holdings boasts fairly strong Smart Scores across the board, with Tesla, Kratos, Teradyne, Deere, and Nvidia all boasting strong Smart Scores of 8 or better. Furthermore, unlike ARKK, there are no top 10 holdings here with poor Smart Scores. For these reasons, I like ARKQ better than ARKK at the moment.
+
+Another way investors can gain exposure to Tesla through ETFs is simply by buying The Invesco QQQ Trust, or “The Q’s” as this massive ETF is commonly called.
+
+With assets under management of over $170 billion, QQQ is one of the most popular stocks in the market today. The fund invests in the Nasdaq 100 and charges a low expense ratio of just 0.2%. QQQ stock enjoys a Smart Score of 8 out of 10, and analysts view the ETF as a Moderate Buy, with the average QQQ price target coming in at $355.88, implying 11.6% upside potential. The tech-focused ETF is up over 20% year-to-date.
+
+Unlike ARKK and ARKQ, Tesla is not QQQ’s top holding, as it makes up just 3.5% of the fund. If you’re looking for more exposure to Tesla, the two ETFs mentioned above may be more appealing, but it’s hard to beat the collection of blue-chip technology stocks that QQQ owns in addition to Tesla. As you can see below, all but one of QQQ’s top 10 holdings boast a Smart Score of 8 out of 10 or better. Furthermore, QQQ offers investors more diversification than the previous two funds, as it has 102 positions.
+
+There is one more ETF that warrants mention here, but it is very different than the three ETFs discussed above. If the aforementioned year-to-date gains sound impressive, then the Direxion Daily TSLA Bull 1.5X Shares ETF’s gain of 111% in 2023 is downright electrifying. However, as you can probably surmise from the name, this isn’t your typical diversified thematic ETF.
+
+TSLL is a leveraged ETF that, according to Direxion, seeks daily investment results, before fees and expenses, of 150% of the common shares of Tesla, by employing leverage. So, because TSLL is using leverage to amplify the gains (or losses) of Tesla, that’s how it has turned Tesla’s 70%+ gain into a gain of about 111%.
+
+While these returns sound tempting, it should be noted that these types of ETFs are risky investments and are likely not suitable for the average investor. While the ETF is up substantially year-to-date, any downward pressure on shares of Tesla will cause an equally emphatic move to the downside, so gains can evaporate and losses can build quickly when using an instrument like this.
+
+Fund sponsor Direxion warns that “Leveraged and inverse ETFs pursue daily leveraged investment objectives, which means they are riskier than alternatives which do not use leverage. They seek daily goals and should not be expected to track the underlying stock’s performance over periods longer than one day. They are not suitable for all investors and should be utilized only by investors who understand leverage risk and who actively manage their investments.”
+
+Furthermore, this isn’t a diversified ETF. TSLL only holds cash and Tesla; see below.
+
+Note that TSLL also has a relatively high expense ratio of 1.08%, as this is a complex, actively-managed ETF. You can see a comparison of the fees that these four ETFs incur using TipRank’s ETF Comparison Tool.
+
+While this ETF has raced out to some exciting gains year-to-date, most investors should be careful about using an ETF like this.
+
+Tesla is having a banner year so far in 2023, and investors are excited about its long-term potential. ETFs give investors a different way to gain exposure to Tesla in a diversified manner. My two favorite ways to invest using the ETFs mentioned here are QQQ and ARKQ. Also, the TSLL ETF is too risky for most investors, given its volatility and complex strategy, while ARKK owns a number of stocks with Smart Scores of 1 out of 10, which is making me cautious about it at the moment.
+
+I like ARKQ’s combination of Tesla and more low-profile, old-school names like Deere and Kratos that are profitable and quietly making exciting advances in this area, which I think will continue to be a powerful long-term investing theme. Moreover, I like QQQ’s diversification, low fees, and strong long-term performance, and its top holdings boast an impressive collection of Smart Scores.

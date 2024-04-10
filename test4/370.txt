@@ -1,0 +1,65 @@
+Wed, 28 Jun 2023 07:00:00 GMT
+
+Tesla’s TSLA NACS has garnered significant attention in recent times. Auto giants like Ford, General Motors and Rivian have joined hands with Tesla to integrate its NACS connector into their respective electric vehicles (EVs). Building on this progress, The Society of Automotive Engineers (SAE) has announced that it will make Tesla NACS a standard connector in the country.
+
+
+
+The adoption by SAE will make the implementation of ports easier for charging station manufacturers and operators. It will also make the process of charging more consistent and reliable for EV owners.
+
+
+
+The US Joint Office of Energy and Transportation has partnered with Tesla and SAE to expedite the standardization of Tesla NACS in a bid to enhance the country’s charging infrastructure.
+
+
+
+SAE is working with the ChargeX consortium so that the Department of Energy’s National Labs can extend help to EV manufacturers to create consistent technology across vehicles and chargers. SAE is lending its Public Key Infrastructure technology to shield the charging process from cyber-attacks.
+
+
+
+ChargePoint, the world's largest network of electric vehicle (EV) charging stations with a presence in North America, Europe and Australia, said that it will not only offer Tesla NACS on new charging stations but it will also start retrofitting existing stations, starting in 2024, per an article published by Electrek. Per the US Department of Energy, ChargePoint has about 2,184 DC fast charging stations in North America.
+
+
+
+Other EV charging station manufacturers that have added Tesla’s connectors as an option to their units include EVgo, Tritium, Blink and ABB.
+
+
+
+Most American states, including Texas and Washington, have adopted the NACS connector as a standard and it has also become necessary to qualify for state funding.
+
+
+
+Tesla already has over 45,000 superchargers worldwide. The standardization of the NACS connector is paving the way for the adoption of a single connector across EVs.
+
+TSLA currently carries a Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.
+
+
+
+Some top-ranked players in the auto space are Allison Transmission Holdings, Inc. ALSN, Li Auto, Inc. LI and Wabash National WNC.
+
+
+
+Allison manufactures fully automatic transmissions for medium and heavy-duty commercial and heavy-tactical U.S. defense vehicles. ALSN shares are up 33.8% year-to-date.
+
+
+
+Allison has a Zacks Rank #1 and a VGM Score of A. The Zacks Consensus Estimate for its current-year earnings has moved up 9.1% over the past 60 days. The company’s expected earnings growth rate for the current year is 19.53%.
+
+
+
+Li Auto designs, develops, manufactures and sells premium smart electric SUVs. Li shares are up 70.1% year-to-date.
+
+
+
+Li Auto has a Zacks Rank #1 and a VGM Score of B. The company’s expected earnings growth rate for the current year is 2,400%.
+
+
+
+Wabash is one of the leading manufacturers of semi-trailers in North America. WNC shares are up 11.4% year-to-date.
+
+
+
+Wabash has a Zacks Rank #1 and a VGM Score of B. The Zacks Consensus Estimate for its current-year earnings has moved up 47.9% over the past 60 days. The company’s expected earnings growth rate for the current year is 90.67%.
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+To read this article on Zacks.com click here.

@@ -1,0 +1,41 @@
+Sun, 17 Dec 2023 08:00:00 GMT
+
+I’ve found Tesla’s Optimus to be an intriguing Tesla project since it was unveiled. I’ve wondered many times — could it become Tesla’s biggest source of profit, or could it be a complete dud that never does a great deal and never makes Tesla any money. Of course, the answer could be somewhere in between, but that’s the broad range of very possible futures I see for Optimus. I’ve seen robotics experts who think it’s brilliant, transformational work; and I’ve seen robotics experts who don’t think it’s as special as it is made out to be and far from becoming a money-making product. I’m not a robotics expert, so I don’t have strong opinions on it until I see much more. That said, I just saw a post tonight that I think is quite useful for putting this arm of Tesla’s business into context. Here’s the post, from Larry Goldberg on X:
+
+X is abuzz with the latest Optimus video, and I get it…progress has been amazing. A long thread on expectations…
+
+I will probably get criticized by many of my good friends for this perspective, but here goes: assumptions about Optimus working in factories soon, even Tesla factories, are way, way too premature. In fact, most of the Tesla commentators are being far too optimistic about the Optimus timeline.
+
+To date, the evidence we have seen is principally around the hardware improvements: form factor, two degrees of freedom in neck movements, dramatically improved hands, heel-toe walking, loss of 20 Kilograms of weight. Huge improvements. Clearly to be celebrated.
+
+But the challenge of the intelligent robot was never about the hardware: we always knew Tesla were going to design a beautiful, elegantly simple but effective humanoid robot that can be manufactured at scale. Progress in this direction has reinforced this conviction.
+
+No, the giant problem is real world functionality: the ability of the robot to learn and do the myriad of tasks that we expect of it. And in this domain, we have a long, long way to go.
+
+Simply because Tesla may have solved, or are solving, FSD does not mean that Optimus has solved, or perhaps even will solve the ability to learn or emulate useful tasks in the factory or in home from vision or video, let alone voice command.
+
+The number of degrees of freedom demanded to achieve such a level of function is an order, or perhaps even several orders, of magnitude more difficult than FSD (even if it may be less risky from a safety perspective.)
+
+FSD is dealing with a specific domain, with a large body of general rules, modified localized special rules. The spatial problems are also limited in dimensionality, and the travel is always two-dimensional, with four consistently placed tires.
+
+Every single vehicle using FSD solves the exact same problem: in the simplest of terms, it solves a single use case with a very large number of complexities.
+
+Optimus’ movements have many, many more degrees of freedom, its problem set, and movements vary greatly from use case to use case. In contra-distinction to FSD it is targeted to solve a very large number of use cases, each with its own range of complexities, from very simple to very complex.
+
+Think of each potential task, whether in a factory or home environment, as a new use case, each with a unique set of training challenges. Many of these use cases will be completely unique, and new to the software.
+
+With FSD, the software can learn from the fleet. With Optimus, this is far more complex because of this variability of use case.
+
+Over time the software will be able to accrue a functional history, and an ever-growing knowledge of commands, movements, responses, to facilitate the rapid learning of a new use case: but this is going to take a significant amount of time.
+
+We will be not able to beta test Optimus in the home; the first commercial iterations of the ‘bot will need to be in the Tesla factories, under the engineer’s close supervision, focused on limited use cases, and expanded as rapidly as the vision, learning, and software evolve, enabling the ‘bot to progress from the simplest possible use case to ever more complex and useful cases.
+
+Unlike the prognostications of many futurists, this isn’t going to be an assault by an army of mass produced ‘bots, nor even hundreds of humanoids. There may be tens, more likely a handful, of Optimus’ in the first useful implementation to test the software, and the learning process on very limited use cases.
+
+Progress will not depend on evolving the number of ‘bots and tasks – it will be in the small, teaching the humans how to train the ‘bots, and assessing the opportunities on a production line to improve production and improve the ‘bot.
+
+From those early beginnings – not too far away now – Tesla will learn how to proceed, and thus define a project to expand the use of Optimus in the factory. I see this possibly happening in the latter half of 2024, early 2025.
+
+My view is that it will be 2026 before Optimus has a real impact on Tesla costs, and/or prospects for sale into the marketplace, and only then will we start seeing meaningful contributions to costs in the Tesla factories, relatively small at first but ultimately with a huge, almost incalculable impact.
+
+So, while I share in the excitement around Optimus, I would counsel my colleagues in the Tesla community to be a lot more cautious in their pronouncements: Optimus will come, ultimately with enormous — almost incalculable force — but it will not be here overnight, nor in 2024 as many are predicting.

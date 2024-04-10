@@ -1,0 +1,23 @@
+Fri, 12 Jan 2024 08:00:00 GMT
+
+Today, we Unusual Whales saw tons of unusual options activity, order flow, stock volume, and general options flow. Let's look at some for Tesla (TSLA).
+
+Here are the options volume by expiry currently for TSLA:
+
+Here are the top volume chains currently for TSLA:
+
+Here are the top open interest (OI) changes currently for TSLA full option chains:
+
+Here are, at the time of writing, some unusual contracts currently for TSLA's options:
+
+You can see the full noteworthy options in TSLA at Unusual Whales. It is vital to look at the whole flow to better conceptualize unusual options, which we will give a screenshot of below.
+
+Here is the Netflow for Tesla:
+
+Looking at the big flow for today, you can see further information. Seen above at the very top is the aforementioned chain’s largest flow of puts and calls today. Go to flow to see more.
+
+Lastly, it is instructive to take a look at recent flow alerts for the symbol. Here are some recent flow alerts found on Unusual Whales:
+
+Unusual Whales has tons of options and equities data. In fact, we offer the most affordable toolsets for options and US equities data. If you are interested in adding TSLA to your watchlist, you can add its options and stock price fully here, as well as get alerted to any type of market move using our custom alerts feature.
+
+To view more information about TSLA daily flow breakdown, click here to visit unusualwhales.com.

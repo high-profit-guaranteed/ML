@@ -1,0 +1,125 @@
+Wed, 18 Oct 2023 07:00:00 GMT
+
+Tesla is out with the company's Q3 2023 earnings results, and the stock is reacting to the news in after-hours trading. The EV company reported adjusted earnings-per-share (EPS) of $0.66/share and revenues of $23.4 billion. Earnings missed the EPS whisper number of $0.76/share and analyst estimates of $0.73/share. Revenues also missed Wall Street analyst estimates of $24.1 billion.
+
+Check out the full TSLA Q3 2023 earnings report on the Tesla Investor Relations website.
+• $3.0B increase in our cash and investments QoQ to $26.1B
+
+Our main objectives remained unchanged in Q3-2023: reducing cost per vehicle, free cash flow generation while maximizing delivery volumes and continued investment in AI and other growth projects.
+
+Our cost of goods sold per vehicle4 decreased to ~$37,500 in Q3. While production cost at our new factories remained higher than our established factories, we have implemented necessary upgrades in Q3 to enable further unit cost reductions. We continue to believe that an industry leader needs to be a cost leader.
+
+During a high interest rate environment, we believe focusing on investments in R&D and capital expenditures for future growth, while
+
+maintaining positive free cash flow, is the right approach. Year-to-date, our free cash flow reached $2.3B while our cash and investments position continues to improve.
+
+We have more than doubled the size of our AI training compute to accommodate for our growing dataset as well as our Optimus robot
+
+project. Our humanoid robot is currently being trained for simple tasks through AI rather than hard-coded software, and its hardware is being further upgraded.
+
+Lastly, with a combined gross profit generation of over $0.5B in Q3, our Energy Generation and Storage business and Services and Other business have become meaningful contributors to our profitability.
+
+Total revenue grew 9% YoY in Q3 to $23.4B. YoY, revenue was impacted by the following items:
+• + growth in other parts of the business
+
+Our operating income decreased YoY to $1.8B in Q3, resulting in a 7.6% operating margin. YoY, operating income was
+
+primarily impacted by the following items:
+• - increase in operating expenses driven by Cybertruck, AI and other R&D projects
+• - cost of production ramp and idle cost related to factory upgrades
+• + growth in vehicle deliveries (despite the margin headwind from underutilization from new factories)
+• + gross profit growth in Energy Generation and Storage as well as Services and Other
+
+Quarter-end cash, cash equivalents and investments increased sequentially by $3.0B to $26.1B in Q3, driven by financing
+
+activities of $2.3B and free cash flow of $0.8B.
+• We are planning to grow production as quickly as possible in alignment with the 50% CAGR target we began guiding to in early 2021. In some years we may grow faster and some we may grow slower, depending on a number of factors. For 2023, we expect to remain ahead of the long-term 50% CAGR with around 1.8 million vehicles for the year.
+• We have ample liquidity to fund our product roadmap, long-term capacity expansion plans and other expenses.
+
+Furthermore, we will manage the business such that we maintain a strong balance sheet during this uncertain period.
+• While we continue to execute on innovations to reduce the cost of manufacturing and operations, over time, we expect our hardware-related profits to be accompanied by an acceleration of AI, software and fleet-based profits.
+• Cybertruck deliveries remain on track for later this year. In addition, we continue to make progress on our next generation platform.
+
+Tesla's earnings results conference call is set to kick off at 5:30 p.m. ET. Keep an eye on this article for a transcription of the earnings call right here.
+• Call starts with everything muted, so Elon's opening statement is cut off
+• Musk says they have deployed some NVIDIA AI chips for their neural net work
+• Retreads same claim that FSD can make Tesla the most valuable company on Earth
+• Energy Division is now the highest margin division
+• Tesla Cybertruck faces enormous challenges in reaching volume production and making it cash flow positive
+• Says it is "our best product ever"
+• I want to temper expectations for Cybertruck
+• Thanks employees for the hard work
+• Zach is not on the call anymore
+• New CFO is here
+• Investor question: how many 2024 Cybertruck deliveries do you expect?
+• Elon retreads his prepared remarks on the challenge of Cybertruck production
+• We have a lot more work to do to reach our steady state goals
+• "we want to get a sense on what the global economy is"
+• Musk pivots to saying he is worried about the interest rate environment
+• "we're just hitting law of large number issues here"
+• Musk says advertising might help some, but the rate environment is causing problems
+• Next question on when the company will return to 50% CAGR on revenue
+• Elon - It's not possible to have a 50% CAGR forever
+• Elon - I am very excited with our progress on autonomy
+• Elon - we wanted to make it more afforable so people can try it
+• Over time the price of FSD will increase
+• Elon - judging by the lawsuits, it seems a lot of people feel Tesla is liable
+• Next question on Optimus robot working at Giga Texas next year
+• Elon says they are not ready to provide an update on the Optimus program
+• Optimus a year ago could barely walk, and now it can do yoga
+• a few years from now it could do ballet
+• "I have been overly optimistic about" FSD - Elon
+• Says regulations are keeping it out of some countries
+• Truist asks "it sounds like you don't think the truck will ramp until its third year of production, will the next-gen platform have a similar ramp?"
+• Elon - to be clear, it is the 18th month of production (is my guess)
+• Starts this year, spans next year, and gets to 2025
+• That would be shocking if it took us 3 years
+• 18 months is going to require a lot of blood, sweat, and tears
+• There is unique complexity to Cybertruck
+• Nobody digs their grave better than themselves.. - Elon
+• Cybertruck is one of those special products that only come once in a long while
+• The cybertruck has lots of bells and whistles
+• Question about the future of robotaxi
+• Musk tap dances about the value added by FSD software updates in the current fleet of vehicles
+• "We're a hardware company with software margins" - Musk on the prospects of FSD + EVs
+• CFO - cost of ramping some factories did affect margins, but not every one
+• Question on timing of the next gen product and its effect on margins
+• CFO - we will get some benefits from ongoing cost reductions
+• some things are still ramping in Q4, which will impact margins
+• ramping Cybertruck is another headwind that we are dealing with
+• CFO also says macroeconomic environment makes margins hard to predict where they will land
+• If our car cost the same as the Rav4, no one would buy the Rav4 - Elon
+• Tax incentives are not easy for the average person to access
+• A large number of people are living paycheck to paycheck with credit card debt
+• that's the reality for most people
+• CFO - when you look at car buying in general, we are looking at the next generation of EV adopted
+• Elon interrupts to crap on work from home
+• Now grandstanding about the working class
+• We have to make our cars more affordable
+• The price of the Model Y is almost unchanged if you factor in the change in interest rates
+• Going from near zero interest rates to current high interest rates, the monthly payment is largely the same
+• more of the payment goes towards interest
+• there are some people who can't get credit, period.
+• Regarding cost per vehicle decline comments, what are the factors to give us confidence in your guidance?
+• Is Radar being included in Model Y in China?
+• Musk - we have not included radar in Model Y, but have experimented with that in Model S and X.
+• Not planning to do that in 3 or Y
+• Musk says jury is out on Tesla using radar
+• CFO - there is a laundry list of cost improvements
+• Something as simple as removing unnecessary stickers can lower cost - Elon
+• Elon Musk says you could chop your arm off to lose weight, but you are still fat
+• Question from analyst on Mexico and 50% sales growth
+• We are gonna build a factory there and it is going to be great - Elon
+• Reminisces about Tesla almost going under in 2008
+• I don't want to be going at top speed with so much uncertainty
+• I'm not saying things will be bad
+• even a great ship in a storm has challenges
+• The auto industry is also cyclic
+• buying a new car tends not to be front of mind in tough economies
+• that call comes to a merciful end
+
+This article is only meant for educational purposes, and should not be taken as investment advice. Please consider your own investment time horizon, risk tolerance, and consult with a financial advisor before acting on this information.
+
+At the time of this article, Shacknews primary shareholder Asif A. Khan, his family members, or his company Virtue LLC had the following positions:
+
+Asif Khan is the CEO, EIC, and majority shareholder of Shacknews. He began his career in video game journalism as a freelancer in 2001 for Tendobox.com. Asif is a CPA and was formerly an investment adviser representative. After much success in his own personal investments, he retired from his day job in financial services and is currently focused on new private investments. His favorite PC game of all time is Duke Nukem 3D, and he is an unapologetic fan of most things Nintendo. Asif first frequented the Shack when it was sCary's Shugashack to find all things Quake. When he is not immersed in investments or gaming he is a purveyor of fine electronic music. Asif also has an irrational love of Cleveland sports.

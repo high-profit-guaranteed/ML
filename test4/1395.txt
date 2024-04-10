@@ -1,0 +1,31 @@
+Mon, 11 Dec 2023 08:00:00 GMT
+
+An analysis from the Washington Post found at least eight fatal or serious accidents involving Tesla's (TSLA) Autopilot occurred in areas where the software could not properly operate.
+
+Colin Rusch, Oppenheimer Managing Director & Senior Research Analyst, joined Yahoo Finance to discuss the Washington Post report, saying more transparency is likely necessary regarding the safety of its Autopilot system
+
+"As we go forward here, I think there's going to be more public concern... more transparency will be necessary to really gain trust amongst the broader population around how these vehicles operate," Rusch said. "I think it's part of a larger branding issue for Tesla, in terms of how they present themselves because they were seen as the leading company on bringing clean, safe vehicles to market, and now as the reality comes forward, there is a lot more going on here."
+
+Click here to watch the full interview on the Yahoo Finance YouTube page or you can watch this full episode of Yahoo Finance Live here.
+
+SEANA SMITH: Well, new analysis from "The Washington Post" found that at least eight fatal or serious crashes involving Tesla's autopilot occurred where the autopilot feature should not have been accessible in the first place. Now, the car's manual does warn that its autopilot can be unreliable on roads with hills and curves.
+
+But the company has not taken steps to limit its availability by geography. Now, for more on this, we want to bring in Colin Rusch. He's Oppenheimer's managing director and senior research analyst. Colin, it's good to see you. Let's talk about what this means just in terms of wider spread adoption, right?
+
+Because we've seen the fact that EVs, at least in terms of demand, that demand seems to be falling. We have this report out from "The Washington Post" pointing to some issues that Tesla might have here with its autopilot system. What do you think that that-- how big of a risk do you see this being for Tesla at least in the short term?
+
+COLIN RUSCH: I want to step back a little bit on this EV narrative because I think the growth has been moderating a little bit. We're still talking about 35% to 40% year-over-year unit growth on EVs. So I just want to make sure that point gets made here before we move on to the autonomous question.
+
+But the report from "The Washington Post" is important because it raises the debate that I think is happening within the industry about how to manage risk as you bring this new technology into the market. And who's actually responsible for that risk? And the Tesla policy that we're seeing really puts the onus on operators to comply with the manual rather than putting some incremental controls on this.
+
+And underlying that is a belief from Tesla that the system is actually better than drivers. And so statistically, it's likely that these cars will perform better than a lot of drivers on the road. Whether that's real or perceived by regulators and the general public is still to be determined.
+
+But I think the regulatory approach that we've seen so far is that the regulators are following the industry because the technology is moving so quickly. And as we go forward here, I think there's going to be more public concern and transparency that's necessary to really gain trust amongst the broader population around how these vehicles really do carry forward.
+
+SEANA SMITH: Colin, but you don't see that weighing on demand, at least for Tesla, in the near term until we get some more clarity on that.
+
+COLIN RUSCH: Yeah, absolutely. Tesla's got a brand issue. And this really started with Elon's acquisition of Twitter and his public persona and what he's got in that public discourse around his political views and whatnot. And so as we move forward with this technology, I think it's part of a larger branding issue for Tesla in terms of how they present themselves because they were seen really as the leading company on bringing clean, safe vehicles to market.
+
+And now as the reality comes forward, there's a lot more going on here. And I think there's a lot of folks that have gotten concerned with supporting Elon Musk individually from a brand perspective. And there is this ongoing cost out program and kind of war of attrition that's happening in the EV space as well.
+
+And so I think this is just one more element of that broader dynamic. And it certainly isn't going to help folks buy the FSD offering or sign up for it up front. And there's going to be a lot of concern from other folks on how other OEMs are carrying this forward as well.

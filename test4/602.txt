@@ -1,0 +1,33 @@
+Mon, 07 Aug 2023 07:00:00 GMT
+
+The Q2 earnings season has not only surpassed Wall Street’s expectations but has also outpaced the long-term historical average, indicating a robust quarter for American companies.
+
+The latest data unveiled by FactSet Research Systems Inc. FDS, a financial data and software company based in Norwalk, Connecticut, reveals that an impressive 79% of S&P 500 companies reported actual EPS above the Street’s mean forecast, surpassing both the 5-year and 10-year averages of 77% and 73%, respectively.
+
+Equally encouraging is the magnitude of the earnings beats. Overall, earnings have exceeded estimates by 7.2%, slightly lower than the 5-year average of 8.4%, but higher than the 10-year average of 6.4%.
+
+However, despite these positive earnings surprises, the reaction in the stock prices of these companies has been quite unexpected.
+
+FactSet has uncovered a peculiar trend. Companies that have beaten analysts’ earnings estimates for Q2 2023 have witnessed an average price decrease of 0.5% two days before the earnings release through two days after.
+
+This figure starkly contrasts with the 5-year average price increase of 1.0% during the same period for companies with positive earnings surprises. Should this trend persist, it would mark the largest average negative price reaction to positive EPS surprises since Q2 2011 (-2.1%).
+
+Read also: ETF Winners And Losers: Micro-Cap Fund Flows – Innovative AUSF, With Annualized Returns Of 17.19% Over Last 3 Years, Adds $159.87 Million
+
+Tesla Inc. TSLA reported EPS of $0.91, surpassing the mean EPS estimate of $0.79. Revenues also positively surprised ($24.9 billion vs. $24.22 billion). However, between July 17 and July 21, Tesla’s stock price plummeted by 10.5%, falling from $290.38 to $260.02.
+
+Similarly, Microsoft Corp. MSFT reported EPS of $2.69, beating the mean estimate of $2.55, with quarterly revenues also exceeding expectations ($56.19 billion vs. $55.49 billion). Despite these positive results, Microsoft’s stock price reacted negatively, experiencing a 5.3% drop from July 21 to July 27.
+
+Earnings watchers are perplexed by this unexpected market behavior. Contrary to common assumptions, the market is not punishing positive EPS surprises due to pessimistic earnings outlooks for the third quarter.
+
+Among the S&P 500 companies that have issued EPS guidance for Q3 2023, 62% have issued negative guidance, aligning with historical averages.
+
+Additionally, analysts have made only minor changes to EPS estimates for Q3 2023 during July, indicating no significant downgrades to earnings expectations.
+
+While FactSet has not pinpointed a specific cause for the unusual market reaction to positive earnings, the financial data company has highlighted that stocks are beginning to show signs of overvaluation.
+
+The forward 12-month P/E ratio for the S&P 500 currently stands at 19.2, which is higher than both the 5-year average of 18.6 and the 10-year average of 17.4.
+
+An additional significant factor is that the Information Technology and Consumer Discretionary sectors, which led in positive earnings surprises, also boast the highest forward 12-month P/E ratios, standing at 27.0 and 25.7, respectively.
+
+Read now: If You Invested $1000 In Tesla When Elon Musk Posted ‘Funding Secured’ 5 Years Ago, Here’s How Much You’d Have Now

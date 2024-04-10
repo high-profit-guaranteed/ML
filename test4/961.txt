@@ -1,0 +1,39 @@
+Sun, 15 Oct 2023 07:00:00 GMT
+
+Alphabet and Tesla are AI titans with tons of potential, but one is ultimately the better investment today.
+
+Among the dozens of companies jockeying to lead the next artificial intelligence (AI) revolution, Alphabet (GOOG 1.28%) (GOOGL 1.13%) and Tesla (TSLA 2.25%) are two of the clear leaders.
+
+Though Alphabet might have ceded the initial first-mover advantage in generative AI to OpenAI's ChatGPT and its partner Microsoft, the Google parent has responded well to the challenge. It's launched its own generative AI chatbot, Bard, and it's rolled out AI features into products like Google Workspace and Google Cloud, where generative AI tools can help users write emails. Its new Pixel smartphone is powered by AI tools like advanced photo editing.
+
+Meanwhile, Tesla's primary use cases for artificial intelligence revolve around its vehicles, namely autopilot, or what's referred to as autonomy across the industry. Tesla's AI features include Summon, which allows people to bring their vehicles to them without a driver inside, and AI systems that can predict the energy requirements of the car.
+
+The EV company is also using AI in robotics, designing a humanoid robot called the Tesla Bot. It's building AI training and inference chips and developing neural networks for applications like autonomous driving.
+
+Let's take a look at how each stock stacks up to see which is the better AI stock to buy today.
+
+Both companies have been focused on artificial intelligence for a long time.
+
+In a blog post earlier this year, CEO Sundar Pichai said the company pivoted to being an AI-first company several years ago. It acquired the well-respected British AI lab DeepMind 10 years ago and recently merged it with its own AI lab, Google Brain.
+
+Alphabet can benefit from AI across multiple product lines. Most of the company's revenue still comes from advertising, and AI can be used to better serve ads according to what the user is looking for, as it can better understand user queries on Google and YouTube and deliver the best answer. It's also helped improve the company's advertising auction and bidding for its advertisers.
+
+Beyond advertising, Alphabet is applying AI to cloud computing, its Waymo autonomous vehicle division, and products like Workspace.
+
+For Tesla, the primary immediate application for AI appears to be its robotaxis, though it's unclear when its vehicles might be ready to perform as robotaxis. CEO Elon Musk has promised "full self-driving" before and has pushed the date back, though full self-driving is now in beta.
+
+Tesla also has an opportunity in AI with its Dojo proprietary supercomputer, which it says will significantly lower the cost of training AI models. It will also allow Tesla to sell cloud infrastructure services, putting it in direct competition with cloud titans like Amazon, Microsoft, and Alphabet.
+
+Investing in stocks, even AI stocks, is about more than just growth opportunity. The price has to be right as well.
+
+Both Alphabet and Tesla trade at premiums to the S&P 500, but Tesla is the more expensive of the two. Tesla is currently valued at a price-to-earnings ratio of 74, compared to Alphabet at 29. However, Tesla is expected to grow its top line faster than Alphabet, and it seems to have a longer growth runway as it ramps up production and takes market share from traditional automakers.
+
+Which is the better AI stock to buy?
+
+Investors who are building out a portfolio of AI stocks will likely want to own both Tesla and Alphabet as both are among the leaders in this emerging technology and could see strong growth from AI applications.
+
+However, between the two, Alphabet looks like the safer bet here. The company is rapidly rolling out new AI features across its portfolio of products, and its Waymo autonomous vehicle division could even have the edge over Tesla in robotaxis as Waymo is already providing such a service in San Francisco and is headed to Los Angeles soon.
+
+Tesla, on the other hand, seems like more of a moonshot in AI. It could tap into a massive robotaxi market, but it has yet to even build those vehicles, while the humanoid robot, Tesla Bot, could also be transformative but seems far from reality at the moment.
+
+Although Tesla has proven its disruptive potential before, Alphabet seems like more of a sure thing when it comes to AI innovation. It's the easier AI stock to own right now.

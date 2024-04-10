@@ -1,0 +1,25 @@
+Tue, 30 Jan 2024 08:00:00 GMT
+
+Major U.S. indices were mixed at the end of the trading day on Tuesday. The Dow Jones Industrial Average rose 0.35% to 38,467.31, while the S&P 500 inched downwards by 0.06% at 4,924.97. The Nasdaq was deeper in the red, dropping 0.76% to 15,509.90.
+
+These are the top stocks that gained the attention of retail traders and investors throughout the day:
+
+Microsoft reported a decline of 0.28% in its stock, closing at $408.59 The day saw fluctuations between a high of $413.05 and a low of $406.45. The company’s 52-week range has been between $242.95 and $413.05.
+
+In its second-quarter earnings, Microsoft announced a revenue of $62 billion, an 18% increase year-over-year, surpassing the consensus estimate. Adjusted EPS was $2.93, exceeding expectations. The quarter was marked by the acquisition of Activision Blizzard, now part of Microsoft’s More Personal Computing segment. CEO Satya Nadella emphasized the company’s focus on applying AI at scale.
+
+Advanced Micro Devices experienced a significant drop of 3.24%, with shares closing at $172.06 on Tuesday. The stock reached an intraday high of $178.48. January saw a 20.6% gain in AMD’s stock, driven by analysts’ optimistic views of the company as a strong AI contender against Nvidia Corp. (NVDA). With high expectations for its fourth-quarter earnings, the market is keen to see if AMD can sustain its momentum.
+
+For Q4, AMD is expected to report revenue of $6.12 billion and non-GAAP EPS of 77 cents. The focus is on its diverse business segments, including Client, Data Center, Gaming, and Embedded, each holding significant revenue shares. KeyBanc’s John Vinh anticipates strong server demand, especially for the Genoa processor, despite a general weakness in traditional servers. The MI300X AI accelerator chips are also gaining traction, contrasting with Intel Corp.’s (INTC) recent decline in Data Center and AI segment revenue.
+
+Alphabet Inc Class A shares declined 1.34% on Tuesday and closed at $151.46. The company’s Class C shares fell 1.16% to $153.05 on the same day. The Google-parent’s fourth-quarter revenue saw a 13% year-over-year increase to $86.31 billion, surpassing the consensus estimate of $85.33 billion. Adjusted earnings were $1.64 per share, exceeding analyst expectations of $1.59 per share.
+
+Key revenue drivers included Google Search at $48.02 billion, YouTube advertising at $9.2 billion, and Google Cloud at $9.192 billion. CEO Sundar Pichai highlighted the strength in Search and the growing contributions from YouTube and Cloud, all benefiting from Alphabet’s AI investments. The company also addressed its workforce reduction, with $2.1 billion recorded in employee severance and related charges, and emphasized its commitment to optimizing costs while investing in growth opportunities.
+
+Amazon.com Inc saw a decrease of 1.4% for the day, with its shares closing at $159. The company’s decision to introduce ads into Prime Video has led to some customer dissatisfaction and cancellations, despite expectations of continued growth in Prime membership and high renewal rates. Analysts project an incremental revenue increase of $6.6 billion to $8 billion from this worldwide plan.
+
+Tesla Inc experienced a 0.25 increase, with shares ending the day at $191.59. A significant development for Tesla was the Delaware court’s decision to void a $55-billion compensation plan for CEO Elon Musk. This ruling, which challenges the fairness of the compensation plan, could impact Musk’s status as the world’s richest person and necessitates a new compensation plan proposal by Tesla’s board.
+
+According to Bloomberg, Musk’s net worth, currently at $204 billion, could see a significant drop without the options from the compensation package, potentially placing him third in the ranking of the world’s richest individuals. This comes amid Musk’s expressed desire to increase his ownership stake in Tesla.
+
+Prepare for the day's trading with top premarket movers and news by Benzinga.

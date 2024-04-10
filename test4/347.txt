@@ -1,0 +1,43 @@
+Sun, 25 Jun 2023 07:00:00 GMT
+
+The electric vehicle maker might be having an "AWS moment."
+
+The past couple of years have been a bumpy ride for Tesla (TSLA 2.25%). After rocketing to an all-time high in late 2021, the stock plunged more than 70% in the face of high inflation, rising interest rates, and the worst stock market downturn in more than a decade. But the tide appears to have turned over the past several months. Since bottoming in early January, Tesla shares have been on fire, gaining 149% as of this writing.
+
+What caused this epic run? A rebound in the stock market and the recovering economy were no doubt contributors, but the biggest gains have come over the past few weeks in the wake of a few historic announcements. Several big-name automakers have ceded the high ground, joining the Tesla Supercharger network and adopting its North American Charging Standard (NACS) connector, which is now on the road to becoming the industry standard on the continent.
+
+This stampede of partnerships prompts the question: Is Tesla having an "AWS moment"?
+
+Late last month, Ford announced that beginning early next year, Ford electric vehicle (EV) owners would gain access to more than 12,000 Tesla charging stations across the U.S. Ford's chief customer officer, Marin Gjaja, cited Tesla's "large, reliable and efficient charging system" as the incentive.
+
+Just weeks later, General Motors announced that it, too, would join the Tesla Supercharger network. On Tuesday, Rivian jumped on the bandwagon, joining the company's North American network, while Hyundai is considering a similar move.
+
+In each case, the automakers have noted that after initially requiring an adapter, they would equip future EVs with an NACS charge port within the next couple of years, eliminating the need for adapters going forward.
+
+Back in 2000, Amazon (AMZN 0.26%) was hamstrung by a number of growth-related issues, the biggest being the ability to scale its nascent operations. To address this challenge, the company developed a cloud infrastructure system that would form the foundation for its growing e-commerce business.
+
+At the time -- and unbeknownst to Amazon executives -- the company had planted the seeds that would eventually become Amazon Web Services (AWS), its lucrative cloud computing service. After being used solely by Amazon employees for several years, the service debuted to the public in early 2006, and the company began renting out the cloud infrastructure it originally developed for in-house use. And the rest -- as they say -- is history.
+
+AWS quickly become one of Amazon's most lucrative enterprises, a paradigm that continues to this day. In 2022, AWS generated revenue of more than $80 billion, up 29% year over year. More importantly, the cloud computing business was responsible for just 15% of Amazon's total revenue but all of its operating income -- even subsidizing the losses from its e-commerce operations.
+
+The company is still the leader in the cloud business it pioneered, closing out the first quarter with a 32% share of the cloud infrastructure market, which is as much as the shares of Microsoft and Alphabet combined, according to data supplied by research firm Canalys.
+
+The parallel here is clear. Tesla originally developed the Supercharger network solely for use by its customers, but it appears to be transforming into a lucrative industry standard.
+
+The ability to take a substantial business costs and turn them into a hefty revenue generator is a rare thing, which is why some are calling this Tesla's "AWS moment." Wedbush analyst Dan Ives is one such commentator. He notes that while the company is known for accelerating EV adoption around the globe, Tesla's Supercharger network is the hidden gem that will take the company -- and its stock -- to the next level:
+
+He goes on to estimate that the pacts with Ford and GM could add another $3 billion to Tesla's EV charging revenue "over the next few years."
+
+Piper Sandler agrees and is more precise in its estimates, estimating that charging from non-Tesla customers could add $3 billion to revenue by 2030, surging to $5.4 billion by 2032. A greater number of EVs on the road -- from numerous automakers -- will no doubt accelerate this "flywheel effect," enriching Tesla and its shareholders along the way.
+
+The company is also vying for roughly $7.5 billion in subsidies offered by the Biden administration to expand its Supercharger network if other automakers have access to its system. In all, this amounts to nearly $13 billion in additional financial incentives for Tesla to open up its network.
+
+It's also worth noting that Tesla also has a significant advantage over its rivals with one of the most cost-effective chargers in the business. The company has been able to construct charging stations for as little as $42,000 per connector, compared to a range of $100,000 to $250,000 for its rivals, according to data compiled by Bloomberg. Tesla can use the additional funds from non-Tesla customers to expand its Supercharger network, further fueling the flywheel.
+
+While it's still early days for these charging collaborations, this could eventually be a big revenue generator for Tesla.
+
+As previously noted, Tesla's stock price has soared this year -- up nearly 50% in the past month alone -- as a result of the recent announcements, with a commensurate increase in its valuation. The stock currently has a forward price-to-earnings ratio of 77 and sells for over eight times forward sales -- a lofty valuation by any measure. For context, analysts expect the company to grow revenue by 22% and 29%, respectively, in 2023 and 2024. Value investors will no doubt balk at the stock's hefty price tag.
+
+That said, Tesla is the undisputed leader in the U.S. EV market and is just beginning to flex its charging station muscles. If the company eventually adopts a similar strategy for batteries and energy storage solutions, Tesla's recent gains could be just the beginning for those with a long-term outlook.
+
+Editor's note: This article has been corrected. The federal government has up to $7.5 billion for a high-speed charger program.

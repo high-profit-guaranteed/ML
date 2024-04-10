@@ -1,0 +1,17 @@
+Thu, 21 Dec 2023 08:00:00 GMT
+
+Last month, Tesla (NASDAQ: TSLA) introduced its groundbreaking stainless steel-plated electric Cybertruck. CEO Elon Musk estimated that the company was likely to achieve an annual production rate of a quarter-million vehicles at some point in 2025.
+
+However, Tesla is currently far from reaching this production pace, facing significant bottlenecks, particularly in the production speed of the 4680 batteries used in the Cybertruck, employing new dry-coating technology.
+
+At present, Tesla's Giga Texas facility is reportedly manufacturing 4680 battery cells at a rate sufficient to power approximately 24,000 Cybertrucks annually. This output represents roughly one-tenth of the necessary production volume.
+
+The ability to significantly increase battery output through the use of dry-coating electrodes, as opposed to the slower and more expensive wet-coating method, was a crucial element in Tesla's projections back in 2020.
+
+Although, according to a report by Reuters, citing nine unnamed sources, Tesla has yet to find a way to scale the dry-coating process to meet industrial needs, and cannot make 4680 batteries fast enough to hit its production targets.
+
+According to the sources, while dry-coating the anode in the 4680 cells posed no significant issues for Tesla, the company encountered challenges with applying the same technique to the cathode. The cathode represents the most costly component in a battery.
+
+At the moment, Tesla's Austin factory takes about 16 weeks to make 10 million 4680 cells, translating to 32.5 million cells a year, or enough for just under 24,000 Cybertrucks.
+
+Shares of TSLA are up 1.58% in afternoon trading on Thursday.

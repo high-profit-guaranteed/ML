@@ -1,0 +1,31 @@
+Fri, 05 Apr 2024 14:20:52 GMT
+
+Tesla Inc. TSLA CEO Elon Musk disagrees with Nvidia Corp.'s NVDA CEO Jensen Huang’s belief about the ease of creating neural networks with his company’s AI chips.
+
+What Happened: Musk responded to Huang’s claim that anyone could create a neural network using Nvidia chips. Musk’s rebuttal came via a post on Friday.
+
+See Also: Dan Ives Says This Will Be The ‘Catalyst’ For 15% Rally In Tech Stocks In 2024: ‘Google Here Could Ultimately Have $30-$40 Upside’
+
+To recall, Huang said in February that "AI factories" will one day take over the world, in every industry, region, and company.
+
+According to Huang, AI factories take "raw material, which is data, it transforms it with these AI supercomputers that Nvidia builds, and it turns them into incredibly valuable tokens.”
+
+He had previously said "Everybody in the world is now a programmer" thanks to generative AI, and that it has "killed" coding. He believes that every enterprise on the planet will eventually run on Nvidia's "AI operating system."
+
+Subscribe to the Benzinga Tech Trends newsletter to get all the latest tech developments delivered to your inbox.
+
+But Musk thinks it is difficult – and this comes when Tesla has invested in 10,000 H100 GPUs to create its neural network for its full self-driving (FSD) technology.
+
+Why It Matters: In February, Huang predicted that “AI factories” would eventually take over the world, asserting their presence in every industry, company, and region.
+
+He also expressed optimism about Nvidia’s software segment, citing the company’s achievement of a $1 billion annualized revenue run rate in the segment.
+
+In March, Huang further asserted Nvidia’s technological dominance in the AI industry, stating that their GPUs remain unrivaled, even against freely offered competitor AI chips.
+
+Despite Huang’s confidence in Nvidia’s AI capabilities, Musk’s recent statement emphasizes the complexity of developing neural networks.
+
+Check out more of Benzinga’s Consumer Tech coverage by following this link.
+
+Read Next: Did Meta Sell Facebook Messenger Chats To Netflix? Social Media Giant Calls It ‘Shockingly Untrue’
+
+Disclaimer: This content was partially produced with the help of Benzinga Neuro and was reviewed and published by Benzinga editors.

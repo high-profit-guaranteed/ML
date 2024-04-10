@@ -1,0 +1,23 @@
+Mon, 30 Oct 2023 07:00:00 GMT
+
+The market wasn't impressed with the soft earnings from Tesla, Inc. (NASDAQ:TSLA) recently. We did some analysis, and found that there are some reasons to be cautious about the headline numbers.
+
+As finance nerds would already know, the accrual ratio from cashflow is a key measure for assessing how well a company's free cash flow (FCF) matches its profit. To get the accrual ratio we first subtract FCF from profit for a period, and then divide that number by the average operating assets for the period. The ratio shows us how much a company's profit exceeds its FCF.
+
+That means a negative accrual ratio is a good thing, because it shows that the company is bringing in more free cash flow than its profit would suggest. That is not intended to imply we should worry about a positive accrual ratio, but it's worth noting where the accrual ratio is rather high. To quote a 2014 paper by Lewellen and Resutek, "firms with higher accruals tend to be less profitable in the future".
+
+Tesla has an accrual ratio of 0.26 for the year to September 2023. We can therefore deduce that its free cash flow fell well short of covering its statutory profit. To wit, it produced free cash flow of US$3.7b during the period, falling well short of its reported profit of US$10.8b. Tesla's free cash flow actually declined over the last year, but it may bounce back next year, since free cash flow is often more volatile than accounting profits.
+
+That might leave you wondering what analysts are forecasting in terms of future profitability. Luckily, you can click here to see an interactive graph depicting future profitability, based on their estimates.
+
+Our Take On Tesla's Profit Performance
+
+Tesla didn't convert much of its profit to free cash flow in the last year, which some investors may consider rather suboptimal. Therefore, it seems possible to us that Tesla's true underlying earnings power is actually less than its statutory profit. But on the bright side, its earnings per share have grown at an extremely impressive rate over the last three years. The goal of this article has been to assess how well we can rely on the statutory earnings to reflect the company's potential, but there is plenty more to consider. Keep in mind, when it comes to analysing a stock it's worth noting the risks involved. You'd be interested to know, that we found 1 warning sign for Tesla and you'll want to know about this.
+
+This note has only looked at a single factor that sheds light on the nature of Tesla's profit. But there is always more to discover if you are capable of focussing your mind on minutiae. Some people consider a high return on equity to be a good sign of a quality business. While it might take a little research on your behalf, you may find this free collection of companies boasting high return on equity, or this list of stocks that insiders are buying to be useful.
+
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team (at) simplywallst.com.
+
+
+
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.

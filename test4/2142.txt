@@ -1,0 +1,11 @@
+Tue, 20 Feb 2024 08:00:00 GMT
+
+Barclays analysts said in a note Tuesday that Tesla's (NASDAQ: ) Powerwall home energy storage product still leads when it comes to market share, while Enphase Energy (NASDAQ: ) and SolarEdge Technologies (NASDAQ: ) come in second and third, respectively.
+
+Analysts stated that TSLA is the preferred backup battery, while ENPH and SEDG batteries are being used more for load shifting.
+
+"It appears that ENPH and SEDG each comprise market share in the mid-teens vs. TSLA in the low- to-mid 40% range," they explained. "The data would suggest that TSLA is the preferred battery for backup, as it has the highest average kWh installed while ENPH and SEDG only have 7-10% of their installations with more than 10 kWh."
+
+Meanwhile, battery attach rates continue to climb, with Sunrun (NASDAQ: ) leading. While it is even higher than TSLA, it has the lowest average kWh per installation, according to Barclays.
+
+"According to the December data, RUN's attach rate is at 74%, the highest in the group, with NOVA as the laggard of the group at ~60%," analysts explained. "However, it does appear that RUN has the lowest kWh, which likely reflects its marketing of Shift at the start of NEM 3.0, its load-shifting product while the other Tier 1 installers don't really have a similar product."

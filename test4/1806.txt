@@ -1,0 +1,47 @@
+Wed, 24 Jan 2024 08:00:00 GMT
+
+Tesla stock tanked in Wednesday's after-hours trading after the release of the company's latest earnings report.
+
+Tesla (TSLA 2.25%) stock declined 6% in after-hours trading on Wednesday following the electric-vehicle (EV) pioneer's release of its fourth-quarter 2023 report.
+
+The stock's decline is largely attributable to the quarter's revenue and earnings both missing Wall Street's consensus estimates -- though neither by that much -- along with the auto segment's profitability moving lower year over year. Also, the company warned that its vehicle volume growth rate may notably slow in 2024.
+
+The following is an overview of Tesla's Q4 2023, centered on six key metrics.
+
+Quarterly revenue grew 3% year over year to $25.2 billion. This result fell short of the $25.6 billion Wall Street had expected.
+
+Revenue growth was driven by increased vehicle deliveries and growth in other parts of the business, largely offset by a lower vehicle average selling price (ASP) due to the company cutting prices and a change in the mix of vehicle models sold. Revenue headwinds also included foreign-currency exchange and lower "full-self-driving" (FSD) revenue, which the company said was due to the wide release of FSD Beta in North America in the year-ago quarter.
+
+In Q4, segment year-over-year revenue performance was as follows:
+• Energy generation and storage revenue grew 10% to $1.44 billion. Growth was driven by a 30% jump in energy storage capacity deployments to 3.20 gigawatt hours (GWh). Solar power deployments dropped 59% to 41 megawatts (MW), which the company attributed to interest rates remaining high.
+• Services and other revenue jumped 27% to $2.17 billion. The company didn't specify the drivers of the quarter's growth but did say the biggest drivers of full-year 2023's growth were part sales, used-vehicle sales, merchandise sales, and pay-per-use Supercharging.
+
+2. Vehicle production and deliveries were up 13% and 20%, respectively
+
+In Q4, Tesla produced 494,989 vehicles (nearly 477,000 Model 3 and Y units and over 18,000 units of other models), up 13% from the year-ago period. The company also delivered 484,507 vehicles (more than 461,000 Model 3/Y and almost 23,000 other vehicles), up 20% year over year.
+
+In Q4, the automotive segment's gross margin (gross profit divided by revenue), based on generally accepted accounting principles (GAAP), was 18.9%. This number is down considerably from the year-ago period, when it was 25.9%.
+
+The continued year-over-year drop in this metric stems largely from Tesla cutting prices on its vehicles to stimulate sales. The company started its ongoing price reductions in late 2022.
+
+On the positive side, this metric has stabilized on a sequential basis. It was 18.7% in the third quarter of 2023.
+
+The quarter's operating income fell 47% year over year to $2.06 billion. Operating margin (operating income divided by revenue) was 8.2%, lower than the 16% in the year-ago period but higher than the 7.6% in the prior quarter.
+
+The decline in operating income was driven by a few factors, including the lower vehicle ASP and the cost of the Cybertruck production ramp, which contributed to the 27% year-over-year increase in operating expenses. The company continues to invest in key growth initiatives despite the industrywide slowdown in the growth of the electric-vehicle market.
+
+In Q4, GAAP net income was $7.93 billion, or $2.27 per share, up 112% from the year-ago period. This result got a big boost from a one-time non-cash tax benefit of $5.9 billion for the release of valuation allowance on certain deferred tax assets.
+
+Adjusted for one-time items, net income came in at $2.49 billion, or $0.71 per share, down 40% year over year. This result slightly missed Wall Street's expectation of $0.74 adjusted earnings per share (EPS).
+
+In the quarter, Tesla generated $4.37 billion in cash running its operations, up 33% year over year. Free cash flow surged 45% to $2.06 billion.
+
+The company ended the quarter (and 2023) with $29.1 billion in cash, cash equivalents, and short-term investments, up 31% year over year.
+
+Tesla's fourth-quarter 2023 results didn't include any notable surprises. Revenue and earnings both missed Wall Street's (and hence, probably many investors') expectations, but not by much. The auto segment gross margin continued its year-over-year slide, but this performance was widely expected.
+
+Tesla's services and energy generation/storage businesses continue to be bright spots. As I wrote last quarter, these segments -- particularly the energy business -- differentiate the company from other EV makers.
+
+In its 2024 outlook, Tesla warned that its annual "vehicle volume growth rate may be notably lower than the growth rate achieved in 2023 [which was 38%], as our teams work on the launch of the next-generation vehicle at Gigafactory Texas."
+
+In 2024, Tesla will continue to ramp up its production of its Cybertruck pickup truck, which it began delivering to customers in the fourth quarter of 2023. However, the company said that it expects this ramp up to be "longer than other models" because of the "manufacturing complexity" of this vehicle.

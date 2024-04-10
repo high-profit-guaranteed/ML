@@ -1,0 +1,41 @@
+Tue, 27 Feb 2024 08:00:00 GMT
+
+With the markets hitting new highs to start 2024, it's safe to say a new bull market is here, with top tech stocks leading the charge. The Roundhill Magnificent Seven ETF returned 51% over the last 12 months, beating the growth-centered Nasdaq Composite's 32% return.
+
+Out of this elite group of tech leaders, Nvidia (NASDAQ: NVDA) and Tesla (NASDAQ: TSLA) delivered incredible returns to investors over the last decade. Let's compare both companies' near-term prospects and valuations to determine which is the more timely buy right now.
+
+The artificial intelligence (AI) chip leader just reported another blockbuster quarter to cap off an extraordinary year of growth. For fiscal 2024, Nvidia said revenue grew 126% to $61 billion. Data center revenue more than tripled, as management sees a "tipping point of new computing era."
+
+Nvidia executives like to call data centers "AI factories." Companies are increasingly shifting away from central processing units (CPUs) toward accelerated computing, which uses the advanced computing power of multiple graphics processing units (GPUs) running together to process massive amounts of data. This is a crucial step for AI training.
+
+While semiconductor companies can face cyclical swings in financial results depending on the state of the economy, the estimated trillion-dollar base of data center infrastructure that has yet to transition to accelerated computing is an enormous opportunity for the GPU leader.
+
+Nvidia is making a fortune off its leadership position. It generated $32 billion in adjusted profit last year, representing an unusually high profit margin of 49% -- about 5 times the corporate average. With the company commanding 80% share of the AI chip market, it could see its margins continue to inch higher as the lucrative revenue coming from "AI factories" contributes more to the top line. Nvidia disclosed that spending for products used for AI inferencing (the process by which a computer learns to make predictions from new data) made up 40% of total revenue last year.
+
+Considering the tremendous opportunity still ahead, the stock still offers plenty of long-term upside. The shares trade at a forward price-to-earnings (P/E) ratio of 32, which seems very reasonable relative to its growth prospects. The Wall Street consensus has Nvidia's earnings increasing by 35% per year over the next few years.
+
+Sales of electric vehicles (EVs) hit a rough patch last year, as rising interest rates made it more expensive to finance the purchase of a new car. Despite the headwinds, Tesla still eked out a 1% year-over-year increase in revenue in the fourth quarter, with full-year revenue growing 15% over 2022.
+
+Like Nvidia, Tesla is enjoying a lucrative position in its respective market. For the full year, it earned an adjusted net profit of $10.9 billion on $96 billion of revenue. While profits were down 23% over price cuts, there are many carmakers that would love to earn Tesla's margins.
+
+Tesla is focused on further pushing its financial advantage by relentlessly looking for ways to reduce production costs. This is an area where Tesla CEO Elon Musk excelled over the past decade. Cost reduction is the main goal of its next-generation manufacturing process. Management is calling 2024 a transition year as it prepares to roll this new process out by the end of 2025.
+
+While Tesla should see a benefit to earnings growth from its next-generation platform, management guided for weaker volume growth this year. As a result, investors shouldn't expect the stock to break out to new highs anytime soon.
+
+Analysts expect Tesla to grow earnings per share by 15% per year over the next few years, but the stock is already pricing this in, trading at a forward P/E of 61.
+
+Nvidia is the better choice
+
+Nvidia is clearly the better buy. Both companies have attractive long-term prospects, but Nvidia shares trade at a lower valuation with better near-term growth prospects.
+
+Should you invest $1,000 in Nvidia right now?
+
+Before you buy stock in Nvidia, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Nvidia wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Stock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than tripled the return of S&P 500 since 2002*.
+
+John Ballard has positions in Nvidia and Tesla. The Motley Fool has positions in and recommends Nvidia and Tesla. The Motley Fool has a disclosure policy.
+
+Better "Magnificent Seven" Buy: Nvidia or Tesla was originally published by The Motley Fool

@@ -1,0 +1,39 @@
+Fri, 10 Nov 2023 08:00:00 GMT
+
+): The premiere AI stock of the moment harnessed all the power of the trend, but it may face some high hurdles soon.
+
+): The EV maker is still sitting on enormous year-to-date gains, but there are serious headwinds facing it.
+
+Last year, every major index plunged into bear market territory. While they eventually reversed course, the S&P 500’s gains were driven by just a handful of stocks. The so-called Magnificent 7 sticks are a group of mega-cap tech stocks identified by Bank of America (NYSE: ) Chief Investment Strategist Michael Hartnett as providing all the lift the stock index enjoyed. Without their gains, the S&P 500’s performance would have been essentially flat.
+
+Specifically, the Magnificent Seven stocks are Alphabet (NASDAQ: , NASDAQ: ), Amazon (NASDAQ: ), Apple (NASDAQ: ), Meta Platforms (NASDAQ: ), Microsoft (NASDAQ: ), Nvidia (NASDAQ: ) and Tesla (NASDAQ: ). The broad market index is weighted by market capitalization. These seven stocks have a combined weighting of 28% in the S&P 500. It means their performance applies outsized influence on the index — for good or bad.
+
+The index pulled back once again since peaking at the end of July. However, most of that is due to Tesla tumbling 17% over the past three months. It’s only slightly offset by Amazon’s 7% gain. And that only came in the past week or so after it reported earnings. Before that, the seven stocks were down a collective 12.5%.
+
+Of course, all the stocks are still sitting on enormous gains for the year, but the companies all still have rich valuations. Most sit well above the S&P 500’s 24.2 price-to-equity (PE) ratio. The following three stocks carry the highest PE ratio. Should you buy them? Let’s dig in and find out!
+
+Despite being the one Magnificent Seven stock to lose the most value, electric car maker Tesla still carries a lofty valuation. Its PE ratio is 68 — almost three times greater than the S&P 500.
+
+Tesla’s downfall began after its second-quarter earnings report. It said gross margins fell to a four-year low, and more price cuts were coming for its vehicles. The stock plunged again last month after CEO Elon Musk reiterated his price-cut initiative and said there would be more cost-cutting overall. Further delays for the vaunted Cybertruck also dimmed the market’s view.
+
+With the stock down from its recent highs but still significantly above where they started the year, I’d be steering clear of the stock. Yes, Cathie Wood of Ark Invest believes Tesla is a $2,000 stock, but the EV maker’s business faces threats. Profitability will be under increasing pressure in the future as EV tax credits eventually dry up. Arguably it’s those credits creating EV demand.
+
+Tesla also receives regulatory credits from the government, which it typically sells to other automakers. It sold $554 million in the third quarter and $1.4 billion-worth year-to-date. That’s an unsustainable revenue source. And when coupled with declining growth rates and margin compression, Tesla’s profits are in doubt. At nearly 200 times free cash flow, Tesla is a stock simply too rich to buy.
+
+Amazon’s reported excellent earnings, standing out amid gloomier results from other tech names. Earnings dramatically improved as cost-cutting measures previously implemented gained traction. The North American retail division saw operating profit margins jump to 4.9% compared to 0.5% losses last year. Amazon Web Services (AWS) hit $7 billion in operating income from $5.4 billion.
+
+It is also apparent that AWS is becoming an artificial intelligence (AI) powerhouse. The entire company uses AI, from product suggestions on the retail side to robotics in the warehouses. Yet, at the cloud services shop, AI is now central to what happens. It offers a comprehensive suite of AI services, tools and resources for customer use. Many enterprise-class clients deploy the power of AWS to fire up their own AI-driven apps. One of the more important developments was the release of an AI-image generator tool for marketers that could result in greater revenue growth down the road.
+
+At 74 times earnings, Amazon is no discounted stock, yet it rarely — if ever — has been. Analysts regularly called it overvalued, and it always traded at a premium. Growth, not a crash, followed. Investors may find lightning strikes again. AI is a transformative trend for all industries, and Amazon is at the forefront. It’s a leader that deserves the premium the market assigned.
+
+AI is precisely why Nvidia is the face of the Magnificent 7 stocks. Its stock more than tripled in 2023, almost twice the gains of second-place Meta Platforms. The chipmaker’s stock is closing in again on the all-time high it hit at the end of August.
+
+Nvidia’s chips were designed for the kind of complex computing power AI demands. OpenAI’s ChatGPT used Nvidia’s A100 GPU to train the chatbot. That ushered in the world of generative AI we’re seeing today. Now its H100 chip is the next advance in AI computing and sought after by major tech outfits. Nvidia reports earnings later this month, and investors should see excellent growth.
+
+Yet, at a PE ratio of 112, the chipmaker is the priciest stock of the lot. It also trades at 35 times sales and 111 times FCF. To say Nvidia is not cheap is an understatement. And therein lies the risk. At these lofty valuations, the chipmaker can’t afford to stumble, not even a little. It is priced for perfection. Although much of its operations have been perfect, it’s hard to maintain the pace.
+
+Nvidia may also take a $5 billion hit on chips it was planning to sell to Chinese customers. Companies like Alibaba (NYSE: ) and Baidu (NASDAQ: ) were buying up the chips, but new export controls in China put those orders in doubt. It may have to cancel them, which could be a big hit to earnings.
+
+Nvidia is still a great company but now is not time to be buying its stock.
+
+On the date of publication, Rich Duprey did not hold (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.

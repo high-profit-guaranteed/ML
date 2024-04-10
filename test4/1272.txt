@@ -1,0 +1,33 @@
+Sun, 26 Nov 2023 08:00:00 GMT
+
+The electric vehicle company's underlying metrics are excellent, and it's primed to take full advantage of the long-term growth potential in the EV market.
+
+Tesla's (TSLA 2.25%) stock is a battleground among investors, and the bull vs. bear debate will likely rage on for the foreseeable future. Because Tesla is a growth stock, the focus of the investment proposition should be on where the company will be in the future more than where it is now. In that vein, here are three things you need to consider before buying the stock.
+
+Tesla's underlying cash flow is a lot better than you might think
+
+The stock trades 78 times its 12-month trailing earnings and 207 times its 12-month trailing free cash flow (FCF). Those are nosebleed valuations, and it would be understandable if investors shied away from buying the stock on that basis. That said, Tesla is a growth stock, and it's a good idea to value it accordingly.
+
+For example, consider its FCF and how Tesla's growth-capital spending is eating into it. By comparison, here's a look at a mature, low-growth industrial like 3M. As a rough rule of thumb, you could think of a company's depreciation and amortization (DA) as representing its "maintenance-capital spending." Consequently, any capital spending exceeding the value of its DA can be classified as "growth-capital spending."
+
+As you can see below, 3M's capital spending bounces around, but over the last decade, it is equivalent to its DA. On the other hand, Tesla's capital spending is significantly above its DA.
+
+Tesla's DA was $2.42 billion in 2022, and its capital spending was $7.16 billion, with FCF of $7.57 billion. However, let's assume Tesla wasn't doing any growth-capital spending, and its overall capital spending equates to DA. In this case, its FCF would be $12.3 billion, equivalent to 15.3% of its sales in 2022. For reference, that's a similar figure to what 3M currently generates.
+
+In other words, if Tesla wasn't investing for growth and was a mature, low-growth company, it could be generating the kind of cash flows from revenue that a mature company is generating.
+
+Building on the first point, as a valuation exercise, you could plug in the 15.3% figure into an estimate of Tesla's future sales to estimate what kind of cash flow the company could generate. What kind of sales will Tesla generate when it eventually matures to become a low-growth company in line with overall light vehicle-sales growth?
+
+The only thing that everyone will agree on is that that could take some time. For example, the International Energy Agency (IEA) sees battery electric vehicle (BEV) sales rising from 800 thousand in 2022 to 2.9 million in 2025 and 6.8 million in 2030 in the U.S. These figures imply a 53% compound annual growth rate (CAGR) between 2022 to 2025, slowing to 18.6% CAGR between 2025 to 2030.
+
+Despite a flood of new EVs in the marketplace, Tesla still has a 50% market share in the U.S. Given its leadership in the EV market, its reasonable to expect Tesla to grow at the market rate in the future.
+
+Wall Street analysts expect Tesla to generate $107.4 billion in sales in 2024. Assuming Tesla's revenue grows in line with the 18.6% CAGR to 2030, it could hit $300 billion in sales in 2030. As outlined above, penciling in the 15% FCF margin leads to an underlying FCF generation of $46 billion in 2030.
+
+As such, it's reasonable to expect, and price in, strong FCF growth in the future for Tesla.
+
+Assuming $46 billion in FCF in 2030, the question is whether you are willing to pay 16.7 times the estimated FCF in 2030. The bears will argue that there's a lot of risk before Tesla gets there, and it has near-term earnings and cash-flow headwinds coming from launching its Cybertruck. Furthermore, no shortage of EV competition could eat into Tesla's ability to generate 15% FCF margins.
+
+On the other hand, the bulls will argue that Tesla won't suddenly mature into a low-growth company in 2030, and EV penetration rates will only increase after that. In other words, Tesla will likely grow sales, earnings, and cash flow at a strong clip after 2030. Moreover, Tesla's leadership of the EV market and ability to cut costs per unit vehicle as it builds scale with existing and future models all point to profit and FCF margin expansion in the future.
+
+On balance, Tesla looks close to being fairly valued right now, not least as it faces some near-term risk from rising rates. But its long-term position is excellent.

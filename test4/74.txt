@@ -1,0 +1,27 @@
+Wed, 19 Apr 2023 07:00:00 GMT
+
+Tesla Inc TSLA CEO Elon Musk said at the company's first-quarter earnings call on Wednesday that the automaker's supercomputer Dojo's "potential is very significant."
+
+What Happened: Musk said that Tesla is "putting a lot of effort" into Dojo and believes that it has the "potential for an order of magnitude improvement in cost of training."
+
+The entrepreneur was referring to Tesla's neural net training capabilities which he said was one of the "main limiting factors" of achieving full autonomy when it came to full self-driving of vehicles.
+
+"Dojo also has the potential to become a sellable service that we would offer to other companies in the same way that Amazon Web Services offers web services, even though it started out as a bookstore," said Musk.
+
+Amazon Web Services is the cloud computing unit of Amazon.com, Inc AMZN.
+
+See Also: Best Auto Manufacturer Stocks
+
+Why It Matters: Musk described the supercomputer as a "long-shot bet" in response to a question at the conference call.
+
+"If it’s a long-shot bet that pays off, it will pay off in a very, very big way. But potentially, yeah, potentially in a very, very big way, Like in the multi-hundred billion dollar level."
+
+He said that it was a "bet worth making" and not the sort of bet where you say "take it to the bank type of thing." He then went on to take a dig at banks by saying taking it to the bank isn't "as secure as it used to be."
+
+Tesla showed off Dojo at the company's AI day in September last year. At the time, the automaker's Dojo Project Lead Ganesh Venkataramanan said that a no-limits philosophy was the guiding point for the supercomputer.
+
+On Wednesday, Tesla reported first-quarter revenue of $23.33 billion, a rise of 24% year-over-year, which beat Street estimates of $23.21 billion, according to Benzinga Pro data.
+
+Price Action: Tesla shares slipped nearly 6.1% in the after-hours trading to $169.65 after closing the regular session almost 2% down at $180.59.
+
+Read Next: New Tesla Model 3 Targets UK Commercial Customers With Almost 400 Miles Of Range

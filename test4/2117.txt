@@ -1,0 +1,21 @@
+Fri, 16 Feb 2024 08:00:00 GMT
+
+The YieldMax TSLA Option Income Strategy (TSLY) ETF has recovered modestly in the past few weeks as Tesla shares have stabilised. After dropping to $8.12 on February 5th, the shares have rebounded by 12% to the current $9.12. Still, despite this comeback, it remains sharply lower than the 2023 high of $13.30.
+
+For starters, TSLY is an actively managed ETF that enables investors to benefit from Tesla’s upside while providing regular monthly income to its holders. Data shows that the fund has over $793 million in assets and a dividend yield of over 89%.
+
+TSLY works in a fairly simple approach. As I have written before, they invest in a financial derivative that tracks Tesla shares and then sell call captions on the stock. The goal of doing this is to benefit when Tesla shares are rising.
+
+At the same time, it seeks to provide regular income using the premium it generates after selling the call option. In this case, if Tesla shares drop, the fund’s return will come simply from the call option premium.
+
+If the shares remains unchanged, the ETF will benefit just from the premium. On the other hand, if the shares rise, the fund benefits from the price appreciation and the premium.
+
+In most cases, TSLY tends to underperform Tesla shares. For example, it has dropped by 23% this year while Tesla stock has fallen by over 19.3%. Similarly, in the past 12 months, Tesla shares are down by 6% while TSLY is down by almost 50%.
+
+What about the 89% yield? Ideally, the yield of TSLY and other covered option ETFs like JEPI and JEPQ tends to be highly volatile. As such, even when including these dividends, they tend to underperform their benchmarks.
+
+A look at the daily chart shows that the TSLY ETF stock price has bounced back in the past few days. This rebound happened because the stock fell to the lower side of the descending channel. This is something that happens many times.
+
+TSLY remains below the key support at $9.26, the lowest swing on January 24th. It also remains below the 50-day and 100-day moving averages, signaling that bears are still in control.
+
+In this case, I believe that the stock has more downside in the coming months because of the underlying risks in the EV business. For example, I wrote earlier today that Lucid Motors slashed prices of its Air Sedan for the second time in two months. The bearish view will become invalid if it moves above the key resistance at $10.

@@ -1,0 +1,29 @@
+Wed, 21 Jun 2023 07:00:00 GMT
+
+Rivian Automotive, Inc. RIVN became the latest to go with Tesla, Inc.'s TSLA North American Charging Standard, following in the footsteps of legacy automakers General Motors Corp. GM and Ford Motor Co. F.
+
+What Happened: Electric vehicle startup Lucid Group, Inc. LCID has held off on this, and CEO Peter Rawlison has his own rationale for doing so.
+
+Rawlinson in an interview with the Wall Street Journal said the accent is on a high-voltage power charging rather than the plug through which it enters the EV.
+
+“What actually supports the plastic plug [connector] in terms of the infrastructure and what is connected to is very relevant to the U.S. consumer and a very important topic for the growth of the EV in terms of its value to the American people,” Rawlinson said.
+
+What is very important from the perspective of the U.S. taxpayers' money and how it is put to best effect, is that it should be placed into a charging infrastructure that is future-proofed, the executive said.
+
+“That means an ultra-high voltage charging standard, 1000 volts, that is the future for EVs and, it doesn’t really matter whether that plug, the way that high voltage enters the car,” he added.
+
+“What’s really important is that we go for this efficient high voltage, high power charging.”
+
+See Also: Is Lucid (LCID) Stock A Good Buy
+
+Why It's Important: Tesla being the EV pioneer had a headstart in setting up charging infrastructure. A 2022 study found that about a quarter of all CCS stalls in the Bay Area were out of service at any given point in time, Automotive News reported.
+
+Although charging speeds have increased, it may not be as fast as it needs to.
+
+Tesla's Supercharger network is considered to be best-in-class. This explains the legacy and EV makers making a beeline to Tesla to forge a win-win partnership. Against this backdrop, it remains to be seen if Rawlinson’s logic holds ground in the long run.
+
+Lucid closed Tuesday’s session down 2.47% to $6.32, according to Benzinga Pro data.
+
+Check out more of Benzinga’s Future Of Mobility coverage by following this link.
+
+Editor’s Note: The previous version of the article went with the headline ‘Why Lucid CEO Rawlinson Rejects Joining Tesla’s Charging Standard’; it has since been changed to reflect that Rawlinson did not explicitly reject the standard but explained why he prefers high-voltage charging. The previous erroneous phrasing is regretted.

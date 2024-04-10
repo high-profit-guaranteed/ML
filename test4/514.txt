@@ -1,0 +1,32 @@
+Thu, 20 Jul 2023 07:00:00 GMT
+
+In April 2019, Tesla Inc. (NASDAQ:TSLA) hosted its first ever Autonomy Investor Day at its California headquarters. During the event, CEO Elon Musk promised the assembled analysts, journalists, investors and fans that Tesla is on the cusp of achieving full autonomy, known as Level 5 within the industry. He assured his audience that all Tesla vehicles equipped with full self-driving technology will be able to drive themselves without any human intervention whatsoever, allowing them to earn passive income for their owners as autonomous robotaxis.
+• None The intrinsic value of TSLA
+
+Initially, markets reacted extremely to Musks prediction. Yet, as more time has passed, so too has skepticism of Teslas claims. Indeed, more than four years on from Autonomy Day, Tesla appears to have made precious little progress toward its goal.
+
+The high cost of failure keeps getting higher
+
+Failure to achieve full autonomy would be a huge problem for Tesla. Indeed, it could prove fatal to the company. Musk admitted as much during an interview in June of last year.
+
+The overwhelming focus is on solving full self-driving," he said. "Thats essential. Its really the difference between Tesla being worth a lot of money or worth basically zero.
+
+The core problem facing Tesla is that it has been selling full self-driving to customers since 2018. What that means is the company has been selling a product that is incomplete, on the promise that it will be complete imminently, for the better part of five years. As of March, Tesla had sold the technology to approximately 400,000 customers. Should the company ultimately fail to deliver full self-driving in its long promised final form to these customers, it could face significant civil liability. I discussed this very point in February, highlighting the efforts of analysts who have attempted to quantify the scope of Teslas potential liability. Bill Maurer, for example, estimated that Tesla could be on the hook for something on the order of $4 billion in FSD-related refunds alone. That could be the tip of the proverbial iceberg; should the company be ordered to refund the full value of the vehicles in addition to the FSD package, Maurer estimated that the bill could run to as much as $240 billion.
+
+Clearly, Tesla faces a serious problem if it cannot deliver on its FSD promises. As the timeline is pushed out even further, the risk grows ever greater that Teslas potential liability will become a real liability.
+
+Tesla announced its financial results for the second quarter after the market closed on July 19. During the subsequent earnings call, Musk took some time to address the subject of full self-driving. Once again, he predicted that Tesla was mere months away from achieving full autonomy, though he acknowledged in the same breath that his similar past predictions proved erroneous:
+
+I know Im the Boy Who Cried FSD, but I think it will be better than a human by the end of this year, he said.
+
+Musk offered little in the way of tangible evidence to justify such confidence. The only real news he shared about its development was that Tesla will have to make major new investments in computing infrastructure in order to achieve full autonomy. That can hardly be called a resoundingly positive development, as the Wall Street Journals Stephen Wilmot observed on July 20:
+
+This was actually quite a remarkable admission on Musk's part. After all, he had long insisted that Tesla already had more than enough hardware and computing power to crack full self-driving. Clearly, that was not the case. Of course, this was hardly the first time Musk has been forced to walk back his claims. For example, he spent years deriding other autonomous vehicle developers for their use of radar, describing it as a crutch at best, only for Tesla to adopt radar as part of its full self-driving technology late last year.
+
+While the market continues to value Tesla at a hefty premium to its peers, cracks may be starting to show. The stock fell nearly 5% in after-hours trading following the earnings call, suggesting that investors were less than impressed with its latest update. As of the time of writing, Tesla was down another 10%.
+
+The danger Tesla faces from potential full self-driving liability is difficult to overstate. The company has been selling a product for years that still does not exist, exposing itself to billions of dollars of refunds alone should it fail to deliver. It also threatens the massive pricing premium Tesla enjoys over other automakers, which is based in large part on its perceived leadership in autonomy. Should that perception waver, the company is liable to experience a painful downward revaluation, in my assessment.
+
+For the time being, however, it remains to be seen whether Teslas post-earnings slump has truly snapped the rally that has carried the stock since the start of 2023.
+
+This article first appeared on GuruFocus.

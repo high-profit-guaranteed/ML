@@ -1,0 +1,53 @@
+Mon, 15 Jan 2024 08:00:00 GMT
+
+The electric vehicle (EV) revolution is speeding up, with traditional automakers leaving no stone unturned to establish a strong foothold in this domain. Japan’s auto giant Honda HMC is revving up its EV game. At CES 2024, Honda showcased two concept vehicles, the "Space-Hub" and "Saloon," signaling the future of its electrification strategy. These models will be the forerunners of the upcoming "Honda 0” series. This new collection of EVs is anticipated to be rolled out in North America in 2026.
+
+EV titan Tesla TSLA grabbed headlines as it increased pay for its United States workers follows similar moves by industry giants like Toyota, Volkswagen and Hyundai. The Union Auto Workers’ success in negotiating significant contracts with Detroit 3 automakers last year has emboldened nonunion autoworkers to seek improved working conditions. Meanwhile, it also plans to temporarily suspend production at its Berlin factory due to the Red Sea disruptions. In another news, the company announced further price cuts in China.
+
+EV startup Canoo Inc. GOEV announced the acquisition of significant manufacturing assets to bolster its production capabilities. Additionally, the company has created more than 100 new jobs, particularly in Oklahoma, aligning with its strategy to enhance vehicle assembly capacity and reinforce its workforce following the asset acquisition.
+
+Another EV company Lucid Motors LCID reports deliveries and production numbers for the fourth quarter and full-year 2023. The company also issued a safety recall for more than 2,000 Air sedans.
+
+Blink Charging Co BLNK also made it to the top stories with its collaboration with a Porsche dealership, Grupo Q, in El Salvador. This marked a significant step toward enhancing the EV infrastructure in the region.
+
+While HMC currently carries a Zacks Rank #2 (Buy), BLNK, TSLA, GOEV and LCI carry a Zacks Rank #3 (Hold) each. You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.
+
+Tesla is suspending car production at its factory near Berlin for two weeks. The disruption, scheduled from Jan 29 to Feb 11, is a consequence of supply chain problems arising from attacks on vessels in the Red Sea. Tesla cites a lack of components due to shifts in transport routes caused by the attacks, leading to considerably longer transportation times and creating a gap in supply chains.
+
+In a separate development, Tesla hiked wages for U.S. factory workers. All U.S. production associates, material handlers and quality inspectors are set to receive a "market adjustment pay increase," marking a response to the momentum building within the United Auto Workers (UAW) union.
+
+In another update, the EV king adjusted the prices of its Model 3 and Model Y vehicles in China. Model 3's price is now reduced by 5.9% to 245,900 yuan (approximately $34,600). Model Y saw a 2.8% reduction to 258,900 yuan (around $36,400). This move is part of Tesla's pricing strategy initiated in late 2022 and early 2023, which has significantly impacted the automotive market in China, prompting other local car manufacturers to lower their prices to maintain competitiveness.
+
+Canoo announced the purchase of a variety of manufacturing assets from robotics to control processing equipment at significantly discounted prices. This acquisition, around 80% below the estimated value, is aimed at bolstering the production capacity at Canoo's Oklahoma City facility. The assets acquired will be instrumental in constructing vehicle cabins, aligning with Canoo's strategy to meet increasing customer demands in 2024.
+
+This move also demonstrates Canoo's commitment to creative and cost-effective asset acquisition amid a high-cost capital environment. The deal is expected to play a crucial role in the company's manufacturing strategy and contribute to the creation of advanced manufacturing jobs in Oklahoma.
+
+Canoo announced the creation of more than 100 new jobs in Oklahoma. This development is a key part of the company's effort to scale its electric vehicle manufacturing operations. The new jobs have significantly bolstered Canoo's workforce, with Oklahoma residents now comprising 20% of the company's total employees. The recruitment focus has been on skilled workers for both the vehicle manufacturing facility in Oklahoma City and the battery module assembly facility in Pryor.
+
+Lucid produced 2,391 Lucid Air luxury all-electric cars in the fourth quarter of 2023, a 32% decrease compared to the same period last year. Deliveries also saw a downturn, with 1,734 Airs reaching customers globally, marking a 10% year-over-year decrease. However, the production and deliveries improved sequentially. The fourth-quarter 2023 figures represent the highest output and deliveries for the year, trailing only behind the record-breaking fourth quarter of 2022.
+
+For full-year 2023, LCID manufactured 8,428 cars, a 17% increase from the previous year, and delivered 6,001 cars, a notable 37% increase year over year. The 2023 production figures align well with Lucid's revised forecast of 8,000-8,500 units announced in November.
+
+In a separate development, Lucid is recalling more than 2,000 units of its Air luxury electric sedan. This recall, affecting certain 2022 and 2023 models, is due to potentially faulty high-voltage coolant heaters (HVCH) supplied by Webasto AG. These heaters are crucial for cabin heating and windshield defrosting. The concern is that a malfunctioning HVCH could hinder the driver's vision by failing to defrost the windshield. Lucid plans to mitigate this issue with an over-the-air software update by mid-month, which will alert drivers to any HVCH failures. Additionally, Lucid service centers are set to replace any defective parts to ensure driver safety.
+
+Blink Charging has partnered with Grupo Q, Porsche's official dealer in El Salvador, to deploy five advanced EV charging stations in various premium locations across Santa Tecla, Costa del Sol, Santa Ana, San Miguel and Playa La Libertad.These stations, part of Porsche's global Destination Charging Program, are strategically placed in high-demand areas like hotels, restaurants, and retail locations. This initiative not only supports Porsche's commitment to innovation and customer well-being but also aligns with El Salvador's increasing focus on electrification and sustainable transportation.
+
+Blink Charging is set to install its advanced IQ 200 Level 2 AC charging stations in El Salvador. These chargers are efficient, offering up to 80 amps of power and enabling approximately 65 miles of charge within an hour. Equipped with the standard SAE J1772 connector, they accommodate various payment methods, including major credit cards. Ideal for places like shops and restaurants, these stations will be easily accessible through Blink's user-friendly app, allowing Porsche and other EV drivers to locate, check and start charging sessions effortlessly.
+
+Since 2022, Blink Charging Co. has been a key player in the EV charging sector, notably through a strategic alliance with AES, leading to the launch of multiple EV charging stations. Blink is dedicated to collaborating with dealerships across Latin America, contributing significantly to the region's transition toward an electric vehicle-dominated future.
+
+Honda unveiled its innovative global EV series, dubbed the "Honda 0" series, marking a pivotal step in the company's evolution aligned with its global branding and electrification strategies. The lineup features two distinct concept models: the Saloon and the Space-Hub.
+
+The Saloon model boasts a futuristic design reminiscent of sci-fi films, highlighted by a prominent front-end neon light and a redesigned Honda logo. The rear mirrors this aesthetic with a large, indented rectangle framed by red lighting, centralizing the Honda name. The Space-Hub concept model will be larger in design, the Space-Hub echoes the Saloon's styling elements in a minivan or shuttle format, offering a unique blend of space and design.
+
+The first model of the “Honda 0” series based on the Saloon concept will be launched in North America. Subsequent releases are planned across Japan, Asia, Europe, Africa, the Middle East, and South America. The "Honda 0” series stands out not only for its design but also for its technological advancements. Initially, it will feature a sophisticated driver-assist system, pioneered in Japan, followed by a next-generation automated driving system. Additionally, these models are designed for rapid charging, capable of recharging from 15% to 80% in just 10 to 15 minutes, enhancing their appeal for modern consumers seeking efficiency and convenience.
+
+The following table shows the price movement of some of the major EV players over the last week and six-month period.
+
+What’s Next in the Space?
+
+Stay tuned for announcements of upcoming EV models and any important updates from the red-hot industry.
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+To read this article on Zacks.com click here.

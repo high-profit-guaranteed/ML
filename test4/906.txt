@@ -1,0 +1,43 @@
+Mon, 02 Oct 2023 07:00:00 GMT
+
+Tesla (TSLA) has been receiving a lot of attention over its new AI project: the Dojo supercomputer. The company has invested billions in advancing supercomputing architecture to efficiently and more accurately train its self-driving software.
+
+Dojo is designed to process vision and recognition data and input that information in Tesla’s machine learning models. The excitement surrounding Dojo stems from its ability to handle millions of terabytes of video data per second. Tesla projects that the Dojo will be in the top five most powerful supercomputers in the world by early 2024.
+
+The company’s goal is to effectively process this large amount of sensory data captured from real-life situations in over four million Tesla cars.
+
+Yahoo Finance’s Auto Reporter Pras Subramanian joins the NEXT series to break down the next big thing in autonomous car technology.
+
+The NEXT Big Thing is the social companion to our big bold series NEXT.
+
+
+
+For more from this episode of NEXT:
+
+Self-Driving Cars: The Road to Autonomy (full episode)
+
+Cashing in: How to invest in self-driving technology
+
+NEXT: Driverless cars go mainstream
+
+How May Mobility is bringing self-driving cars to the streets
+
+BRAD SMITH: Well, market leader Tesla is working on the next big thing in autonomy, the production of its supercomputer Dojo. The revolutionary system promises to supercharge the deployment and training of autonomous vehicle technology. Pras, what more do we know about the infamous Dojo.
+
+PRAS SUBRAMANIAN: So unlike, other companies or other automakers, Tesla actually made their own supercomputer. And they originally made one with NVIDIA. And then they decided, you know, we need more-- we need more power. We need more kind of technology. We need more processing computing power. We got to make it on our own.
+
+So they worked with another chip maker to make their own supercomputer called Dojo, like you mentioned. And what that thing is gonna do is it's gonna use Tesla's AI model to train its autonomous self-driving technology. And basically what it does is you have all these cars, robotaxis all running around cars like your Tesla Model 3, for instance.
+
+It's collecting data and sending it to Dojo. Dojo is getting that video data. It's labeling it, like, what is this? A car. This is a sign. This is a human being. It then learns how to interact with that person or thing. Then it sends those instructions to your car where there's another computer there that then learns and trains. It gets more instructions and gets better and better.
+
+That's sort of the theory as to how they're gonna use supercomputers and AI to sort of make driverless cars work. Now, we're a long way from that actually being a reality where we're in a car with a pod with no pedals, no wheel. But I think that's sort of what Tesla believes is the future for their sort of development of AI or self-driving.
+
+SEANA SMITH: Before I-- just to follow up on what you just said there, just in terms of we're far way away. I guess, how long? For people that aren't closely following this sector when we're trying to figure out how real this next or how likely, how likely this reality is, what does that timeline look like?
+
+PRAS SUBRAMANIAN: You know, a couple of years ago, people thought we would have that right now. And what's happening is the challenges are way more complex than I think programmers and developers and experts believed or thought because there's just so many things happening on our roads and more bikes, more people, other autonomous cars. So that problem is more complex, I think, than what people thought. And now they're sort of trying to-- OK, can we take a step back?
+
+Ford, for instance, pull the plug on their Argo AI with Volkswagen because they say, you know what, it's more about an automated cruise control, like that sort of thing. It's not about like driving in cars everywhere by its own. So that's sort of where we're at. I think other companies like Cruise and also Tesla are saying, no, we can actually get that. We can go there.
+
+SEANA SMITH: And we know certainly many analysts on the street are very bullish on Tesla's Dojo, exactly what that means for their business. Is this a technology that maybe could be used outside of vehicles when we talk about other use applications for it?
+
+PRAS SUBRAMANIAN: You could talk about boating. I've been on the boat. I've been in the water recently. There's that. There's possibility for-- I've seen motorcycles that might use autonomous technology to kind of just-- you can just hop on a bike and it takes it. So yeah, there's definitely-- I mean, we already-- aviation already has it. You know, aviation already has it. So question is it's harder on roads.

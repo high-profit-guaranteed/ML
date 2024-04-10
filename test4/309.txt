@@ -1,0 +1,37 @@
+Mon, 19 Jun 2023 07:00:00 GMT
+
+In a major development in the electric vehicle (EV) space, last week several EV charging companies like Blink Charging, ChargePoint, EVgo, Tritium and Wallbox announced plans to offer chargers featuring Tesla's TSLA connector, marking a significant turn away from the standard Combined Charging System (CCS) connector.
+
+The shift in industry preference can be attributed to the advantageous design of Tesla's NACS, which is notably more compact and lighter than its CCS counterpart, rendering it more user-friendly for motorists.The sweeping shift toward Tesla's NACS port signifies a pivotal moment in the EV charging landscape. (EV Charging Space in for a Paradigm Shift With Tesla's NACS)
+
+On the news front, U.S. auto biggie Ford F accelerated EV innovation with the launch of its Cologne EV Center in Germany, driving sustainable mobility solutions and solidifying its position in the global EV revolution. In an ambitious shift, Japan’s auto giant Toyota TM has unveiled new strategies to become a frontrunner in the EV market. Toyota revealed an extensive plan outlining new technology deployment and radical factory redesigns, clearly indicating the company's resolve to secure a larger slice of the rapidly expanding battery EV market.
+
+Amid the intensifying EV price war and efforts to boost sales, China EV maker NIO Inc. NIO cut the cost of all its models by 30,000 yuan ($4,200) and terminated free battery swapping services for new buyers. Finally, Nikola Corporation’s NKLA strategic moves to drive business optimization were also in focus as it gears up for the launch of its hydrogen fuel cell electric truck, marking a significant step toward sustainable transportation.
+
+F and NKLA currently hold a Zacks Rank #1 (Strong Buy) and #2 (Buy), respectively. TSLA, TM and NIO carry a Zacks Rank #3 (Hold) each. You can see the complete list of today’s Zacks #1 Rank stocks here.
+
+1. Nio lowered prices across all its models, including its revamped ES8 and ES6 SUVs (sports utility vehicles), effective Jun 12, 2023, amid a deepening EV price war in the country. Additionally, the company is encountering growing difficulties attributed to widening financial losses and lackluster sales. In a bid to rev up demand for its offerings, NIO announced a price cut of 30,000 yuan ($4,200) across all its models. With this, the price of Nio’s cheapest model comes down to 228,000 yuan ($32,000).
+
+Starting this year, EV behemoth Tesla slashed the prices of its models quite a few times in China and elsewhere, registering a record number of quarterly deliveries. The price cut by Tesla propelled local automakers in China to undercut prices to retain their market share. Over 40 automobile brands, including BYD Ltd. and Volkswagen, have entered a price competition initiated by Tesla in China this year. At first, Nio refused to enter the price war but the widening loss left the EV maker with no choice. Nio also announced ending its free battery swapping services for new buyers.
+
+2. In a significant step toward their electrification goals, Ford unveiled its Cologne EV Center in Germany. This state-of-the-art facility signifies Ford's commitment to the development of green vehicles and the advancement of sustainable mobility solutions. The Cologne EV Center, located at Ford's existing manufacturing site, will serve as a hub for the company's EV efforts in Europe. This significant milestone underlines Ford's commitment to achieving carbon neutrality across its entire European footprint of facilities, logistics and direct suppliers by 2035.
+
+The legendary automaker made a massive $2 billion investment to turn its historic plant in Cologne, founded in 1930, into a high-tech production facility. The facility is spread across an area of 125 hectares and is highly efficient. It is equipped with a brand-new production line, battery assembly and state-of-the-art tooling & automation and has an annual production capacity of more than 250,000 EVs. Ford’s fourth EV, the electric Explorer, a remake of the automaker’s iconic and best-selling Explorer SUV, unveiled in March, will be the first electric vehicle to be produced in the facility, followed by a sports crossover EV.
+
+3. With the recent change in leadership from Akio Toyoda to Koji Sato, Toyota is demonstrating a newfound commitment to EVs. Toyota plans to introduce a full lineup of electric Toyota and Lexus cars by 2026.It claims to have achieved a "breakthrough" in solid-state battery technology. It plans to commercialize this technology from 2027 to 2028, aiming for a 20% improvement in the cruising range compared to current batteries. Moreover, Japan’s government has pledged to provide up to $841 million in subsidies. The funds will bolster the automaker's investment in the domestic production of electric vehicle (EV) batteries, the lifeblood of the future of mobility.
+
+Toyota’s BEV Factory aims to produce EVs with a driving range of 1,000 kilometers (620 miles), which is a significant improvement over competitors like Tesla, whose Model 3 has a range of approximately 430 to 570 kilometers. The ambitious target is to produce about 1.7 million vehicles by 2030. Toyota aims to achieve sales of 1.5 million all-electric vehicles per year by 2026, and 3.5 million units annually by 2030. On the production front, the company is adopting Giga casting, an innovative assembly-line automation technology introduced by Tesla
+
+4. Nikola, a leader in zero-emissions transportation and energy solutions, provided an update on its business optimization efforts. The company expects its annual cash usage to decrease to under $400 million by 2024 through the reorganization of its workforce and the elimination of non-essential spending. Nikola is focusing on North America, zero-emission truck production, and its HYLA hydrogen business, with the battery-electric truck already performing well in the marketplace and the launch of the hydrogen fuel cell electric truck scheduled for the third quarter.
+
+In order to optimize operations, Nikola is realigning its cost structure, localizing the supply chain, and prioritizing a capital-efficient approach for its HYLA hydrogen energy infrastructure business. The company has also formed a strategic partnership with Voltera to develop up to 50 hydrogen stations over the next five years. Furthermore, Nikola is streamlining its organizational structure and reducing its headcount, which is expected to decrease personnel-related cash spend by over $50 million annually. These measures are aimed at creating a sustainable structure that aligns with the company's focus areas and positions it for future growth.
+
+The following table shows the price movement of some of the major EV players over the last week and six-month period.
+
+What’s Next in the Space?
+
+Stay tuned for announcements of upcoming EV models and any important updates from the red-hot industry.
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+To read this article on Zacks.com click here.

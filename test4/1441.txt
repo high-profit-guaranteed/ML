@@ -1,0 +1,21 @@
+Fri, 15 Dec 2023 08:00:00 GMT
+
+CEO Elon Musk acknowledged concerns on X, formerly Twitter, after a Tesla user complained that the Tesla Inc. TSLA car in Full Self-Driving (FSD) mode goes on strike when exceeding 85 mph.
+
+What Happened: An FSD user took to X on Friday to say that the instantaneous strike on crossing the 85 mph speed limit “is a bit crazy.”
+
+On going over 85 for a brief few seconds in even problematic situations such as getting stuck between vehicles, FSD gets disengaged, he noted. The user also offered a prospective solution.
+
+The user instead recommends a 10-second timer. As per the idea, Tesla drivers will get a warning and then 10 seconds to either disengage FSD or go back below 85.
+
+Musk responded to the enthusiast with a brief “Ok.” The CEO did not elaborate further.
+
+Why It Matters: Musk has been teasing version 12 of FSD for months now. In June, Musk said that version 12 would no longer be beta, hinting that it would achieve full autonomy by then. FSD is now in beta mode, meaning it is still being tested and requires active driver supervision.
+
+During the 2023 World Artificial Intelligence Conference in Shanghai in July, Musk also said that Tesla is "very close" to achieving full self-driving capability.
+
+"I have been wrong about this prediction in the past, but I feel we are closer to it than we ever have been," Musk said.
+
+Check out more of Benzinga's Future Of Mobility coverage by following this link.
+
+Read More: Jeff Bezos Reveals Blue Origin’s Role In Amazon Exit: Envisions ‘Trillion Humans’ Across Solar System

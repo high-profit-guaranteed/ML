@@ -1,0 +1,72 @@
+Sat, 22 Jul 2023 07:00:00 GMT
+
+In this series of company deep dives, we analyse some of the world’s most prominent and impressive companies – with the aim of unpacking what makes them great. These deep dives will ultimately help investors make more informed trading decisions as well as get a better understanding of the key drivers of share price performance behind some of the world’s most important companies.
+
+From January to June 2023 short sellers got crushed betting against Tesla. They racked up losses of $12.68 billion as the stock turned parabolic, with the automaker’s shares now up 143% YTD.
+
+At its closing price of $262.90 per share on 21 July 2023, Tesla boasts a market capitalisation of $33.3 billion and counts itself as the most valuable car company in the world. In fact, Tesla is more valuable than the world’s next nine largest automakers combined – on a list that includes Toyota, Mercedes, Volkswagen, and Ford.
+
+Since its inception Tesla has grappled with scandals, recalls, share price collapses, SEC lawsuits, and production hell. The automaker seemingly has a habit of flirting with disaster only to turn things around precisely at the right moment.
+
+Much of that has been put down to Elon Musk – Tesla’s mercurial, brilliant, and complex Founder and CEO. Musk has been the driving force behind the outsized success of Tesla – building it into one of the world’s most valuable companies.
+
+In our deep dive of Tesla we’ll look at four parts behind the success of the electric vehicle giant: (1) popularity among consumers, (2) business fundamentals, (3) leadership excellence, and (4) optionality. The broader aim of this deep dive is to help investors ponder a more fundamental question about Tesla: Why has the market historically valued the automaker so richly when compared to its competitors?
+
+Since 2009 Tesla has sold over 1.9 million electric vehicles, breaking into a capital heavy industry that many would not attempt to breach. That success and popularity continues to snowball.
+
+According to analysts, the Tesla Model Y was the best selling car in the first quarter of 2023, with the company booking 267,000 sales in that period. In the second quarter of 2023 Tesla delivered over 466,000 vehicles and produced 479,700 more. Of those total Q2 deliveries, 19,200 were from the automaker’s high margin Model S/X, while the majority – 446,915 – were from its more affordable Model 3/Y lineup.
+
+This persistent and long standing popularity has material business implications. In the past, Musk has argued that Tesla has been a supply constrained business, meaning that the automaker hasn’t been able to manufacture enough vehicles to keep pace with consumer demand.
+
+Yet as Tesla has ramped its manufacturing capacity to meet demand, it hasn’t seen its revenue decelerate. With Tesla looking to take market share from competitors through price cuts, we’ve seen Tesla’s revenue spike to record highs. In the second quarter of 2023 the automaker’s revenue came in just shy of $25 billion, a first for the company and warning shot to the industry at large.
+
+Tesla’s immense popularity has translated into resounding business success, with the automaker’s operating performance moving sharply up and to the right over the last five years.
+
+In terms of revenue, the automaker has continued to notch up exceptional top line growth over the last five years, growing its revenue 279% from $21.46 billion to $81.5 billion, from 2018 to 2022.
+
+Underpinning Tesla’s production and subsequent revenue growth has been a significant ramp up in manufacturing capacity, with Tesla building out a number of what it calls Gigafactories. In a nutshell, a Gigafactory is a specialised and large-scale manufacturing hub where Tesla puts together its electric vehicles, batteries, and more.
+
+Even as Tesla scales up its manufacturing capacity, the company has been able to translate growth into profitability, flipping a near billion dollar loss in 2018 to a significant profit in 2022.
+
+Tesla has Operating Leverage where other Automakers do not
+
+Behind these profits is deep operating leverage on Tesla’s part. Indeed, while many competitors outstrip the EV giant in terms of production capacity and revenue – when including the production of EV and ICE vehicles – Tesla outshines them in terms of the gross margins it earns on the EVs it sells.
+
+Using Q3 FY222 as a snapshot, Tesla generated $15,653 in gross profit on a per vehicle basis. In terms of comps, that’s more than double that of Volkswagen, four times that of Toyota, and five times that of Ford – based on a Reuters analysis. This comparison speaks to the EV-specialised manufacturing advantages that Tesla has cultivated over the medium-term, primarily through the construction of its Gigafactories and the company’s cost discipline-oriented culture.
+
+To illustrate this point further, between 2018 to 2022, Tesla consistently expanded its automotive gross margins, as the automaker maintained pricing power in market and benefited from lower costs stemming from its EV manufacturing advantages.
+
+Musk might have a prickly reputation, but there should be little doubt that he is a first class operator. Musk’s leadership and strategic acumen has grown Tesla into the most valuable car company in the world and one of the largest listed companies.
+
+In the realm of entrepreneurship, many have got rich scaling software. Fewer have got rich building real things in the real world. Musk has spearheaded a manufacturing marvel: taking the business from little more than an idea to an automotive heavyweight that produced 479,000 EVs in Q2 alone.
+
+Not only has Musk taken the company from one to zero, but he has an undeniable knack for hiring strong talent, who tend to stay at the organization for extended periods of time. Here’s a quick take on Musk’s top lieutenants:
+• Andrew Baglino, SVP, Powertrain and Energy Engineering, has spent 17+ years at Tesla.
+
+Lastly, Tesla is increasingly (and has long been viewed as) more than a car company. To be sure, while Tesla continues to generate the lion’s share of its revenue from automotive sales, it is increasingly diversifying its revenue mix. Here’s a breakdown of Tesla’s 2022 revenue profile:
+
+Automotive sales refers to revenue that Tesla makes from selling vehicles. In 2022 this accounted for 82.50% of the company’s total revenue. Tesla’s automotive revenue also includes the sale of related-software, such as Tesla’s FSD software, which in 2022 generated $324 million in revenue for the company.
+
+Automotive leasing refers to the revenue Tesla makes through its direct operating lease program and its direct sales-type leasing.
+
+Tesla receives regulatory credits for every new Tesla vehicle it produces. The company can then sell these credits to other companies who want to ‘neutralise’ their emissions. The sale of regulatory credits are effectively 100% margin for Tesla and has often been a key driver of bottom line profitability for the company.
+
+Tesla’s services and other revenue is increasingly becoming a larger driver of revenue for the EV giant, growing an impressive 60% YOY in 2022. This segment includes revenue derived from Supercharging fees, the sale of used Teslas, merchandise sales, insurance revenue, and non-warranty after-sales vehicle services and parts.
+
+Tesla’s energy generation and storage segment derives its revenue from the sale, installation and maintenance of solar panels, roof tiles, energy storage products, and more – at both the retail and wholesale or enterprise level.
+
+These Four Parts together provide explanatory force behind why Tesla has historically traded at a premium – both against its automaker peers and the broader market.
+
+Tesla’s revenue streams are arguably more diversified than legacy automakers currently in the market and a number of those auxiliary revenue streams – like the sale of regulatory credits and software – are incredibly high margins. High margin revenue streams are generally viewed favourably by investors and are valued at a premium.
+
+Tesla is arguably one of the best positioned companies in the world to benefit from the electrification megatrend. While many automakers are making progress on scaling their electric vehicle manufacturing capacity, Tesla has already proven its ability to build out its global manufacturing capacity. We see this reflected on the business side with Tesla’s best-in-industry automotive EV margins, that we discussed in Part Two.
+
+The market continues to believe in Musk’s ability to execute with a high degree of consistency and at a large scale. Musk also has significant skin in the game in regards to the success of Tesla given his equity ownership. Shareholders have likely viewed this “incentives alignment” as a key positive for the company.
+
+As we looked at in Part Two, Tesla has exhibited above market top line growth between 2018 to 2022 while touting impressive unit economics compared to its peers. Tesla has also significantly grown its net profits in the last five years. While the market has shifted its focus away from growth at all costs, long term revenue growth coupled with net profit growth, is something the market has historically rewarded.
+
+Looking forward, analyst estimates suggest that Tesla’s share price might have gotten ahead of itself, with the consensus analyst price target last at $225.88, implying potential downside of ~14% from where the stock traded at on 21 July, 2023.
+
+*Data in article correct as of 21 July, 2023.
+
+Investing involves risk, including the risk of losing your invested amount. Any information that may be in this communication is general in nature only and is current at the time of writing. Syfe does not make recommendations of any kind or provide personal advice that take into account your objectives, financial situations or needs. You should therefore consider the appropriateness of the information in light of your own objectives, financial situation or needs before acting on such information, and/or speak to your financial or tax adviser for personal advice. Past performance figures are based on information provided by third parties and may not be accurate. Any references to past performance and future indications are not, and should not be taken as, a reliable indicator of future results. Syfe does not intend for any statement made here to relate to the acquisition or disposal of any shares in the companies or other financial products named here. Syfe makes no representation and assumes no liability as to the accuracy or completeness of the content of this communication.

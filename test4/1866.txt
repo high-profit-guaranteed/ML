@@ -1,0 +1,41 @@
+Mon, 29 Jan 2024 08:00:00 GMT
+
+The fourth-quarter 2023 earnings season for the auto sector kicked off last week. Two S&P 500 sector companies — Tesla TSLA and PACCAR PCAR — reported their quarterly numbers.
+
+Tesla delivered a disappointing fourth-quarter 2023 show, missing both earnings and revenue estimates. This marked the second earnings miss in a row for the electric vehicle (EV) behemoth, following 10 straight quarters of beat. The company also cautioned that its vehicle volume growth rate for 2024 is expected to be noticeably lower than in 2023.
+
+PACCAR not just pulled off a comprehensive beat but also witnessed year-over-year growth in the top and bottom lines. The trucking giant achieved record revenues and net income in 2023.
+
+U.S. legacy automaker Ford F is recalling around 1.9 million explorer SUVs to fix trim pieces. Ford’s crosstown rival General Motors GM and Japan-based Honda's groundbreaking joint venture in Michigan is to begin hydrogen fuel cell production, promising innovative and sustainable transportation solutions. Also, GM is making a $1.4 billion investment in Brazil, spearheading the nation's electric vehicle transition. Truck transmission manufacturer Allison Transmission ALSN joined forces with Oshkosh Corp. for the supply of e-axles for electric refuse vehicles. It also partnered with SANY for mining transmission solutions.
+
+While PCAR sports a Zacks Rank #1 (Strong Buy), GM and ALSN currently carry a Zacks Rank #2 (Buy) each. TSLA and F are currently #3 Ranked (Hold). You can see the complete list of today’s Zacks #1 Rank stocks here.
+
+Tesla’s fourth-quarter earnings per share of 71 cents missed the Zacks Consensus Estimate of 75 cents and also declined from the year-ago figure of $1.19. Total revenues of $25.17 billion also lagged the consensus mark of $25.94 billion but inched up 3% year over year. Automotive gross profit came in at $4.06 billion. Automotive gross margin came in at 18.8%, down from 25.9% reported in fourth-quarter 2022 but topped our forecast of 18.4%. This can be attributed to lower-than-expected cost of automotive sales. The metric came in at 17.5 billion, below our projection of 18.3 billion. Tesla’s operating margin declined 964 basis points year over year to 7.6% in the quarter under discussion and also lagged our estimate of 7.9%.
+
+Tesla had cash/cash equivalents/investments of $29,094 million as of Dec 31, 2023. Long-term debt and finance leases, net of the current portion, totaled $2,857 million. Net cash provided by operating activities amounted to $4,370 million in fourth-quarter 2023. Capital expenditure totaled $2,306 million in the quarter under review. Tesla generated a free cash flow of $2,064 million during the reported quarter, which rose from $1,420 million generated in the year-ago period.
+
+PACCAR recorded earnings of $2.70 per share for fourth-quarter 2023, which surged 53.4% from the year-ago figure. The bottom line surpassed the Zacks Consensus Estimate of $2.20 per share. Consolidated revenues (including trucks and financial services) came in at $9,076.6 million, up from $8,129.5 million in the corresponding quarter of 2022. Sales from Trucks, Parts and Others were $8,591.8 million, which surpassed the Zacks Consensus Estimate of $8,190 million.
+
+Revenues from the Trucks segment totaled $6,968.7 million in the fourth quarter. Global truck deliveries came in at 51,100 units. The segment’s pre-tax income was $996.4 million. Revenues from the Parts segment totaled $1,610.3 million in the reported quarter. The segment’s pre-tax income came in at $432.4 million. Revenues of the Financial Services segment came in at $484.8 million. Other sales amounted to $12.8 million. PACCAR’s cash and marketable debt securities amounted to $8,659.3 million as of Dec 31, 2023. Capex and R&D expenses for 2024 are envisioned in the band of $700-$750 million and $460-$500 million, respectively.
+
+Ford is recalling approximately 1.9 million Explorer SUVs due to a loose piece of trim that could unhitch and create a road hazard for other drivers. Per the company, clips that attach the trim to the exterior of the vehicle are not properly engaged due to improper assembly or repair, causing the A-pillar trim to become loose or fully detach. The recall covers Explorer SUVs from model years 2011-2019. Per the National Highway Traffic Safety Administration, the detached trim piece could become a road hazard for other drivers, increasing the risk of a crash.
+
+Ford is not aware of any accidents or injuries related to the issue. It received more than 14,000 warranty reports related to detached or missing A-pillar trim parts. Per Maria Buczkowski, Ford’s spokesperson, only 5% of recalled Explorers are affected by the issue. She urged owners to contact their dealership for an inspection when the parts become available. Inspections and essential replacements will be done free of cost. Ford expects to notify owners via letters in March.
+
+General Motors and Honda are poised to revolutionize the automotive industry with the commencement of commercial production at their hydrogen fuel cell facility in Michigan. The joint venture, Fuel Cell System Manufacturing LLC (FCSM), is the first large-scale manufacturing facility dedicated to fuel cell systems. With a sprawling 70,000-square-foot space in Brownstown, MI, FCSM is set to lead the charge in advancing hydrogen fuel cell technology. The partnership seeks to expand hydrogen fuel cell applications beyond automobiles, including rail, aircraft, commercial vehicles, and stationary power stations. With a focus on innovation and sustainability, GM and Honda are ushering in a new era of hydrogen technology, driving forward the development of cleaner and more efficient transportation solutions.
+
+In another development, General Motors is injecting $1.4 billion into Brazil's electric vehicle sector by 2028, aligning with president Luiz Inacio Lula da Silva's push for automotive investment. This investment, part of a broader transformation, aims to renew vehicle offerings, develop technologies and modernize factories. GM's move follows Brazil's new automotive guidelines and dovetails with the "Mover" program for green mobility, emphasizing decarbonization and innovation. The commitment underscores GM's focus on sustainable mobility, transitioning toward an all-electric future.
+
+Allison has been chosen by Oshkosh to supply e-axles for North America's pioneering fully integrated, zero-emission electric refuse collection vehicle. The Allison eGen Power 100S has been integrated into the McNeilus Volterra ZSL electric refuse vehicle, tailored to minimize environmental impact and noise pollution in communities worldwide. Recognizing the efficiency advantage of the eGen Power 100S architecture in heavy stop-start refuse applications, Oshkosh plans to deploy two eGen Power 100S e-axles in tandem configuration per vehicle, ensuring extended range, cleaner air and quieter operation. The development marks Allison's debut in refuse collection applications and positions it to meet the growing demand for electric vehicles while delivering sustainable solutions for waste management.
+
+In other news, Allisonforged a strategic partnership with SANY, a leading global heavy equipment manufacturer in the mining and construction sectors. The collaboration positions Allison as a key supplier of transmissions for SANY's lineup of mining vehicles, including the next-generation SANY SKT105 wide body mining dump truck, rigid dump trucks and articulated dump trucks. Per the terms of the agreement, Allison will supply its family of Off Road Series and Wide Body Dump Series transmissions for integration into SANY's fleet of mining vehicles.
+
+The following table shows the price movement of some of the major auto players over the last week and six-month period.
+
+What’s Next in the Auto Space?
+
+Industry watchers will keep a tab on U.S. vehicle sales for the month of January. Investors are also awaiting the quarterly releases of auto companies like General Motors, Group 1 and Oshkosh that are slated to report this week.
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+To read this article on Zacks.com click here.

@@ -1,0 +1,28 @@
+Fri, 26 Jan 2024 08:00:00 GMT
+
+Tesla Inc (TSLA) stock is down a good deal after its earnings release on Jan. 24. But TSLA stock may now have hit a bottom and its put premiums are very high. That makes them worth shorting out-of-the-money (OTM) puts as an income play.
+
+In mid-day trading on Friday, Jan. 26, 2024, TSLA is at $184.25 per share. This is down significantly from a week ago at $220.34 and its recent peak at $260.89 on Dec. 27, 2023. However, the stock is up today and may have hit a bottom.
+
+As a result, put option premiums in near-term expiry periods have skyrocketed. That presents a huge income opportunity for short sellers. This is especially true since Tesla is still making positive free cash flow (FCF).
+
+I discussed this in my last Barchart article on Jan. 21, 2024, “Tesla Stock Is Still Worth Considerably More Based on Its Free Cash Flow.” At the time I suggested shorting the $180 strike price puts for expiration on Feb. 9, 2024.
+
+Those puts are still out-of-the-money by over 2.5%. But the premium is now very attractive at $4.40 per put. For example, anyone who shorts 1 put contract at $180 for expiration on Feb. 9 by securing $18,000 with their brokerage firm can immediately receive $440.
+
+That works out to an immediate yield of 2.44% with just 2 weeks to go before that option expires.
+
+Moreover, on an annualized basis, assuming the investor can theoretically replicate this trade every 2 weeks for the next 12 weeks (i.e., 6x), the expected return (ER) is $2,640. That works out to 14.67% per quarter or $26.40 per 100 shares shorted. That is a very attractive income opportunity.
+
+It helps make up for the amount that TSLA has fallen (i.e., $184.25 +$26.40 = $210.65). It also provides good downside protection. The breakeven price is $180.00-$4.40 or $175.60, which is 4.58% below today's price.
+
+Moreover, more conservative investors, including existing shareholders, might be more comfortable shorting the $170 strike price puts. Those trade for $1.85 per put contract shorted, or 1.088% in just 2 weeks. That also has a good ER for the next 12 weeks of 11.28% (i.e., 1.088% x 6), assuming the same yield can be repeated every time.
+
+One way to hedge the $180 short put play is to buy $175 puts for $2.89. The net credit is $1.50 (i.e., $4.40 - $2.89). Therefore, the investor has limited their downside risk should the stock fall below $180.00 in the next weeks. They still end up a net credit and a potential downside unrealized loss of just $3.49 (i.e., $5.00 - $1.51).
+
+But even in that case the investor can monitor the situation and if TSLA rises and the $175.00 put premium decays they can sell the long put. That would enhance the overall return.
+
+The bottom line is that TSLA stock has probably hit a short-term bottom here and the stock could potentially rebound. That makes it attractive to short these high-premium OTM puts.
+• 2 EV Stocks That Look Like Better Buys Than Tesla
+• Why is Big Tech Backing of AI Startups Drawing FTC Scrutiny?
+• 5 Uranium Stocks With 23% or More Upside Potential

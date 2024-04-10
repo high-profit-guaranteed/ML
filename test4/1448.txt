@@ -1,0 +1,35 @@
+Mon, 18 Dec 2023 08:00:00 GMT
+
+Electric vehicle (EV) behemoth Tesla TSLA is recalling more than 2 million vehicles on U.S. roads to install new safeguards in their Autopilot system.
+
+U.S. legacy automaker General Motors GM delayed EV drive production at its Toledo plant. This follows GM's October announcement of postponing the production of its electric trucks, including the Chevy Silverado RST and GMC Sierra Denali EVs, to late 2025. GM’s crosstown rival Ford F also announced a reduction in the production of its Lightning Pro model by half. Initially, EV pickups were expected to revolutionize the market by replacing traditional gas-powered trucks with zero-emission alternatives boasting impressive towing capabilities. However, challenges such as higher pricing, charging issues and reduced range during towing have led to consumer hesitation.
+
+Telecom giant AT&T inked deal to purchase EVs from Rivian Automotive RIVN and deploy those to its fleet in early 2024. The collaboration is a bold statement in the ongoing narrative of environmental responsibility and technological advancement.
+
+While TSLA carries a Zacks Rank #4 (Sell), GM, F and RIVN currently carry Zacks Rank #3 (Hold). You can see the complete list of today’s Zacks #1 Rank (Strong Buy) stocks here.
+
+Tesla is recalling more than 2 million vehicles after the U.S. safety regulator cited safety concerns. Per the U.S. safety regulator, the autopilot features are either too confusing for the drivers or too easy to misuse. Per the National Highway Traffic Safety Administration (“NHTSA”) filings, the automaker did not agree with the agency’s analysis but has agreed to issue a recall and release an over-the-air update. The agency found that under some circumstances, the Autosteer feature may increase the risk of a collision.
+
+Per the filings, the Autosteer feature provides steering, braking and acceleration support to drivers in certain conditions. However, the drivers are supposed to remain attentive and keep their hands on the steering wheel while using the feature. The Autopilot system uses several controls to find out if the drivers are attentive or not. NHTSA found that the controls may not be sufficient to prevent drivers from exploiting the feature. Tesla will recall a total of 2,031,220 of its Model S, Model X, Model 3 and Model Y. The automaker has started rolling out a software update, which will be free for Tesla’s customers.
+
+Rivian has joined forces with AT&T, which will encompass the integration of RIVN’s EVs into AT&T’s operational fleet. The deal is set to be launched in early 2024 The collaboration is a testament to Rivian’s commitment to sustainability and innovation in the EV sector and also positions AT&T at the forefront of the eco-friendly corporate movement. AT&T's plan to incorporate EVs into its fleet is a key component of its broader ambition to achieve carbon neutrality by 2035. The tie-up will see the telecom leader integrating Rivian's commercial vans and the much-anticipated R1 EVs into its operations.
+
+The alliance between Rivian and AT&T extends beyond the mere purchase of EVs. In a strategic move, AT&T has been designated as the exclusive connectivity provider for all Rivian vehicles across the United States and Canada.After the conclusion of its exclusivity pact with Amazon, this deal with AT&T showcases Rivian’s appeal to a wide range of corporate clients. Rivian remains committed to delivering 100,000 vans ordered by Amazon by 2030. The ongoing relationship with Amazon, coupled with the new deal with AT&T, underscores Rivian's growing influence in the EV market.
+
+General Motors announced a significant delay in the launch of its EV drive production at the Toledo Propulsion Systems plant, a notable setback in the company's EV strategy. Originally slated to begin in early 2024, the production of the electric drives is now rescheduled for the end of 2024, a delay of nine months. Last year, GM committed $760 million to transform the Toledo plant into its first U.S. facility dedicated to EV drive production. The Toledo Propulsion Systems plant, located on Alexis Road, was gearing up to commence building the EV units in the first quarter of 2024. However, this timeline has been pushed to the fourth quarter of the year.
+
+This delay directly impacts approximately 75 temporary workers who were terminated following the plant's cessation of 6-speed transmission production in April to accommodate the new EV drive line. The deal offers Toledo plant's management and workforce additional time to prepare for a crucial transition in automotive manufacturing.
+
+Ford reduced its planned production target of F-150 Lightning to half for 2024. In light of slowing demand, the automaker took a step back after significantly increasing its plant capacity for EVs this year. Ford plans to bring down its average weekly production volume at Rouge Electric Vehicle Center in Dearborn, MI, to 1,600 trucks, down from the current production volume of 3,200 per week.
+
+After receiving 200,000 reservations for the F-150 Lightning in January 2022, Ford announced it would double its production capacity to 150,0000 units per year by mid-2023. However, the demand for EVs has been slower than anticipated due to higher prices and interest rates. The growth in demand lags far behind the expectations of automakers, which compelled them to reduce investments in EVs. On the third-quarter earnings call, Ford’s executives shared plans to cancel or delay nearly $12 billion in EV investments due to softening demand for premium vehicles. Year to date, the company has lost almost $3.1 billion on EV spending and anticipates losing a total of $4 billion this year.
+
+The following table shows the price movement of some of the major EV players over the last week and six-month period.
+
+What’s Next in the Space?
+
+Stay tuned for announcements of upcoming EV models and any important updates from the red-hot industry.
+
+Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report
+
+To read this article on Zacks.com click here.

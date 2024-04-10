@@ -1,0 +1,23 @@
+Sat, 08 Jul 2023 07:00:00 GMT
+
+Elon Musk, the CEO of Tesla Inc. TSLA, recently provided further insights into the prospects of automatic navigation on Tesla vehicles, following the company’s release of a video showcasing how drivers can easily share locations with their cars using their smartphones.
+
+What Happened: Tesla provides users with an option to enable “automatic navigation” in their vehicles. Once enabled, the car takes the initiative to navigate to a destination it anticipates the user would like to reach, taking into account frequently traveled routes, the time of day, and calendar entries.
+
+Recently, touting this feature, the official handle of Tesla tweeted, “Share directions with your Tesla from your phone & it will automatically start routing.”
+
+In response, Musk wrote, “You can also sync your phone calendar with car & tap on screen to go to an address. And just swipe down on nav button to route home or route to work if you're at home.”
+
+If the user is entering their car from home on a workday during their work-commute hours, auto navigation can automatically route them to their work location and back home when it is time for them to return. If the user has an event marked on their phone calendar and have the calendar synced with the car, automatic navigation will suggest the location of the event.
+
+Tesla drivers can also navigate by entering a destination in the search bar in the corner of the map, sharing a location via phone, or using voice commands. It is important to note that navigation instructions provided to the vehicle manually or sent via phone overrides the suggestions provided by automatic navigation.
+
+Why It Matters: In December 2019, Musk touted the feature as one that requires “no input at all.”
+
+“Turn on auto navigate feature & car will activate traffic-based navigation to work, home or calendar, depending on context, as soon as you sit down,” Musk had said.
+
+One can also swipe down the Tesla navigation button to automatically navigate to home, work or destination in calendar, he added.
+
+Check out more of Benzinga's Future Of Mobility coverage by following this link.
+
+Read More: Elon Musk Takes Tesla Cybertruck For A Spin In Austin, Shares Photo

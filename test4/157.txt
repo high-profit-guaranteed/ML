@@ -1,0 +1,29 @@
+Sat, 13 May 2023 07:00:00 GMT
+
+A group of Tesla Model S and Model X owners are suing the electric vehicle maker, claiming in a lawsuit filed in California Friday that automatic software updates from Elon Musk's company have killed their electric cars' battery life.
+
+The proposed class-action lawsuit was filed in the U.S. District Court in San Francisco. Plaintiffs claim Tesla's updates and their effects violate federal and state laws because they can cut driving range by up to 20% and have forced some owners to replace their batteries at a cost of $15,000.
+
+The lawsuit argues impacted Tesla vehicles are "protected computers" under the Computer Fraud and Abuse Act, and that automatic updates violate their rights under the law.
+
+"Tesla owners and lessors are uniquely at the mercy of the maker of their cars, and Tesla imposes software updates without consent whenever their vehicle is connected to Wi-Fi," said Steve Berman, an attorney with Hagens Berman representing Tesla owners and lessors in the lawsuit.
+
+Attorneys representing the owners say Tesla sends automatic updates whenever their vehicles are connected to Wi-Fi.
+
+Some Tesla owners have reportedly paid third parties as much as $750 to reverse battery-related software updates, the lawsuit claims.
+
+Tesla did not immediately respond to a request for comment.
+
+According to Telsa's website, the company's vehicles receive regular over-the-air software updates that add new features and enhance existing onces over Wi-Fi.
+
+Tesla owners can change their software update preferences in an options menu on their vehicle's touchscreen, selecting between "ADVANCED" or "STANDARD." The "ADVANCED" option will enable automatic software updates whenever they become available. Updates cannot be canceled once they have started.
+
+The lawsuit accuses Tesla's updates and their impact of violating the Computer Fraud and Abuse Act, the California Unfair Competition Law and the Consumer Legal Remedies Act. Attorneys claim Tesla refuses to reimburse Model S and Model X owners and lessors whose vehicles have reduced battery life after a software update.
+
+In July 2021, Tesla agreed to pay $1.9 million to settle claims a software update temporarily reduced maximum battery voltage in 1,743 Model S sedans, including about $400,000 in attorneys' fees and expenses. Owners of affected vehicles received $625 each, which was "many times the prorated value of the temporarily reduced maximum voltage," according to court documents.
+
+Tesla released its 2022 Impact Report in April, claiming that its batteries only lose about 12% capacity after 200,000 miles. The report used data collected on Model S and Model X battery retention over distance traveled.
+
+GET FOX BUSINESS ON THE GO BY CLICKING HERE
+
+The company noted that mileage and battery age are major factors in battery capacity retention and said it plans to expand disclosure on battery life "once we have sufficient data."

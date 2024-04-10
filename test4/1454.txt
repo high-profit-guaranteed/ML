@@ -1,0 +1,43 @@
+Tue, 19 Dec 2023 08:00:00 GMT
+
+Tesla (TSLA) stock has long been a favorite of option traders, but the stock has not been participating in the recent rally as much as other stocks.
+
+Another bad thing about TSLA stock, is that it doesn't pay a dividend. But, what if we could use options to manufacture our own dividend?
+
+Let's say I have $25,000 that I want to invest into TSLA stock, I could simply buy some shares and hope the stock rises.
+
+But, if I want a more conservative play, I could sell a January 17, 2025 put with a strike price of $250 and set aside the $25,000 in case I am assigned on the short put.
+
+That $250-strike put generates around $4,320 in option premium in just over 12 months.
+
+So, my $25,000 investment into TSLA is giving me a 19% annualized "dividend".
+
+Well, much like owning TSLA shares, if the stock drops, I'm going to lose money in the short-term.
+
+If TSLA is below $250 in January 2025, then I will be forced to buy 100 shares at $250. So if TSLA is below $206.80, at expiration the trade loses money.
+
+But, if TSLA stays above $250 then I achieve a 19% per annum return when the put expires worthless.
+
+Cash secured puts are a bullish strategy but are considered slightly less bullish than owning Tesla stock because the potential gains are limited to the premium received.
+
+The second risk with the trade is that if TSLA stock goes on a huge rally, we miss out on any upside. The most we can make is the $4,320 from the option premium.
+
+The $250-strike put currently has a delta of 37, so selling this put gives an exposure roughly equivalent to owning 37 shares of TSLA stock, although this will change as the stock moves up and down.
+
+One method which can help cut the risk is to turn the trade into a spread and buy a $200-strike put. This turns the trade into a bull put spread and cuts the risk from $25,000 to around $3,000.
+
+There's lots of interesting scenarios you can create with options.
+
+Tesla is the market leader in battery-powered electric car sales in the United States, with roughly 70% market share.
+
+The company's flagship Model 3 is the best-selling EV model in the United States. Tesla, which has managed to garner the reputation of a gold standard over the years, is now a far bigger entity that what it started off since its IPO in 2010, with its market cap crossing $1 trillion for the first time in October 2021.'
+
+The EV king's market capitalization is more than the combined value of legacy automakers including Toyota, Volkswagen, Daimler, General Motors and Ford.
+
+Over the years, Tesla has shifted from developing niche products for affluent buyers to making more affordable EVs for the masses. The firm's three-pronged business model approach of direct sales, servicing, and charging its EVs sets it apart from other carmakers.
+
+Tesla, which is touted as the clean energy revolutionary automaker, is much more than just a car manufacturer.
+
+Please remember that options are risky, and investors can lose 100% of their investment. This article is for education purposes only and not a trade recommendation. Remember to always do your own due diligence and consult your financial advisor before making any investment decisions.
+• Buy This 'Boring' Industrial Dividend Stock Near New Highs
+• Should You Buy the Top-Rated Stock on the S&P 500?

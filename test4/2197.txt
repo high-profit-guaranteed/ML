@@ -1,0 +1,5 @@
+Sat, 24 Feb 2024 08:00:00 GMT
+
+Tesla Inc has initiated a product recall in China due to software issues affecting approximately 8,700 vehicles. The recall includes 1,071 imported Model S and Model X, along with 7,629 China-produced Model 3. The software problem is related to unstable rear camera integrated circuit communications, which can potentially affect the driver's field of vision when reversing and increase the risk of vehicle collision.
+
+To address this issue, Tesla will issue a software update to rectify the rear camera problems. The company intends to provide the update over-the-air for most vehicles. For those vehicles that cannot be updated using this method, Tesla will reach out to the owners via service centers to arrange for a software upgrade.

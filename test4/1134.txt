@@ -1,0 +1,35 @@
+Sat, 04 Nov 2023 07:00:00 GMT
+
+If we want to find a stock that could multiply over the long term, what are the underlying trends we should look for? Ideally, a business will show two trends; firstly a growing return on capital employed (ROCE) and secondly, an increasing amount of capital employed. This shows us that it's a compounding machine, able to continually reinvest its earnings back into the business and generate higher returns. With that in mind, we've noticed some promising trends at Tesla (NASDAQ:TSLA) so let's look a bit deeper.
+
+Return On Capital Employed (ROCE): What Is It?
+
+For those who don't know, ROCE is a measure of a company's yearly pre-tax profit (its return), relative to the capital employed in the business. The formula for this calculation on Tesla is:
+
+Return on Capital Employed = Earnings Before Interest and Tax (EBIT) ÷ (Total Assets - Current Liabilities)
+
+0.16 = US$11b ÷ (US$94b - US$27b) (Based on the trailing twelve months to September 2023).
+
+Thus, Tesla has an ROCE of 16%. In absolute terms, that's a satisfactory return, but compared to the Auto industry average of 9.6% it's much better.
+
+Check out our latest analysis for Tesla
+
+Above you can see how the current ROCE for Tesla compares to its prior returns on capital, but there's only so much you can tell from the past. If you'd like to see what analysts are forecasting going forward, you should check out our free report for Tesla.
+
+So How Is Tesla's ROCE Trending?
+
+We're delighted to see that Tesla is reaping rewards from its investments and is now generating some pre-tax profits. About five years ago the company was generating losses but things have turned around because it's now earning 16% on its capital. And unsurprisingly, like most companies trying to break into the black, Tesla is utilizing 245% more capital than it was five years ago. This can indicate that there's plenty of opportunities to invest capital internally and at ever higher rates, both common traits of a multi-bagger.
+
+Our Take On Tesla's ROCE
+
+To the delight of most shareholders, Tesla has now broken into profitability. Since the stock has returned a staggering 841% to shareholders over the last five years, it looks like investors are recognizing these changes. Therefore, we think it would be worth your time to check if these trends are going to continue.
+
+One more thing to note, we've identified 1 warning sign with Tesla and understanding this should be part of your investment process.
+
+For those who like to invest in solid companies, check out this free list of companies with solid balance sheets and high returns on equity.
+
+Have feedback on this article? Concerned about the content? Get in touch with us directly. Alternatively, email editorial-team (at) simplywallst.com.
+
+
+
+This article by Simply Wall St is general in nature. We provide commentary based on historical data and analyst forecasts only using an unbiased methodology and our articles are not intended to be financial advice. It does not constitute a recommendation to buy or sell any stock, and does not take account of your objectives, or your financial situation. We aim to bring you long-term focused analysis driven by fundamental data. Note that our analysis may not factor in the latest price-sensitive company announcements or qualitative material. Simply Wall St has no position in any stocks mentioned.

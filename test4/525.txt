@@ -1,0 +1,43 @@
+Thu, 20 Jul 2023 07:00:00 GMT
+
+Tesla (TSLA) published its Q2 2023 earnings report yesterday evening. The automaker also held the 2nd quarter earnings call at Giga Texas. The Tesla Q2 2023 earnings call was joined by Tesla CEO Elon Musk and the company’s senior management.
+
+Tesla reported an all-time high revenue of around $25 billion in Q2 2023. However, due to constant vehicle price drops and macroeconomic factors in play, Tesla’s gross margin dropped to 18.2% (down by -682 basis points).
+
+Tesla’s gross margin including regulatory credits last year in Q2 2022 was 25%. So, it’s a drop of 6.8% year-over-year (YoY). While compared to Q1 2023, Tesla’s gross margin dropped from 19.3% to 18.2%. That’s a drop of 1.1% QoQ.
+
+Tesla’s operating margin dropped to just under 10% (down by -493 basis points) in Q2 2023 compared to the previous quarter.
+
+After a significant increase in the operating margin in Q3 2022, it has been constantly dropping each quarter since then (see TSLA Financial Summary screenshot from Q2 2023 report below).
+
+Wall Street analysts were expecting this drop in Tesla margins. However, Tesla did a little better contrary to the expectations.
+
+According to CNBC Business News anchor Phil Lebeau, Wall Street was expecting Tesla’s automotive gross margin of below 17% before yesterday’s earnings call. However, Tesla did not report automotive gross margins excluding regulatory credits in the financial report (PDF below).
+
+In Q2 2023, Tesla’s regulatory credits brought in a revenue of only $282 million. In Q1 2023, these credits attributed to revenue of $521 million. So, revenue from regulatory credits dropped by around 46% for Tesla this quarter.
+
+Tesla CEO Elon Musk, Head of Investor Relations Martin Viecha, CFO Zachary Kirkhorn, and SVP, Powertrain and Energy Engineering Drew Baglino attended the company’s Q2 2023 earnings call yesterday and answered questions (listen to the audio below).
+
+Following are the main points that Elon Musk and his team talked about during the call:
+• Tesla made a record number of vehicle production and deliveries in Q2 2023.
+• Tesla Model Y became the world’s best-selling car surpassing the likes of Toyota Corolla and VW Golf.
+• Tesla achieved its targets despite interest rates and not-so-favorable macroeconomic conditions.
+• Tesla continues to target 1.8 million vehicle deliveries this year (in Q1 + Q2, Tesla has delivered 889,015 vehicles in total). So, Tesla is still only halfway to its target.
+• Tesla is expecting summer shutdowns to upgrade its factories across the globe.
+• Tesla is working on a dedicated Robotaxi vehicle platform which Elon Musk thinks has a virtually infinite demand.
+• Tesla Robotaxi manufacturing itself is going to be a revolution, “it’s a revolutionary design made in a revolutionary way,” Musk said during the call.
+• Tesla is far ahead of any auto manufacturer in self-driving technology.
+• Tesla is going to use Dojo and Nvidia computers for its Full Self-Driving neural net.
+• FSD Beta testing has accumulated over 300 million miles of data.
+• Tesla continues to build Cybertruck release candidates on its final production line at Giga Texas.
+• Cybertruck deliveries are scheduled to start later this year.
+• The Tesla Supercharger network has now over 5,000 locations worldwide and around 50,000 connectors.
+• Tesla NACS charging standard is getting adopted by more and more mainstream vehicle OEMs
+• Tesla is open to licensing its Full Self-Driving software and is even in initial talks with a major OEM.
+• Tesla 4680 cell production increased by 80% in Q2 over Q1 2023 at Giga Texas.
+• Tesla is preparing to launch 4680 cells with a 10% increased energy density for the Cybertruck. These improved 4680 cells will also be produced at Giga Texas.
+• Tesla (TSLA) vehicle deliveries drop in Q1 2024 by 20% QoQ — but it still did better than BYD
+• Tesla (TSLA) sold 1.2 million Model Y EVs in 2023, 15 GWh of energy storage, Musk predicts slower growth in 2024, more
+• Tesla (TSLA) achieves the 1.8 million vehicle delivery target for 2023 with a record-breaking quarter
+• Tesla (TSLA) will need an all-time record quarter (Q4) to deliver 1.8M vehicles in 2023 — Q3 Earnings Call, more
+• Tesla (TSLA) vehicle deliveries dropped in Q3 2023 compared to the previous quarter but grew year-over-year

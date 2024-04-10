@@ -1,0 +1,31 @@
+Mon, 05 Jun 2023 07:00:00 GMT
+
+Tesla just won a potential battle in steering EV standards in its favor.
+
+Competitors rarely work together in the business world. However, it recently happened when electric vehicle (EV) titan Tesla (TSLA 2.25%) and legacy automaker Ford shocked Wall Street by announcing a partnership that would let Ford customers plug into Tesla's supercharger network.
+
+The announcement came from a recent Twitter-spaces event that Ford CEO Jim Farley participated in with Musk to discuss the electric vehicle industry. The partnership should make Ford's customers happy, but Tesla's shareholders could be the winners.
+
+The development could eventually create a profitable revenue stream that could pad Tesla's coffers. Here is what you need to know.
+
+If you can't beat 'em...
+
+Electric vehicles aren't just a new technology for the vehicle; they also require charging stations, a massive effort to populate America with the infrastructure needed to support millions of EVs on the road. Charging a car isn't as simple as pulling up to a fuel pump because the vehicle's charging ports must be compatible with the attachments at the charging station.
+
+Tesla created what it calls the North American Charging Standard (NACS), which it uses on all its vehicles and charging stations in the U.S. and Canada. Many of Tesla's competitors created a different design, the Combined Charging System (CCS), and deemed it the standard for the EV industry. But Tesla has sold more vehicles than competitors who are still ramping up production. So which design is the real standard?
+
+Ford decided that it wanted to lean on Tesla's further-along charging network to improve life for its customers as it seeks to ramp up its EV sales. The partnership will include adapters to make Ford's current EVs compatible with Tesla's NACS ports instead of the CCS. This is a potentially pivotable moment for the EV industry since further adoption of NACS would play further into Tesla's hands as a market leader. More vehicles using the NACS design means more potential charging traffic for Tesla.
+
+Pulling non-Tesla drivers through its charging network is an excellent opportunity to bring profitable revenue to Tesla. The company has already invested the capital in building its charging network (and will continue these investments), so incremental payments from non-Tesla vehicles should mostly fall straight to its bottom line.
+
+It's not yet known what Ford owners will pay to use Tesla's network, but there are some clues. Tesla charges by kilowatt-hour, and non-Tesla users pay a premium compared to Tesla owners. Tesla offers a monthly subscription for $12.99 to reduce the kilowatt-hour rate to that of Tesla owners, which might indicate the ballpark that Ford users will end up paying.
+
+Right now, paid supercharging revenue is a tiny part of Tesla's business, lumped into services and others in its financials. That revenue bucket was just $1.8 billion of its total $23 billion in the first quarter. Investors shouldn't expect a short-term notable impact of deals like Ford's partnership, but that could change. EVs are still just 1.5% of the global fleet, and service revenue from sources like charging could grow into a meaningful category over the coming years.
+
+What should investors do today?
+
+You could think of Tesla and Ford's partnership as a single move in a long chess game. The EV industry is still in its early innings, and the battle over industry standards and market share is still being waged. In the short term, Tesla remains a stock that investors should track closely.
+
+However, now might not be the best time to buy as the shares are up 66% since January. Tesla could be starting to feel the impact of a slowing economy. Analysts are lowering their expectations for earnings growth, and inventory is building up each quarter. Combine that with price cuts that lowered Tesla's operating profit margin by 779 basis points year over year in the first quarter, and a price-to-earnings (P/E) ratio of 58 might be too steep.
+
+With a beta of 2, Tesla's stock is volatile enough that investors will likely see some buying opportunities emerge in the future. Consider waiting until then before pulling the trigger on the shares.
