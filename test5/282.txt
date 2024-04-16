@@ -1,0 +1,67 @@
+Sun, 24 Mar 2024 07:00:00 GMT
+
+Tesla has lost more than a third of its value year to date.
+
+All the Magnificent Seven stocks beat the Nasdaq Composite and the S&P 500 last year. That quality, paired with each company's size, led Bank of America analyst Michael Hartnett to coin the phrase "Magnificent Seven" to refer to Microsoft, Apple, Nvidia, Alphabet, Amazon, Meta Platforms, and Tesla (TSLA -5.59%). But 2024 has been entirely different.
+
+Alphabet, Apple, and Tesla are underperforming both benchmarks, with Apple losing over 8% of its value year to date. Tesla has been the most contentious component of the Magnificent Seven because it is the worst-performing S&P stock YTD, down over 30% in less than three months. Even Boeing, whose stock tumbled following a series of high-profile maintenance issues, is doing slightly better than Tesla stock.
+
+Nvidia is the single best-performing stock in the S&P 500, and Meta Platforms is third.
+
+Here's why some Magnificent Seven stocks are out of favor, what you can learn from the Magnificent Seven, and whether investing in the Magnificent Seven is right for you.
+
+In 2022, the Nasdaq Composite and many big tech stocks suffered brutal inflation-driven sell-offs as recession fears spread like wildfire. The market breathed a sigh of relief in 2023 when inflation started coming down, and there was a path toward the Federal Reserve cutting rates.
+
+Widespread adoption of ChatGPT gave the market a new theme to get excited about: artificial intelligence (AI). AI is nothing new, but the proliferation of AI tools in the workplace and for everyday tasks is.
+
+Wall Street can get enamored by a hot trend, creating tunnel vision and ignoring opportunities that fall outside the construct. The Magnificent Seven components that are leveraging AI and have a clear roadmap for using AI to fuel earnings growth have been rewarded. Those that don't, namely Apple and Tesla, have been punished.
+
+The hardest way to monetize AI
+
+In my opinion, the companies with the best AI potential focus on business-to-business sales more than business-to-consumer sales.
+
+Alphabet, Meta Platforms, and Microsoft mainly sell software and digital ads. Meta Platforms' social media platforms Instagram, Facebook, and WhatsApp primarily cater to consumers, but the revenue comes from ads sold to companies. Nvidia sells a physical product (the computing power necessary to support complex AI models) to companies.
+
+Amazon's e-commerce arm depends on consumers, but Amazon Web Services is the cloud infrastructure leader and arguably the most valuable part of the business.
+
+Meanwhile, Apple and Tesla depend on selling physical products, mainly iPhones for Apple and electric vehicles (EVs) for Tesla. Selling physical products to consumers is the hardest way to monetize AI. Yes, there are exceptions, but this has so far been the case with the AI boom.
+
+Tesla doesn't have a clear way to monetize AI in the near term. Its best bets are long-term, fully autonomous driving and robotaxis, but that industry remains unproven.
+
+Apple also doesn't have a clear AI roadmap. Sure, Apple will probably integrate AI into its future devices, and the company is doing an excellent job of growing its high-margin services segment. But overall, Apple and Tesla haven't been able to capitalize on AI meaningfully, which may not change anytime soon simply because of the nature of their business models.
+
+In fact, analysts are forecasting next-to-no growth for Apple in the short term, which is why its price-to-earnings ratio is nearly the same as its forward P/E. Tesla's forward P/E ratio is lower, implying negative growth.
+
+Tesla stock had a lot in common with its other big-tech-focused peers. But the business is totally different.
+
+Investors who piled into Tesla all because it was part of the Magnificent Seven have been burned. The sell-off is a good lesson on why chasing a hot trend or assuming a stock will stay correlated when the underlying companies are so different is never a good idea.
+
+Tesla's sell-off has been severe not only because it has been left out of the AI theme but also because it is facing growing competition from pure-play EV companies and legacy automakers alike. It has been battling a price war for a while now, with further price cuts expected to fend off slowing demand and low-cost offerings in China, namely from BYD. At this stage, Tesla has lost its first-mover advantage, so its supply chain, manufacturing expertise, unique product features, and brand will be more important than ever. Consumers interested in EVs have more choices -- a reality that Tesla has to accept.
+
+A growth story that is getting harder to justify
+
+Even after the sell-off, Tesla remains the most expensive Magnificent Seven stock on a forward P/E ratio basis.
+
+With the growth story falling apart, at least in the short term, it is understandable why some investors are running for the exits. But as bad as it looks, the long-term investment thesis for Tesla hasn't changed.
+
+Tesla is focused on rapidly scaling production to meet the needs of sustained EV adoption. The adoption rate depends on consumer interest and government mandates/subsidies for EVs. For Tesla to unlock long-term growth, it must play a central role in the energy transition through EVs, EV charging, renewable energy, energy storage, and more.
+
+Right now, EV demand has slowed. And the renewable energy industry been crushed due to high interest rates and lower investor enthusiasm.
+
+When you add it all up, this is a perfect storm of negativity hammering virtually every aspect of Tesla's business. Now more than ever, it's important to only invest in Tesla if you believe in the profitability of the energy transition and that Tesla's competitive advantages will endure.
+
+There have been plenty of acronyms used to describe exciting tech companies.
+
+In 2013, Jim Cramer coined FANG for Facebook, Amazon, Netflix, and Google.
+
+Then came FAANG, which was those four companies plus Apple.
+
+Next was MAMAA, which replaced Netflix with Microsoft and updated Google to Alphabet and Facebook to Meta Platforms to adjust to the name changes.
+
+In 2023, Nvidia kicked into a new growth gear, and Tesla became more accepted by the market, so the market needed a new group that included them. But now, there's talk of kicking Tesla out of the Magnificent Seven.
+
+It's important to remember that these groupings are merely a representation of what is hot in the market at a given time. For example, Netflix may not be included in the Magnificent Seven, but it quietly doubled over the past year.
+
+When FANG was created, Microsoft was a low-growth, stodgy tech company. Today, it is the most valuable company in the world and a leader in AI and cloud infrastructure.
+
+Therefore, investors must understand what's driving market sentiment in the short term and separate it from an investment thesis.

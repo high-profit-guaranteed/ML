@@ -1,0 +1,35 @@
+Fri, 29 Mar 2024 07:00:00 GMT
+
+This whale alert can help traders discover the next big trading opportunities.
+
+Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.
+
+Traders will search for circumstances when the market estimation of an option diverges heavily from its normal worth. High amounts of trading activity could push option prices to exaggerated or underestimated levels.
+
+Below are some instances of options activity happening in the Consumer Discretionary sector:
+
+These itemized elaborations have been created using the accompanying table.
+• Regarding TSLA TSLA, we observe a put option sweep with bullish sentiment. It expires in 7 day(s) on April 5, 2024. Parties traded 93 contract(s) at a $170.00 strike. This particular put needed to be split into 5 different trades to become filled. The total cost received by the writing party (or parties) was $26.8K, with a price of $289.0 per contract. There were 23035 open contracts at this strike prior to today, and today 31357 contract(s) were bought and sold.
+• For VFC VFC, we notice a put option sweep that happens to be neutral, expiring in 7 day(s) on April 5, 2024. This event was a transfer of 2495 contract(s) at a $15.00 strike. This particular put needed to be split into 7 different trades to become filled. The total cost received by the writing party (or parties) was $45.4K, with a price of $19.0 per contract. There were 1883 open contracts at this strike prior to today, and today 3403 contract(s) were bought and sold.
+• For F F, we notice a put option sweep that happens to be bullish, expiring in 49 day(s) on May 17, 2024. This event was a transfer of 1821 contract(s) at a $11.82 strike. This particular put needed to be split into 30 different trades to become filled. The total cost received by the writing party (or parties) was $30.9K, with a price of $17.0 per contract. There were 30092 open contracts at this strike prior to today, and today 2790 contract(s) were bought and sold.
+• Regarding NIO NIO, we observe a call option sweep with bullish sentiment. It expires in 21 day(s) on April 19, 2024. Parties traded 1000 contract(s) at a $4.50 strike. This particular call needed to be split into 5 different trades to become filled. The total cost received by the writing party (or parties) was $32.0K, with a price of $32.0 per contract. There were 2408 open contracts at this strike prior to today, and today 1802 contract(s) were bought and sold.
+• Regarding RIVN RIVN, we observe a call option sweep with bullish sentiment. It expires in 21 day(s) on April 19, 2024. Parties traded 450 contract(s) at a $11.00 strike. This particular call needed to be split into 3 different trades to become filled. The total cost received by the writing party (or parties) was $33.7K, with a price of $75.0 per contract. There were 3995 open contracts at this strike prior to today, and today 1722 contract(s) were bought and sold.
+• Regarding RH RH, we observe a put option sweep with bullish sentiment. It expires in 7 day(s) on April 5, 2024. Parties traded 60 contract(s) at a $350.00 strike. This particular put needed to be split into 23 different trades to become filled. The total cost received by the writing party (or parties) was $61.2K, with a price of $1038.0 per contract. There were 0 open contracts at this strike prior to today, and today 643 contract(s) were bought and sold.
+• Regarding W W, we observe a put option sweep with bearish sentiment. It expires in 7 day(s) on April 5, 2024. Parties traded 500 contract(s) at a $65.00 strike. This particular put needed to be split into 44 different trades to become filled. The total cost received by the writing party (or parties) was $45.0K, with a price of $90.0 per contract. There were 84 open contracts at this strike prior to today, and today 576 contract(s) were bought and sold.
+• Regarding LCID LCID, we observe a call option trade with bullish sentiment. It expires in 658 day(s) on January 16, 2026. Parties traded 366 contract(s) at a $3.50 strike. The total cost received by the writing party (or parties) was $34.0K, with a price of $93.0 per contract. There were 756 open contracts at this strike prior to today, and today 400 contract(s) were bought and sold.
+• Regarding GM GM, we observe a put option sweep with bullish sentiment. It expires in 49 day(s) on May 17, 2024. Parties traded 1250 contract(s) at a $42.00 strike. This particular put needed to be split into 29 different trades to become filled. The total cost received by the writing party (or parties) was $75.0K, with a price of $60.0 per contract. There were 1531 open contracts at this strike prior to today, and today 282 contract(s) were bought and sold.
+• For PAG PAG, we notice a call option trade that happens to be bearish, expiring in 49 day(s) on May 17, 2024. This event was a transfer of 13 contract(s) at a $115.00 strike. The total cost received by the writing party (or parties) was $62.9K, with a price of $4840.0 per contract. There were 1204 open contracts at this strike prior to today, and today 277 contract(s) were bought and sold.
+
+Options Alert Terminology
+
+ - Call Contracts: The right to buy shares as indicated in the contract.
+
+ - Put Contracts: The right to sell shares as indicated in the contract.
+
+ - Expiration Date: When the contract expires. One must act on the contract by this date if one wants to use it.
+
+ - Premium/Option Price: The price of the contract.
+
+For more information, visit our Guide to Understanding Options Alerts or read more about unusual options activity.
+
+This article was generated by Benzinga's automated content engine and reviewed by an editor.

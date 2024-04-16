@@ -123,28 +123,61 @@ def getArticle(link, g):
 #         articles.append(str(link[0]) + "\n\n" + article)
 #     return articles
 
-def getNews(keyword, tS1, tS2):
+# def getNews(keyword, tS1, tS2):
+#     g = Goose({'browser_user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2)',
+#               'parser_class': 'soup', 'strict': False})
+#     # t1 = datetime.fromtimestamp(time.mktime(time.strptime(tS1, "%Y-%m-%d")))
+#     # t2 = datetime.fromtimestamp(time.mktime(time.strptime(tS2, "%Y-%m-%d")))
+#     t1 = datetime.strptime(tS1, "%Y-%m-%d")
+#     t2 = datetime.strptime(tS2, "%Y-%m-%d")
+#     linkList = []
+#     while t1 <= t2:
+#         timeStr1 = t1.strftime("%Y-%m-%d")
+#         timeStr2 = (t1 + timedelta(days=1)).strftime("%Y-%m-%d")
+#         print(t1, timeStr1)
+#         links = getDateAndLinks(keyword, timeStr1, timeStr2)
+#         for link in links:
+#             linkList.append(link)
+#         # print(links)
+#         t1 += timedelta(days=2)
+#     articles = []
+#     for link in linkList:
+#         # print(link)
+#         article = getArticle(link[1], g)
+#         if article == "" or article == None or article == "Please enable JS and disable any ad blocker" or article == "Keep me logged in from this computer." or article.startswith("Access to this page has been denied because we believe you are using automation tools to browse the website."):
+#             continue
+#         articles.append(str(link[0]) + "\n\n" + article)
+#     return articles
+
+def saveNews(keyword, tS1, tS2, path):
     g = Goose({'browser_user_agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2)',
               'parser_class': 'soup', 'strict': False})
     # t1 = datetime.fromtimestamp(time.mktime(time.strptime(tS1, "%Y-%m-%d")))
     # t2 = datetime.fromtimestamp(time.mktime(time.strptime(tS2, "%Y-%m-%d")))
     t1 = datetime.strptime(tS1, "%Y-%m-%d")
     t2 = datetime.strptime(tS2, "%Y-%m-%d")
-    articles = []
+    linkList = []
     while t1 <= t2:
         timeStr1 = t1.strftime("%Y-%m-%d")
         timeStr2 = (t1 + timedelta(days=1)).strftime("%Y-%m-%d")
         print(t1, timeStr1)
         links = getDateAndLinks(keyword, timeStr1, timeStr2)
-        print(links)
         for link in links:
-            # print(link)
-            article = getArticle(link[1], g)
-            if article == "" or article == None or article == "Please enable JS and disable any ad blocker" or article == "Keep me logged in from this computer." or article.startswith("Access to this page has been denied because we believe you are using automation tools to browse the website."):
-                continue
-            articles.append(str(link[0]) + "\n\n" + article)
+            linkList.append(link)
+        # print(links)
         t1 += timedelta(days=2)
-    return articles
+    # articles = []
+    index = 0
+    for link in linkList:
+        index += 1
+        # print(link)
+        article = getArticle(link[1], g)
+        if article == "" or article == None or article == "Please enable JS and disable any ad blocker" or article == "Keep me logged in from this computer." or article.startswith("Access to this page has been denied because we believe you are using automation tools to browse the website."):
+            continue
+        # articles.append(str(link[0]) + "\n\n" + article)
+        with open(path + str(index) + '.txt', 'w', encoding='UTF-8') as outfile:
+            outfile.write(str(link[0]) + "\n\n" + article)
+    # return articles
 
 # Parse time from string
 #   ex) "Tue, 02 Apr 2024 13:07:16 GMT"
@@ -179,10 +212,8 @@ def parseTime(timeStr):
 # -----------------
 # | 파일로 저장하기 2 |
 # -----------------
-articles = getNews('TSLA', "2023-04-05", "2024-04-05")
-for index in range(len(articles)):
-    with open('./test4/' + str(index+1) + '.txt', 'w') as outfile:
-        outfile.write(articles[index])
+# saveNews('TSLA', "2024-03-05", "2024-04-04", "./test5/")
+saveNews('TSLA', "2021-04-05", "2024-04-04", "./test5/")
 
 
 # # -----------------

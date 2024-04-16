@@ -1,0 +1,27 @@
+Tue, 02 Apr 2024 07:00:00 GMT
+
+The YieldMax TSLA Option Income ETF (TSLY) stock continued its remarkable collapse this week as the Tesla (NASDAQ: TSLA) woes continued. It plunged to a low of $15 on Tuesday as the Tesla shares retreated by over 5% after its weak delivery numbers.
+
+Tesla stock price has become the worst-performing company in the S&P 500 index this year as it crashed by more than 32%.
+
+The sell-off continued this week after the company published its quarterly numbers and reduced its forward guidance. Tesla delivered 386,810 vehicles in Q1 after producing 433,371 vehicles. These numbers were much lower than what most analysts were expecting.
+
+Tesla, the biggest automobile company in the world, is facing major headwinds as demand slows down dramatically around the world. It is struggling to move from the early adoption phase to mass adoption.
+
+Most importantly, the company is now facing substantial competition from both American and Asian companies. In China, the company is competing with the likes od Nio, Li Auto, BYD, and Xpeng. And most recently, it has started competing with Xiaomi , which introduced its SU7 brand.
+
+The biggest concern for Tesla, in my view, is that China could do for the EV sector what it did for the steel and solar panels industry. Backed by Beijing, these companies overproduced, leading to a sharp decline in steel and solar prices.
+
+For a long time, the theory was that Chinese-made electric vehicles were of a lower quality. Recently, however, these companies have proven people wrong by generating some of the top reviews in the industry. They are also often selling for lower prices than Teslas.
+
+The performance of the Tesla stock price has had a negative implication for the YieldMax TSLA Option Income ETF.
+
+For starters, TSLY is a popular ETF with over $724 million in assets under management (AUM). It is a fund that generates monthly income to its investors through a strategy known as a covered call, which has been used well by the likes of JEPQ and JEPI. According to its website, TSLY had a distribution rate of 60.36% and a 30-day SEC yield of 4.69%.
+
+A covered call ETF makes money using a simple approach. First, the fund allocates money to the underlying asset such as Tesla. Second, it sells call options on the asset, generating a premium, which it can distribute to its shareholders.
+
+The outcome of the trade will depend on the performance of the underlying asset. If Tesla shares rise, the fund benefits from the stock movement and the premium. If it drops, it still makes a loss but maintains the call option premium.
+
+TSLA vs TSLY ETF performance There are signs that the TSLY ETF is outperforming Tesla stock this year. Its total return, including its dividend, has dropped by 25.4% this year while TSLA has crashed by over 32%. In the long term, however, TSLY has retreated by over 16% while TSLA fell by 14.45%, as I warned before .
+
+The post TSLY ETF is beating Tesla stock in 2024: is it a good buy? appeared first on Invezz

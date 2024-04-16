@@ -1,0 +1,70 @@
+Wed, 06 Mar 2024 08:00:00 GMT
+
+It's been another banner start to the year for Wall Street. After oscillating between bear and bull markets in successive years since this decade began, the Dow Jones Industrial Average, S&P 500, and Nasdaq Composite have all climbed to record highs in 2024.
+
+Though there have been select pockets of strength fueling this surge in the broader market, Wall Street's gains primary fall on the shoulders of the "Magnificent Seven."
+
+The Magnificent Seven stocks have powered the broader market higher
+
+When I say Magnificent Seven, I'm referring to seven of the largest and most-influential businesses that have handily outperformed the benchmark S&P 500 over an extended stretch. These seven stocks are (in descending order of market cap):
+
+As noted, these stocks have run circles around the S&P 500 for quite some time.
+
+But what they've really brought to the table for investors is sustained competitive advantages, if not outright impenetrable moats in various aspects of their operations.
+• Microsoft's Windows remains the world's leading desktop operating system, while Azure accounts for a quarter of global cloud infrastructure service spending, as of Sept. 30, 2023.
+• Apple's ongoing innovation has given the iPhone a commanding market share lead among smartphones in the United States. The former largest company in the world also boasts the beefiest share repurchase program on the planet.
+• Nvidia's has become the infrastructure foundation of the artificial intelligence (AI) movement. Its A100 and H100 graphics processing units (GPUs) may account for up to a 90% share of GPUs in use in AI-accelerated data centers this year.
+• Amazon's online marketplace accounted for nearly 38% of U.S. online retail sales last year. Further, Amazon Web Services tops Microsoft's Azure as the leading global provider of cloud infrastructure services.
+• Alphabet's Google is a practical monopoly, with almost a 92% share of worldwide internet search in February. Meanwhile, Google Cloud is the global No. 3 cloud infrastructure provider, and YouTube is the second most-visited social site.
+• Meta Platforms oversees the top social media assets, which includes Facebook, WhatsApp, and Instagram. Meta's family of apps attracted close to 4 billion monthly active users in the December-ended quarter.
+• Tesla is North America's leading electric-vehicle (EV) maker and the first automaker to build itself from the ground up to mass-production in over a half-century. It's also the only pure-play EV maker generating a recurring profit, based on generally accepted accounting principles (GAAP).
+
+Despite these well-defined competitive edges, the outlooks for these seven companies could differ greatly. As we motor into March, one Magnificent Seven stock stands out as a bargain hiding in plain sight, while another highflier is liable to contend with mounting headwinds.
+
+The Magnificent Seven stock to buy hand over fist in March: Alphabet
+
+Among the seven long-term outperformers listed above, the most-attractive Magnificent Seven stock for opportunistic investors in March is Alphabet.
+
+If Alphabet can be faulted for anything, it's being a cyclical company. Last year, 76% of the company's $86.3 billion in net sales were traced back to advertising. If the U.S. economy were to dip into a recession, it's practically a given that businesses would pare back their ad budgets. At the moment, a few money-based metrics and predictive indicatorsdo signal a high likelihood of an economic downturn in the not-too-distant future.
+
+However, economic cycles aren't even. Whereas no recession since the end of World War II has lasted longer than 18 months, there have been two periods of growth that sustained for longer than a decade. Advertising-driven businesses like Alphabet (and Meta, since we're discussing the Magnificent Seven) are primed for long-term upside as the U.S. economy expands.
+
+There's no question that Alphabet's internet search segment Google is its foundation. A nearly 92% share of worldwide search makes Google the undisputed company businesses are going to seek out for ad placement in order to target consumers. More often than not, Alphabet should enjoy exceptional ad-pricing power.
+
+But as I've noted in the past, the Alphabet growth story is about far more than just its dominant internet search engine. Google Cloud has gobbled up about 10% of the global cloud infrastructure service market. Enterprise spending on cloud services is still in its relatively early stages, which suggests this segment can grow by a sustained double-digit pace.
+
+What's more, Google Cloud delivered its first year of operating profits in 2023 after multiple years of losses. Cloud services consistently boast higher margins than advertising, which suggests Alphabet's cash flow growth is set to accelerate in the coming years.
+
+YouTube is a beast, too. Daily views of Shorts (short-form videos often lasting less than 60 seconds), which were introduced in 2021, have catapulted from 6.5 billion in early 2021 to more than 50 billion in early 2023. This should help the company draw in advertisers, as well as boost high-margin subscriptions to YouTube.
+
+Lastly, Alphabet remains historically inexpensive. Since Alphabet reinvests a lot of what it generates from its operations, cash flow is the best metric to value the company. Investors can buy Alphabet shares right now for a little over 12 times forward-year cash flow estimates, which is a 31% discount to its trailing-five-year cash flow multiple.
+
+The Magnificent Seven stock to avoid like the plague in March: Nvidia
+
+However, not every Magnificent Seven stock is poised for continued glory. Among the seven most-influential companies driving Wall Street higher over the past year and change, it's semiconductor stock Nvidia that should be avoided like the plague.
+
+To be fair, Nvidia has enjoyed ample competitive advantages in the AI arena. GPU scarcity has driven prices of its A100 and H100 chips to the moon, which in turn allowed the company to more than double its sales last year. While Nvidia's rise has been meteoric, the company is set to face headwinds galore.
+
+One of Nvidia's biggest problems is itself. As supply chain issues ease and Nvidia expands production of its A100 and H100 GPUs to meet more demand, scarcity of GPUs will decline. Price-driven scarcity accounted for the bulk of Nvidia's sales gains last year, as evidenced by cost of revenue declining through the first six months of fiscal 2024 (ended Jan. 28). As Nvidia expands production, it'll likely cannibalize its own margins.
+
+Nvidia will also have competition coming at it from all angles. Advanced Micro Devices is stepping up the rollout of its MI300X AI-GPU, while Intel is set to begin fulfilling orders for its Gaudi3 AI-GPU later this year.
+
+The real concern is that many of Nvidia's biggest customers are also developing AI data center chips of their own. This includes Microsoft, Meta Platforms, Amazon, and Alphabet, which account for nearly 40% of Nvidia's sales. Not only is it highly unlikely that these four companies will sustain recent purchase activity from Nvidia, but the AI chips they're developing will lessen future reliance on the current AI kingpin.
+
+Regulators aren't doing Nvidia any favors, either. On two separate occasions, U.S. regulators have restricted exports of high-powered AI chips to China. This includes AI GPUs that Nvidia had developed specifically for the world's No. 2 economy after regulators initially clamped down on exports. Regulators could be costing Nvidia billions of dollars in sales each quarter.
+
+Following the money of company insiders is another reason to avoid Nvidia like the plague. While there have been plenty of sales, there hasn't been a single insider purchase in more than three years. Insiders only buy for one reason: they believe the stock will head higher. If they aren't adding, why should you?
+
+But maybe the biggest concern for Nvidia and its shareholders is that every next-big-thing investment trend over the past 30 years has endured an initial bubble. Investors commonly overestimate the adoption of new technology and innovation; and it appears to be happening in real time, once again.
+
+Nvidia is valued at close to 34 times its trailing-12-month sales, which is a valuation reminiscent of Cisco Systems during the height of the dot-com bubble. This makes Nvidia an interesting story stock, but one to avoid like the plague for investment purposes in March.
+
+Should you invest $1,000 in Alphabet right now?
+
+Before you buy stock in Alphabet, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Alphabet wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Stock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than tripled the return of S&P 500 since 2002*.
+
+John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. Randi Zuckerberg, a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark Zuckerberg, is a member of The Motley Fool's board of directors. Sean Williams has positions in Alphabet, Amazon, Intel, and Meta Platforms. The Motley Fool has positions in and recommends Advanced Micro Devices, Alphabet, Amazon, Apple, Cisco Systems, Meta Platforms, Microsoft, Nvidia, and Tesla. The Motley Fool recommends Intel and recommends the following options: long January 2023 $57.50 calls on Intel, long January 2025 $45 calls on Intel, long January 2026 $395 calls on Microsoft, short February 2024 $47 calls on Intel, and short January 2026 $405 calls on Microsoft. The Motley Fool has a disclosure policy.

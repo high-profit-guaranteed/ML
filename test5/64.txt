@@ -1,0 +1,61 @@
+Sat, 09 Mar 2024 08:00:00 GMT
+
+The fallout from a slowdown in EV demand continues to spread beyond just the makers of electric vehicles.
+
+One group that has seen double-digit declines in the past 12 months is charging network stocks.
+
+Shares of network operator Blink (BLNK) are down roughly 64% over the past year while charging hardware and software maker ChargePoint (CHPT) is 81% lower during the same period. Network owner and operator EVgo's (EVGO) stock is down 55% in the past year.
+
+All are trading below their consensus target prices.
+
+"Similar to the EV space as a whole, particularly in the last half of 2023, you saw the space come under pressure from a stock price perspective ... EV charging has had [a] similar performance," Brett Castelli, equity analyst at Morningstar, told Yahoo Finance. Castelli has a Hold rating on both charging stocks he covers, ChargePoint and EVgo.
+
+Charging network companies face a tough competitive landscape. EV giant Tesla (TSLA) continues to be a dominant player in the fast charger industry. Last year legacy automakers Ford (F) and GM (GM) agreed to use the company's electric vehicle charging network, putting pressure on shares of Blink, ChargePoint, and EVgo.
+
+Adding to investor concerns is that the smaller players in this market aren't fully profitable yet.
+
+"The big picture on these stocks ... their business models are still at an earlier stage, and so the key focus for investors is really on proving out the business model and achieving profitability," Castelli said.
+
+EVgo expects to reach profitability on an adjusted EBITDA basis in 2025 while ChargePoint anticipates reaching the threshold in the fourth quarter of this year. Blink Charging expects to be profitable on an adjusted basis by the end of 2024.
+
+'Build it and they will come'
+
+The year-over-year plunge in these stocks comes as the electric vehicle industry has been aggressively working to address one of the challenges facing faster, broader adoption of EVs: range anxiety and too few charging stations.
+
+Government funding such as an estimated $5 billion from the National Electric Vehicle Infrastructure program (NEVI) and incentives from the Inflation Reduction Act aim to expand the country's charging infrastructure to meet the Biden administration's goal for least 50% of vehicle sales to be electric by 2030.
+
+"Tesla's supercharger network is the biggest game in town for fast charging. There's going to be a catch-up, though, in the coming years and a big part of the buildout of fast charging going forward is going to be from federal funds," said Castelli.
+
+"There's a gold rush right now to capture these federal funds because it can cover a material part of the cost of a charging station. We're not talking 10%, we're talking half of a charging station cost," he added.
+
+The number of EV charging stations in the US increased by nearly 24% last year, according to iSeeCars research. The study looked at the most charger-friendly states based on a ratio of residents per charging unit.
+
+Vermont, California, and Massachusetts topped the friendliest states, while Mississippi, Louisiana, and Alaska were the least friendly states. The most improved state for charging friendliness was Connecticut, while Alaska took the spot for the least improved.
+
+"The idea is: Build it and they will come," Ramanan Krishnamoorti, vice president for energy and innovation at the University of Houston, told Yahoo Finance.
+
+"If you start to get the infrastructure in place, some of the biggest challenges that EV drivers face, which is range anxiety and charge access, starts to diminish," he said.
+
+One positive sign for charging stocks long term is that utilization, which measures when and how often drivers charge their vehicles at the stations, is growing.
+
+Earlier this week EVgo stock soared more than 10% after the owner and operator of direct-current fast chargers reported its customer accounts jumped by 60% year over year and its top line almost tripled, most of it stemming from charging revenue.
+
+"Our revenue is growing faster than the growth of EVs," EVgo CEO Badar Khan said during the company's earnings call on Wednesday.
+
+Rideshare drivers are increasingly becoming a bigger mix of the fast charger customer base. Uber (UBER) is aiming to use electric vehicles for 100% of rides offered in the US by 2030. Meanwhile, New York City's Mayor Eric Adams recently outlined an initiative that requires all rideshare vehicles to be electric by the end of the decade.
+
+"Rideshare drivers on average charge 5x more than our average retail customer," said Khan during the earnings call.
+
+One industry tracker points to signs that the profitability goalpost for non-Tesla-operated networks could be close. Research from software startup Stable Auto, which tracks charging networks, shows growing utilization rates for direct-current fast chargers, or DCFCs.
+
+“Historically it was very much true that Tesla was the dominant player: more chargers, higher utilization rates, more vehicles," Rohan Puri, CEO of Stable Auto, told Yahoo Finance.
+
+"What we’re seeing now is there is utilization happening on non-Tesla locations which is getting pretty high too," he added.
+
+"Utilization data reveals that DCFCs, once deemed poor investments due to low utilization, are now becoming profitable across many US states" according to the research, which does not include Tesla superchargers.
+
+The study shows charging stations across 19 states in the South, Southeast, and Northeast currently have a utilization rate greater than 15%, a threshold that indicates the likelihood of profitability. A couple of years ago, that stood at 4% to 5% on average, Puri said.
+
+"The narrative that we've been hearing about slowing EV adoption seems to counter, seems to be different from what we're seeing in utilization rates...EV adoption maybe it's slowing, but it's still growing enough that utilization rates are increasing," said Puri.
+
+Ines Ferre is a senior business reporter for Yahoo Finance. Follow her on Twitter at @ines_ferre.

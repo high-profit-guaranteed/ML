@@ -1,0 +1,43 @@
+Mon, 01 Apr 2024 07:00:00 GMT
+
+Electric vehicle maker Tesla (NASDAQ: TSLA) has pursued full self-driving (FSD) technology for years. While it's not there yet, the company seems to have gotten closer based on its optimism on version 12.3 of its FSD software.
+
+It's a big deal, because Tesla's opportunity to implement FSD software in multiple ways, from licensing to robotaxis, has long been a critical pillar in a long-term investment thesis.
+
+How is FSD different from past versions, and what hints does Tesla give about its confidence in the technology? More importantly, does this development make the stock a buy? Here is what you need to know.
+
+Version 12.3 is different than the others
+
+Why did version 12.3 of Tesla's FSD software catch my attention? Tesla CEO Elon Musk has pushed this version publicly, arguably more so than any recent version. This is evidenced by a companywide mandate that all new Tesla deliveries would include a demo of the FSD technology for customers. Additionally, the company has begun marketing FSD's capabilities more aggressively, though it's doing so with the word supervision slipped in.
+
+The company has commented on social media videos of FSD in action, stating, "Under your supervision, FSD V12.3 can drive your Tesla almost anywhere." The company has also started rolling out a 30-day free trial of FSD for U.S. customers. Again, version 12.3 isn't perfect, but the uptick in publicity seemingly signals increased confidence in the technology.
+
+What's the significant technological difference from previous versions? Elon Musk stated in the company's fourth-quarter earnings call that it had replaced 330,000 lines of coding with neural nets, technology that wasn't available several years back. It's using artificial intelligence (AI) for the first time for planning logic and vehicle controls.
+
+This leap in progress in version 12.3 could signal that computing technology is finally becoming advanced enough to move closer to perfecting FSD. What will FSD look like in a year? Three years from now? This is where having a long-term mindset can give you an advantage.
+
+Is this the beginning of a business transition?
+
+For the time being, Tesla is having a tough time. The company's deliveries have struggled, as high interest rates make vehicle loans more expensive. The electric vehicle market is also a bit soft right now. Tesla cut prices to try to spur demand, creating a double whammy of deteriorating growth and profit margins.
+
+The optimistic argument is that FSD becomes a more significant part of the business. FSD is software, so it will have far higher profit margins than the vehicles, essentially creating a razor-and-blade business model where the car sells cheaply and the profit comes from the recurring software revenue that pours in over the vehicle's lifespan.
+
+Ultimately, it's too early to tell whether Tesla is evolving into this lucrative model or if it will resemble a traditional automotive company over the long term. The lack of clarity explains why shares are down over 50% from their high.
+
+Tesla could be a bargain in hindsight
+
+Simply put, if you don't believe that FSD can be achieved, Tesla probably isn't a stock for you. However, if it does work, Wall Street could look back at this moment as a great buying opportunity. Analysts believe earnings will grow by 18% annually over the next three to five years. I'll admit that Tesla's forward P/E of 58 feels a bit lofty if these estimates are accurate.
+
+However, the success of FSD could make these estimates virtually irrelevant. Some believe that autonomous driving will grow to become a $2.2 trillion industry by 2030. Even without FSD, Tesla has many opportunities, including robotics, AI, and new EV models like the Cybertruck. With Tesla, you almost have to consider the company's track record and narrative as much as traditional valuation metrics.
+
+Those who believe the company can deliver should consider buying shares slowly, utilizing a dollar-cost averaging approach to steadily build a position over time. That way, investors aren't fully committed and can monitor how Tesla's FSD develops over the coming quarters.
+
+Where to invest $1,000 right now
+
+When our analyst team has a stock tip, it can pay to listen. After all, the newsletter they have run for two decades, Motley Fool Stock Advisor, has more than tripled the market.*
+
+They just revealed what they believe are the 10 best stocks for investors to buy right now… and Tesla made the list -- but there are 9 other stocks you may be overlooking.
+
+Justin Pope has no position in any of the stocks mentioned. The Motley Fool has positions in and recommends Tesla. The Motley Fool has a disclosure policy.
+
+Tesla's Strides in This Game-Changing Technology Make the Stock a Magnificent Buy was originally published by The Motley Fool

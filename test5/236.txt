@@ -1,0 +1,7 @@
+Wed, 20 Mar 2024 07:00:00 GMT
+
+Looking at the chart above, SPYG's low point in its 52 week range is $52.99 per share, with $73.35 as the 52 week high point — that compares with a last trade of $72.78. Comparing the most recent share price to the 200 day moving average can also be a useful technical analysis technique -- learn more about the 200 day moving average ».
+
+Exchange traded funds (ETFs) trade just like stocks, but instead of ''shares'' investors are actually buying and selling ''units''. These ''units'' can be traded back and forth just like stocks, but can also be created or destroyed to accommodate investor demand. Each week we monitor the week-over-week change in shares outstanding data, to keep a lookout for those ETFs experiencing notable inflows (many new units created) or outflows (many old units destroyed). Creation of new units will mean the underlying holdings of the ETF need to be purchased, while destruction of units involves selling underlying holdings, so large flows can also impact the individual components held within ETFs.
+
+Click here to find out which 9 other ETFs had notable inflows »

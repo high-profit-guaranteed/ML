@@ -1,0 +1,19 @@
+Mon, 01 Apr 2024 07:00:00 GMT
+
+Tesla Inc TSLA executive Rohan Patel on Sunday sought to explain the delay in deploying version 12 of the company’s full self-driving (FSD) software in certain Model S and X vehicles.
+
+What Happened: X user and Tesla driver Anthony Spina took to X to flag that despite paying for FSD capability, he is yet to get version 12 of the software though several who have not paid for the capability are experiencing it as part of a 30-day free trial.
+
+While the company “normally” prioritizes its paid FSD customers, a group of Model S/X customers have different hardware which the company is trying to validate before sending out the new version, Patel, who is vice president of Public Policy and Business Development at Tesla, responded. However, this group accounts for merely 3% of total FSD-eligible vehicles, he added.
+
+“We don't want to give false precision on timing until the validation can be completed, but want you to know we are focused on trying to solve this,” Patel wrote on X without giving a detailed timeline. However, the company’s software engineers and validation teams are working on it, he assured the customer.
+
+Why It Matters: Tesla started rolling out free FSD trials to Tesla owners in the U.S. who did not purchase it over the weekend and has received many positive reviews. The free trial is aimed at allowing drivers to experience the software that Tesla says will enable fully autonomous driving in due time and inspire them to either buy the software or subscribe to it.
+
+In June 2023, the CEO pegged vehicle autonomy as the main driver of the brand’s market value.
+
+“The value of the company is primarily on the basis of autonomy,” Musk then said at the VivaTech conference in Paris. “That’s really, I think, the main driver of our value.”
+
+Check out more of Benzinga's Future Of Mobility coverage by following this link.
+
+Read Next: Tesla CEO Elon Musk Draws Comparison Between Looi And Butter Robot From Rick And Morty

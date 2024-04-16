@@ -1,0 +1,27 @@
+Wed, 13 Mar 2024 07:00:00 GMT
+
+Tesla, Inc. TSLA shares closed modestly lower on Tuesday, continuing their struggle to gain momentum since the company’s second-quarter results in July 2023. This lackluster performance coincides with Tesla remaining a favorite target for short sellers.
+
+What Happened: A report by securities lending firm Hazeltree reveals that Tesla retained its position as the most-shorted large-cap stock in the U.S. for the second consecutive month in February. It ended last year on the same note.
+
+The Hazeltree Crowdedness Score (HCS) assigned to Tesla was 99, the highest among large-cap stocks. This score indicates the percentage of funds shorting the stock, with 99 representing the highest level of short interest.
+
+Chevron Corp. CVX and Exxon Mobil Corp. XOM followed closely with HCS scores of 94 and 92, respectively. This high short interest comes despite the rebound in oil prices after a sluggish 2023.
+
+Apple Inc. AAPL saw a decrease in short interest, with its HCS dropping from 84 in January to 76 in February, indicating that some fund managers might view the recent 10% decline in Apple’s stock price as an overreaction and anticipate a potential reversal.
+
+Super Micro Computer, Inc. SMCI, riding the wave of the AI revolution, saw its HCS climb to 87, placing it high on the most-shorted list. Similarly, broadband and cable operator Charter Communications, Inc. CHTR also shared an HCS of 87.
+
+See Also: Best Short Squeeze Stocks
+
+High short interest indicates investor pessimism towards a stock. Tesla has been on a broader downtrend since its November 2021 peak of $413.29.
+
+Global economic uncertainty led to decreased consumer spending, impacting discretionary products like cars, with electric vehicle adoption suffering significantly.
+
+To combat this, Tesla implemented an aggressive pricing strategy aimed at eliminating competition. However, this backfired as rivals, particularly in China, followed suit with their own price cuts. Consequently, Tesla’s auto gross margin (excluding regulatory credits) began to decline.
+
+Tesla’s management has not effectively addressed investor concerns, opting for limited communication. This has led most analysts to shift their focus towards the company’s ancillary businesses to justify their investment thesis, as the core auto segment fails to inspire confidence.
+
+Price Action: Tesla closed Tuesday’s session down 0.13% at $177.54, according to Benzinga Pro data.
+
+Read Next: First Of Many Wall Street Cuts For Tesla? Fund Manager Sees Domino Effect In Motion After Deutsche Bank Lowers Delivery Estimate

@@ -1,0 +1,43 @@
+Fri, 29 Mar 2024 07:00:00 GMT
+
+Already in 2024 there has been a major reshuffling among the companies I call “Cloud Czars.”
+
+Microsoft (NASDAQ: ) has passed Apple (NASDAQ: ), while Meta Networks (NASDAQ: ) has gained on the pack and Amazon.Com (NASDAQ: ) is up substantially. Apple is a special case because most of their business is outside cloud.
+
+The cloud laggard is Alphabet (NASDAQ: , NASDAQ: ), also known as Google. It’s doing no better than the average S&P stock. It’s the weakest of the Czars.
+
+But it’s still worth buying, simply because it is one.
+
+I distinguish between the Cloud Czars and the two outliers in the “Magnificent 7” – Nvidia (NASDAQ: ) and Tesla (NASDAQ: ) – for a good reason.
+
+It’s the cloud itself that gives the biggest tech companies their power. All five of the Czars made the decision a decade ago to invest their cash flow into hyperscale, networked data centers.
+
+Google came first. Its focus on search forced it to seek solutions to the problems of scale. It found them in parallel processing, in virtualization, in low-cost hardware and in open source. These were the pillars of all that came after. They’re at the heart of power in the 21st century economy.
+
+Once you commit your cash flow to the cloud, you’re the conduit through which everything else flows. Google delivers precisely targeted ads that are clearly the low-cost way for getting a message out. This is true whether you’re talking text or video. It brings in a quarter-trillion dollars in revenue each year, earned at nominal cost.
+
+Generative Artificial Intelligence (GenAI) kicked off the second generation of the Cloud Era when OpenAI was announced on November 30, 2022.
+
+Google wasn’t ready for it. Its Gemini, formerly Bard, remains well behind ChatGPT in capability.
+
+But it doesn’t matter. Google is putting $50 billion into capital spending this year. That’s still just half of its 2023 free cash flow. The fastest growing part of Google today is Google Cloud. Its revenue was up 25% in the last quarter, compared with the year before. It’s also making a profit.
+
+Anyone who wants to buy GenAI services, or build their own, must pay a Cloud Czar for the privilege. Google now has 25 data centers around the world, which it’s upgrading with the latest Nvidia chips and software.
+
+It would be nice if Gemini were more competitive with Microsoft’s Co-Pilot. It’s not necessary. Google’s infrastructure will remain in high demand. Google Cloud’s growth will accelerate.
+
+Fears around Gemini have made Google a cheap stock, for a Cloud Czar.
+
+Its price to earnings ratio of 26 pales in comparison to those of Microsoft, Meta, Amazon, and even Oracle (NASDAQ:ORCL), which finally got the cloud religion a few years ago.
+
+There are reasons for this. I’m not a fan of Ruth Porat, recently kicked upstairs from Chief Financial Officer to Chief Investment Officer. She cares too much about what Wall Street thinks, and not enough about what her engineers think.
+
+I also consider CEO Sundar Pichai a weak leader. He’s a bureaucrat who lacks a technology vision. Google was blindsided by ChatGPT, and its responses have up until now been weak.
+
+But these are problems that can be fixed by shuffling around some deck chairs. These are early days for GenAI and, if Google doesn’t have answers, it can still buy whoever else might. Meanwhile, on relative terms, it’s cheap as chips.
+
+You buy low and sell high. So long as Google is low man among the Cloud Czars it’s a no-brainer for an investor to buy and hold through this decade.
+
+As of this writing, Dana Blankenhorn had LONG positions in NVDA, MSFT, AMZN AAPL and GOOGL. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.
+
+Dana Blankenhorn has been a financial and technology journalist since 1978. He is the author of Technology’s Big Bang: Yesterday, Today and Tomorrow with Moore’s Law, available at the Amazon Kindle store. Write him at danablankenhorn@gmail.com, tweet him at @danablankenhorn, or subscribe to his free Substack newsletter.

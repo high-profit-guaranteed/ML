@@ -1,0 +1,45 @@
+Tue, 05 Mar 2024 08:00:00 GMT
+
+As an EV stalwart that pioneered the modern adoption of electric-powered mobility, Tesla (NASDAQ:TSLA) needs no introduction. However, the combination of intense competition and economic headwinds has weighed on the technology juggernaut. Questions are starting to emerge, convincing many options traders to bet against the company. Subsequently, I am bearish on TSLA stock because the underlying entity’s actions are speaking louder than its words.
+
+Let’s get right into it. Following last Friday’s close, options flow screeners – which focus exclusively on big block transactions likely placed by institutional investors – saw unusual activity in Tesla, as determined by the magnitude difference between volume and open interest.
+
+Open interest is exactly what it sounds like — the total number of contracts held by traders (as in not closed) at the end of each session. So, when statistically large volume enters an otherwise stable or quiet options contract, the dynamic inherently piques curiosity. On Friday, several of these aberrant trades focused on either bought puts or sold calls.
+
+For example, with a little over an hour before the March 1 session closed, a major trader (or traders) bought 6,066 contracts of the Mar 15 ’24 250.00 Put, paying a premium of nearly $8.21 million for the privilege. At the same time, the options flow screener recorded a transaction for 1,680 contracts bought of the Jun 21 ’24 320.00 Put. The premium paid here was $7.6 million.
+
+With these two puts, the idea appears to be to speculate on a quick downward move in TSLA stock. For example, the aforementioned $250 put closed at a price of $47 last Friday. Using an options calculator (which utilizes the Black-Scholes model to estimate contract value), if TSLA stock closed at $195 by Tuesday’s end, the contract could potentially be worth $54.86. In other words, a 3.8% dip from Friday’s close could yield a 16.7% profit.
+
+Depending on the framework for multiple other possible permutations, this $195 near-expiry put could be very lucrative.
+
+That’s not all. The options flow screener also picked up large transactions involving sold calls. For example, a trader (or traders) sold 3,022 contracts of the Mar 28 ’24 215.00 Call, receiving a premium of about $1.16 million.
+
+In this situation, traders appear to be betting that TSLA stock will not go past $215 by the March 28 expiration date; otherwise, the call writer may be forced to fulfill the terms of the contract (i.e. sell TSLA at the $215 strike price).
+
+During the time when Tesla was busy steadily evangelizing the benefits of electric mobility – specifically its brand of mobility – bullish speculators couldn’t get enough of TSLA stock. From the doldrums of the COVID-19 pandemic, the EV manufacturer went into overdrive. As the International Energy Agency commented, global electric car sales defied the pandemic in 2020.
+
+Unfortunately for TSLA stock and the rest of the ecosystem, those glory days are likely gone. While U.S. consumers generally weathered the crisis relatively well thanks to unprecedented governmental intervention, even they couldn’t withstand the onerous headwinds of stubbornly elevated inflation and subsequent high borrowing costs. And even though Tesla buyers tend to be wealthier than the average American worker, the economic malaise is clearly impacting the company.
+
+How can one be so sure? Simple – investors just need to look at what the company’s doing.
+
+As TipRanks reporter Radhika Saraogi pointed out last year, Tesla has been cutting prices for its vehicles both here and abroad. Essentially, CEO Elon Musk is prioritizing volume sales over gross margin performance. However, he may find this policy easier said than done.
+
+Between 2021 through 2023, Tesla’s revenue expanded at a compound annual growth rate (CAGR) of 21.63%. However, U.S. battery plug-in EV unit sales enjoyed a CAGR of 22.85% during the same period. Stated differently, Tesla is underperforming the industry, likely because of the combination of challenging economics and rising competition.
+
+Circumstances might worsen from here. As premium-level competitors like Rivian Automotive (NASDAQ:RIVN) demonstrate, the low-hanging fruit is gone. This means that well-off consumers who were interested in EVs have likely already bought them. Moving forward, Tesla will have to compete for the middle-income consumer.
+
+However, that’s the domain of the legacy automakers, who enjoy longstanding brand loyalty and economies of scale. It’s not that Tesla can’t compete – it’s just that it must expend more “energy” to do so.
+
+The increased energy expenditure then poses a problem for TSLA stock in terms of its valuation. Right now, shares trade hands for 45x trailing-year earnings. That’s wildly hot for the auto manufacturing industry, which runs an average multiple of 19.5x.
+
+Of course, the argument for TSLA stock has been that its underlying innovations demand a higher multiple. That might have been the case earlier. However, we’re in an environment where again, Tesla’s sales growth underperforms that of the core domestic industry.
+
+In my opinion, TSLA stock needs to be either offered at a discount or provide passive income to reflect this new reality. Options traders appear to be thinking ahead, which may explain the bearish derivative positions.
+
+Is TSLA Stock a Buy, According to Analysts?
+
+Turning to Wall Street, TSLA stock has a Hold consensus rating based on 11 Buys, 19 Holds, and five Sell ratings. The average TSLA stock price target is $211.58, implying 4.41% upside potential.
+
+The Takeaway: The Honeymoon Is Over for TSLA Stock
+
+While Tesla undoubtedly represents one of the most important businesses, it’s also facing new realities. No longer the latest thing in town that everyone wants to buy, the EV maker must compete with more rivals in an economically restrictive environment. Given these challenges, TSLA stock appears overpriced, which explains why many options traders see implied value to the downside.

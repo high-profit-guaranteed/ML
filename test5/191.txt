@@ -1,0 +1,21 @@
+Fri, 15 Mar 2024 07:00:00 GMT
+
+Tesla (TSLA) held the launch of the top-end “Performance” variant of the new Model 3 Highland globally when it introduced it last year. Still, to date, only the base RWD and Long Range AWD versions are available for sale.
+
+However, some evidence has surfaced online that shows that the Model 3 Highland Ludicrous is just around the corner. By looking at the source code of the Tesla Model 3 online car configurator, we can find the Ludicrous variant mentioned in it.
+
+Tesla enthusiast Justin (@hoonigan37) tracked the Ludicrous Model 3 in the configurator first. When I saw his tweet, I checked it myself — and yes, it was there. I dug a bit deeper into the code (thanks to my Web Dev background), and I found a few more details.
+
+The more interesting aspect of this reveal is that the online configurator source code also contains the range and vital performance figures of the new Tesla Model 3 Highland Ludicrous variant. According to this leaked information, the Ludicrous Model 3 has the following specs:
+
+Update: These values might be placeholders in the car configurator code, so the final specs at launch might differ. Stay tuned, as we will be posting an update as the new Model 3 Highland Ludicrous becomes available for sale.
+
+The Performance variant of a Tesla vehicle has a lower range compared to the mid-tier Long Range variant. This is primarily because both vehicles have the same battery pack capacity installed. To provide optimum performance, acceleration, and speed, the owners will have to compromise on the range a bit.
+
+While the Long Range AWD Model 3 Highland goes 341 miles on a single charge (EPA est.), the Model 3 Ludicrous will output 310 miles (499 km). The degradation of 31 miles is a bargain for the bumped-up performance specs.
+
+The Ludicrous version of the new Model 3 Highland is currently appearing in the backend code of both the US and European Tesla car configurations. This suggests that this version might be simultaneously launched in Europe along with the US.
+
+The improved performance figures of the Model 3 Highland Ludicrous are also due to the better aerodynamics as well. Tesla modified the front bumper design of the Tesla Model 3 Ludicrous and added new wheels as seen in the recent sighting in Spain.
+
+A camouflaged Tesla Model 3 Performance was also sighted in the US recently. Interestingly, it was getting transported along with the Cybertrucks. Tesla was probably shipping it from Giga Texas to the Engineering HQ in Palo Alto, California, for further testing purposes (pice below).
