@@ -1,0 +1,37 @@
+Fri, 17 May 2024 13:49:58 GMT
+
+Google on Thursday asked that a judge, rather than a jury, decide whether it violated U.S. antitrust laws by building a monopoly on the technology that powers online advertising.
+
+To bolster its case, the tech giant wrote a multimillion-dollar check to the U.S. government that it says renders moot the government's best argument for demanding a jury trial.
+
+The antitrust case set to go before a jury in Alexandria, Virginia, in September is one of two major lawsuits the Justice Department has brought against Google. While the Virginia case focuses on advertising technology, an ongoing case in the District of Columbia focuses on Google's dominance as a search engine.
+
+Both sides in the D.C. case have presented evidence and made closing arguments. A judge there will decide whether Google violated the law.
+
+Google wants a judge to decide the merits of the case in Virginia, as well. The company argues in court papers filed Thursday that it's unprecedented for a jury to decide a federal antitrust case brought by the government. It says that this case in particular involves "a complicated, intricate technology ecosystem, which DOJ has acknowledged to this Court is ‘highly technical, often abstract, and outside the everyday knowledge of most prospective jurors.’”
+
+A Department of Justice spokesperson did not immediately respond to an email seeking comment Thursday evening.
+
+Google, based in Mountain View, California, makes two primary arguments for striking the government's demand for a jury trial. For starters, Google argues that the constitutional right to a jury trial does not apply to a civil suit brought by the government.
+
+The right to a jury trial, based in the Bill of Rights, “protects citizens against the federal government, not the other way around,” Google's lawyers write in their court filing.
+
+The company acknowledges in the court papers, though, that the Justice Department has a stronger argument for demanding a jury in a case where it seeks monetary damages, as opposed to merely seeking equitable relief, like forcing Google to sell off parts of its advertising technology.
+
+In the Virginia case, the Department of Justice seeks monetary damages on behalf of federal agencies, including the Army, that it says were harmed by Google's monopolistic practices and overpaid for online ads that they purchased.
+
+In its court filing, Google contends that the damage claim was tacked on to the lawsuit at the last minute for the sole purpose of allowing them to seek a jury.
+
+The Department of Justice “manufactured a damages claim at the last minute in an attempt to secure a jury trial in a case even they describe as ‘highly technical’ and ‘outside the everyday knowledge of most prospective jurors,” the company said in a written statement Thursday.
+
+Google's filing Thursday said the company has cut a check to the government that is triple the amount of the losses the government can claim. The exact amount of the check is redacted, but in other court papers, Google said the maximum amount of damages the government was able to demonstrate during the discovery process was less than $1 million.
+
+Because the law allows antitrust damages to be trebled, the check amount would be less than $3 million.
+
+Google says it still disputes that the damages are legitimate, but says that paying the government's claimed damages eliminates the need for a jury to decide the damages question.
+
+While Google says it's unprecedented for a jury to decide a government antitrust suit, Google has defended itself in front of a jury on antitrust cases brought by private companies.
+
+Last year, a jury in San Francisco ruled in favor of Epic Games, the maker of the popular Fortnite game, in a case the company brought against Google over the Google Play store, which allows users of Android phones to download apps.
+
+In that case, Google tried unsuccessfully at the last minute to switch the trial from a jury trial to a bench trial.

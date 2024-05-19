@@ -1,0 +1,31 @@
+Sat, 18 May 2024 06:29:58 GMT
+
+Factbox-Meta Connect: All the details on Quest 3, Ray-Ban smart glasses, AI chatbots
+
+(Reuters) - Meta Platforms unveiled artificial intelligence-powered chatbots, a new mixed reality headset and Ray-Ban smart glasses at its annual products conference in Menlo Park, California.
+
+Here are the key announcements at the event:
+
+Meta released the Quest 3, which the company said was its first mainstream headset built for mixed reality. Quest 3, with double the graphic processing power of Quest 2, is powered by Qualcomm's Snapdragon XR2 Gen 2 platform.
+
+The latest headset will get over 100 new and upgraded game titles this year, and many will incorporate mixed reality experiences. Meta said Microsoft's Xbox Cloud Gaming will come to the Quest platform in December, allowing access to Halo Infinite and Minecraft Legends, among other titles.
+
+Quest 3's price starts at $499.99 and will start shipping Oct. 10.
+
+Meta unveiled more than two dozen chatbots that will work within its social media applications.
+
+The company announced Meta AI, a conversational assistant available on WhatsApp, Messenger, and Instagram, that will deliver real-time information and generate photo-realistic images from users' text prompts.
+
+Meta has partnered with Microsoft's Bing search to deliver information off the internet.
+
+Meta will add 28 more AI chatbots that will have personalities of celebrities such as Bear Grylls, Chloe Kim and Josh Richards, among others.
+
+The company announced Meta AI Studio, a platform for developers to build custom AI chatbots. These bots will have profiles on Instagram and Facebook, and users will also be able to chat with them in WhatsApp, Messenger and Instagram.
+
+The chatbots and the AI Studio will launch in beta in the United States starting Wednesday.
+
+Meta also rolled out a tool to generate AI stickers using Llama 2 and the company's image generation model called Emu, based on user prompts. The feature will roll out to select English-language users over the next month in WhatsApp, Messenger, Instagram and Facebook Stories.
+
+Meta announced new generation Ray-Ban smart glasses, priced at $299. They will start shipping on Oct. 17.
+
+Users can livestream directly from the glasses to followers on Facebook and Instagram. The smart glasses will also have Meta AI built in, with the ability to give information on the item a user is looking at.

@@ -1,0 +1,5 @@
+Fri, 17 May 2024 17:22:06 GMT
+
+LAST OCTOBER Anne Neuberger, America’s top cyber official, issued a dire warning. Cybercrime would cost the world more than $23trn by 2027, up from $8.4trn in 2022. More recently the IMF noted that cyber-attacks have doubled since the covid-19 pandemic. “The risk of extreme losses from cyber incidents is increasing,” said the fund. These could even pose “an acute threat to macrofinancial stability”. But is the economic impact of cyber-attacks really so large—or rising so fast?
+
+Data collected by Tom Johansmeyer of the University of Kent, a former senior executive at Verisk, an insurance-data firm, suggests that the truth is more complicated. In analysis first published by Binding Hook, a website focusing on cyber issues, Mr Johansmeyer considers the case of NotPetya, a Russian attack on Ukraine in 2017 designed to delete data and which inadvertently spread around the world causing more than $10bn-worth of damage. That sounds bad.

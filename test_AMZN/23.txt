@@ -1,0 +1,67 @@
+Fri, 17 May 2024 13:37:16 GMT
+
+Amazon shares have climbed to fresh all-time highs following a double beat in the last earnings report. The company is on the verge of joining the $2 Trillion Club, driven by a 4-percentage point accelerating in AWS to 17% YoY growth combined with strong 25% growth in advertising revenue. AWS surpassed a $100 billion annualized run rate in the first quarter, with management noting that they “see more absolute dollar growth again quarter-over-quarter in AWS than we can see elsewhere.”
+
+E-commerce is what Amazon is famous for, however, it’s AWS and advertising that are the core growth engines. This past quarter, the two combined for $37 billion in high-margin revenue. Analyst estimates point toward AWS and advertising exiting 2024 at a combined $160 billion revenue run rate. If this materializes, these segments will combine for one-quarter of Amazon’s total revenue while helping to drive 221% YoY growth in operating income.
+
+The synergies from strong double-digit advertising growth, an AI-driven acceleration in AWS, and an increasing cash flow margin support Amazon’s push to all-time highs. Plus, there are hints that the acceleration could continue as more GPU supply comes online, and as Amazon Prime implements ads in Prime Video.
+
+Revenue of $143.3 billion beat estimates by $0.8 billion, marking the fourth consecutive quarter of double-digit growth as Amazon’s revenue growth rate accelerated 310 bp YoY to 12.5%. EPS increased 216% YoY to $0.98, as Amazon continued to realize gains from improved operating leverage, with gross profit rising more than 53% YoY and operating income surging 221% YoY to $15.3 billion.
+
+Amazon’s North America segment and AWS both contributed to this operating income growth. North America operating income increased more 500% to $5.0 billion, from $0.9 billion last year; AWS generated $9.4 billion in operating income, up 84% YoY (and a 37.6% margin). Put another way, AWS contributed more than 61% of Amazon’s total operating income in the quarter despite contributing less than 18% of Amazon’s revenue.
+
+Not only is Amazon showing an ability to expand its gross margin from less than 15% towards 20% in 4 quarters, but it’s also driving more pronounced growth in operating margin, reaching double-digits for the first time.
+
+The tangible improvements to the bottom line are evident as the growth story unfolds. High-margin AWS and advertising revenues are also Amazon’s two fastest growing segments.
+
+AWS re-accelerated 4 percentage points to 17% YoY growth in the quarter, as CEO Andy Jassy attributed it partly due to the “combination of companies renewing their infrastructure modernization efforts and the appeal of AWS’s AI capabilities.”
+
+Growth has cooled rather dramatically since early 2022, where AWS was reporting growth rates above 30%, but at a $100B+ scale, AWS is driving the largest absolute dollar growth across the entirety of Amazon’s businesses.
+
+Amazon is not providing a distinct breakout of AI’s contribution like Microsoft Azure, yet CEO Jassy commented that AWS is seeing “considerable momentum on the AI front, where we've accumulated a multi-billion-dollar revenue run rate already.”
+
+In Q1, we saw evidence that AWS is benefiting from strong demand for generative AI offerings with management optimistic that increased capex will continue to bear fruit in terms of growth. Interestingly, operating expenses for AWS declined YoY, from $16.2 billion to $15.6 billion, aiding this growth in operating income.
+
+In addition, rival Microsoft explicitly pointed out that Azure does not have the GPU capacity to meet demand, Amazon also implied that demand is possibly higher than capacity of both third-party GPUs from Nvidia as well as for its custom silicon. Management noted that in the quarter, they “continued to meet growing demand for AWS Trainium and Inferentia chips,” and explained that a “meaningful” YoY increase in capex in 2024 is being driven by high generative AI demand.
+
+One comment in particular hints at possible capacity constraints: “given the way the AWS business model works, [the capex increase] is a positive sign of the future growth. The more demand AWS has, the more we have to procure new data centers, power, and hardware.”
+
+Reading between the lines here implies that Amazon is working to improve availability of its in-house Trainium and Inferentia chips while also expanding its data center infrastructure and purchasing more GPUs to continue to meet high demand gen AI demand. The end result is that AWS will likely accelerate again in future quarters as supply comes online.
+
+Amazon did not provide a full-year figure for capex, but management is anticipating a meaningful YoY increase this year, primarily to support AWS’ growth. Q1’s capex was $14 billion, which management expects will also “be the low quarter for the year.” This suggests 2024’s capex could easily top $60 billion, exiting the year in the mid-$60 billion range or higher, representing a YoY increase of at least 24%.
+
+We’re closely tracking Big Tech’s capex plans for 2024 and how this will flow downstream to AI hardware companies. We shared more than half a dozen reports and pre- and post-earnings updates on a handful of AI beneficiaries with our premium members. Learn more here.
+
+Advertising is Amazon’s fastest growing segment with 24% YoY growth to $11.8 billion in revenue in Q1 and its rapidly scaling. Amazon recorded its first $10B ad revenue quarter in Q4 2022, and now has reported four quarters in a row above $10B.
+
+On a TTM basis, advertising revenue was just shy of $50 billion, a 51% increase from $32 billion just two years ago. At this rate, Amazon is set to exit 2024 with ad revenues approaching $58 billion annually. Though Amazon does not break out advertising’s operating income like it does other segments, it says it “remains an important contributor to profitability in North America and International segments.” This is primarily made from sponsored ads on Amazon’s e-commerce site and the recent addition of sponsored TV ads, including on Thursday Night Football.
+
+It’s also worth noting that ad-tech typically has some of the best margins in the tech industry, exceeding cloud or e-commerce.
+
+Analysts are already quite optimistic about the revenue trajectory and potential for Prime Video ads which launched in January of this year. For reference, Netflix reported 23 million monthly active users (MAUs) globally a little over one year after it launched. Amazon is taking a different approach to SVOD ads than Netflix, Disney and others – instead of offering a cheaper, ad-supported tier, Amazon is adding ads to all Prime Video members, and offering an ad-free plan for an additional $3/mo.
+
+By putting ads directly in front of an estimated 150+ million viewers, Amazon can benefit both from ad revenue and incremental revenue from subscribers who pay the ad-free upcharge. Bank of America analysts estimate that Amazon could rake in $3 billion in advertising revenue this year from Prime Video, potentially up to $5 billion when including those users who pay the additional charge. Morgan Stanley is a bit more optimistic about Amazon’s new initiative forecasting $3.3 billion this year, $5.2 billion in 2025 and $7.1 billion in 2026, generating an additional $2.3 billion in EBITDA in 2024. We see a more conservative take from MoffetNathanson, which projects just $1.3 billion in ad revenue this year before rising to $2.3 billion in 2025, with ~$500 million from users paying the ad-free upcharge.
+
+AWS and advertising are poised to exit 2024 at a combined $160 billion annualized run rate, or ~25% of Amazon’s estimated FY24 revenue. The two segments may help unlock more value for Amazon, given the gross and operating margin expansion the two segments are driving.
+
+Take AWS – at $100 billion plus ARR, it’s the largest cloud provider compared to Azure at $76 billion ARR, Google Cloud at $38 billion and Oracle at $20 billion. Though AWS’ growth is lower at 17% versus >25% for rivals, it has one of the strongest margin profiles, with a 37.6% operating margin in Q1 and a 30.6% TTM operating margin.
+
+In a sum-of-the-parts view, AWS could be worth $900 billion: this assumes a fair ~9x sales multiple, or a 30x earnings multiple, given that AWS may potentially generate a ~50% YoY increase to ~$30 billion in net income on a 75% YoY increase in operating income towards $40 billion. These multiples are conservatively in-line with current market valuations in cloud and AI – Microsoft trades at 13x forward sales and 33x forward earnings for 17% company wide growth, and Oracle at 6x forward sales and 21x forward earnings for single-digit growth.
+
+Turning to ads, as the segment approaches a $60 billion run rate by the end of the year, it could fetch a $360 billion value in a similar sum-of-the-parts look. With growth likely remaining above 20%, this is again a conservatively fair market multiple of 6x forward sales, compared to a 7.6x forward sales multiple for Meta and a 6x forward sales multiple for Google.
+
+Combined, Amazon’s two fastest growing segments could be viewed as worth at least $1.26 trillion, while also driving significant gross margin and operating margin expansion. When combined with Amazon’s remaining e-commerce and subscription businesses, which could be worth $1.2 trillion at a 2.5x multiple (a 30% discount to Amazon’s 5-year average 3.3x multiple) on an estimated ~$480 billion in revenue in 2024, there is room for Amazon’s valuation to expand towards the $2.5 trillion threshold. However, this outlook is reliant on AWS maintaining this revenue acceleration, as well as ads & AWS driving continual margin expansion.
+
+Amazon’s valuation is not at peak levels, with shares trading far below historical highs, unlike Microsoft which is trading at ‘Mount Everest’ valuations in regards to historical valuation multiples.
+
+Amazon currently trades in line with its 5-year average PS ratio of nearly 3.4x, and at about 3.1x forward PS — although this is a significant increase from the 1.6x multiples at the start of 2023, Amazon’s forward PS ratio is 10% lower than early 2022.
+
+Due to strong growth on the bottom line, Amazon is cheap on PE basis for this stock. The current PE Ratio of 52 is one of the lowest we’ve seen in the past few years, and is comfortably below the 3-year median of 67 and the 5-year median of 78. In fact, Amazon is cheaper now than it was in October 2023, despite a nearly 60% rally in shares since then.
+
+Earnings growth and operating cash flow growth are both expected to be strong in 2024 and extend into 2025. Amazon is estimated to report more than 56% growth in EPS this year to $4.52 before rising another 27% to $5.74 in 2025. Operating cash flow is projected to increase 45.5% to $123.6 billion in 2024 before rising another 19% to $147.4 billion in 2025.
+
+In a 2022 webinar entitled “The New Kings of Tech,” our firm discussed that the first wave of AI gains will be realized in the enterprise space. We also recently debated on Real Vision that Big Tech has an undeniable advantage in AI due to possessing the capital to make the required hardware investments, and having an immediate product-market fit with their current in-house segments. Meanwhile, mid cap companies and small startups have to find customers for their AI products, and those SMB customers must be willing to absorb the high costs of AI. Meanwhile, Amazon is well positioned to capitalize on surging generative AI demand quickly with a multi-billion dollar run rate in AWS from AI products already. Combined with advertising, the two are driving strong margin expansion and aiding in both top and bottom-line growth; and in turn, this growth is creating an attractive valuation on the bottom line.
+
+The I/O Fund has recently detailed the firm’s favorite AI stocks for premium members. For more in-depth research from Beth, including 15-page+ deep dives on the 10 stock positions the I/O Fund owns, take advantage of our biggest sale of the year in honor of our four-year anniversary and subscribe here.
+
+Every Thursday at 4:30 pm Eastern, the I/O Fund team holds a webinar for premium members to discuss how to navigate the broad market, as well as various stock entries and exits. We offer trade alerts plus an automated hedging signal. The I/O Fund team is one of the only audited portfolios available to individual investors. Learn more here.

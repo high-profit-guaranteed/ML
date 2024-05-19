@@ -1,0 +1,25 @@
+Fri, 17 May 2024 14:01:20 GMT
+
+This article has been reviewed according to Science X's editorial process and policies . Editors have highlighted the following attributes while ensuring the content's credibility:
+
+The research, led by Dr. Samuel C Ginther from the School of Biological Sciences challenges long-held assumptions about the energy dynamics of reproduction and its implications for life history evolution.
+
+The study found that the energy invested by parents in reproduction includes not only the energy contained in the offspring themselves (direct costs), but also the energy expended to produce and carry them (indirect costs). In most species, indirect costs, such as the metabolic load of pregnancy, exceed the direct costs.
+
+The research team analyzed data from 81 metazoans, ranging from rotifers to humans, to estimate the total energy costs of reproduction and its components. This comprehensive approach provides a new framework for understanding the energy dynamics of reproduction across a wide range of animals.
+
+While scientists have understood the direct energy costs associated with offspring (like the energy used to create and nourish them), the indirect costs—the metabolic load of pregnancy and parental care—have been largely overlooked. This new research reveals that these indirect costs can be immense.
+
+For example, in mammals, only about 10% of the energy used for reproduction goes into the offspring themselves. But 90% is spent on the metabolically demanding process of gestation. Humans, with their lengthy pregnancies, have some of the highest indirect costs, reaching about 96%.
+
+"The results were surprising," said Dr. Ginther. "We found that for many animals, the energy spent on simply carrying and caring for offspring before birth far outweighs the energy invested in the offspring themselves," he said.
+
+"These findings have significant implications for understanding how animals evolve and adapt to their environments. They also raise concerns about the potential impact of climate change on species' reproductive success, as the study found that indirect costs are particularly sensitive to temperature fluctuations."
+
+The study found that mammals expend more energy on reproduction than ectotherms (amphibians, reptiles, fish, etc.), with indirect costs representing approximately 90 percent of their total reproductive energy expenditure while live-bearing ectotherms experienced higher indirect costs compared to egg-laying species.
+
+"The study fundamentally changes our understanding of the energy dynamics of reproduction and its profound impact on an organism's energy flows," said co-study author Professor Dustin Marshall, also from the Monash University School of Biological Sciences.
+
+"The study also highlights the sensitivity of reproductive energy costs to global warming, particularly in ectotherms," he said.
+
+"Warmer temperatures can increase metabolic rates, potentially raising the indirect costs of reproduction. This could lead to smaller offspring and have implications for population replenishment in a warming world."

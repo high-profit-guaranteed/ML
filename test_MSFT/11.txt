@@ -1,0 +1,135 @@
+Fri, 17 May 2024 20:22:32 GMT
+
+Microsoft (MSFT) is ramping up its video game sales strategy as it prepares to release the next installment of Call of Duty on its Game Pass subscription service. TECHnalysis Research President and Chief Analyst Bob O'Donnell joins Market Domination to discuss the move and what it could signal for the tech company's future.
+
+"It's an evolution of what Microsoft is doing on their gaming business in general," O'Donnell says of the move. He adds that the Game Pass subscription service has already seen success as subscription models gain popularity.
+
+"It's all about getting more subscribers," O'Donnell notes, comparing Game Pass to Netflix in its consistent push to gain and retain subscribers with new offerings.
+
+Microsoft's Build conference, a developer-focused event, will be held next week. At this event, O'Donnell expects to hear more about Microsoft's artificial intelligence initiatives and emphasizes the importance of staying a competitor in the market: "This is the year when AI really starts to have an impact. And then, eventually, we start to see even more of a bottom-line financial impact. We've started to see it. I expect we're going to be seeing more of that over the next 12 to 18 months."
+
+For more expert insight and the latest market action, click here to watch this full episode of Market Domination.
+
+This post was written by Melanie Riehl
+
+Microsoft making strategic moves as it gears up for its build 2024 event next week and one mo move being in in its video game sales strategy, the software company reportedly aiming to release the coming installment of Call of Duty to its subscription service for more on what's new in tech.
+
+We have Bob Adonal Technos research president and chief analyst joining us now, Bob, it's good to see you.
+
+So let's let's start there, Bob and by the way, this was the journal uh reporting this that yes, Microsoft is gonna add the latest installment of that powerhouse franchise Call of Duty to its game pass subscription service at lunch, Bob instead of, you know, selling it a la carte.
+
+What did you make of that, Bob?
+
+How did you see it?
+
+Well, I mean, look, I I think it's an evolution of what Microsoft is doing uh on their gaming business in general, right?
+
+And they're seeing this subscription model as we've seen in every other aspect of the tech industry, be something that they want to take advantage of.
+
+And so not really AAA surprise, I mean, I it honestly, it's kind of like one of the last pieces to fall uh into this idea of a, of a subscription based model.
+
+So I think it makes perfectly logical sense increasingly, that's what we see.
+
+It's almost possible to find something you can buy on its own now when it comes to software anymore.
+
+So, not a surprise and, and it's a way for them to get more excitement around Gate Pass, Bob at the same time, this was something that Bobby Kodak of Activision.
+
+Blizzard was resistant to right over time now.
+
+Does this do anything to the Activision franchise to the Call of Duty franchise in terms of a hit to reputation at all?
+
+Because they were so resistant or because you said, as you said, you know, everybody's doing it now, it's not really gonna matter.
+
+Yeah, I don't think it hurts Activision at all.
+
+I mean, it was gonna happen eventually whether those guys wanted it or not because the, the outside world again, everybody's moved to this kind of a model.
+
+So, you know, I just feel like this is something that, um would, would have happened eventually and they're just making the decision to do it now and they feel like they have the opportunity, like you said, since things have changed there.
+
+Um And again, it's all about getting more subscribers at the end of the day.
+
+It's as simple as that.
+
+And so what you in the same way that, you know, Netflix has got to have new shows and everybody else has got to have new content to get people to keep motivated, you know, to maintain those subscriptions.
+
+This is the exact same thing.
+
+And again, consumers are used to it now, it's, you're not making it any different from anybody else.
+
+No game feels better because it's not on a subscription.
+
+I mean, I don't think people think that way anymore.
+
+And, and Bob, you know, as we mentioned, stick with Microsoft next week is the company's big uh build conference.
+
+Um, you know, this week was open A I and Google next week it's Microsoft's turn to talk A I and, and, and front and center there, Bob.
+
+Certainly there's gonna be a lot of talk about copilot that, that's Microsoft's A I assistant and, you know, it, it, it is early days, Bob, but certainly, you know, there are investors and analysts on Wall Street who are, who are excited about that tool and kind of the potential growth and adoption.
+
+What, what do you think?
+
+Well, look, I mean, Microsoft jumped out on this early on, right?
+
+They, we saw open A I do the chat GP T thing about 18 months ago.
+
+And within three months, all of a sudden, Microsoft was talking about integrating the Open A I stuff into their tools with copilot.
+
+So they jumped way out ahead of everybody else and frankly, what we've seen since then is a lot of scrambling and catching up by the Googles of the world, by the um, Amazons of the world, by the metas of the world.
+
+And now it's getting obviously significantly more competitive.
+
+So, you know, the expectation is that they're going to continue to build on what they've done with copilot, you know, they brought it out into office.
+
+We've seen that I expect to see that get developed further.
+
+So, I mean, you know, they're gonna keep building on the thing that they started and integrate it and, and I think, you know, one of the big stories that's going to be interesting to watch over time for Microsoft and all these players is, hey, you know what we've been talking about, proof of concepts and all this kind of stuff, let's see an actual production.
+
+And so what I expect is that you're going to see them talking about, are there new tools potentially that can uh that companies can use to make the process of integrating this stuff into uh their environment uh easier because the reality is there's a lot of companies out there who are super excited about this and they've tried some things here and there.
+
+But to move that from, hey, we're playing around with it to actual production is much harder.
+
+And so I think you're gonna see some of that, they've already done some of that.
+
+I expect we will see more, you're gonna see their competitors do this as well.
+
+So it's, it's gonna be interesting to see.
+
+But, you know, this is the year where I think, uh, and I've said this before here, even on Yahoo Finance, this is the year when A I really starts to have an impact.
+
+And then eventually we start to see even more of a bottom line financial impact.
+
+We've started to see it.
+
+I expect we're gonna be seeing more of that over the next 12 to 18 months.
+
+Hey, Bob specifically to build also, there was a Reuters report this morning that Microsoft plans to offer this new suite of a MD chips to sort of compete with nvidia chips.
+
+What do you, what are sort of the implications of that for everyone concerned?
+
+Well, look, I mean, to be honest with you, I'm kind of surprised it's taken them this long.
+
+I mean, everybody is doing this right.
+
+I mean, everybody is looking at a MD because NVIDIA makes incredible products, people love it, but nobody likes when there's one company that completely and utterly dominates.
+
+And so that's why you've seen so much focus on, you know, additional players and additional competitors and additional alternatives.
+
+A MD has been out there plugging this story for all while they make great products and from the people who've been, you know, really diving in deep into this stuff, they're saying, look, they actually can absolutely can be competitive with NVIDIA So it just makes completely logical sense for Microsoft to do it again.
+
+Their competitors are starting to do it as well.
+
+I think this is just part of that general move towards uh a diversification of suppliers.
+
+We've got Intel is going to be pushing their gowdy chips.
+
+Obviously, they're trying to get in there.
+
+You've got all these companies building their own custom chips.
+
+We've already seen that being announced by all the major players.
+
+So this is that sense of look, all of this stuff is important, but we can't rely just on NVIDIA.
+
+Yes, we're going to buy a ton of NVIDIA but the, the growth opportunity is so big.
+
+We need others to help us build this as well and this a MD move just seems like another version of that.

@@ -1,0 +1,33 @@
+Fri, 17 May 2024 15:16:29 GMT
+
+Investors with a lot of money to spend have taken a bullish stance on Broadcom AVGO.
+
+And retail traders should know.
+
+We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga.
+
+Whether these are institutions or just wealthy individuals, we don't know. But when something this big happens with AVGO, it often means somebody knows something is about to happen.
+
+So how do we know what these investors just did?
+
+The overall sentiment of these big-money traders is split between 44% bullish and 31%, bearish.
+
+Out of all of the special options we uncovered, 10 are puts, for a total amount of $419,750, and 37 are calls, for a total amount of $1,639,617.
+
+After evaluating the trading volumes and Open Interest, it's evident that the major market movers are focusing on a price band between $720.0 and $1600.0 for Broadcom, spanning the last three months.
+
+Assessing the volume and open interest is a strategic step in options trading. These metrics shed light on the liquidity and investor interest in Broadcom's options at specified strike prices. The forthcoming data visualizes the fluctuation in volume and open interest for both calls and puts, linked to Broadcom's substantial trades, within a strike price spectrum from $720.0 to $1600.0 over the preceding 30 days.
+
+Broadcom is the sixth-largest semiconductor company globally and has expanded into various software businesses, with over $30 billion in annual revenue. It sells 17 core semiconductor product lines across wireless, networking, broadband, storage, and industrial markets. It is primarily a fabless designer but holds some manufacturing in-house, like for its best-of-breed FBAR filters that sell into the Apple iPhone. In software, it sells virtualization, infrastructure, and security software to large enterprises, financial institutions, and governments.Broadcom is the product of consolidation. Its businesses are an amalgamation of former companies like legacy Broadcom and Avago Technologies in chips, as well as Brocade, CA Technologies, and Symantec in software.
+
+In light of the recent options history for Broadcom, it's now appropriate to focus on the company itself. We aim to explore its current performance.
+• With a volume of 474,153, the price of AVGO is down -0.73% at $1401.79.
+• RSI indicators hint that the underlying stock may be approaching overbought.
+• Next earnings are expected to be released in 26 days.
+
+What Analysts Are Saying About Broadcom
+
+Over the past month, 1 industry analysts have shared their insights on this stock, proposing an average target price of $1550.0.
+• An analyst from Jefferies has revised its rating downward to Buy, adjusting the price target to $1550.
+
+Trading options involves greater risks but also offers the potential for higher profits. Savvy traders mitigate these risks through ongoing education, strategic trade adjustments, utilizing various indicators, and staying attuned to market dynamics. Keep up with the latest options trades for Broadcom with Benzinga Pro for real-time alerts.

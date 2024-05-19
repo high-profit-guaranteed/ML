@@ -1,0 +1,32 @@
+Sat, 18 May 2024 03:57:09 GMT
+
+
+• None Jeff Bezos emailed Amazon execs asking why more AI firms aren't using its cloud services, CNBC reported.
+• None Amazon's founder appears concerned about keeping pace with rivals OpenAI, Microsoft, and Google.
+• None Amazon is investing in AI tools and startups to remain competitive in the AI race.
+
+It seems like Jeff Bezos is concerned about Amazon lagging behind rivals in the AI race.
+
+The founder and former CEO has been emailing Amazon executives asking why more AI firms aren't using its cloud services, according to an unnamed source who spoke to CNBC.
+
+The person reportedly said Amazon is considered the "most vulnerable" Big Tech company in the AI arena. Aware of that perception, Bezos is "very involved" in its AI efforts and has been mapping out the competitive playing field, according to CNBC.
+
+Bezos has also been seeking to make introductions for Amazon to AI startups, the report says.
+
+The news comes amid a leadership shake-up at its cloud division, Amazon Web Services (AWS), after hundreds of layoffs in the unit last month.
+
+CEO Andy Jassy announced Adam Selipsky was stepping down from his role leading AWS in a memo on Tuesday, which was viewed by Business Insider and later posted to Amazon's website.
+
+OpenAI, Microsoft, and Google are considered frontrunners in the generative AI race, but Amazon has been making strategic moves in an apparent bid to remain competitive.
+
+It's developing its own AI tools and poured $4 billion into Anthropic, the company behind the AI assistant Claude.
+
+Amazon has also funded warehouse robot maker Agility Robotics and Bezos has been independently investing in AI startups recently, including Google search rival Perplexity AI and humanoid robot firm Figure AI.
+
+But the rollout of Amazon's AI chatbot Q in November was met with negative reactions, which came as a result of a "rushed" launch, insiders previously told BI.
+
+Its AI platform for businesses called Amazon Bedrock, which lets AWS customers build chatbots and generate images, was unveiled in April and launched in September.
+
+It was originally scheduled to roll out in late 2022, a person familiar with the matter previously told Business Insider, although Amazon had previously denied that claim.
+
+Amazon didn't immediately respond to a request for comment from Business Insider, made outside normal working hours.

@@ -1,0 +1,33 @@
+Fri, 17 May 2024 10:59:13 GMT
+
+Tesla Inc. TSLA is reportedly advancing its strategy to enhance its self-driving system using data collected in China. The company, led by CEO Elon Musk, plans to process this data locally.
+
+Until recently, Tesla sought approval from Chinese regulators to transfer vehicle data out of the country. The decision to develop a local data center reflects a strategic pivot, according to a report from Reuters.
+
+Tesla has been developing plans for a data center in China to train its autonomous driving algorithms. This move aligns with a broader effort to secure local processing capabilities for its Full Self-Driving (FSD) system, the report further added.
+
+The shift underscores Tesla’s rapid adaptation as it navigates a competitive electric vehicle (EV) market and aims for artificial intelligence (AI) breakthroughs.
+
+The initiative to leverage Chinese data for AI development comes amid U.S. restrictions on transferring AI technology to China.
+
+Tesla has faced challenges offering the complete FSD system, priced around $9,000, in China, but expanding this market could largely boost revenue and profits, per the report.
+
+Setting up a data center in China will necessitate collaboration with local partners and could pose hardware procurement challenges.
+
+Tesla has engaged in discussions with Nvidia Corp NVDA regarding graphics processing units, although U.S. sanctions limit the sale of advanced chips to China.
+
+Musk’s recent visit to Beijing, where he met with officials, including Premier Li Qiang, accelerated efforts to facilitate data transfer and explore the potential for a local data center.
+
+Also Read: Tesla Told To Face Autopilot Lawsuit In The Wake Of Safety Probes- Report
+
+Musk also discussed licensing Tesla’s FSD system to Chinese EV manufacturers, the report noted. China, the largest car market globally, offers a vast pool of data from sensor-equipped vehicles, making it a valuable resource for AI training.
+
+As per the report, analysts consider leveraging Chinese data for FSD could mark a significant milestone for Tesla. The company has stored data in Shanghai since 2021 and recently began a pilot project allowing data transfer under certain conditions.
+
+Despite competitive pressures, Musk remains confident in Tesla’s AI capabilities, emphasizing that the FSD system could perform well globally with country-specific adaptations.
+
+Tesla stock has gained more than 0.5% in the last 12 months. Investors can gain exposure to the stock via ETFs, including Consumer Discretionary Select Sector SPDR Fund XLY and Fidelity MSCI Consumer Discretionary Index ETF FDIS.
+
+Price Action: TSLA shares are trading lower by 0.10% at $174.66 in premarket at the last check Friday.
+
+Disclaimer: This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.

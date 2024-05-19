@@ -1,0 +1,71 @@
+Fri, 17 May 2024 11:00:00 GMT
+
+I'm a little surprised to see Apple (NASDAQ:AAPL) (NEOE:AAPL:CA) shares melt up after a short-term challenge following its post-Q2 spike, although this has been in concert with a generally rising market. With a moderately higher share price, amid subdued volatility (especially compared to the ~near earnings period), there may be an opportunity for those who have a developed a bearish view to consider Put Options at a strategic strike, and strategic expiry (carrying through the delivery of Q1 2025 guidance and the U.S. Presidential Election). I'll detail that specific trade idea lower down.
+
+Since this might be my only article on Apple, ever, I should discuss my general investor view.
+
+Huge, popular companies sometimes make me nervous as an investor. Their businesses are tirelessly examined, leaving me to wonder where the next surprise catalyst will come from. I posit that a negative surprise seems more likely than a newfound oasis, especially for a company like Apple. In my opinion, even the bulls must admit 'La Pomme' isn't cutting edge. When Steve Jobs introduced the iPhone in 2007, it obviously blew everyone's socks off; the product innovation was far ahead of the imaginations and expectations of consumers and investors. Nowadays, Apple's product announcements are mostly small incremental refinements.
+
+That doesn't mean I haven't been directly long shares of Apple occasionally in the past, but it was never for an extended period. That made me a weak hand on the Long side.
+
+I see Apple last week announced a couple new iPad models in different sizes and nice colors. I think no matter your sentiment on Apple stock, investors should recognize that announcements such as these amount mostly to window dressing. In my view, Apple has delivered a lot of window dressing ever since Jobs left the reins for Tim Cook. I've occasionally been surprised at Apple stock's resilience against a lack of groundbreaking innovation. The company has been able to keep up its mojo, and its results, even though we've seen no revolutionary products.
+
+Even regards to artificial intelligence, Apple doesn't seem to be leading the charge. Positioning AI, as Tim Cook did recently, as the company's next great frontier, shouldn't be news to anyone. In my opinion, it's only newsworthy if Apple declares AI wasn't going to be a major forward focus, not that it will. Even non-fanatic investors like myself will already have long assumed Apple's devices and solutions would showcase AI. Any pronouncements like ~"the future is AI" bemuse me, as Cook did recently. The following direct quote from the Apple CEO caught my attention specifically:
+
+A decade-and-a-half ago, Apple delivered solutions nobody expected, and these days they're promising future solutions that everyone has already been hoping for. The history of corporate America is littered with fallen industry/market leaders, and in my mind, Apple will no doubt become one of them. The question is when.
+
+Not to get academic on you, but financial theory suggests companies can earn excess returns in the short term, but that in the long term, those returns will gravitate to the GDP growth rate. For many investors who will surely believe this only applies to everyone except Apple (or their other favorite darling stocks), I wish you unprecedented good fortune.
+
+For Apple, elevated returns largely come from its excess gross margins, which stand north of 40%. For comparison, Samsung (OTCPK:SSNLF) generates GM in the low 30% area. Meanwhile, a company like Xiaomi (OTCPK:XIACF) (OTCPK:XIACY) reports margins in the 20% range. The reason why elevated returns fall off in the long term is usually the emergence of stronger and stronger competitive threats into the industry leaders' 'excess returns' space.
+
+That level of competition seems precariously near, in my view at least.
+
+Below is the smartphone market share chart for China. Apple's % share has ebbed and flowed in the past, so the fact that the company has fallen to #5 in Q1 2024 isn't what caught my attention. What strikes me most is that there are now 6 (or more) smartphone vendors vying for the market lead in the Chinese market. These are firms who no longer have sights on being niche players but taking the pole position. In my view, that really changes the competitive dynamics of the iPhone's largest market.
+
+Others have reported on how the competition is heating up from Chinese vendors, and certainly additional trade tensions between the U.S. and China won't be lending Apple a hand. Also, no fewer than 13 new smartphone models were introduced to the Chinese market in recent quarters, many of them with impressive features. Only the most optimistic souls will envision Apple reclaiming and holding the market share lead in China, at least without price concessions.
+
+And I don't view the global smartphone industry environment much differently, with some of the Chinese manufacturers making inroads worldwide.
+
+Given that ultimately business performance is the driver of sustainable shareholder value creation, I find it noteworthy that the biggest splash from Apple's Q1 report seems to have come from the $110 billion buyback, and not the quarterly performance. And I'm not the only one.
+
+I question the buyback altogether, frankly. Opting to announce a monumental share repurchase while your stock is losing momentum but still near the high watermark, amidst one of the biggest slumps in your benchmark product - it doesn't immediately add up. By the way, Apple is no longer in a net cash position either, and recently breached a threshold where interest expense now exceeds interest income. Using up to an additional $110 billion of cash to repurchase shares (albeit somewhat mitigated by OCF) has a real financial impact.
+
+I view the monumental buyback announcement as largely symbolic. Keeping a positive vibe forever is impossible, and when substance begins to shift to symbolism, my antenna perks up. It's tremendously difficult to predict when a sea change might occur, but in my experience, when a company's efforts shift towards doing things for symbolic reasons, that might mark the start.
+
+The talk of reaching a cash-neutral position, as was mentioned several times during Apple's recent conference call, is worth taking notice of. Not only is it a symbolic goal for Apple (a liquidity-strained company might truly need to strive for cash neutrality, but it's not incredibly important for Apple), but it should trigger investor uncertainty about management's view of growth prospects when ~all cash generated from the business is returned to shareholders, despite the future potential of generative AI.
+
+Had Apple not announced the historic buyback in the Q2 report, it might have starved devoted Apple investors from finding something to cheer. Against that backdrop, the historic buyback makes sense - I see the buyback as having almost been necessary to keep the good vibes rolling amid very mixed results.
+
+Shares of AAPL remain impressively near their all-time peak. One metric I'm taking interest in here is the stock's P/E history, and excluding some pre-2010 fireworks, the high watermark was reached near the beginning of 2021. I cannot envision a scenario where valuation multiples into the mid-30x range will be achieved again. We might see investors make one more valiant effort to push AAPL shares above $200, but I'm more confident that the P/E high point is in, and that amid the credible competitive threats, we'll be soon saying the same thing about the share price.
+
+It goes without saying that a ~29x P/E is rich for a mega-cap with low-single digit growth.
+
+I find the $173/share level especially important. This is where Apple closed prior to its Q2 earnings release, and the stock's 50-day moving average is currently in that vicinity. I believe a break below $173 would cause significant psychological damage, and a stock price even approaching that level would make shareholders nervous.
+
+The 200-day SMA is still sloping downward near the $180 level. That's also where AAPL recently found support post-earnings. That's the first significant level that could cause a downside break. And that could quickly snowball into a challenge of the $173 level. Currently, the bulls are in charge, but for other investors like me (see here, and here) who think Apple may have jumped the shark with their symbolic buyback, the current price and muted volatility offer an opportunity to look at Put Options that could capitalize on those key trading levels below.
+
+I'm looking closely at the November 15, 2024 $170 Puts, costing about $3.35 in Premium. Apple should report their Q4 2024 results in early November and will usually use that moment to provide guidance for their vital Q1. The November puts will also expire after the contentious U.S. election. Nervous investors could flee out of the stock prior to both events, which provides the November series of Puts an advantage.
+
+The October Puts are much cheaper, but for good reason. I expect the November Puts to hold their value better given the above noted two major risk events.
+
+Consensus EPS estimates for Apple reflect an expected ~10% growth for both the year ended Sept 2025 and year ended 2026. An annual buyback in the ~$100 billion range would contribute about 3% towards that, leaving Apple's business to generate the remaining growth of 7%. The entire EPS growth anticipated for 2024 stands at 7%, including buybacks. Given the mounting competitive pressures, the 2025 estimates seem lofty to me.
+
+I think a $6.90 full-year EPS result for 2025 seems more reasonable, and a 22.5x P/E brings me to a target price of around $155. I think that level could be reached if Q1 2025 guidance comes in at or below $2.41 (Q1 typically represents about 35% of the full year EPS result).
+
+If this plays out as I envision, a November $70 Apple Put could pay off $15 on a cost of ~$3.40, for a return of ~340%.
+
+Individual investors can decide whether to sell their November Puts past Apple's Q4 2024 earnings call but prior to the U.S. Election, or try to ride it through to the chaos and uncertainty that day will most certainly bring.
+
+I'm skeptical of Apple's post-earnings jump and continued melt higher following mixed Q2 results. The $110 billion buyback announcement has lent AAPL shares some oxygen, but in my eyes, all that seems like a buy into symbolism more than substance.
+
+Apple's industry-leading position seems to be facing some of the strongest competitive threats in its history, as well as geopolitical challenges in its largest smartphone market. I don't expect those pressures to ease, and think they will re-emerge on investors' radars as the thrill of the buyback announcement wears off. Questions will be asked about Apple's growth if cash flows aren't being held for investment, yet consensus growth expectations look ambitious.
+
+The $173 share price level, where AAPL traded just prior to their Q2 earnings announcement on May 2nd seems like a critical point. I'd expect investor nerves to kick in whenever/if shares drop back below $180, a level that held post-earnings.
+
+November Put options look highly attractive here, especially since their expiry extends past Apple's anticipated delivery of critical Q1 2025 guidance, and also beyond the 2024 U.S. Presidential Election. I'm targeting the AAPL $170 November puts, with various possible exit opportunities.
+
+Buying Out-Of-The-Money (OTM) options exposes investors to a high risk of losing the whole Premium paid for them. Apple shares would have to drop ~10% from current levels, prior to November 15, 2024, for the $170 Put Options to carry any intrinsic value. The trade idea would not be appropriate for risk-averse investors.
+
+On the business side, competitive pressures facing Apple could decrease, or geopolitical tensions between the United States and China could ease. There also remains a risk that Apple finally delivers a new revolutionary product/solution in the coming months.
+
+Editor's Note: This article discusses one or more securities that do not trade on a major U.S. exchange. Please be aware of the risks associated with these stocks.

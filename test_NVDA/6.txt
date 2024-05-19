@@ -1,0 +1,99 @@
+Fri, 17 May 2024 17:33:56 GMT
+
+NVIDIA Corporation (NASDAQ:NVDA), arguably the leading company in the AI GPU sector, has had a strong FY 2024, with Q4 revenue growing by 265% year-over-year. The company's valuation, with a market cap of around $2.3 trillion, places them as the fourth most valuable company globally, surpassing tech giants like Amazon and Google. As I have mentioned before in previous research pieces, the company is one of the hottest stocks on Wall Street, with the company receiving an average "Strong Buy" rating from Wall Street with a quant score of 4.65/5 according to data compiled by Seeking Alpha.
+
+However, as I have previously warned, I believe this is short-lived, and we are now starting to see what months of competitive pressure building up looks like when it releases. Recent chip announcements from Alphabet Inc. (GOOG), (GOOGL), Meta Platforms, Inc. (META), Intel Corporation (INTC), and Advanced Micro Devices, Inc. (AMD) show that companies do not want an external chip provider (Nvidia) to control their destiny in the race for ever-more-powerful AI models. They want to diversify their chip providers and make chips in-house to better control the supply chain and consistency of chip supply.
+
+With this, the tech giant's stock price may be inflated due to the current AI hype, potentially leading to what I believe to be a potential significant correction (see valuation section).
+
+In essence, after covering Nvidia as a hold since last November, I am now downgrading to a Sell heading into earnings. The concerns I brought up last fall are materializing. I think it's time for investors to look elsewhere to play the AI wave that is sweeping the enterprise world.
+
+Why Am I Doing Follow-Up Coverage?
+
+Starting with the research I wrote in November, then the research I wrote in December, and the post-earnings analysis from February, I have been tracking competitive risks for Nvidia. To be clear, I believe Nvidia is making powerful chips and technology. My concern is that now, the news reports and rumors are coming true. Nvidia has real competition which, I think, will affect margins.
+
+As I previously predicted in some of my past articles, the competition within the AI market has continued to heat up. Companies such as AMD, Intel, Meta, and Google all pose significant threats for Nvidia through the chips they want to develop (some in-house and some by competitors) and the chips they now have in the market. As these companies develop their own technology (alternatives to Nvidia), main consumers of Nvidia technology (such as Meta) will begin exploring other options, including in-house options.
+
+For me, the biggest piece of data that made me want to write this follow-up piece came from an interview transcript on Twitter (now X).
+
+As stated by a former "high-level employee" at Microsoft Corporation (MSFT) in a recently transcribed interview, he believes that it is likely Nvidia will remain the leading figure (for now), but other companies will catch up, and their consumers do not want their AI destiny controlled by Nvidia.
+
+This drive to explore other options will allow Nvidia's competitors (some of which are currently customers) to take their AI destiny into their own hands. For me, this is a sign that we may have reached peak Nvidia market share.
+
+We won't know for sure until the next earnings report, (they report on May 22nd after the bell), but I think investors should have the opportunity to review this same information as well before earnings, as I think this is key. For, Nvidia does not project more than the current quarter in terms of guidance. So, if my concerns do turn out to be true (which I think they will be), then Nvidia will report a less-than-optimal outlook on this quarterly call. I have been consistent that this is a real risk. I now think investors should have an opportunity to know about these risks before the call.
+
+Why The Intel Chip Is Such A Big Deal (Hint: Competition Is Now Real)
+
+While the companies mentioned above, such as AMD (see the research I published last month), Google and Meta are all what I believe to be threats to Nvidia, one that recently stood out to me the most is Intel. Intel has entered the GPU market with the introduction of their new Gaudi 3 chip, which is claimed to be over twice as power-efficient and can run AI models one-and-a-half times faster than Nvidia's flagship H100 GPU. Ironically, this chip is actually not even a GPU in normal terms, but rather an "AI accelerator" chip specifically designed for AI LLM inferencing.
+
+This performance advantage, on top of Intel's competitive pricing strategy, could make Gaudi 3 an attractive option for customers seeking cost-effective and energy-efficient solutions (note: it's supposed to have 40% greater power efficiency on some large language models).
+
+Intel has also tried to break Nvidia's monopoly on the CUDA software platform, which has locked customers into using Nvidia GPUs. In late March of this year, Intel partnered with tech giants like Arm Holdings plc (ARM), Alphabet's Google, QUALCOMM Incorporated (QCOM), and Samsung Electronics Co., Ltd. (OTCPK:SSNLF) to form the
+
+These partnerships aim to build an open software ecosystem for all accelerators, with Intel's oneAPI at the core. By offering an alternative to CUDA, the UXL Foundation could lure away Nvidia's current customers, as well as potential new customers who have been hesitant to commit to Nvidia.
+
+Companies like Google, who are currently major buyers of Nvidia's GPUs, are eager for alternatives that could substantially reduce their costs. Similarly, chipmakers like Qualcomm and Samsung view the open software ecosystem as an opportunity for their own AI accelerator products to gain traction in a market currently dominated by Nvidia. Intel's chip advancements and software initiatives have the potential to attract Nvidia's customers by offering more choice, flexibility, and cost savings.
+
+Since I wrote my piece on AMD back in April, I feel more concerned that Nvidia is getting disrupted.
+
+Just this week, Microsoft announced a deal where customers who use their cloud services can now host models on AMD MI 300X chips (an alternative to Nvidia chip options). In my opinion, I think the market is catching on to this disruption risk. They also discussed their own customer processors they will be unveiling next week, adding more options for their clients to use on the Microsoft cloud, and more competition for Nvidia. The relative performance of AMD vs. Nvidia stock today is a great example of this:
+
+For the FY 2025 first quarter, analysts are expecting Nvidia to report EPS of $5.57/share and revenue of $24.50 billion. This EPS estimate would represent 410.57% year-over-year growth, while revenue growth would come in at 240.63% on a year-over-year basis.
+
+For me, while this feels high on its own, I am really concerned about guidance. I'll be watching for mentions of where their gross margins are going to go in the subsequent quarters on the conference call. We know from the last quarter that margins for FY Q1 should compress at least a little. I am concerned that guidance will show they will compress more going forward.
+
+Margins Are Already Higher Than Normal
+
+My biggest concern with Nvidia is their current profit margins, which I believe may be unsustainable if competition intensifies and market demand stabilizes. The company reported with total fiscal year 2024 annual revenue hitting $60.9 billion, a 126% increase over FY 2023 (Q4 Earnings Call). Nvidia's gross profit margins were listed as 76.7% by the end of the last quarter. However, these margins could be an anomaly driven by the current AI boom rather than a sustainable long-term trend.
+
+Data indicates that a significant portion of Nvidia's recent growth has been fueled by the increasing demand for their data center products, particularly GPUs used for AI and machine learning workloads. Their data center segment generated a massive $18.4 billion in revenue for FY Q4 2024, up 409% year-over-year (Q4 Call). I believe this surge in AI-related demand has enabled Nvidia to command premium pricing and maintain high margins.
+
+However, as demand normalizes (I believe it has started to and talk about it later) I think margins will start to compress. In fact, management started to hint at this on the conference call (even though they did not attribute it to increased competition). I think margins will drop more than they indicate.
+
+While management feels confident that margins will stay elevated, I think this is tough to accurately gauge given that they have historically only guided for one quarter. The underlying lead times in the market have come down meaningfully too since this claim was made. I'm cautious.
+
+Nvidia currently possesses an extremely elevated non-GAAP (FWD) P/E ratio of 40.65, which is 36.96% higher than the sector median of 29.68. I think the company could see their forward P/E decline to somewhere around a forward P/E multiple of 32.65 (vs. the current 40.65) which would imply ~20% downside in the share price for the company's stock price. This would still give them a forward P/E multiple that is roughly 10% higher than the industry median to account for their strong product lineup.
+
+In essence, I believe they don't deserve to trade at the current P/E. Here's why:
+
+Nvidia's trailing twelve-month net income margin was 48.85% which represents a 68.57% increase above the 5-year average for Nvidia's trailing twelve-month net income of 28.98%.
+
+What this tells me is that the company is over-earning right now on their products due to supply chain shortages and higher selling prices. I don't think this will continue forever.
+
+Not only has Nvidia management acknowledged that profit margins are shrinking (albeit slightly), but with recent reports stating the lead time for Nvidia's H100 AI GPUs has decreased significantly, I expect their profit margins to take a hit. Lead times have decreased from a high of up to 11 months down to approximately 8-12 weeks. This reduction in lead times implies that Nvidia can fulfill orders more quickly, which could lead to a decrease in the willingness to pay per chip as supply constraints ease and chips become more readily available. Despite this increase in supply efficiency, Nvidia's production costs remain unchanged, which could pressure profit margins if the selling price of GPUs decreases in response to faster supply times.
+
+In fact, arguably, their costs could have increased in the quarter. Their main supplier, Taiwan Semiconductor Manufacturing Company Limited (TSM), saw chip sales jump in April, and they are now sold out (in part due to Nvidia but also AMD) for some chip packaging until late 2025. The company now likely has to pay more to reserve inventory for over 18 months in advance. That will hurt the cost side of their net income equation, all the while more firms are willing to adopt the AMD MI 300x as a suitable solution to run their AI models on.
+
+What is also key about this drop in lead times is that now the lead time of these chips is within one quarter. So while we know the following:
+
+We also now know that these lead times are now within one quarter of guidance that Nvidia's management gives. So we should see this show up in the next quarterly call (whereas before lead times were so long, management's guidance assumed sold-out inventory for the rest of the foreseeable future).
+
+I believe this will pressure margins, the company's overall net income, and the P/E ratio that governs the stock price.
+
+Why I Am Now A Sell (Vs. a Hold Before)
+
+In all of my previous analysis of Nvidia, I've rated Nvidia as a hold based on where the competitive threats were at the time. In November especially, there were reports of new chips from companies like OpenAI and others who wanted to build in-house AI processing units, but these had yet to be brought to production.
+
+Recent developments (especially post the last quarter's earnings call from Nvidia and new developments from AMD) tell me this pressure is now real and real in-house competitors + stand-alone competitors like AMD and Intel are bringing real technology to market that threatens their margins. This is why I think the company's forward P/E is extended here. This forward P/E, nonetheless, assumes that the company can keep their current margins up for the rest of the fiscal year. Given the lower lead times for chips from Nvidia, I would expect this to not be the case.
+
+While I think Nvidia stock is overvalued, and I think their competitors are now starting to show serious threats, this isn't to imply that their core technology is any worse than it was before. Let me be clear, their GPUs currently power over 80% of what is estimated to be the computing power behind the AI revolution. I will admit that unseating this will be difficult.
+
+But this is also the reward. Direct competitors (like Intel and AMD) want the same market Nvidia does, and they are both competing to unseat Nvidia's chips and their respective software moat (CUDA).
+
+Nvidia is countering this by pulling ahead the pace they are unveiling new chips. They figure the best way to keep customers from switching to competitors (or making in-house chips) is to build new chips so powerful they cannot live without them.
+
+That is the purpose of the new Blackwell platform. This is also why Nvidia chose to get many of the industry leaders both on the hyper-scaler side and on the foundation model side to comment on the release of Blackwell. They are trying to show the industry buy-in to their new architecture.
+
+Keep in mind that these statements of affirmation are not statements of these firms looking to use the Nvidia architecture exclusively (contrary to the 80% market share their current GPU models have in the AI market).
+
+In fact, just a few weeks after this announcement came out, Google (one of the named firms here), and Meta (named later in the press release) both announced their own, new internal chips.
+
+In essence, tech firms will use (today) what is the best technology. But in the long run, they are still focused on diversifying who and how they source their chips for their internal servers. This is still a long run bearish trend for Nvidia, which has heavy revenue concentration from Meta (among other major tech companies).
+
+While Nvidia has undoubtedly been the leader in producing chips since ChatGPT launched in November 2022, allowing them to produce incredibly strong performance, I think the mean reversion has begun. I think this earnings report will show it through guidance.
+
+I believe Nvidia's stock is overvalued due to normal supply and demand competition. In Econ class, when comparable substitutes enter the market, the price comes down. I believe Nvidia is seeing that here.
+
+With rising competition comes my belief they're facing overvaluation; therefore, investors should proceed with caution. These shrinking lead times could place pressure on Nvidia's profit margins, especially as production costs remain constant despite increased supply efficiency. Lower profit margins mean that the company's real forward P/E is even higher than the 40.65 they currently have.
+
+With these dynamics, I believe investors should proceed with caution, being mindful to not be overconfident about Nvidia's future. In my opinion, my concerns from last fall and this year have largely come true, meaning I am downgrading Nvidia Corporation stock to a Sell from a Hold.

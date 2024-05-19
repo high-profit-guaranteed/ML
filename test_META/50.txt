@@ -1,0 +1,17 @@
+Fri, 17 May 2024 17:10:22 GMT
+
+Artificial intelligence has made its way into a range of products and use cases in the last few years. Many companies are working on AI-powered wearable devices that assist the user in identifying objects, translating language, and answering questions.
+
+Meta is working on earbuds and headphones that will equip cameras and AI
+
+The latest news is that Meta is working on earbuds that will boast AI capabilities and will also include cameras. The news comes from employees at Meta who are familiar with the development.
+
+The company already has a few wearables that boast cameras. Google’s Project Astra also showed off what a wearable device can achieve with the combination of advanced AI and cameras.
+
+According to The Information, Meta’s new project will combine cameras and capabilities of an advanced AI model into its upcoming earbuds, which are internally known as ‘Camerabuds’. The product is supposed to enable Meta-AI’s ‘look and ask’ feature. It will assist the wearer with information about what he (and the cameras) sees. Notably, Meta has also tried over-the-ear headphones alongside an in-ear form factor.
+
+Reportedly, Meta is trying to solve at least two problems – the obstruction of the camera lens by hairs and overheating. The second one seems obvious considering how much processing will happen inside the compact form factor. The working mechanism of an earphone has been pretty straightforward so far and they didn’t need to pack many hardware resources. In Meta’s latest development, the over-ear headphones should have a clear advantage due to both its much bigger size and surface area. Nonetheless, the company has not finalized any specific form factor yet.
+
+According to a report from Bloomberg, Apple is working on the same concept – wireless earbuds or over-ear headphones with cameras and AI. Apple’s plan also includes health monitoring with appropriate sensors inside the earphones.
+
+Nonetheless, the idea is far from ridiculous. There could be other challenges like the weight of the wearable device. Batteries have not seen similar improvements in energy density. That being said, the company is in its early stage of exploring the concept. Like we have seen many times with revolutionary concepts in the past, it may not come out at all. Nonetheless, the initiative shows Meta’s commitment to make the most out of its AI capabilities.

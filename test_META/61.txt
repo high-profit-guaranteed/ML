@@ -1,0 +1,11 @@
+Fri, 17 May 2024 14:00:00 GMT
+
+The European Commission isn’t wasting any time holding tech companies’ feet to the fire under the EU’s new Digital Services Act. We reported in February on formal proceedings against TikTok, and then last month on a separate probe into its TikTok Lite app.
+
+Now the EC has also opened formal proceedings against Meta focusing on “the protection of minors on Facebook and Instagram”.
+
+The announcement lays out specific concerns “that the systems of both Facebook and Instagram, including their algorithms, may stimulate behavioural addictions in children, as well as create so-called ‘rabbit-hole effects’.”
+
+Rabbit holes were mentioned in the original TikTok probe announcement too: in this context it refers to people following algorithmic recommendations to videos that are gradually more extreme than the one they started with.
+
+The Commission is also concerned about whether Meta’s age-verification tools are working well enough, and about its default privacy settings for minors.

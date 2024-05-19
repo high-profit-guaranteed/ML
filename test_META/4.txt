@@ -1,0 +1,107 @@
+Fri, 17 May 2024 13:59:00 GMT
+
+Note: This article was originally published in March of 2024. Two updates in April and May have substantially improved the performance of the Quest 3 when traveling, so we've updated the article below to reflect those changes. Read on to learn more.
+
+When I was a kid, your reality was reality. It wasn't augmented and it wasn't virtual.
+
+So, when my editor asked me to explain to a 12-year-old how to use a Meta Quest headset in cars, I was struck by the difference between what being a kid was like when I was growing up and what it must be like now. Before I go into tips and observations, let's take a minute to remind ourselves just how much our world has changed. (Or you can skip ahead to the next section.)
+
+Review: Meta Quest 3: The VR headset most people should buy in 2024
+
+When I was 12, there was no digital entertainment. My parents had a 15-inch color TV. If Disney was showing an animal show via over-the-air appointment TV on Sundays, I got to watch that program. My parents didn't like cartoons, so I never saw any classic cartoons until I was older.
+
+I was allowed to watch Thunderbirds because my parents thought it was a puppet show, but my parents thought Star Trek and Voyage to the Bottom of the Sea were too edgy for me.
+
+For entertainment, I was expected to go outside and play baseball and street hockey with the other kids on my block. On weekends, I sometimes went camping with the Boy Scouts. There were no computers and no video games, although I'm sure I would have loved them if there were.
+
+Also: 3 likely reasons why Quest 3 is more popular with users than other Meta VR headsets
+
+There was, however, the public library. I loved the library. On the second floor, in the back corner, there was a bookcase half filled with science fiction. My parents saw the "science", discounted the word "fiction", and figured those books were okay for little me to read.
+
+Robert Heinlein changed everything. Books like The Moon is a Harsh Mistress, Lazarus Long, and Have Spacesuit Will Travel were my escape, and they twisted and reformatted my brain in ways my parents wouldn't discover until it was too late. Isaac Asimov wasn't quite as sociologically radical as Heinlein, but his robot stories got my gears turning, too.
+
+Between Thunderbirds, Heinlein, Asimov, and Neil Armstrong's walk on the moon, the die was cast by the time I was 12. I wanted to become an engineer or a scientist. And I did. But all that inspiration came through books and a tiny shared TV set. I can only imagine the vistas today's digital tools would have opened up for me if they'd existed back then.
+
+I'm telling you this because my editor's son -- let's call him Johnny -- is 12 and wants to know how to use his Meta Quest 2 in the car, so he can tune out others while traveling.
+
+Also: Who's afraid of VR? I was - until I tried Meta Quest 3
+
+We are certainly of different generations, Johnny and I. He wants to use VR to create a private entertainment zone in a crowded car. When I was 12, I could load a shotgun and knock a moving skeet out of the sky, fletch an arrow, make a fire from sticks and rocks, and hit a consistent line drive. (Editor's note: Johnny can do most of those things, too, and he caught -- released -- his first shark at age 10.) But I knew nothing of computers or digital technology because they didn't exist in any world a 12-year-old of that time could inhabit.
+
+That said, I do have an answer for Johnny. He can use the Quest 2 in the car, but it's not easy, it's not pleasant, and it will probably annoy him more than his travel companions.
+
+How passengers can use Quest headsets in moving cars
+
+As recently as March, riding in a car or on a plane with a Quest headset was not supported by Meta. In a January 24 response to a user tweet about passthrough mode on an airplane, Meta CTO Andrew Bosworth replied that it's not possible, but the company is working on it.
+
+The Quest models use IMUs (or inertial measurement units) that combine accelerometers, gyroscopes, and magnetometers to provide tracking data for the headset and its controllers. Bosworth was saying that the IMUs do all that tracking, but movement, like what you would experience in a car or plane, can confuse them.
+
+Also: Meta Quest is now your 'ultimate in-flight entertainment' - how to turn on travel mode
+
+But work on it, the company indeed did. On May 13, the company announced Travel Mode as an experimental feature.
+
+Here's how to turn it on. First, you'll need to be running v65 or later to turn this on. If your headset hasn't upgraded to that version yet, you can force pull it down using the steps described in this article. Once you're running the right OS version, go to Settings and click on Experimental.
+
+Next, scroll down until you see "Enable travel mode" and turn it on. While you're there, you might also want to turn on "Use apps while lying down." This will make using apps that don't require you to flail around like a lunatic (like Netflix, for example) to be much easier to use in a confined space.
+
+You'll get a quick dialog about using travel mode.
+
+A new Travel Mode toggle will be added to the Quick Settings grid.
+
+You'll then be given the option to turn on Travel mode in airplanes. If you're a passenger in a car, this should also work for you.
+
+To switch off Travel Mode, go back to Quick Settings and tap on the blue Travel Mode button.
+
+Be aware that this is experimental for a reason. When I tried to turn off Travel Mode, I got a warning that tracking was no longer available, and then my whole headset froze up. I had to hold the power button down until the unit rebooted to gain access to anything on the device. But hey, it's still a feature!
+
+Also: Meta Quest 2 vs Quest 3: How to decide which one is right for you
+
+Beyond the new travel and lie down mode features, here are some core considerations:
+• Keep the headset out of the sun. Apparently, the sun can screw up the sensors, possibly permanently.
+• Be careful not to leave the headset in the car when you leave. This tip applies to almost all valuable electronics, pets, children, and cold drinks.
+• You will be more successful if you have a gray sky or you're in the shade.
+• You're better with non-twitch activities, like watching YouTube. Games that require controller tracking are likely to fail.
+• Some folks have used their phone's hotspot to connect to the internet. Your mileage will vary, as will your hotspot data fees.
+• You may have the most success sitting in a stationary car on a gray day.
+
+There's another issue: the boundary. The boundary uses room mapping, which doesn't make sense inside a car. You can turn off the boundary, but that technique requires a bit of a hack.
+
+Turning off the boundary via developer mode
+
+Given the new lie down mode, you might not need to use the following steps. But if lie down mode doesn't suit your needs, here's an alternative way to turn off the boundary.
+
+I hesitated writing this. It doesn't feel right to tell a 12-year-old how to turn on developer mode and turn off critical protection. But there are also adults reading this, so I'm going ahead.
+
+That said, I want to first speak to any kids reading this. Before you take these steps, ask a responsible adult. I'm not talking about your cool uncle who's fine with, "Hey, let's see what happens." Ask an adult who is more concerned about preventing you from getting a broken leg than which Sharpie will write the best-looking grafifti on your cast. You could get hurt if you bang into something.
+
+That, Dear Reader, is also why I'm not modifying my Quest 3 to demonstrate this technique. I use the device in a fairly small space, and when you turn on Developer Mode and turn off the Guardian, you also turn off passthrough. That might be great in a car, but it could also do real damage.
+
+Also: Get the latest Quest 3 updates early: Here's how to enable Meta's Public Test Feed
+
+If you hurt yourself, your family, your cat, your furniture, or anything else, it's your responsibility. Remember, I warned you against this. Also, remember to put it back how it's supposed to be after you're done using it as a passenger in the car.
+
+Okay, so the first thing to do is go to Meta's developer site and sign up for a developer account. This process used to take a while to get approval, but it now happens instantly and automatically.
+
+Once your developer account is set up, put on your Quest headset, go to Settings, and then Device Settings.
+
+Take a quick look and see if there's a Developer section in the menu. More than likely, you won't have that section. To enable it, go to Software Update, and you should see an Update Now button. If you don't see the Software Update, power down your Quest, wait a few minutes, and power it back on. Now, there should be an update. Go ahead and install it.
+
+Also: How to take even better Meta Quest 3 screenshots and recordings
+
+Once the update completes, and you restart, you should have a Developer tab available. Once you enter that tab, you should see a Guardian radio button. Flip it off, and the boundary is completely disabled until you turn it back on. Keep in mind, so is passthrough. That change means you won't be able to see your surroundings. So, be careful.
+
+Now, you should be able to stream a movie or watch a YouTube video without the boundary indicators getting in your way.
+
+What to expect if you try it
+
+Next, let's look at some folks who tried this technique out. However, all of these videos were produced before Travel Mode was introduced. The first is a worrying dude who seems willing to ride standing up in the back of a moving van, with no visibility. He puts on an entertaining show, but kids, don't try this at home (or in a van). I'm including this mostly as an example of what not to do.
+
+This next guy is using a Quest Pro. He shows how braking and acceleration confuse the tracking sensors. He points out that if the car bounces, the VR world bounces. This is the exact moment I decided not to try this out for myself. I don't like what it feels like to hurl and I don't want to clean up the mess.
+
+Our last example is a similar story, but at one point everything in the virtual environment flew at him super fast. He claims he never gets motion sickness, but trying this caused some motion sickness. If I still had any slight inclination to try this tactic out, it died here.
+
+The bottom line is that traveling with the Quest headset -- and it doesn't matter if it's the Quest 2, the Quest Pro, or the Quest 3 -- has gotten better in the last few months.
+
+Are you going to try this? Do you think it would be something you'd do if there were a working and supported car mode in the Quest environment? Let us know below.
+
+You can follow my day-to-day project updates on social media. Be sure to subscribe to my weekly update newsletter on Substack, and follow me on Twitter at @DavidGewirtz, on Facebook at Facebook.com/DavidGewirtz, on Instagram at Instagram.com/DavidGewirtz, and on YouTube at YouTube.com/DavidGewirtzTV.

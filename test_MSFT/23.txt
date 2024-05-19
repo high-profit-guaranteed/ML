@@ -1,0 +1,40 @@
+Fri, 17 May 2024 08:19:22 GMT
+
+Microsoft is taking no chances with its latest artificial-intelligence (AI) experiment.
+
+After its last AI chatbot turned into a genocide-advocating, misogynistic, holocaust-denying racist, the company's latest project — a bot that tells you what's in photos — refuses to even look at photos of Adolf Hitler.
+
+CaptionBot is the latest in a series of periodic releases from Microsoft's AI division to show off its technical prowess in novel ways.
+
+You can upload photos to it, and it will tell you what it thinks is in them using natural language. "I think it's a baseball player holding a bat on a field," it says in response to one example photo.
+
+But the bot appears to have a block on photos of Adolf Hitler. If you upload a photo of the Nazi dictator to the bot, it displays the error message: "I'm not feeling the best right now. Try again soon?"
+
+This error message popped up multiple times when we tried uploading photos of Hitler — and at no point did it appear when we tested other "normal" photos — suggesting there's a deliberate block in place. (Interestingly, it's not the same error message that appears when you upload pornographic content. Then it just says: "I think this may be inappropriate content so I won't show it.")
+
+This caution is likely a response to Microsoft's last AI bot, which was a catastrophic PR fail. In March, Microsoft launched "Tay" — a chatbot that responded to users' queries and emulated the casual, jokey speech patterns of a stereotypical millennial.
+
+The aim was to "experiment with and conduct research on conversational understanding," with Tay able to learn from "her" conversations and get progressively "smarter."
+
+But the experiment went monumentally off the rails when Tay proved a smash hit with racists, trolls, and online troublemakers, who persuaded Tay to use racial slurs, defend white-supremacist propaganda, and even outright call for genocide.
+
+For example, here was Tay denying the existence of the Holocaust.
+
+And here's the bot advocating for genocide.
+
+In some — but by no means all — cases, users were able to "trick" Tay into tweeting incredibly racist messages by asking it to repeat them. Here's an example of that.
+
+It would also edit photos users uploaded — but unlike CaptionBot, Tay didn't seem to have any filters in place on what it would edit. It once labelled a photo of Hitler as "swagger since before internet was even a thing."
+
+Microsoft ultimately shut Tay down and deleted some of its most inflammatory tweets after just 24 hours. Research head Peter Lee issued an apology, saying, "we are deeply sorry for the unintended offensive and hurtful tweets from Tay, which do not represent who we are or what we stand for, nor how we designed Tay."
+
+With CaptionBot, the block appears to affect many of the most "iconic" and recognisable photos of Adolf Hitler. But some other less clear or wider-focused shots still yield results.
+
+Microsoft did not immediately respond to a request for comment.
+
+NOW WATCH: Microsoft's artificial intelligence is so smart it can tell blind people what's going on around them
+• None Microsoft has officially halted production of the Xbox 360
+• None One of Microsoft's fiercest old rivals says it's undergone a 'complete inversion'
+• None Microsoft is turning to a pair of hot startups to ensure Google won't steal its cloud mojo
+
+SEE ALSO: Microsoft's genocidal AI chatbot is broken again

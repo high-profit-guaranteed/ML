@@ -1,0 +1,33 @@
+Fri, 17 May 2024 10:35:00 GMT
+
+Nvidia is preparing for the launch of its most powerful chip yet.
+
+Nvidia (NVDA -1.99%) stock has been unstoppable over the past few years, thanks to the company's key role in the world of artificial intelligence (AI). The tech giant makes graphics processing units (GPUs) that power crucial AI tasks, such as the training and inferencing of large language models. Then these models go on to do their job of completing complex tasks. Nvidia holds 80% of the AI chip market because its GPUs are the fastest around, and that's translated into explosive earnings performance.
+
+The company's quarterly earnings have surpassed analysts' estimates in at least the past four quarters. And revenue and net income have climbed in the triple and even quadruple digits in recent quarters -- well into the billions of dollars. So it's no surprise the stock has soared more than 200% over the past year.
+
+Considering all of this, should you rush out to buy Nvidia stock before its May 22 earnings report?
+
+First, here's a look at Nvidia's earnings path so far. A few years back, the company generated most of its revenue from the video game industry, with the GPU bringing games to life on the screen. But the GPU's ability to process multiple tasks at a time made it clear that this chip could score a big win in other industries, too. Nvidia created CUDA, a parallel computing platform that brings the GPU to general computing -- and that opened the door to AI.
+
+Since then, Nvidia has progressively grown revenue from its data center business -- which includes its AI offerings -- and this now represents the company's biggest source of growth and revenue. In the most recent quarter, data center revenue soared more than 400% year over year to a record $18.4 billion. That's on total revenue of about $22 billion (also a record) and significantly more than gaming revenue of $2.9 billion.
+
+In addition to GPUs, Nvidia offers a wide range of products and services, including a growing cloud software platform that streamlines the development of a company's AI applications. Potential customers can gain access to all of this through the world's major cloud providers -- so it's easy for a business to learn about what Nvidia has to offer and get started.
+
+It's true that Nvidia faces increasing competition from rivals, such as Intel and Advanced Micro Devices, which both have announced new high-performing chips in recent times. Intel even said its latest innovation -- the Gaudi 3 AI accelerator -- beat the performance and price of Nvidia's H100.
+
+Partners also are challenging Nvidia. For example, Amazon's Amazon Web Services (AWS), sells Nvidia products and its own in-house developed training and inference chips.
+
+These players probably will gain some market share, but Nvidia still has what it takes to dominate the market and keep those looking for a premium chip coming back. This is due to the company's first-to-market advantage, along with its reputation for top performance and ongoing innovation.
+
+Later this year, the company plans to release its Blackwell architecture, including six new technologies -- and this includes the most powerful chip yet. Even though competition may be getting tougher, it's not likely to unseat Nvidia.
+
+Now let's take a look at what to expect from the company's earnings report next week. Earlier, Nvidia forecast first-quarter 2025 revenue of about $24 billion, which represents an increase of more than 200% year over year. The GAAP gross margin forecast of 76.3% also shows a great leap from the prior period, when GAAP gross margin was 64.6%.
+
+One factor that may represent a headwind is the U.S. government's restriction on sales of AI chips to China. Nvidia has designed a new chip to fit government specifications, but it's not yet clear if such a product will take off.
+
+Let's get back to our question: Should you buy Nvidia before the May 22 earnings report? Not necessarily.
+
+As a long-term investor, you won't gain or lose much if Nvidia shares make even a double-digit move following the report. This sort of move won't stand out in the performance of Nvidia stock over five or 10 years -- your minimum holding period. This is great because it takes the pressure off ahead of events such as earnings reports and means you don't have to rush into an investing decision.
+
+That said, I'm optimistic about Nvidia's future, thanks to its solid market position, its focus on innovation, and the fact that the general AI story is in its early days. It's a great idea to buy Nvidia -- before or after May 22.

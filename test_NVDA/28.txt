@@ -1,0 +1,19 @@
+Fri, 17 May 2024 23:32:47 GMT
+
+Microsoft MSFT said on Thursday it plans to offer its cloud computing customers a platform of AMD AMD artificial intelligence chips that will compete with components made by Nvidia NVDA, with details to be given at its Build developer conference next week.
+
+It will also launch a preview of new Cobalt 100 custom processors at the conference.
+
+Microsoft's clusters of Advanced Micro Devices' flagship MI300X AI chips will be sold through its Azure cloud computing service. They will give its customers an alternative to Nvidia's NVDA H100 family of powerful graphics processing units (GPUs) which dominate the data center chip market for AI but can be hard to obtain due to high demand.
+
+To build AI models or run applications, companies typically must string together - or cluster - multiple GPUs because the data and computation will not fit on a single processor.
+
+AMD, which expects $4 billion in AI chip revenue this year, has said the chips are powerful enough to train and run large AI models.
+
+As well as Nvidia's top-shelf AI chips, Microsoft's cloud computing unit sells access to its own in-house AI chips called Maia.
+
+Separately, the Cobalt 100 processors Microsoft plans to preview next week offer 40% better performance over other processors based on Arm Holdings' ARM technology, the company said. Snowflake SNOW and others have begun to use them.
+
+The Cobalt chips, which were announced in November, are being tested to power Teams, Microsoft's messaging tool for businesses, and positioned to compete with the in-house Graviton CPUs made by Amazon.com AMZN.
+
+Amazon said this week that social network Pinterest PINS and fintech firm Robinhood Markets HOOD have started using its Graviton chips.

@@ -1,0 +1,25 @@
+Fri, 17 May 2024 13:43:25 GMT
+
+Amazon’s self-driving robotaxi unit is being investigated by the U.S. government’s highway safety agency after two of its vehicles braked suddenly and were rear-ended by motorcyclists
+
+DETROIT -- Amazon’s self-driving robotaxi unit is being investigated by the U.S. government's highway safety agency after two of its vehicles braked suddenly and were rear-ended by motorcyclists.
+
+The National Highway Traffic Safety Administration said in documents posted on its website Monday it will evaluate the automated driving system developed by Zoox.
+
+Both crashes involved Toyota Highlander SUVs with autonomous driving technology. They happened during daytime hours, and the agency confirmed that each of the Amazon vehicles was operating in autonomous mode leading up to the crashes. In one crash a motorcyclist suffered minor injuries, and a Zoox driver reported minor injuries in the other, according to reports. Both happened last month, one in San Francisco and the other in Spring Valley, Nevada.
+
+The agency said the probe will focus on the performance of the company's automated driving system during the crashes, as well as how it behaves in crosswalks around pedestrians and other vulnerable road users.
+
+In a statement, Zoox said it is committed to working with NHTSA to answer its questions. “Transparency and collaboration with regulators is of utmost importance,” the company said. Zoox said the vehicles had human safety drivers on board.
+
+Zoox reported the crashes under an order to automated vehicle companies issued in 2021.
+
+Amazon acquired Zoox in June of 2020 for a price that analysts pegged at over $1 billion. In 2023 the Foster City, California, company said one of its funky-looking four-person shuttles autonomously carried employees on public roads on a mile-long (1.6 kilometer) route between two Zoox buildings.
+
+The company has launched a shuttle service exclusively for its employees. Analysts say they expect Amazon to use the Zoox system for autonomous deliveries.
+
+Zoox shuttles don't have a steering wheel or pedals. The carriage-style interior of the vehicle has two benches that face each other. It measures just under 12 feet (3.7 meters) long, about a foot (a third of a meter) shorter than a standard Mini Cooper. It is capable of going up to 75 mph (121 kilometers per hour), although it started running on public roads at up to 35 mph, the company said.
+
+Zoox already was under investigation by NHTSA. In March of 2022 the agency began looking into the company’s certification that its vehicle met federal safety standards for motor vehicles.
+
+The agency said at the time that it would look into whether Zoox used its own test procedures to determine that certain federal standards weren’t applicable because of the robotaxi’s unique configuration.

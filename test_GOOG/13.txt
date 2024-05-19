@@ -1,0 +1,29 @@
+Fri, 17 May 2024 12:47:10 GMT
+
+Snowflake Inc SNOW is negotiating to buy Reka AI for over $1 billion to enhance its generative AI capabilities.
+
+Reka AI, launched in 2022 by former Alphabet Inc GOOG GOOGL Google and Meta Platforms Inc META researchers, specializes in large language models, which have applications ranging from image captioning to customer support chatbots.
+
+Valued at approximately $300 million in a 2023 funding round that included investment from Snowflake’s venture arm, Reka AI has drawn significant interest from Snowflake, Bloomberg cites a Reuters report.
+
+Snowflake, a cloud data management firm, launched its own large language model, Arctic, in April.
+
+It allows customers to integrate third-party AI models like Reka’s into their Snowflake environments.
+
+Earlier this year, Sridhar Ramaswamy, Snowflake’s CEO and a former Google veteran, was instrumental in pushing Snowflake’s AI initiatives forward.
+
+Before becoming CEO, he served as Snowflake’s senior vice president of AI following the acquisition of Neeva, an AI-powered search engine company he led.
+
+Snowflake’s stock has declined over 5% this year. Databricks, a leading competitor to Snowflake, recently enhanced its AI portfolio by acquiring AI startup MosaicML.
+
+Meanwhile, analysts flagged Iceberg tables could slow Snowflake’s growth in 2024, which the company has projected at a midpoint of 22%.
+
+This slowdown is linked to some large internet customers transitioning more storage to Iceberg’s open-source data lakehouse.
+
+They emphasized that while Iceberg tables potentially threaten Snowflake’s business model, this threat may be overstated for now, as only about 10% of Snowflake’s revenue comes from storage, with a growing share coming from its compute engine.
+
+They also highlighted the increased investor confidence and the acceleration of AI-related announcements under CEO Sridhar Ramaswamy’s leadership.
+
+Investors can gain exposure to Snowflake through the Spear Alpha ETF SPRX and the TrueShares Technology, AI & Deep Learning ETF LRNZ.
+
+Price Action: SNOW shares are trading lower by 0.35% at $164.50 premarket at the last check Friday.

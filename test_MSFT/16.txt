@@ -1,0 +1,22 @@
+Fri, 17 May 2024 18:55:22 GMT
+
+OpenAI, the parent company of ChatGPT and other artificial intelligence (AI) tools, officially launched ChatGPT 4 to the public through its website.
+
+The new iteration of the AI-powered chatbot is more advanced, makes less mistakes and gives users more capabilities compared to its predecessor ChatGPT 3.5.
+
+
+
+Microsoft Corp MSFT is invested in and owns a portion of OpenAI. The rapid adoption of AI products and tools have sent stocks like NVIDIA Corp NVDA, Alphabet Inc GOOGL and others higher throughout the last two years.
+
+
+
+Read Also: What’s Going On With Reddit Shares Friday On Heels Of OpenAI Partnership?
+
+Here are five of the best features of ChatGPT 4:
+• Ability To Upload Images And Other Files: ChatGPT 3.5 was limited to just text inputs from users. But, ChatGPT 4 allows users to upload images, as well as other types of files. ChatGPT can decipher images and describe what they are. This could be especially useful for people with limited vision.
+• Real-Time Internet Search: The new ChatGPT can scrape the internet in real-time to give users up-to-date responses. Previously, ChatGPT was limited to information from a certain date, so it could not give answers in real-time. Now, the site can give you updated information, such as "who is currently winning the PGA Championship" and more.
+• Complex Problem Solving: The newest iteration of ChatGPT is much more advanced in its problem-solving capabilities compared to past models. In fact, the newest ChatGPT scored in the 90th percentile of the bar exam, whereas ChatGPT 3.5 scored in the 10th percentile.
+• Less Hallucinations And Errors: ChatGPT 4 makes less errors and creates fewer hallucinations, or instances in which the AI will make something up to answer a user's question. "GPT-4 has been fine-tuned to reduce factual inaccuracies and provide more reliable information," according to the company.
+• More Human-Like Interactions: With the newer version of ChatGPT, OpenAI tried to create more human-like interactions. The tool also now does a better job of picking up on tone and inferences made by human users. "GPT-4 engages in more natural and fluid conversations, making interactions feel more like talking to a human," Open AI said.
+
+Now Read: Reddit’s Inclusion Of ChatGPT Triggers IBM Watson Fiasco Déjà Vu: A ‘Recipe For Disaster’?

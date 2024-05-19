@@ -1,0 +1,17 @@
+Fri, 17 May 2024 21:44:32 GMT
+
+Meta is once again taking on its competitors by developing a feature that borrows concepts from others -- in this case, BeReal and Snapchat. The company is developing a feature for Instagram called “Peek” that would allow users to post authentic pictures that can only be viewed once. While Snapchat popularized the idea of ephemeral content on social media, BeReal led the trend of posting authentic, unedited content. Meta, which is known to copy startups and other tech companies, appears to be doing so once again with the new feature.
+
+The social media company confirmed to TechCrunch on Friday that the feature, which was first spotted by reverse engineer Alessandro Paluzzi, is an internal prototype and isn’t being tested externally.
+
+Peek appears to be a more ephemeral version of Stories, which can be viewed for 24 hours. A photo shared via a Peek would have to be taken with your camera in the moment, as you wouldn’t be able to upload an image from your camera gallery, according to a screenshot shared by Paluzzi. Plus, you wouldn’t be able to edit the photo or add a filter, which is a concept that became popular via the rise of BeReal.
+
+Peek appears to be somewhat similar to Instagram’s Candid Stories feature, which began testing in 2022 to compete with BeReal. While the feature never rolled out to all users, it was essentially a BeReal clone. The feature would send notifications to people encouraging them to capture what they were doing at the moment and share it without editing the image or adding a filter to it.
+
+While Candid Stories nudged users to share authentic content at a specific time every day, Peek would let you do so on your own terms.
+
+The flexibility could be more appealing to users who are interested in sharing authentic content but not wanting to do so based on a random timer. Instagram’s spin on authentic photo-sharing could entice users, especially since reports have suggested that BeReal is losing steam (which it claims is false).
+
+The screenshot posted by Paluzzi notes that Instagram sees Peek as a way to “share little moments with the people you love.” Instagram likely hopes that the feature will encourage users to share additional types of content on the app, as it takes another go at competing with BeReal.
+
+As with any other internal prototype, it’s unknown when or if Instagram plans to roll out Peek publicly. Of course, if Instagram does release the feature, there’s a possibility that it could look different or be renamed.

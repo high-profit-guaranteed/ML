@@ -1,0 +1,15 @@
+Fri, 17 May 2024 14:41:15 GMT
+
+Threads users can now look forward to having a better real-time experience on the Threads app, as Meta; its parent company is allowing selected users to test customizable feeds on the web version of the platform.
+
+This comes after Threads users complained about being forced into the algorithm of the "For You" feed each time they visit Threads on the web. Even though a real-time "Following" feed exists, users still have to bookmark a specific URL or switch every time they load threads on the web, with the same issue persisting on the mobile app as well.
+
+In a bid to solve this problem, Meta has decided to test customizable feeds on Threads similar to TweetDeck (now X Pro). It is currently selecting a handful of Threads users to test this feature in beta on the web version of Threads.
+
+If you are lucky to be one of the selected users, you will be able to customize your feed by keeping it simple with a single feed or adding separate columns for your favourite searches, tags, accounts, saved posts, and notifications.
+
+You will also be able to make your column update in real-time with the latest posts and pin columns full of search results or posts from a single user profile.
+
+Should this feature be released, it would be the second update Threads is releasing in a short time after it launched a "Hidden Words" feature at the end of April that lets users filter out words and phrases that they dislike from their feed.
+
+Right now, no official release date has been given by Meta. However, considering how important this feature is in resolving the complaints from 150 million users globally who use the app, per data from Statista, we should expect its release date any moment from now.

@@ -1,0 +1,49 @@
+Fri, 17 May 2024 23:53:10 GMT
+
+Microchip startup, Ampere Computing, is collaborating with mobile innovator Qualcomm to develop and build new technology that would improve performance and reduce power costs in artificial intelligence operations.
+
+Announced on Friday, Ampere uses Arm technology in its AI chips, which are otherwise employed by several existing tech giants, including Google (NASDAQ: GOOG) and Oracle (NYSE:ORCL).
+
+ARM technology refers to the architecture and processors originally developed by Arm Holdings plc (NASDAQ: ARM), a company known for designing reduced instruction set computing (RISC) architectures. Beyond that, ARM stands for Advanced RISC Machine, which focuses on energy efficiency and performance. These processors are characterized by their low power consumption, making them ideal for a wide range of applications.
+
+Known primarily for its smartphone chips, Qualcomm is expanding into artificial intelligence offerings. Additionally, both companies aim to create AI chips that are more energy-efficient than current market offerings.
+
+The next-gen Ampere and Qualcomm CPU chip features 256 cores for processing operations, a significant upgrade from the previous version’s 192 cores. It combines Ampere CPUs with Qualcomm Cloud AI 100 inferencing chips and will be produced by TSMC using its 3-nanometer manufacturing process.
+
+This development highlights the growing interest among businesses in capitalizing on the AI boom. Ampere and Qualcomm are particularly focused on enhancing server-level artificial intelligence solutions for the foreseeable future.
+
+“We are extending our product family to include a new 256-core product that delivers 40 per cent more performance than any other CPU in the market,” said Renee James, chief executive of Ampere.
+
+“It is not just about cores. It is about what you can do with the platform. We have several new features that enable efficient performance, memory, caching, and AI compute.”
+
+Read more: Verses AI onboards chief product officer in push for AI product Genius
+
+Read more: Verses AI raises CAD$10M in private placement and leans into AI product, Genius
+
+Ampere has started shipping its 192-core AmpereOne processors, which feature an eight-channel DDR5 memory subsystem introduced last year. Later this year, the company plans to launch 192-core AmpereOne CPUs with a 12-channel DDR5 memory subsystem, necessitating a brand-new platform.
+
+Super Micro Computer Inc (NASDAQ: SMCI) has agreed to pair Ampere processors with Qualcomm’s AI 100 Ultra products in their servers. The chip companies have developed hardware and software to ensure the new offering operates smoothly and efficiently for AI inference tasks, such as image or voice recognition.
+
+For those looking to avoid the high cost and frequent back orders of Nvidia gear, Ampere’s new server offers “five times better performance per dollar,” according to Jeff Wittich, Ampere’s chief product officer.
+
+Additionally, Ampere is developing standards to enable the combination of different companies’ chips on single pieces of silicon, Wittich said.
+
+This approach will allow customers to specify their desired products more precisely and avoid dependency on single suppliers. Such products might feature Ampere processors and Qualcomm accelerators on the same chip, enhancing efficiency and performance.
+
+Read more: Kansas joins multiple state coalition in boosting artificial intelligence surveillance tech in schools
+
+Artificial intelligence has developed in the past two months
+
+The world of AI has seen continued progress in the last two months. In cybersecurity, Palo Alto Networks (NASDAQ: PANW) unveiled Magnifier, an AI tool that analyzes network data to spot threats. This system can analyze a wider range of information than traditional methods, helping to identify hidden cyberattacks.
+
+Additionally, the field of medical diagnostics has seen advancements in AI systems that can analyze medical scans. These AI tools have the potential to improve the accuracy and speed of diagnoses, leading to better patient outcomes.
+
+Adding to the landscape of AI innovation, VERSES AI (CBOE: VERS) (OTCQB: VRSSF) has introduced its Genius artificial intelligence offering.
+
+Genius is the world’s first natural computing system, modelled after a breakthrough in biological processes. Genius also uses nature-inspired biological processes to generate agents and collaborate, exhibiting the dynamic behaviors of autonomous intelligent systems.
+
+This approach allows it to manage uncertainty and risk while striving to create safe and sustainable environments at scale.
+
+By integrating seamlessly with existing infrastructure, Genius aims to optimize operational efficiency and provide robust support for complex tasks such as data analysis, decision-making, and automation.
+
+This addition also highlights the broader trend of leveraging AI to enhance performance and reduce costs, aligning with Ampere’s and Qualcomm’s efforts to provide high-efficiency, cost-effective solutions in the competitive AI market.

@@ -1,0 +1,25 @@
+Fri, 17 May 2024 18:24:08 GMT
+
+Earlier this week, the deadline for regulatory disclosures sparked much intrigue regarding certain institutional investors. Among them was technology juggernaut Nvidia (NASDAQ:NVDA). Curiously, the company abandoned its stake in TuSimple (OTCMKTS:TSPH), an enterprise that leverages artificial intelligence (AI) to facilitate autonomous driving for semi-trucks. Previously, TSPH stock soared when Nvidia earlier disclosed owning a small position.
+
+For the fourth quarter’s 13F disclosure filed with the U.S. Securities and Exchange Commission (SEC), Nvidia revealed that it owned around 3.47 million shares of TSPH stock. The market value of these shares amounted to $3.04 million or 87.7 cents per share. However, the estimated average buying price stood at approximately $1.12. per share. At the time, the position represented 1.32% of the semiconductor giant’s portfolio.
+
+However, for the latest Q1 disclosure, Nvidia publicized that it sold its entire position. From a money management perspective, the move made sense. On a year-to-date basis, TSPH stock is down nearly 62%. Over the past 52 weeks, it shed almost 76%. Thus, Nvidia may have wanted to avoid sending good money into bad.
+
+While arguably sensible, the move by Nvidia is jarring. Back in mid-February of this year, the tech firm’s 13F disclosure for Q4 revealed the aforementioned position in TSPH stock. The publication of that stake sent TuSimple soaring as investors clamored for anything related to AI, especially businesses involved with Nvidia.
+
+Further, Nvidia invested in TSPH stock in 2017, four years before TuSimple’s initial public offering. Likely, this information bolstered investor sentiment, even though TSPH has turned wildly volatile since late 2021.
+
+In early 2022, TuSimple generated headlines when it revealed a partnership with Nvidia. The deal involved using the chipmaker’s semiconductors to design and build an autonomous driving system for self-driving trucks.
+
+Unfortunately for speculators, the once-promising relationship appears to be ending. Early this year, The Wall Street Journal reported that the U.S. Department of Commerce stopped a shipment of 24 Nvidia chips bound for one of TuSimple’s subsidiaries in Australia.
+
+Although advanced U.S. chips can be sent to Australia, the Biden administration’s policies prohibit transfers of such products to China. Federal investigations previously targeted TuSimple amid concerns that it was transferring technology to China.
+
+Since its public market debut, TSPH stock has lost more than 99%, per data from Google Finance. It’s one of the worst implosions of market value. In April 2021, Reuters noted that TuSimple raised over $1 billion in its initial public offering (IPO). At the time, the deal valued the company at nearly $8.5 billion.
+
+On Penny Stocks and Low-Volume Stocks: With only the rarest exceptions, InvestorPlace does not publish commentary about companies that have a market cap of less than $100 million or trade less than 100,000 shares each day. That’s because these “penny stocks” are frequently the playground for scam artists and market manipulators. If we ever do publish commentary on a low-volume stock that may be affected by our commentary, we demand that InvestorPlace.com’s writers disclose this fact and warn readers of the risks.
+
+Read More: Penny Stocks — How to Profit Without Getting Scammed
+
+On the date of publication, Josh Enomoto did not have (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.

@@ -1,0 +1,35 @@
+Sat, 18 May 2024 04:52:21 GMT
+
+The AI safety team at OpenAI is facing a "mass exodus" with key members resigning due to a loss of faith in the company’s leadership. The departures of Ilya Sutskever and Jan Leike, leaders of the superalignment team, have raised concerns about the future of AI safety at OpenAI.
+
+What Happened: Microsoft Corp.-backed MSFT OpenAI, the company behind ChatGPT, has seen a series of resignations from its AI safety team. The departures of Sutskever and Leike, who were key figures in ensuring AI alignment with human goals, have sparked concerns about the company’s future in AI safety.
+
+At least five other safety-focused employees have also left since November when OpenAI’s board attempted to dismiss CEO Sam Altman. The failed ousting led to a loss of trust in Altman among safety-focused employees, according to sources within the company, reported Vox.
+
+"It's a process of trust collapsing bit by bit, like dominoes falling one by one," said an anonymous source, according to the report.
+
+Subscribe to the Benzinga Tech Trends newsletter to get all the latest tech developments delivered to your inbox.
+
+OpenAI’s offboarding agreements with non-disparagement provisions have also contributed to the silence of departing employees. Those who refuse to sign the agreement forfeit their equity in the company, potentially losing out on millions of dollars.
+
+One former employee, Daniel Kokotajlo, who refused to sign the offboarding agreement, spoke out about the company’s direction.
+
+“OpenAI is training ever-more-powerful AI systems with the goal of eventually surpassing human intelligence across the board. This could be the best thing that has ever happened to humanity, but it could also be the worst if we don't proceed with care,” he said.
+
+See Also: Elon Musk Recalls Breaking Friendship With Google’s Larry Page Over Ilya Sutskever: ‘Linchpin For OpenAI Being Successful'
+
+Leike, in a post on X, echoed Kokotajlo’s concerns. “I have been disagreeing with OpenAI leadership about the company's core priorities for quite some time, until we finally reached a breaking point."
+
+Why It Matters: The departures of Sutskever and Leike come after a series of significant events at OpenAI.
+
+Sutskever, a key member of the company's founding team, announced his decision to leave OpenAI after nearly a decade, expressing confidence in the company's ability to develop artificial general intelligence under the leadership of Altman and other executives.
+
+Following Sutskever’s resignation, OpenAI appointed Jakub Pachocki as its new chief scientist. Pachocki, who took over from Sutskever, was described by Altman as “easily one of the greatest minds of our generation.”
+
+Elon Musk, one of the co-founders of OpenAI, recalled how he holds Sutskever in such high regard that he broke his friendship with Alphabet Inc. co-founder Larry Page over it.
+
+Check out more of Benzinga’s Consumer Tech coverage by following this link.
+
+Read Next: OpenAI Chief Scientist Who Quit Months After Helping Briefly Oust Sam Altman Likely To Join Elon Musk’s xAI
+
+Disclaimer: This content was partially produced with the help of Benzinga Neuro and was reviewed and published by Benzinga editors.

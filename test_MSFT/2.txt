@@ -1,0 +1,43 @@
+Fri, 17 May 2024 10:38:45 GMT
+
+Microsoft (NASDAQ:MSFT) stock strengthened its AI presence through acquisitions, top hires, and the release of Copilot, an AI productivity tool. Copilot, which aids in creating presentations and documents, was expanded to cybersecurity, increasing task efficiency by 26% and accuracy for novices by 44%.
+
+Cloud computing, its most significant growth area, represented over half of Q3 FY24 revenue, growing 23% year-over-year. Overall revenue was up 17%, and net income rose 20%. Analysts expect a 14% sales growth next year, solidifying its position as a top buy.
+
+The question, though, is whether this convincing performance and the company’s unique positioning in the AI race make it worth 36-times earnings. Let’s dive into where this company could be headed from here, and why I think the answer is most likely yes.
+
+Microsoft announced its most significant investment in the country in its 41-year history at the Choose France summit.
+
+This investment aims to enhance France’s digital tech competitiveness and benefit the economy and job market by boosting AI and cloud technology adoption. Microsoft supports France’s National AI Strategy by building advanced infrastructure, providing AI training, and aiding startups.
+
+Microsoft’s Cloud and AI infrastructure in France adhered to their newly published AI Access Principles, promoting innovation and competition in the AI sector.
+
+These principles underscored Microsoft’s commitment to responsible AI leadership, ensuring broad access to AI technology. Corporate VP Corine de Bilbao highlighted the historic investment, focusing on advanced infrastructure, comprehensive training, and startup support to drive sustainable and inclusive growth.
+
+The company also committed €4 billion to enhance its Cloud and AI infrastructure in France, adding up to 25,000 advanced GPUs by 2025.
+
+This expansion includes extending data center facilities in Paris and Marseille and planning a new campus in the Grand Est Region. These investments meet the demand for AI computing power, operating under Microsoft’s Responsible AI Standard.
+
+According to research, nearly half of global employees plan to request more flexible work schedules or locations next year. However, 43% feel disconnected from their company, highlighting the challenge of maintaining connection in flexible work environments.
+
+Given that, Microsoft created a solution: Microsoft Places. This AI-enhanced app aims to simplify all in-office production, including fostering workspace connections.
+
+Offices will love its key feature, which is impromptu conversations with workers. With an expanded presence, a new Places feature that appears across Microsoft 365 apps allows you to see co-workers who are nearby.
+
+Users can also indicate when an employee is in the office or which building they’re in; co-workers can easily see when they’re nearby.
+
+Currys plc, a leading tech retailer, chose Accenture and Microsoft to upgrade its cloud infrastructure. This collaboration aims to enhance operations, improve the shopping experience, and benefit Currys’ 25,000 employees by adopting Microsoft AI technologies, including Azure OpenAI Service.
+
+Accenture, Microsoft, and their joint venture, Avanade, will modernize and secure Currys’ technology estate.
+
+Through Microsoft AI technologies, Currys aimed to unlock business value by simplifying shopping with personalized product suggestions and enhancing customer loyalty through improved post-sales and warranty services.
+
+They also sought to improve employee access to information for better customer service and sales opportunities while boosting growth and profitability by integrating AI into marketing, HR, finance, and legal functions.
+
+Moving to Azure would also help Currys achieve net zero emissions by 2040 through a more energy-efficient infrastructure.
+
+With Azure as its primary revenue driver, Microsoft is a promising stock to own now. This growth in AI and cloud computing could be highly advantageous due to its cost-efficiency and superiority in cloud integration. For those taking a truly long-term perspective of the AI race, I think this is a rather simplistic thesis to understand.
+
+Over the long-term, Microsoft has built a moat around most of its core businesses that should continue to pay off. For those with a multiyear investing time horizon, this is a stock to add to the portfolio and simply hold. At 36-times earnings, MSFT stock appears fairly priced to me right now.
+
+On the date of publication, Chris MacDonald did not have (either directly or indirectly) any positions in the securities mentioned in this article. The opinions expressed in this article are those of the writer, subject to the InvestorPlace.com Publishing Guidelines.

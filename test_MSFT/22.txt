@@ -1,0 +1,87 @@
+Fri, 17 May 2024 09:55:53 GMT
+
+The Forza Motorsport updates just keep rolling. Another month, another exciting addition to the roster: Ginetta G40 Junior.
+
+Immerse yourself in high-performance Track Toys including the lightweight Ginetta G40 Junior.
+
+Celebrate the cars that are blurring the line between production road cars and high-end racecars in Forza Motorsport Update 8. Expand your garage with track-worthy machines and put them to the ultimate test in special events across Career, Multiplayer and Rivals.
+
+Update 8 rolls out for download starting Monday, May 13 at 10:00 AM PT / 5:00 PM UTC on Xbox Series X|S and PC via the Microsoft Store and Steam. Spotlight cars and new in-game events begin on Wednesday, May 15 at 5:00 PM PT (12:00 AM UTC on Thursday, May 16).
+
+Today’s update introduces new fixes and experience improvements to Forza Motorsport, including tweaks to how Safety Ratings are calculated in Featured Multiplayer, a gloss-matte slider in the Livery Editor, a new Tire Wear scale option for Free Play and Private Multiplayer, and changes to Drivatar AI braking behavior.
+
+Below is a snapshot of the fixes and gameplay changes contained in Update 8. Head on over to Forza Support to find the full release notes for this version:
+• Firstly, we’ve introduced a Vinyl Material tool to the Livery Editor which can be used to uniformly adjust all vinyl materials on a car from matte (non-reflective) to glossy (reflective). This includes a reset option to revert all vinyls to match car paint glossiness. Imported designs from Forza Horizon 5 using its similar feature will automatically inherit these values.
+• We’ve added a Tire Wear Scale option to Free Play and Private Multiplayer, allowing adjustments to the rate at which tires are worn. 1x is the default value. At 2x, tire wear will occur twice as fast. Values range from .5x to 10x. This setting is found in the Event Setup Rules tab and in the Fuel & Tire menu when on track.
+• We’ve updated Safety Ratings in Featured Multiplayer by increasing the number of previous races the Safety Rating uses to determine your rating from 10 to 20, and by making on-track collisions more impactful to Safety Rating. These changes will take effect after your first race in Update 8.
+• In addition, we’ve improved the matchmaking algorithm to search for a narrower range of Safety Ratings compared to your own. For example, players with an ‘S’ Safety Rating should no longer be matched with players who have ‘E’ and ‘D’ Safety Ratings. Groups will be connected to matches based on the player with the lowest Safety Rating.
+• We’ve removed the 2020 KTM X-Bow GT2 and the 2020 Lamborghini Essenza SCV12 from the Forza GT Series and added them to the Modern Factory Racecar Series in Featured Multiplayer. Meanwhile, the 2019 Porsche #70 Porsche Motorsport 935 has been added to the Forza GT Series. We’re currently working on recategorizing Forza GT racecars into separate spec divisions and expect to push these changes into the game this summer.
+• Finally, we’ve reduced unnecessary braking scenarios for Drivatar AI opponents. Examples of this include braking while attempting to pass, two cars wide in corners, at the apex of corners, and on straights.
+
+In celebration of its 50-year anniversary, we’re excited to reveal a partnership with Mobil 1, which will include a series of exciting in-game Rivals events starting this summer.
+
+To kickstart this special collaboration, Maple Valley has been updated to “Mobil 1 Presents Maple Valley” with new track signage featuring Mobil 1 branding. Check it out the next time you are racing through the sweeping turns and beautiful, fictional woods of New England.
+
+Numerous fixes and improvements have been made to Maple Valley and Mid-Ohio in Update 8. Check out the release notes for the full overview of these adjustments.
+
+The Track Toys Tour invites you to experience high-performance cars that you could see hot lapping on the racetrack.
+
+Compete in a single-make race series with Ginetta Juniors. This affordable entry point into motorsport for enthusiasts will see you behind the wheel of the nimble yet extraordinary 2019 Ginetta G40 Junior. Despite only 100 horsepower, the lightweight G40 has emerged as the most successful junior racing car on the circuit!
+
+Weekend Warriors sees you racing cars like the exceptional 2015 Porsche Cayman GTS which could be taken to the track on a Sunday before being driven to work the following day. Whether it is on the road or the racetrack, this Cayman GTS tackles every twist and turn at high-speed without issue!
+
+Appreciate the unforgettable shape and undeniable performance of the iconic Caterham R500 in Kit Caterhams. This driving machine must be skillfully handled. Despite its light chassis, the R500 catapults from 0 to 60 in just 2.9 seconds thanks to its 267 horses!
+
+And finally, enjoy a celebration of purpose-built track cars like the aerodynamic 2019 Elemental RP1 in Track Toys. This lightweight car delivers a thrilling 320 horsepower from its 2-liter turbocharged engine! Not only does its massive low-pressure diffuser look truly incredible, but its aerodynamic capabilities create a truly staggering amount of downforce, ensuring you always have full control of the RP1 on the track.
+
+Complete all 4 series in the Track Toys Tour to receive the ultimate racing warrior, the 2019 Porsche #70 Porsche Motorsport 935. This car’s exterior details are inspired by Porsche’s racing legacy, including rims and aerodynamics that pay homage to the 935/78 racecar –nicknamed the Moby Dick – as well as 919 Hybrid LMP1-inspired LED taillights. Enter the Reward Showcase with the 935 to take on a field of hypercars built for the track.
+
+Series within the Track Toys Tour do not have to be completed in a particular week – you have until June 27, 2024, to finish this latest Featured Tour. Spotlight cars are available at a discount for the week during which they are featured.
+
+Spotlight cars are featured in the Showroom every week, available for you to acquire with a temporary 30% discount using in-game credits. Update 8 will showcase four Spotlight cars, one each week, three which are either new or returning to Motorsport.
+
+These Spotlight cars can be used in the Track Toys Tour, as well as Spotlight Series events in Featured Multiplayer and Spotlight Rivals.
+
+Forza Motorsport VIP Members also get an exclusive 15% discount on the 2014 BAC Mono in the Showroom. This is one of the few single-seat production cars that’s not only street legal, but ready to take on any track with its unique blend of formula racecar and aircraft-like design. Duke it out with this exhilarating track toy on the Mono a Mono VIP Rivals event and shave off those milliseconds at Yas Marina – South Circuit to secure your spot on the community leaderboard.
+
+In addition, starting with Update 8, VIPs can look forward to an exclusive 15% discount on a car every week in the Showroom. Exclusive discounts for VIP Members in Update 8 include the following cars:
+
+Exclusive VIP discounts and VIP Rivals events require VIP Membership, available in the Premium Edition or Premium Add-Ons Bundle, sold separately.
+
+With each update to Forza Motorsport, the Open Class Tour gets refreshed with new events and a new reward car.
+
+Open Class Tour is where you can continue the journey of your favorite cars. Cars that you’ve already built in a different Builders Cup series can be further levelled up and upgraded in the Open Class Tour.
+
+Enter the Open Class Tour with your favorite cars across D, C, B, and A Classes and take on opponents racing inexpensive and highly modifiable production cars that you would expect to see at your local track on the weekend.
+
+Complete the Open Class Tour in Update 8 to receive the 2011 BMW 1 Series M Coupé. Its incredible blend of performance, handling and practicality makes it the perfect choice for those seeking an exhilarating driving experience, especially in the Reward Showcase where you can race with other cars in its class.
+
+With Forza Motorsport Update 8, the Open Class Tour in Career mode has been migrated from the Builders Cup tab to the Featured tab. The Open Class Tour will be found in the Featured tab going forward.
+
+As mentioned in the release notes, with Update 8, Featured Multiplayer introduces tweaks to how Safety Ratings are calculated, an updated matchmaking algorithm and small car changes to the Forza GT Series with more updates to this division planned for summer.
+
+Here’s a look at your Featured Multiplayer calendar of upcoming events for Update 8:
+
+The 3-Eleven is an open-cockpit, mid-engine screamer that exemplifies Lotus founder Colin Chapman’s mantra “simplify, then add lightness.”
+
+Bespoke racing versions of some of the most sought-after cars from the late 80s and 90s, now valued in millions of dollars by savvy collectors.
+
+The popular MX5 ‘94 version of the best-selling Mazda Miata is perfectly balanced to handle the most demanding road courses with the speed and agility of cars costing much, much more.
+
+Race through a field of ultimate track day specials in the Modern Factory Racecar series. These mid-engine production cars feature unique upgrades designed to achieve extreme performance metrics and ensure victory on the track.
+
+Set your fastest lap times across exciting new Rivals events in Forza Motorsport Update 8.
+
+Compete for the leaderboard in this month’s Featured Spec Rivals event! Choose your favorite Forza Touring Car and challenge your skills and precision to achieve your fastest lap at Virginia International Raceway – Full Circuit. Cars have been pre-tuned for optimal competition but can be further adjusted to suit your playstyle.
+
+Later in the month, we’re opening a special Rivals event where you can experience the ultimate track car developed to pay tribute to a world-famous driver – the McLaren Senna – at the same track where he achieved several victories, Silverstone – Grand Prix Circuit. The Senna is one of the lightest and most driver-focused cars McLaren has ever built, with uncompromised performance and aerodynamics that unleash their true capabilities on the racetrack.
+
+Remember that every week a new Spotlight Rivals event will present an opportunity for you to challenge your skills in the latest Spotlight car!
+
+See You at the Track
+
+We hope you enjoy the Track Toys Tour and all of the events and gameplay improvements in Forza Motorsport Update 8! Remember to share your feedback about future cars, tracks and features on our official Forza Suggestions Hub.
+
+Remember, our next track is coming in June alongside Update 9, and we look forward to showing it to you next month!
+
+This website uses affiliate links which may earn a commission at no additional cost to you.

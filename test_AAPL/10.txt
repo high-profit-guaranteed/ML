@@ -1,0 +1,23 @@
+Fri, 17 May 2024 16:02:37 GMT
+
+U.S-based tech giant Apple Inc. (NASDAQ:AAPL) is reportedly planning to release updates for its iPhone handsets that are fitted with NFC chips and the updates will introduce the ability to unlock doors using the wireless technology.
+
+The company has been fitting NFC chips in its handsets since the iPhone 6 to facilitate contactless exchange of information. Apple’s main use for the technology is making payments through Apple Pay. The latter is compatible with credit card readers that also feature NFC technology, making it possible for Apple Pay to work in stores.
+
+Apple has not really pursued a lot of other uses through NFC and it has also not granted third-party access to its antenna so that they can develop their own NFC-enabled features. However, recent reports claim that the company will announce during this year’s WWDC that it will start allowing developers to access the antenna. This means they can finally come up with new features such as unlocking car doors, smart locks or accessing security systems in buildings among other applications.
+
+However, this is not the first time that Apple will be using NFC to unlock doors. Its employees have already been using the technology to open doors at its Cupertino campus although the feature has not been expanded to other areas. Apple is reportedly working on giving developers access through iOS 12.
+
+There are some rumors that developers are already working on an iOS-based application that will allow iPhone users to use the contactless technology to access the fare system on the Cubic Transportation Systems. This is courtesy of the recent contract that the company was awarded by the Metropolitan Transportation Agency. Cubit is reportedly planning to make a demonstration during the upcoming WWDC event.
+
+Cubit has also teamed up with numerous firms from Boston, New York, and other regions to work on mobile –based systems that will eliminate tickets and proprietary cards. The company already has a working system in London and Chicago. It also acts as a vendor for a real-time active tracking software called NextBus.
+
+The involvement of Cubit with Apple suggests that the tech giant might indeed be opening up it’s NFC antenna so that developers can use the wireless network come up with creative solutions. It will also allow the iOS ecosystem to catch up with Android device makers. If Apple does indeed open up to developers, it might result in a lot of applications that will really unlock the NFC chip. It might also encourage NFC hardware developers to start widening the scope of their technology by featuring NFC authentication in their connected devices.
+
+Apple has so far not revealed any plans pertaining to the matter but this is not unusual since Apple is usually secretive when it comes to developments. However, the company is expected to reveal any developments during the WWDC event. However, the firm will most likely launch iOS 12 along with the launch of its latest devices in September this year.
+
+This article was originally posted on FX Empire
+• None Apple Inc. (NASDAQ:AAPL) To Push NFC Updates That Will Allow Users To Unlock Cars And Doors
+• None Nasdaq Backs Bitcoin (BTC), Litecoin (LTC) And Stellar (XLM) As It Considers Cryptocurrency Exchange
+• None Will Geopolitical Tensions Drive Fundamentals in Favor of the Stocks this Summer?
+• None The Euro continues to Tumble as Italian Yields Spike

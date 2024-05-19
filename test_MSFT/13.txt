@@ -1,0 +1,43 @@
+Fri, 17 May 2024 14:01:11 GMT
+
+Microsoft (MSFT) announced it will begin offering Advanced Micro Device's (AMD) AI chips to cloud computing customers as an alternative to Nvidia's (NVDA) processors. Microsoft will be hosting its Build event next week, where it is expected to announce more details on the offering.
+
+Yahoo Finance Anchors Brad Smith and Seana Smith break down the latest developments for Microsoft and AMD and what they could mean for the companies moving forward.
+
+For more expert insight and the latest market action, click here to watch this full episode of Morning Brief.
+
+This post was written by Nicholas Jacobino
+
+Microsoft announcing it will begin offering its cloud computing customers AM DS A I chips A move which will give users an alternative to invidious processors.
+
+Microsoft is expected to announce more details at its build developer conference next week.
+
+You're taking a look at shares of both companies here moving higher pre market but A MD the outsized move there, it's up by about 3.5% on this news.
+
+Uh I did a lot of learning about actually what it takes for these artificial intelligence chips uh and the broader data center and what's taking place.
+
+Microsoft's cluster is apparently of the A MD A I chips, they're gonna be sold through this uh cloud computing service.
+
+Of course, that Microsoft has Azure here and ultimately for A I models and, and applications to run these businesses actually have to put together or cluster multiple GP us here.
+
+So um that from some of the great reporting out of Asia, yeah, it's interesting.
+
+And when to take us a look, ultimately, what this could mean for AM D's business A MD expects 4 billion A I trip chip revenue this year.
+
+Has said that the chips are powerful enough to train and run those large A I models.
+
+When you take a look at that and coupling that with exactly what this ultimately means here for this business here, we are expected to hear a little bit more details on Microsoft does hold its event, but clearly, there is a lot of excitement surrounding the potential here of this partnership.
+
+And what exactly that could ultimately mean here for both of these companies.
+
+And then you've also got to ask what this could mean here for NVIDIA as well and whether or not how much market share this could potentially take from them or pressure this could ultimately put on the business.
+
+Yeah, I mean, I, I guess with the, the clustering that takes place in data centers, it's actually more advantageous to have multiple different types of chips running for the for the large language processing.
+
+Um So that is something that is far over my head.
+
+I would love to get an expert on that, but no doubt the stock movement is not over my head.
+
+You're taking a look at a MD shares as we were just a moment ago here, a pre market 3.5% on this news.
+
+And you gotta wonder how this company is also gonna be drumming up some of the other major deals here that are similar or synonymous to what they've just been able to do with Microsoft Year to date company up by about 17% right now.

@@ -1,0 +1,21 @@
+Fri, 17 May 2024 16:53:13 GMT
+
+Nvidia Corp NVDA stock is trading lower amid reports of Microsoft Corp MSFT eying Advanced Micro Devices, Inc AMD artificial intelligence chips for its cloud computing clients.
+
+Microsoft’s move reflects the acute supply crisis Nvidia is undergoing for its most sought-after H100 GPUs.
+
+Analysts identified several growth catalysts for Nvidia, noting robust demand across its product range, particularly for high bandwidth memory (HBM), high-capacity SSDs, and Hopper GPUs, primarily associated with enterprise AI and cloud SSD demand.
+
+Also Read: Nvidia’s Market Value Nears $2.3T, Boosting CEO’s Pay and Employee Salaries
+
+They have observed production capacity dedicated to Nvidia parts was projected to grow by over 100% from the fourth quarter of 2023 to the fourth quarter of 2024.
+
+Hyperscale data center operators are significantly increasing their capital expenditures, particularly on AI, which constituted nearly two-thirds of Nvidia’s demand. This increased spending was seen as a significant driver for Nvidia’s growth. There has also been reported a rising demand for Nvidia’s products in China.
+
+Analysts continued to see strong demand for Nvidia’s data center products and predicted another quarter of exceeding performance expectations. Kumar noted demand for the Blackwell GPU series was set to be robust across Nvidia’s data center customer base.
+
+Investors can gain exposure to Nvidia stock via EA Series Trust Strive U.S. Semiconductor ETF SHOC and VanEck Semiconductor ETF SMH.
+
+NVDA Price Action: Nvidia shares traded lower by 1.27% at $931.56 at last check Friday.
+
+Also Read: Nvidia Faces New Competition as Qualcomm and Ampere Launch AI-Focused Server

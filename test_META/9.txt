@@ -1,0 +1,19 @@
+Fri, 17 May 2024 16:36:00 GMT
+
+A meta-analysis of 173 studies involving nearly 900,000 COVID-19 patients in more than 50 countries finds that 42.9% were infected with multidrug-resistant organisms (MDROs), which the authors say underscores the urgent need for stronger antimicrobial stewardship strategies.
+
+The study, led by Sun Yat-sen University researchers in China, was published in the Journal of Infection.
+
+The investigators systematically reviewed studies published from December 2019 to May 2023 on the prevalence of antimicrobial resistance (AMR) and antibiotic use among COVID-19 patients.
+
+Antibiotic resistance was categorized according to the World Health Organization (WHO) priority list, and antibiotics were classified according to the WHO's Access, Watch, or Reserve (AWaRe) system.
+
+Of the 892,312 patients, 42.9% had an MDRO infection, with 41.0% testing positive for carbapenem-resistant pathogens, 19.9% for methicillin-resistant Staphylococcus aureus (MRSA), 24.9% for extended-spectrum beta-lactamase (ESBL)-producing organisms, and 22.9% for vancomycin-resistant Enterococcus (VRE) species.
+
+A total of 76.2% of patients were prescribed antibiotics, 29.6% with Watch antibiotics, 22.4% with Reserve antibiotics, and 16.5% with Access drugs.
+
+Macrolides were the most commonly prescribed category of antibiotics (34.7%), followed by glycopeptides (33.1%) and third-generation cephalosporins (31.5%). The most commonly used antibiotics were azithromycin (46.2%), ceftriaxone (38.3%), and vancomycin (34.7%).
+
+MDRO prevalence and antibiotic use were significantly greater in low- and middle-income countries than in wealthier countries, with the lowest proportion of antibiotic use (60.1%) and MDRO prevalence (29.1%) in North America. The highest MDRO prevalence was in the Middle East and Africa (63.9%), and the greatest proportion of antibiotic use was in South Asia (92.7%). Antibiotic use and intensive care unit admission were significant predictors of higher MDRO prevalence.
+
+The results underscore "the formidable challenge facing global efforts to prevent and control AMR amidst the backdrop of the COVID-19 pandemic," the researchers wrote. "These findings serve as a crucial warning to policymakers, highlighting the urgent need to enhance antimicrobial stewardship strategies to mitigate the risks associated with future pandemics."

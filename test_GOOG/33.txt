@@ -1,0 +1,51 @@
+Fri, 17 May 2024 07:31:00 GMT
+
+When it comes to investing, hedge funds generally have a bad reputation -- and for good reason. A report released by The American Enterprise Institute a few years ago helps illustrate why. An analysis of hedge fund returns between 2011 and 2020 found that the S&P 500beat the average hedge fund's return every single year, and usually by a wide margin. In fact, during that 10-year stretch, hedge funds returned roughly 5%, on average, compared to 14.4% gains for the S&P 500.
+
+However, not all hedge fund managers are cut from the same cloth. Billionaire Bill Ackman has developed a reputation for being a different breed of hedge fund manager. He doesn't trade in and out of stocks every quarter in an attempt to buttress his performance. He generally buys high-quality North American companies with limited downside that generate predictable, recurring cash flows. At any given time, he has between eight and 12 stocks, and holds them for the long term.
+
+Ackman helms Pershing Square Capital Management -- the hedge fund he founded -- which had $10.8 billion in assets under management to close out the first quarter. His investing strategy has been extremely successful: Pershing Square has returned 31% annualized over the past five years, nearly twice the returns of the S&P 500 and vastly outperforming the industry.
+
+To close out the first quarter, the hedge owned stakes in just six companies, but one major artificial intelligence (AI) player is Ackman's largest holding.
+
+Ackman has a long track record of buying stocks and holding them for years, and there's not a lot of turnover in Pershing Square's holdings. So, when Ackman adds a new stock to the fold, it tends to attract a lot of attention. That's what happened in early 2023, when Pershing Square added Alphabet(NASDAQ: GOOGL)(NASDAQ: GOOG) to its portfolio. The hedge fund holds 9.4 million Class C shares and 4.3 million Class A shares worth a combined total of nearly $2.4 billion, accounting for 22% of Pershing Square's total portfolio.
+
+Just six companies make up Pershing Square's $11 billion portfolio, so a stock must represent a compelling opportunity in order to make the cut. Fortunately, we don't need to guess as to why Ackman singled out Alphabet.
+
+Ackman noted that at the time, Alphabet stock was selling for just 15 times earnings. This marked its lowest multiple in more than a decade and near its lowest valuation ever.
+
+The purchase came on the heels of the worst advertising slump in more than a decade, which helped push down the stock's valuation. The economic downturn and the resulting bear market saw marketing demand dry up as businesses sought to retain precious capital and shore up their financial positions.
+
+In the fourth quarter of 2022 -- just before Ackman took his initial stake -- Alphabet's revenue grew just 1% year over year, while its advertising revenue fell 4%. It's always darkest before the dawn, or so the saying goes, and Ackman was clearly on to something.
+
+Alphabet's advertising revenue turned the corner shortly after that and has been improving ever since. In the first quarter, Alphabet's revenue grew 15% year over year and 16% in constant currency, while advertising revenue rose 13%. At the same time, its diluted earnings per share soared 62%. Ackman also pointed to Google Search and YouTube as "two of the highest return and most resilient digital ad formats."
+
+Let's not forget Google Cloud, Alphabet's "Big Three" cloud platform. It's the world's third-largest cloud infrastructure provider, and it's gaining ground on No. 1 Amazon Web Services.
+
+Ackman also noted there were "misplaced concerns over the company's AI positioning." Recent events have helped to put those concerns to rest.
+
+Just this week, Alphabet hosted the Google I/O 2024 Developers Conference, unleashing a tidal wave of AI-related announcements. Many of its most recent AI innovations directly benefit Google Search, ensuring it maintains its industry dominance for years to come. The company also debuted new high-end AI processors, unveiled its vision for the future of AI assistants, and introduced the latest version of its Gemini large language model (LLM), which underpins the company's AI systems.
+
+Ackman noted that Alphabet has been investing in AI for years and its leadership is undeniable. "AI is deeply embedded in and will continue to enhance applications, including Search and 14 other products with over 500 million users each," he wrote.
+
+Since its IPO (as Google) in 2004, the stock has generated returns of 8,083% (as of this writing). This isn't just in the distant past; Alphabet stock has gained 50% over the past year.
+
+As a result of the rebound in Alphabet's stock price, it isn't the screaming buy it was just a couple of years ago. That said, Alphabet is still attractively priced, selling for 26 times earnings, a discount to the multiple of 28 for the S&P 500.
+
+Furthermore, Alphabet has a long history of outpacing the returns of the broader market. Over the past 10 years, the stock has soared 559%, more than triple the 183% gains of the S&P 500.
+
+The company's long track record of execution and its strong position in AI make Alphabet stock a buy.
+
+Should you invest $1,000 in Alphabet right now?
+
+Before you buy stock in Alphabet, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Alphabet wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Consider when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $579,803!*
+
+Stock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. TheStock Advisorservice has more than quadrupled the return of S&P 500 since 2002*.
+
+*Stock Advisor returns as of May 13, 2024
+
+Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors. John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors. Danny Vena has positions in Alphabet and Amazon. The Motley Fool has positions in and recommends Alphabet and Amazon. The Motley Fool has a disclosure policy.

@@ -1,0 +1,95 @@
+Fri, 17 May 2024 15:45:56 GMT
+
+Nvidia (NVDA) is set to report its latest quarterly earnings next week — Wednesday, May 22 — potentially testing the strength of the market or even being a catalyst the market didn't even know it needed. How did this tech powerhouse become one of the top dogs on Wall Street and the leader of the AI chip revolution?
+
+Yahoo Finance's Julie Hyman joins Wealth! to break down Nvidia's rise within the S&P 500 (^GSPC) and the estimates for the chipmaker's first-quarter earnings.
+
+For more expert insight and the latest market action, click here to watch this full episode of Wealth!
+
+This post was written by Nicholas Jacobino
+
+We'll be reporting its Q one report on Wednesday and to break down NVIDIA's meteoric rise and what to look for in this earnings report.
+
+We've got Yahoo Finance's very own Julie Hyman here in studio with us.
+
+Hey, Brad, there'll be no singing from me, but I look forward to more from you.
+
+I just want to set up a little bit first.
+
+Why NVIDIA is so important.
+
+It makes so called GP U graphics processing units that have become real integral to this explosion in generative a I and the data processing that is needed to train a I models and then power them as they operate.
+
+This has meant that NVIDIA has really climbed in importance in waiting in the S and P 500.
+
+It is now the third largest company by market weight in market cap in that index, and it's a market weighted index of the third biggest stock in the S and P 500 behind Microsoft and Apple NVIDIA, now two $0.3 trillion in market value.
+
+You see, your alphabet and Amazon are even smaller when you look at that market cap waiting.
+
+And how did it get here?
+
+Well, if you look at the charts for the company here, here is a take a look at the NASDAQ 100 year to date of the various stocks and invidia.
+
+If you look at the year to date chart for this company, it's up almost 90%.
+
+This is after what it's 240% climb last year.
+
+So it just keeps going up and up and up.
+
+That means that it's gotten to that market cap level where it is today.
+
+And to look at it another way here, the market cap over time, which is just sort of exploded in the past few years, it's exploded alongside the revenue growth for the company going back up just a bit to see if we can find that revenue chart.
+
+There is that revenue chart here.
+
+So you see the enormous growth that we have had in that revenue over the past few years.
+
+The triple digits after sort of hovering at the same level for 2122.
+
+What is so extraordinary about this?
+
+To just put a fine point on it is companies.
+
+When they get this large, it is very rare, if not unprecedented, for them to grow at this level to just give one example here.
+
+John, then over at Key Bank, expects that Data Centre revenue alone for NVIDIA will reach $200 billion in calendar 2025.
+
+That will be a 321% gain from 2023.
+
+So a more than 300% gain in just two years to $200 billion just to sort of compare it to what we have seen from other companies.
+
+Usually, companies that grow at that rate in terms of sales are very young companies.
+
+Back in 2013, it grew revenue by 387% but its revenue was just over $2 billion.
+
+Compare that again with just the data centre revenue of $200 billion expected for this company just a few years ago, you know.
+
+Yes, NVIDIA was known for a I, but it was mostly known for graphics chips for video games and also for crypto miners.
+
+In fact, it was the company of the year back in 2016 here at Yahoo Finance.
+
+I wasn't even aware of that.
+
+I wasn't here in 2016 and, you know, back in 2016, here's the revenue rate around there.
+
+So it's pretty fascinating how much it has grown even as it is so large.
+
+It absolutely is, and it's become even more fascinating, going to become even more fascinating next week.
+
+So what can we actually expect from the earnings report for this quarter?
+
+So if we take a look at what analysts are expecting for earnings, they're expecting a lot of really incredible growth here.
+
+So $5.54 in adjusted earnings per share $24.6 billion in revenue again, Most of that is going to be data centre.
+
+And many of the analysts had said there was some concern that there would be a sort of pause in demand for invidious chips.
+
+It's now selling its Hopper suite of A I chips, but it's introducing an even more advanced suite of chips and software later this year called Black Well.
+
+There were some questions what clients with customers hold off on their orders for hopper chips while they're waiting for the black well.
+
+And most of the commentary I've seen it said no, they will not because they'll be concerned that they can get their hands on the next generation of chips so they'll keep the orders that they have.
+
+All of that said, With the stock up almost 90% this year, Brad, many of the analysts are questioning the further upside and pop it could get from this particular earnings report because expectations are so high.
+
+And, of course, the focus is very much going to be on the forecast for the coming quarter and the second half of the year.

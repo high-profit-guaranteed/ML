@@ -1,0 +1,37 @@
+Fri, 17 May 2024 20:53:33 GMT
+
+Nvidia (NASDAQ:NVDA) is the kingpin of the artificial intelligence (AI) revolution. Its GPUs (graphics processing units) have become synonymous with cutting-edge AI-enabled applications, powering everything from ChatGPT to autonomous vehicles and medical diagnostics. With its relentless innovation and strategic partnerships, Nvidia continues to shape the landscape of AI, driving further advancements. Despite the high trailing valuation (71.3x earnings), I find it hard to be anything but bullish on NVDA stock.
+
+Nvidia Earnings Are Coming Up — What to Expect
+
+Nvidia could be poised to exceed expectations once again with the company due to report earnings on May 22. Analysts are anticipating adjusted diluted earnings per share (EPS) of $5.59 for the quarter ending on April 28 — or GAAP EPS of $5.18. In the last 90 days, there have been 35 positive revisions and only two negative revisions to the company’s Q1 earnings expectations. These projections represent a 413% increase year-over-year.
+
+Revenue is expected to come in at $24.47 billion. In turn, this would represent a staggering 240% increase year-over-year. Nvidia’s official guidance for Fiscal Q1 2025 (the current quarter), announced at the conclusion of the previous quarter, indicated anticipated revenues of $24 billion, with a margin of error of plus or minus 2%.
+
+However, Nvidia has developed a track record of beating and outperforming its revenue and earnings expectations. The company has actually beaten revenue expectations in all of the last eight quarters. Plus, it has beaten earnings expectations in six of the last eight quarters and has surpassed all forecasts in the past 12 months. This is certainly a positive trend for Nvidia.
+
+Moreover, investors will be looking at the impressive quarterly results posted by two of Nvidia’s key suppliers — Taiwan Semiconductor (NYSE:TSM) and SK Hynix. The latter — the world’s second-largest memory chip maker — attributed its impressive growth to a boom in AI demand. SK Hynix said that sales reached 12.43 trillion South Korean Won in Q1, a 144% increase from a year ago. Meanwhile, TSMC’s sales rose 12.9% in the first quarter.
+
+The impressive showings of these Nvidia suppliers suggest a positive outlook for the Santa Clara company’s upcoming results.
+
+Nvidia is the kingpin of AI. And for now, there doesn’t appear to be much risk of this changing. The company is continuing to innovate. Its latest innovation, the Blackwell Architecture, offers a massive performance boost versus earlier chipsets. For certain tasks, the GB200 NVL72 is up to 30x faster than its predecessor, the H100.
+
+However, there are some signs of competition. Advanced Micro Devices (NASDAQ:AMD) is continuing to invest heavily in the development of its chips. In April, AMD unveiled its latest processors to power AI-enabled personal computers. Meanwhile, big tech companies like Google (NASDAQ:GOOGL) (NASDAQ:GOOG), Microsoft (NASDAQ:MSFT), Amazon (NASDAQ:AMZN), and Meta (NASDAQ:META) are designing their own AI chips to reduce their reliance on Nvidia.
+
+These custom-made chips cater to their specific needs but could eat into Nvidia’s market share, as these companies also represent major customers currently.
+
+Chinese companies may one day represent a threat to Nvidia as well. Although, for now, they appear some way behind. According to Reuters, two Chinese chipmakers are looking to manufacture high bandwidth memory (HBM) semiconductors used in AI chipsets. It comes as the U.S. and its allies have tightened Chinese access to advanced chip technology.
+
+Nevertheless, given China’s persistence and investments in the area, Chinese chips could possibly represent a threat to Nvidia’s leadership in the future.
+
+Nvidia certainly doesn’t look cheap at 71.3x non-GAAP TTM earnings and 36.6x non-GAAP forward earnings. However, as the difference between the TTM and forward figures highlights, the value is in the company’s growth prospects.
+
+Nvidia’s earnings are expected to grow at 34.5% annually over the medium term — the next three to five years. In turn, Nvidia’s price-to-earnings-to-growth (PEG) ratio is just 1.06x (1.0x and under is traditionally considered undervalued). I find this to be a particularly attractive metric, given the company’s strong net cash position.
+
+Is Nvidia Stock a Buy, According to Analysts?
+
+Nvidia stock comes in as a Strong Buy based on the ratings of 42 analysts in the past three months. There are currently 40 Buys, two Holds, and zero Sell ratings. The average NVDA stock price target is $1,027.95, with a high forecast of $1,400 and a low forecast of $620. The average price target represents 11.15% upside potential.
+
+Nvidia stock isn’t trading too far below its average stock price target, but I think that reflects the strong momentum of the share price. Analysts may be simply struggling to keep up with the stock’s growth in recent months.
+
+Nonetheless, I’m bullish on Nvidia, given its near-term dominance in the AI chip sector and its very strong growth trajectory. I’m already an investor in Nvidia, but I certainly wouldn’t think twice about putting my money behind a company of this caliber with a PEG ratio of 1.06x.

@@ -1,0 +1,33 @@
+Fri, 17 May 2024 15:39:58 GMT
+
+CoreWeave, a prominent AI cloud-computing startup backed by Nvidia Corp NVDA, has reportedly secured $7.5 billion in debt financing from major investors, including Blackstone Inc BX, Carlyle Group Inc CG, and BlackRock Inc BLK.
+
+This marks one of the largest private debt deals ever. Last year, CoreWeave also raised $2.3 billion through a debt deal, according to a report from the Wall Street Journal.
+
+This financing round follows a recent $1.1 billion equity funding, which valued the New Jersey-based company at $19 billion.
+
+CoreWeave is at the forefront of the AI surge, leasing Nvidia AI chips essential for developing systems like OpenAI’s ChatGPT.
+
+Operating in 14 data centers as of last year, the company plans to double its capacity to 28 data centers by the end of this year.
+
+CEO Michael Intrator stated that the new funds will support this expansion, including the purchase of AI chips, servers, and networking equipment.
+
+“It is a monumental financing in nominal terms, but it’s also a monumental financing in terms of the extent to which it drives the company forward,” Intrator commented, predicting the $7.5 billion will be fully committed this year, with plans for additional financing to follow.
+
+The substantial funding highlights investor interest in AI-centric businesses and the longevity of the AI boom, which gained significant momentum after ChatGPT’s launch.
+
+CoreWeave, like several new AI cloud-computing firms, provides early access to advanced AI chips, distinguishing itself in the AI computing market.
+
+The largest cloud-computing firms like Microsoft Corp MSFT, Amazon.com Inc AMZN, and Alphabet Inc’s GOOGL Google offer broad services.
+
+The report quoted the company’s Co-founder Brannin McBee, who remarked, “I don’t think anyone would have expected another hyperscaler was going to come into the market this quickly.”
+
+Historically U.S.-focused, CoreWeave recently expanded to London and plans to open two more data centers in the U.K. this year, with further expansions in 2025.
+
+Nvidia, which participated in a previous CoreWeave funding round, underscores the startup’s capability to implement its plans effectively.
+
+With Nvidia dominating the AI chip market, CoreWeave’s success heavily relies on securing these crucial components amid supply constraints.
+
+The debt financing was led by Blackstone and included contributions from Magnetar Capital, Coatue Management, Carlyle Group, CDPQ, DigitalBridge, BlackRock, Eldridge Industries, and Great Elm Capital.
+
+Disclaimer: This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.

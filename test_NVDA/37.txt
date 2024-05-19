@@ -1,0 +1,17 @@
+Fri, 17 May 2024 14:07:29 GMT
+
+Advanced Micro Devices (NASDAQ: AMD) stock jumped about 3% in early trading hours Friday as it took the top spot on Wolfe’s preferred stocks list, displacing Nvidia (NASDAQ: NVDA).
+
+Wolfe Research made a strategic move on Thursday, swapping Nvidia (NVDA) with AMD on its prestigious list of top stocks, known as the . This tactical shift comes in response to the relative stock price movements year-to-date (YTD), with Nvidia witnessing a significant surge.
+
+In their analysis, Wolfe Research affirmed their positive views on both Nvidia and AMD. However, the remarkable rise in Nvidia’s stock price, up approximately 90% YTD and 100% since its addition to the list in November 2023, prompted the firm to prioritize AMD for the time being.
+
+The equity research firm anticipates that the dominant competitive stance of NVIDIA in Artificial Intelligence (AI) will generate substantial demand and pricing leverage for its data center Graphics Processing Units (GPUs) in the forthcoming years. However, in the immediate term, analysts do not foresee exceptional performance when NVIDIA discloses its F1Q25 results on May 22.
+
+Nevertheless, analysts envision a robust 2024 second half for the chipmaker as additional Chip-on-Wafer-on-Substrate (CoWoS) capacity becomes available. This development will facilitate NVIDIA in fulfilling outstanding H100 demand and commencing B100 shipments in Q4.
+
+On the other hand, Wolfe Research acknowledges that Advanced Micro Devices (NASDAQ: AMD) faced temporary memory issues, which now seem to be resolved. Analysts foresee a plausible trajectory toward a $2 billion MI300 revenue run rate by year-end, which could serve as an incremental driver for the stock. Projections indicate server graphics revenue of about $4 billion for calendar year (CY) 2024 and $7.3 billion for CY25, with optimism surrounding the potential for upward AI revenue guidance revisions through the latter half of 2024.
+
+Furthermore, Wolfe Research anticipates AMD’s growth to benefit from a following inventory depletion and replenishment in the Embedded (FPGA) market, particularly in the seasonally stronger second half of 2024.
+
+As of 09:44 a.m. (Eastern Time) Friday, AMD stock traded at $166.88, marking a 2.67% increase compared to the previous trading session.

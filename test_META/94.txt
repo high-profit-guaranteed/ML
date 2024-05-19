@@ -1,0 +1,27 @@
+Fri, 17 May 2024 08:02:21 GMT
+
+Threads is testing “pinned columns” on its web application.
+
+Mark Zuckerberg, founder, chairman and CEO of Meta, which owns the text-based social media app, announced the test in a Thursday (May 16) post on Threads.
+
+This feature is currently available only to members of a test group, Bloomberg reported Thursday.
+
+It allows users to pin as many as 100 feeds to their home page so that they can easily jump to those from people they follow, those recommended by the Threads algorithm, or those based on keywords or topics they have specified, according to the report.
+
+The “pinned columns” feature is similar to TweetDeck, a column-based social media tool that has since been changed into X Pro, TechCrunch reported Thursday.
+
+The report added that while TweetDeck-like tools are available for Bluesky and Mastodon, this is the first such tool for Threads.
+
+X Pro, the renamed tool that used to be TweetDeck, transitioned to a subscriber-only feature in August 2023 and is now available only to members of the X Premium service.
+
+TweetDeck was acquired by Twitter, which is now X, in 2011 due to its popularity among users. The tool allows users to view and customize multiple feeds in real time.
+
+Zuckerberg said on April 24 that Threads is “growing well” and now has more than 150 million monthly active users.
+
+Meta launched Threads in more than 100 countries on July 5, 2023, saying it would take what Meta’s Instagram does best and apply that to text. In the first seven hours after its debut, Threads gained 10 million signups.
+
+“There are now more than 150 million monthly actives, and it continues to generally be on the trajectory I hoped to see,” Zuckerberg said in April during Meta’s quarterly earnings call.
+
+In another recent addition to the platform, it was reported in April that Meta had begun a limited-time, invitation-only bonus program that lets creators earn money on the content they post on Threads.
+
+Among the requirements listed on a Meta support page for the program is one saying that a post must receive at least 2,500 views. Those who are invited to participate in the program will receive a pop-up notification and invite.

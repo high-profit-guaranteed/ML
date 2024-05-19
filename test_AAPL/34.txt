@@ -1,0 +1,17 @@
+Fri, 17 May 2024 19:32:05 GMT
+
+A stock’s 52-week high and low prices can offer a wealth of information about its current standing and prospective future performance. Apple Inc’s current trading price is -4.96% away from its 52-week high, while its distance from the 52-week low is 15.63%. The stock’s price range for this time frame has been between $164.07 and $199.62. The trading volume of the company’s shares in the Technology reached around 13.51 million for the day, which was evidently lower than the average daily volume of 64.66 million over the last three months.
+
+Apple Inc’s stock has had a calm market performance. The 1-year high for the company’s stock was $199.62 on 12/14/23, and the lowest price during the same period was recorded at $164.07 on 04/19/24.
+
+Apple Inc (AAPL) has experienced a quarterly rise of 4.06% in its revenues when compared to the same period in the previous year. Presently, the company has a total market capitalization of 2909.06B and boasts a workforce of 161000 employees.
+
+The Role of Moving Averages and Trading Volume in Technical Analysis
+
+Based on Barchart.com data, the company’s moving average over the 100-day period was 179.79, with a change in price of -3.65. Similarly, Apple Inc recorded 60,513,340 in trading volume during the last 100 days, posting a change of -1.89%.
+
+A company’s financial condition and market reputation can be evaluated using the debt-to-equity (D/E) ratio. This ratio, calculated by dividing a company’s total liabilities by its shareholders’ equity, indicates the proportion of debt a company employs to back its assets in relation to its shareholders’ equity. At the time of writing, the total D/E ratio for AAPL stands at 1.41. Similarly, the long-term debt-to-equity ratio is also 1.24.
+
+The raw stochastic average for Apple Inc over the last 50 days is presently at 95.74%. This reflects a surge from the raw stochastic average of the previous 20 days, which was noted at 95.63%. Further, the company’s Stochastic %K and %D values for the last 20 days were 95.83% and 96.12%, respectively.
+
+Investors’ outlook regarding the stock price performance over the year has been a mixed bag, with a range of optimism to pessimism depending on their perspective. This year’s metric has recorded a Price decrease of -1.46%. However, over the past six months, we’ve seen a weaker performance of 0.91%. The price of AAPL fallen by 13.57% over the last 30 days. And in the last five days, it has surged by 3.64%.

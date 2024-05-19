@@ -1,1 +1,5 @@
 .conda
+bert_model_loss0.34.pth
+bert_model_state_dict_loss0.34.pt
+bert_model_state_dict.pt
+.ipynb_checkpoints

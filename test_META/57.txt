@@ -1,0 +1,55 @@
+Fri, 17 May 2024 14:05:56 GMT
+
+What do you get when you cross a Kennedy, a brain worm, and a social media giant? Apparently, another ridiculous lawsuit destined to be laughed out of court.
+
+In 2020, RFK Jr. sued Meta (then Facebook) claiming that when the company fact-checked and moderated his anti-vax nonsense, it was a state actor. This was, he argued, because the company relied on Section 230 to not be liable for its moderation actions. However, that lawsuit was tossed out of court, with a judge explaining to Jr. and his lawyers (including disgraced Yale Law prof. Jed Rubenfeld) that this was not at all how any of this worked.
+
+Three years have passed, but RFK Jr. and Rubenfeld apparently have not gotten any smarter.
+
+They’ve sued Meta again, using basically the same nonsense theory. The only twist is that now, RFK Jr. is a “presidential candidate” and somehow that makes it different. It doesn’t.
+
+I mean, this is nonsense. If it was true that it violates the First Amendment, then any politician would have the free ability to commandeer the pages of any newspaper and demand space while they’re campaigning. But that’s not how any of this works.
+
+I mean, we literally had a case about this exactly 50 years ago where the Supreme Court said that media cannot be compelled to host anyone’s speech (including politicians), because that would violate the First Amendment.
+
+Kennedy’s main complaint is that when his campaign PAC, American Values 2024, released a 30-minute documentary, Meta blocked it from being uploaded to the site.
+
+They are claiming, ridiculously, that this violates a 19th Reconstruction-era civil rights law designed to prevent the KKK from using violence to intimidate and silence emancipated slaves. The crux of the argument is that “private companies and their officers and employees cannot in concert seek to prevent by force, threat or intimidation any citizen from engaging in lawful speech supporting or advocating the election of a presidential candidate.”
+
+This is, well, an embarrassing misreading of the law. And the fact that it’s coming from a (yes, still disgraced) Yale law professor does not speak highly of Yale Law. But the idea that RFK sees Meta as the equivalent of the KKK and himself as an emancipated slave is, well, something.
+
+The case relies heavily on blatantly out of context and misleading quotes from the Murthy case (which the Supreme Court is still working on). It then adds in a ton of other blatantly out of context and misleading quotes to pretend that the White House was ordering Meta how to moderate. This is something that the evidence still has not shown to have actually happened.
+
+I could go through and put the various quotes back into context and demonstrate just how misleading and wrong everything in this complaint is, but I’ve done that a bunch in the past, and it’s fucking exhausting to have to fix all the lies and bullshit pushed by nonsense peddlers like this.
+
+Suffice it to say there’s a ton of innuendo that relies heavily on snippets of quotes to paint a picture that is not even in the same realm as reality.
+
+All that really matters is that Facebook can refuse to share any content it wants as a private entity with full editorial rights under the First Amendment (assuming the Supreme Court doesn’t wipe those out next month).
+
+Even worse, Meta admitted that its blocking of the film was initially done in error because its systems determined it to be spam and rectified the situation. As we’ve noted, these kinds of false designations of spam happen all the time. But Kennedy and Rubenfeld insist it’s simply impossible to have decided their film was spam.
+
+Yeah, but this is what always happens. Spam fighting is an impossible task and when automated systems are involved, the automated messages are likely to change over time as the systems are reviewing different criteria/classifier labels. Kennedy and Rubenfeld’s technical ignorance is shining through here.
+
+As is their egos.
+
+No one is targeting you. Get over yourself.
+
+The case then gets even stupider, because while the film is no longer being blocked, Bobby Jr. is mad that it’s not getting enough views, so he is insisting it must be “shadow banned.” The sheer entitlement of that guy.
+
+What is their proof of this? I shit you not: it’s because they asked Meta’s AI chatbot, and the chatbot told them:
+
+Meta’s AI chatbot has no access to Meta’s internal moderation decisions. It’s just a probabilistic stochastic parrot, repeating a probable sounding answer to users’ questions.
+
+And these idiots think it’s meaningful evidence. This is beyond embarrassing.
+
+Beyond using the Reconstruction-era civil rights law, the lawsuit again (like the last one) claims that Meta violated the First Amendment, something it cannot do (Yale Law First Amendment scholars, wtf?). This argument is the one they’ve tried before and failed. But, maybe the worm ate the part of the brain where RFK Jr. read the opinion in the last lawsuit?
+
+The complaint also doesn’t even mention Section 230, let alone try to explain how the case isn’t clearly barred because of it. But why bother with little details like understanding the law when you want to just use the court to play the martyr?
+
+This complaint, also filed in the Northern District of California, is very likely to suffer the exact same fate. Maybe next time, RFK Jr. should ask the brain worm for legal advice instead.
+
+There Is No Good Reason To Just Let Unsupported Video Games Die
+
+ Michigan Supreme Court Says Fourth Amendment Doesn’t Apply To Government Drone Use In Civil Cases
+
+ Report: Sprint, T-Mobile Merger Immediately Killed Wireless Price Competition In U.S.

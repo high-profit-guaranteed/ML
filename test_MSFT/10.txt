@@ -1,0 +1,31 @@
+Fri, 17 May 2024 10:05:31 GMT
+
+Microsoft Corp MSFT is planning to introduce Advanced Micro Devices Inc’s AMD artificial intelligence chips to its cloud computing customers, aiming to rival Nvidia Corp’s NVDA components.
+
+This significant development will be detailed further at the upcoming Build developer conference next week, according to a report from Reuters.
+
+The tech giant’s Azure cloud service will integrate AMD’s MI300X AI chips, offering an alternative to Nvidia’s high-demand H100 GPUs.
+
+This move is designed to alleviate the difficulty many companies face in securing Nvidia’s GPUs due to their popularity in the data center chip market for AI applications.
+
+Azure’s integration of AMD’s flagship chips is expected to boost its AI capabilities, enabling customers to build and run large-scale AI models.
+
+Clusters of these GPUs are essential for handling the extensive data and computation required for sophisticated AI tasks.
+
+Also Read: Microsoft Takes On Google And OpenAI With New AI Model: Report
+
+AMD projects $4 billion in AI chip revenue this year, highlighting the chips’ strength in training and executing substantial AI models.
+
+Microsoft will also continue to provide access to its in-house AI chips, known as Maia, through its cloud services.
+
+Additionally, Microsoft will preview its new Cobalt 100 custom processors at the conference. These processors, offering a 40% performance improvement over previous Arm Holdings PLC ARM based technology, are already in use by companies like Snowflake Inc SNOW.
+
+Originally announced in November, these chips are being tested to enhance Microsoft Teams and aim to compete with Amazon.Com, Inc. AMZN in-house Graviton CPUs.
+
+Microsoft stock has gained more than 34% in the past 12 months. Investors can gain exposure to the stock via Technology Select Sector SPDR Fund XLK and IShares U.S. Technology ETF IYW.
+
+Price Action: MSFT shares were trading higher by 0.45% at $422.90 premarket at the last check on Friday.
+
+Disclaimer: This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.
+
+Read Next: Microsoft Introduces Isolated AI For US Intelligence To Analyze Secret Data: Report

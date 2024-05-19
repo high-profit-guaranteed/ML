@@ -1,0 +1,42 @@
+Fri, 17 May 2024 12:13:00 GMT
+
+Friday is here, there is a long weekend ahead in the Netherlands, and it’s time for your weekly round-up of news from the Dutch tech ecosystem.
+
+This week saw Booking.com become a DMA “gatekeeper,” a new European Investment Fund (EIF) office opened in Amsterdam, TSMC questioned whether or not ASML’s new machines might be too expensive, neobank bunq entered the insurance market and there were fresh rounds of funding for Magic Lane and Refreshworks.ai, and more.
+
+Our highlights have you covered, but we’d also love to hear your thoughts on the local ecosystem. Drop us a line if you want to showcase your startup, share a digital tip, or just tell us your deepest, darkest secrets.
+
+In the meantime, let’s get to the news.
+• Mapping and location platform Magic Lane secures €3mn in a round led by No Such Ventures (Silicon Canals)
+
+Based in Delft, Q*bird is working on providing equipment for a future quantum internet.
+
+A quantum internet would transmit data in the form of qubits instead of the classical bits used in the current internet. It could offer a range of benefits such as unbreakable encryption using quantum cryptography and linking several quantum computers to each other for even more powerful computation.
+
+An internet based on principles of superposition and entanglement still faces a vast amount of engineering and scientific challenges. However, certain mechanics of quantum-based communication can be used already together with classical networks.
+
+For instance, Q*bird’s Quantum Key Distribution (QKD) allows two parties to produce and share a random secret key known only to them. This is then used to encrypt and decrypt messages, reducing the risk of someone “listening in” to the information. Theoretically, this is a form of encryption that will be safe from future advances in mathematics and computing.
+
+This week, Q*bird launched a trial of its quantum secure networking Falcon technology with the Port of Rotterdam to protect the port’s digital infrastructure, as well as its communications with third parties.
+
+“We’re using a novel approach by enabling many different users to connect to the same central switch station. This will allow a large number of users to exchange highly secured information,” Q*Bird co-founder and CEO Ingrid Romijn said in a statement.
+
+“This is untappable. And when it is attacked, you will know it.”
+
+Q*bird was founded in 2022. It is a spinoff from QuTech, a mission-driven research institute for quantum computing and quantum internet founded by TNO and TU Delft.
+
+Each week one of our writers will share a top tip for TNW Conference. Today’s pick comes from our reporter Siôn Geschwindt.
+
+As a cycling fanatic, I’m very much looking forward to hearing from Eliot Wertheimer, co-CEO at VanMoof, who was brought in last year to revive the struggling ebike brand.
+
+VanMoof filed for bankruptcy last year, leaving tens of thousands of riders stranded. Thankfully, McLaren Applied bought the flailing startup out of administration three months later.
+
+Eliot and his team had the task of saving a sinking ship — and they’ve done a bloody good job so far.
+
+In less than a year, they’ve managed to resume delivering spare parts, open dozens of third-party service centres, and now ebike sales — putting VanMoof back on the map.
+
+Eliot Wertheimer will be speaking at the TNW Conference which takes place on June 20-21 in Amsterdam. His session is titled Reviving VanMoof: McLaren Applied’s Strategic Acquisition and Growth Support, and you can catch it on the Vision stage on Day 1 at 13:55.
+
+That’s all for this week’s round-up. Until next Friday, tot ziens!
+
+As we count down to TNW conference in Amsterdam on June 20 and 21, we’re ramping up our coverage of the Dutch IT sector. If you’re interested in attending the tech festival, we’ve got a special offer for our readers. At the ticket checkout, use the code TNWXMEDIA to get 30% off your business pass, investor pass, or startup packages (Bootstrap and Scaleup).

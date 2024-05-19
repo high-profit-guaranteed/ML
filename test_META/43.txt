@@ -1,0 +1,59 @@
+Fri, 17 May 2024 13:07:52 GMT
+
+Meta released an open source compiler for React on Wednesday at the React Conference, which was held in Las Vegas and live-streamed. Joe Savona, a member of the React team at Meta and a user interface engineer, said the team had been developing the compiler over the past few years.
+
+“React Compiler automatically optimizes your components and hooks, so that only the minimal parts of your UI update as state changes,” Savona told audiences. “So that seems pretty magical.”
+
+Why would an interpreted language need a compiler? Savona compared React Compiler to Meta’s Hermes and the V8 Alliance’s V8, which are JavaScript engines that include compilers.
+
+“React Compiler is more like TypeScript, or the compilers inside JavaScript engines, like V8 or Hermes,” he said. “It breaks your code down into individual expressions and builds up a control flow and data flow graph. It performs sophisticated optimizations, like dead code elimination, constant propagation, type inference, even alias analysis and a whole bunch more.”
+
+These optimizations would typically appear inside a JavaScript engine or compiler for languages such as Rust or C++, he added. The React Compiler applies these ideas to JavaScript to improve performance without sacrificing developer experience, he continued. The code doesn’t change but the apps and updates become faster by default, he said.
+
+“In fact, our code gets even more clean and concise, because we don’t need manual memoization,” Savona added. Memoization is an optimization technique that leverages caching.
+
+He pointed to an earlier demo of a media player built with React. There’s no use memo calls, no random and unnecessary callback functions, but there is a lot of information contained in the code that developers might not always think about, he said.
+
+“For example, consider the filtered songs list,” he said. “React is obviously going to have to filter that songs list again and update the playlist. This code also tells us the inverse; if a song doesn’t change, then React shouldn’t have to update the filtered songs and it doesn’t need to update the playlist.”
+
+That’s exactly what happens with the compiler enabled, he added: There’s no need to update the playlist when the song doesn’t change.
+
+“We’re able to understand this because JavaScript and React have clear rules for how they work and we’ve learned those rules,” Savona said. “We use them every day as we’re reading code, writing code, debugging code and occasionally testing code.”
+
+The compiler can be taught to understand those rules. Then it can “see” the code “very much the same way that we do, except it’s way more thorough,” he added.
+
+It can apply the same process to every value in the code, creating a computation graph of how the data moves through the user interface, he said.
+
+“The compiler knows the rules of React, and it knows some extra things,” he continued. “For example, it knows that set state functions don’t actually change, so the compiler doesn’t have to consider whether that value could update. So we can remove that dependency edge.”
+
+Then the only thing that needs to update is the now playing, rather than the whole playlist.
+
+“The best part is that all this information comes from the same React components and hooks that you’re already writing today,” he said. “There’s no API to learn. There’s no need to change the way you write code. We can simply take advantage of all the information that’s already right there in your code today.”
+
+These types of precise UI updates are sometimes called fine-grained reactivity, he added.
+
+Next, Mofei Zhang, a Meta software engineer, took the stage to show to how the compiler performed when used on apps at Meta. On pages with a lot of interactivity or components, Meta found the developers started making trade-offs.
+
+“A small sample of the code that we saw was pretty difficult to read,” Zhang said. “This code contained a lot of manual optimizations, which helped make the UI feel snappier, but also made the code much more difficult to reason about.”
+
+She showed a code snippet that had almost 20 places where the developer had hand-optimized an object.
+
+Meta Tries React Compiler on Instagram and Quest
+
+Then in 2023, Meta began rolling out React Compiler on two apps: Instagram.com and its Quest store, the app store for Meta’s Quest VR devices. The compiler-optimized version was more than twice as fast as before, she said. Initial load times and cross-page navigation times improved by up to 12%. And there was no impact to either memory usage or overall crashes, which can reflect out-of-memory errors. Quest loads for navigation was faster by at least 4%. Instagram saw an average 3% improvement across every route.
+
+“At Meta, this was a really big deal,” Zhang said. “To put these numbers in context, engineers had combed through every single bit of these apps to add thousands of memoization calls.”
+
+Typically, just a 1 or 2 percentage point improvement in metrics, such as first time to paint, on a specific page would be a huge deal, she added.
+
+“React Compiler had significantly improved the performance of nearly every page it rolled out on,” she said. “On less optimized apps, we found that React Compiler can add over 15 times the amount of memoization already present in source.”
+
+Using the compiler will allow developers to get fast interactions on apps that haven’t been manually optimized while improving the readability and maintainability of already optimized apps, she concluded. Developers can even strip out the hand-coded memoization.
+
+“We’ve just seen how React Compiler can even raise the ceiling for just how fast apps can be, as it can optimize much more than developers can with nested and conditional memoization, as well as sophisticated static analysis,” she said. “We’ve continued to roll out to even more apps to iterate on the compiler.”
+
+In addition to its open source code, there’s React Compiler playground for developers who want to explore how it works.
+
+Savona took the stage to wrap up.
+
+“React Compiler allows developers to continue writing the exact same code you’re used to,” he said. “In fact, as we saw, we can stop using manual memoization. … React Compiler can deliver significant performance improvements to real-world applications.”

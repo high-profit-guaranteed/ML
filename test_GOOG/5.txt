@@ -1,0 +1,21 @@
+Fri, 17 May 2024 18:59:24 GMT
+
+ChatGPT parent OpenAI has disbanded a team dedicated to ensuring the safety of potentially ultra-capable AI systems after the group’s leaders, including co-founder Ilya Sutskever, departed.
+
+The so-called superalignment team, established less than a year ago under Sutskever and Jan Leike, has been absorbed into broader research efforts across the company, Bloomberg reports.
+
+This integration aims to maintain the focus on safety while addressing the recent high-profile exits that have stirred debates over the company’s speed versus safety in AI development.
+
+Leike resigned following Sutskever’s departure, citing challenges such as insufficient resources and increasing difficulties in conducting crucial research.
+
+Other team members, Leopold Aschenbrenner and Pavel Izmailov, have also left OpenAI.
+
+John Schulman will lead OpenAI’s alignment work, and Jakub Pachocki, who will take over Sutskever’s role, has been appointed the new chief scientist.
+
+In April, the United States and the United Kingdom agreed to address the concerns about AI safety.
+
+The Biden Administration has actively engaged tech companies and banking firms to address AI dangers. AI giants like Meta Platforms Inc META and Microsoft Corp MSFT joined the White House’s AI safety initiative in February.
+
+In 2023, the AI safety forum, the Frontier Model Forum, spearheaded by OpenAI, Microsoft, Alphabet Inc GOOG GOOGL, and AI startup Anthropic, appointed its first director and announced plans to establish an advisory board soon to guide its strategy. The forum also announced plans to develop a fund to support research into the technology.
+
+Disclaimer: This content was partially produced with the help of AI tools and was reviewed and published by Benzinga editors.

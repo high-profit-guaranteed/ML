@@ -1,0 +1,21 @@
+Fri, 17 May 2024 20:03:00 GMT
+
+After unveiling its highly anticipated new chip, Blackwell, in March, Nvidia is set to report its first quarter earnings on Wednesday — and its share price could reach an all-time high.
+
+Nvidia’s shares were up 0.8% during Thursday morning trading at around $953, but were down around 1.8% Friday afternoon at around $926. Nvidia’s previous record high close was $950.02, which it hit on March 25.
+
+Ahead of the chipmaker’s earnings report this week, Wall Street is setting its expectations for the company to report first quarter revenue at $24.5 billion, according to a FactSet poll of analysts’ estimates. However, KeyBanc equity research analyst John Vinh said Nvidia is likely to report a first quarter revenue closer to $26 billion, and set its second quarter guidance to around $28.5 billion.
+
+“Despite anticipation of next-generation Blackwell GPUs [graphics-processing units] in the second half, we see limited signs of a demand pause and expect Nvidia to report first-quarter results and second-quarter guidance meaningfully above expectations,” Vinh wrote in a research note on Tuesday.
+
+Research analysts at Bank of America Global Research said in a note it expects strength from Nvidia’s earnings report, and for the company’s “stock to be volatile near-term,” due to factors such as “quarterly deceleration ahead of Blackwell” and greater dependence from China.
+
+Harsh Kumar, an analyst at Piper Sandler, also said investors can expect a strong showing from Nvidia’s first quarter earnings.
+
+“We continue to see strong demand for NVDA’s data center products and feel the company is set up for another beat and raise quarter,” Kumar said in a note, according to TipRanks. “Demand for Hopper GPUs remains strong with supply still working to catch up to demand as the product is still on allocation. Our checks indicate that demand for the Blackwell GPU series is also set to be strong across NVDA’s data center customer base.”
+
+Meanwhile, analysts at Citi said in a note it expects “smaller beats vs the prior few quarters on larger numbers, shorter H100 lead times, and gross margin normalization before GB200 volume ramps in 1H25,” according to Investing.com.
+
+After announcing its new Blackwell chip at the GPU Technology Conference in March, Nvidia said tech giants like Microsoft and Google are already lining up for the chip as they build on their artificial intelligence ambitions. Nvidia became the first chipmaker to reach a $2 trillion market cap in February, and became the third-most valuable company in the world in March — all thanks to its H100 chip, which is behind some of the world’s most powerful AI models.
+
+Nvidia’s stock is up about 92% so far this year, after the company’s shares rallied since it reported fourth quarter earnings in February. The company’s shares took a hit right before earnings, but made a comeback after it reported revenue of $22 billion — up nearly 270% from the previous year. The stock is up 192% over the past 12 months.

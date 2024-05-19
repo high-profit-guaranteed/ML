@@ -1,0 +1,13 @@
+Fri, 17 May 2024 11:27:39 GMT
+
+Microsoft (NASDAQ:MSFT) could get fined by the European Commission if it does not provide the required information by May 27 on risks arising from generative AI features in the company's search engine Bing, Reuters reported.
+
+The agency noted that it is concerned about the dissemination of deep fakes and automated manipulation of services which could mislead voters, the report added.
+
+The Commission added that it would advance enforcement measures on the matter, as it had not received a response to its request for information sent on March 14.
+
+The EU regulator could fine Bing up to 1% of its total annual income, if the deadline is not met, with periodic fines of up to 5% of its average daily income, the report noted. The agency can also fine the company if it gives incorrect or misleading information.
+
+The EU's Digital Services Act, or DSA, regulates online intermediaries and platforms, which millions of Europeans use every day. The DSA protects consumers and their rights online, and its main goal is to prevent illegal and harmful activities online and the spread of disinformation. Very large online platforms, or VLOPs, with more than 45M users in the EU come under DSA.
+
+Generative AI is one of the risks detected by the regulator for elections, mainly for the upcoming European Parliament elections in June, the report added.

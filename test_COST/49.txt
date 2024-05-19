@@ -1,0 +1,51 @@
+Fri, 17 May 2024 15:20:00 GMT
+
+Some cautioned against reading too much into this analysis, since the main trial did not meet its primary endpoint.
+
+PARIS, France—Among patients with three-vessel disease, contemporary fractional flow reserve (FFR)-guided PCI is more cost-effective compared with CABG surgery 3 years later, according to a new analysis of the FAME 3 study.
+
+While PCI initially is cheaper than CABG surgery, this is the first time a randomized trial has shown the intervention to offer a longer-term cost advantage. Previous studies have found CABG to be more cost-effective than PCI in the long run, but those reports mostly used bare-metal stents or first-generation DES.
+
+Presented at TCT 2021 and simultaneously published in the New England Journal of Medicine, the original results of FAME 3 made waves when they failed to show noninferiority of FFR-guided PCI compared with CABG with regard to the primary composite endpoint of death from any cause, MI, stroke, or repeat revascularization. At the time, many surgeons and interventionalists conceded that CABG remained the better option for these patients.
+
+But the 3-year analysis presented here this week at EuroPCR 2024 by Frederik M. Zimmermann, MD, PhD (Catharina Hospital, Eindhoven, the Netherlands), looked somewhat rosier for PCI. In a prespecified secondary endpoint of all-cause death, MI, or stroke at 3 years, the advantage of CABG over PCI was no longer statistically significant.
+
+Moreover, costs have stayed higher in CABG-treated patients, Zimmermann noted.
+
+“All the interventional cardiology community is happy about this result,” session co-chair Valeria Paradies, MD (Maasstad Hospital, the Netherlands), said with a smile.
+
+Panelist Antoinette Neylon, MD (Hopital Prive Jacques Cartier, Massy, France), agreed, but she reminded the audience that the trial’s negative primary result means that later analyses can only be seen as speculative. “In terms of PCI being a cost-effective strategy, how do I reconcile that with the results of the trial?” she asked.
+
+“It's important to realize that the difference was driven by a difference in repeat revascularization, mainly,” Zimmermann said. “We saw at 3-year follow up that the hard endpoints of death, MI, stroke, and the composite endpoint were statistically different. So then the question is: for a patient, what's important? Do you accept the higher rate of repeat revascularization by not having to have the high burden of CABG? On the flip side, it's important to realize that also after CABG, we saw higher rates of acute kidney injury, bleeding, and so on. So having this discussion with your patients is very important.”
+
+Commenting on the study for TCTMD, Patrick Myers, MD (Lausanne University Hospital, Switzerland), secretary general of the European Association for Cardio-Thoracic Surgery, urged caution, pointing out that the researchers excluded repeat revascularization from the composite endpoint in this latest analysis.
+
+“It seems like the investigators are trying to tease out different things,” he said, adding that FAME 3 was not powered for the secondary endpoint. “It's changing the outcome measures, even if they've been prespecified. . . . It seems like we're just trying to find a positive result or say something positive about PCI and that's somewhat worrisome, I think. The data should just be presented as it is and taken as it is.”
+
+For the study, Zimmermann and colleagues estimated the incremental cost-effectiveness ratio (ICER) of CABG versus PCI for the 1,500 patients (mean age 65 years; 82% male) with three-vessel disease randomized to FFR-guided PCI or CABG in the original trial using quality-adjusted life-year (QALY) data based on the EuroQOL five-dimension (EQ-5D) survey and costs based on the US Medicare physician fee schedule.
+
+Notably, intravascular imaging was only used in 11.7% of PCI-treated patients. Just under one-quarter of CABG patients received off-pump surgery.
+
+The researchers found no difference in the prespecified secondary endpoint of all-cause death, MI, or stroke at 3 years between CABG and PCI (9.2% vs 12.0%; HR 1.3; 95% CI 0.98-1.83). They observed similar rates of death as well (3.9% vs 4.1%; P = 0.88).
+
+As assessed by the EQ-5D summary index, patients treated with PCI reported better quality of life than those who underwent CABG at 1 month (0.063 difference; 95% CI 0.047-0.079) but not at 12 or 36 months. As a result, the PCI group had numerically more QALYs at 3 years compared with CABG (2.57 vs 2.53).
+
+Cumulative medical costs over 3 years were significantly lower after PCI compared with CABG ($24,063 vs $35,714; P < 0.001), although annual follow-up costs were greater for PCI each year.
+
+Bootstrap analysis showed that 91.2% of the time PCI had both lower costs and higher QALYs after CABG and also that PCI was always more cost-effective than CABG with ICER below $50,000 per QALY gained. These results were confirmed in sensitivity analyses.
+
+Zimmermann pointed out that the analysis was limited to 3 years. They plan to conduct longer-term studies in the future, “although we didn’t see any diverging of the mortality curves,” he said. He also acknowledged that because the analysis was based on US costs, it might not be generalizable to other regions.
+
+Commenting on the study for TCTMD, David Cohen, MD (St. Francis Hospital, Roslyn, NY), said 3 years is not quite enough time to say for certain that PCI is more cost-effective than CABG. “This would be the first randomized trial to show that, if it continues,” he said. “There certainly is the possibility that this is related to the newer stents, and in particular the use of FFR, which was part of the study design. But I think we still need to wait to at least 5 years to know for sure because those mortality curves usually separate.”
+
+As for the use of US-based costs, Cohen agreed that these findings might not be generalizable to Europe and other parts of the world where hospital stays typically cost less.
+
+Myers guessed that CABG would likely be cheaper in places like Europe, but said he couldn’t know for sure. Additionally, Myers highlighted that because the follow-up costs seem to be less with CABG than PCI, longer-term data might show a catch-up. “The longer out we go, the more cost-effective CABG will become over time,” he predicted.
+
+In the years since the study was conducted, advances with technologies like lithotripsy and intravascular imaging have made cost projections even more difficult. “I get the impression that PCI is getting more and more expensive, because we have calcification modification treatments that are expensive, imaging that's expensive,” Neylon commented, asking how many patients in FAME 3 would have had “real contemporary PCI performed.”
+
+Zimmermann acknowledged that the low rate of IVUS use in the study, for example, would have limited costs. “That's the reason why we did all these sensitivity analyses,” he said. “Even if the cost of PCI was, let's say, higher, then still the main conclusion of the study would be more or less the same. . . . Maybe it's a little bit more expensive if you can do these techniques, but it will still not exceed CABG.”
+
+Cohen agreed. “In the short term, things like using intravascular ultrasound or Shockwave lithotripsy, or drug-coated balloons when they become available here in the US—all are higher-cost tools,” he noted. “But the idea of them is that they're supposed to make outcomes better and perhaps improve long-term costs, downstream costs, and so I think that it is unlikely that it would shift the equation enough to make surgery less expensive. That would take a lot to completely flip that part of the equation.”
+
+However, “all these different technologies come at a cost,” noted Myers. “And indeed, that is something that has to be taken into account and investigated in the future when we're looking at cost effectiveness.”

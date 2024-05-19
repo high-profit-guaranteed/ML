@@ -1,0 +1,19 @@
+Fri, 17 May 2024 19:14:25 GMT
+
+Cinegy, the premier provider of software defined technology for digital video capture, processing, asset management, and playout, has announced that it is bringing the latest version of its Cinegy Multiviewer to InfoComm for the first time.
+
+This “ultimate multiviewer” has already been chosen not only by leading broadcasters around the globe but also for pro AV applications by big names in industries ranging from the world’s foremost multisport competition and major league team sports to the world’s largest cruise ship. The Cinegy Multiviewer has also been deployed by auto racing bodies, international sports federations, casinos and houses of worship.
+
+“Our Cinegy Multiviewer is the most flexible, cost-effective and endlessly scalable monitoring solution on the market and is the number one choice for professional NDI monitoring,” said Jan Weigner, managing director of Cinegy. “We bring decades of street cred from the broadcast industry to the world of pro AV and our “out-of-the-box”, software-based technology has a proven track record in several markets.”
+
+A single Cinegy Multiviewer can monitor, analyze, and display hundreds of incoming feeds on one or multiple screens and offers the option to stream the output in a range of IP streaming formats. Supported input formats range from traditional SDI and DVB/ATSC transport streams to now common IP formats such as NDI, SRT, and SMPTE 2110.
+
+Cinegy’s constant efforts to optimize the performance of its multiviewer by focusing features a such as GPU acceleration capabilities helps reduce server CPU load and increases scalability. This continues to increase efficiency, maximizes hardware performance while saving energy and protecting investment, making the whole solution more sustainable.
+
+The Cinegy Multiviewer is a widely used solution for professional NDI monitoring. NDI sources are not always broadcast standard signals. To address the challenges posed by non-standard NDI feeds and to deliver a smooth and efficient monitoring experience, Cinegy Multiviewer 24.2 now offers an NDI source tolerance mode to easily integrate these types of sources as well.
+
+“Cinegy’s products, including our multiviewer, have been a key component in a variety of projects in recent years, from scaling hundreds of channels at a sports broadcast network to monitoring media and entertainment experiences for cruise ship passengers,” added Weigner.
+
+“As the AV and broadcast markets intertwine and converge towards 100% IP infrastructures, Cinegy is uniquely poised to assist this transition by bringing innovative software-based solutions and decades of video delivery expertise to the table. I strongly encourage InfoComm visitors to discover Cinegy’s broadcast quality solutions and user-friendly interfaces at the show this year.”
+
+Catch up with the Cinegy team at booth W3734. Comprehensive information on Cinegy technology can be found at www.cinegy.com and https:// open.cinegy.com/products/

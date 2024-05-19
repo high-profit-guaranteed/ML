@@ -1,0 +1,45 @@
+Fri, 17 May 2024 19:10:04 GMT
+
+You can't look at the internet for a few minutes without hearing something about GPT-4o. OpenAI certainly got lots of attention when it revealed its latest ChatGPT platform model, and we're excited about what the newest version can do and what it could mean for the future of using AI.
+
+However, one question we haven't seen discussed as much is how much it'll cost to use GPT-4o and all its incredible features. Can anyone hop on and start conversing with it, or do you need to be a member of ChatGPT Plus to enjoy the new model?
+
+Fortunately, OpenAI wants everyone to be able to enjoy GPT-4o, so you don't need to pay to use it. Once the new model is fully rolled out, you'll be able to engage with it in all kinds of useful ways, and you won't need to sign up for a ChatGPT Plus account.
+
+However, access to the ChatGPT is limited for free users, which is true of GPT-4o. On the company's pricing page, the free version of ChatGPT is described as " for individuals just getting started with ChatGPT." The page also mentions "Limited access to GPT-4o" as one of the perks offered with the free plan. We'll explore what "limited access" means in the next section.
+
+Regarding how much it costs to get full access to ChatGPT Plus — including the ability to dig into GPT-4o fully — you'll need to spend $20 each month. You're not locked into a contract, so you can freely try it for a month and see if you feel it's worthwhile. ChatGPT Plus also comes with early access to new features, data analysis, file uploads, vision and web browsing, DALL•E image generation, and the ability to create and use custom GPTs.
+
+What's the difference between free and paid GPT-4o?
+
+As mentioned, the ChatGPT pricing page mentions "limited access to GPT-4o" as part of the free plan. That's pretty vague, as it isn't clear exactly what's limited. Are you limited in the ways you can use it? Do you get all the features but limited prompts? These essential questions will help you decide whether you want to spend $20 per month on ChatGPT Plus.
+
+The most significant limitation is that you can only send a certain number of messages to GPT-4o before it scales back to the freely available GPT-3.5 (which is still powerful but not nearly as advanced as the newer model). Unfortunately, OpenAI doesn't say exactly what the limit is.
+
+"There will be a limit on the number of messages that free users can send with GPT-4o depending on usage and demand. When the limit is reached, ChatGPT will automatically switch to GPT-3.5 so users can continue their conversations," reads the company's blog post.
+
+The critical portion of that is "depending on usage and demand." It sounds like it'll be a sliding scale based on how many people are using GPT-4o at the time. If it's slower, free users would likely get more messages. On its pricing page, OpenAI says paid members get up to 5X more messages than free members. However, not knowing exactly how many messages free members can send isn't particularly useful.
+
+The company does offer a breakdown of what free users can do with GPT-4o while they have messages available:
+• Get responses(opens in a new window) from both the model and the web
+• Analyze data(opens in a new window) and create charts
+• Chat about photos you take
+• Upload files(opens in a new window) for assistance summarizing, writing or analyzing
+• Discover and use GPTs and the GPT Store
+
+That's a good portion of the GPT-4o features, though the phrase "GPT-4 level intelligence" sounds like you won't get the full smarts offered by 4o. Still, you can definitely get a good feel for what it can do.
+
+If you plan to use GPT-4o regularly in your workflows, you'll want to sign up for ChatGPT Plus, as you don't want to be locked out when you run out of prompts, especially during busy times.
+
+How to try GPT-4o for free right now
+
+If you want to try out ChatGPT's latest model, you can do so quickly and easily through a web browser. Here's how you get to it:
+• Sign up for an account via the button on the bottom left of the screen
+• Login with your new account once you complete the sign up process
+• Click the button labeled ChatGPT 3.5 at the top left of the chat window
+• Click ChatGPT 4o to switch to that model (if it's available to you)
+
+That's all it takes to try out GPT-4o. The voice and vision features shown off during the company's event aren't widely available yet, but the written prompts give you an idea of what the latest model is capable of.
+• Apple reportedly close to a deal with OpenAI — could ChatGPT be the new Siri?
+• OpenAI releases ChatGPT rule book — what this means for users
+• Google Gemini: Everything we know about the advanced AI model

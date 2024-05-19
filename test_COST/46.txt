@@ -1,0 +1,39 @@
+Fri, 17 May 2024 18:27:34 GMT
+
+A new smartphone app promises to help treat people who don’t fully respond to their antidepressant. Whether insurance will cover it and if apps that go through the FDA clearance process will ultimately reach patients remains unclear.
+
+A novel smartphone-delivered treatment, Rejoyn, has become the first app to gain clearance from the Food and Drug Administration for the treatment of major depressive disorder (MDD), and is expected to be available for patient downloads starting this summer.
+
+Marketed by Otsuka Pharmaceutical Co. and Click Therapeutics Inc., Rejoyn was cleared as an adjunct to clinician-managed outpatient care for adults aged 22 and older who are already taking antidepressants. However, its clinical trial results have left some digital psychiatry experts who spoke to Psychiatric News questioning its potential efficacy.
+
+The bulk of the app’s treatment is a novel training exercise for which users view a series of faces depicting several different emotions; users then must recall the sequence in which they appeared. The exercises are aimed at improving deficits in working memory for emotional material that is theorized to play a role in MDD. The app also offers brief animated cognitive-behavioral therapy lessons of 3-4 minutes each and personalized reminders and messages.
+
+Rejoyn secured FDA clearance after a trial involving 354 adults with current MDD who had experienced only partial remission from their current antidepressant, according to Otsuka’s clinician summary. Participants scored an average of 28 on the Montgomery-Asberg Depression Rating Scale (MADRS) at baseline, indicating moderate depression. Participants were randomly divided into two groups; one group was treated with the Rejoyn app and the other was given a sham (placebo) app with a working memory task involving shapes.
+
+After six weeks of app use, average MADRS scores dropped to 19 among Rejoyn users and 21 for sham app users, a group difference deemed “not statistically significant,” according to the study’s primary outcome. There were no patient safety incidents related to use of the app.
+
+“There were several analyses, but in one of the key analyses, the improvement in depression symptoms for participants using Rejoyn was equivalent to the changes among those using the placebo,” explained John Torous, M.D., director of digital psychiatry at Beth Israel Deaconess Medical Center in Boston. Yet both groups of patients did improve their MADRS scores by several points. “So perhaps one thing this study shows us is that apps can be effective in helping patients with major depression.”
+
+Torous added, “The results raise questions about what is the active ingredient here? What is making people feel better?” The “digital placebo effect,” due in part to people’s high levels of expectation and trust for their smartphones, might offer some explanation, he said. Both groups also received weekly telehealth visits; and they were contacted by an investigator to make up missed app sessions.
+
+“It’s less clear what constitutes a good placebo or ‘sham’ arm in a [randomized clinical trial] for a digital therapeutic, which might have complicated the trial results,” pointed out Julia Tartaglia, M.D., a PGY-4 resident at the Department of Psychiatry at Zucker Hillside Hospital/ Northwell Health. Tartaglia has a special interest in digital psychotherapeutics and is a member of the expert panel that developed APA’s updated app evaluator.
+
+Tartaglia said it’s important for clinicians to remember that Rejoyn was tested only in a narrow subset of patients: those with unipolar depression who have not tried other treatments. “Also not included were those with treatment-refractory depression, bipolar disorder, or even those at high risk of suicide.”
+
+Rejoyn joins only a handful of digital therapeutics that have been cleared by the FDA, and that should account for something, noted Dror Ben-Zeev, Ph.D., a psychologist and professor of psychiatry and behavioral sciences at the University of Washington.
+
+Clinicians advocated for the creation of a regulatory framework to enhance patient safety and provide insight into efficacy of digital mental health tools, to help tame the “wild west” of thousands of digital offerings, pointed out Ben-Zeev, who is also the editor for the Technology in Mental Health section of Psychiatric Services.
+
+“I don’t know if we want to look through the weeds of cleared apps and say ‘Well, it’s promising, but not promising enough,’” Ben-Zeev said. “We are in the midst of such a mental health crisis that digital interventions that prove to be safe and demonstrate clinical usefulness for at least some people should certainly be considered.”
+
+Depression is one of the most common mental illnesses, with about 21 million U.S. adults experiencing major depressive episodes in the past year, according to the National Institute of Mental Health. Yet nearly two-thirds don’t seek professional help, mostly due to stigma and cost. At least one third of those treated still experience significant residual symptoms.
+
+However, FDA clearance has not necessarily guaranteed previous apps a path to coverage by insurance.
+
+Pear Therapeutics Inc. secured clearance for its reSET line of CBT-based apps for substance use disorders but declared bankruptcy in 2023 after payors refused to cover them. It is unclear how many insurers cover the FDA-authorized video game EndeavorRx, designed to improve the attention span of children with ADHD. Creator Akili Interactive Labs Inc. now markets a less expensive “over the counter” version for adults.
+
+NightWare was cleared by the FDA in 2020 for its ability to detect and gently interrupt patients’ recurring nightmares, but not their sleep. Yet it has not secured coverage by Medicare or private insurance companies, according to the company’s website. It is offered through the Department of Defense and the Veteran’s Administration.
+
+Torous said it remains to be seen whether insurance will cover Rejoyn, given the results. “Or if not, will people want to pay for it? What price point will manufacturers’ set?” At least one major insurer, UnitedHealth Care, wrote last year that its pharmacy benefit manager OptumRx would deny claims for all FDA-approved digital apps, effective September 2023.
+
+“Rejoyn adds to the landscape of potential treatments for depression. There are very few digital therapeutics with an evidence-based intervention,” said Kunmi Sobowale, M.D., an assistant professor of child and adolescent psychiatry at UCLA Health with a special interest in digital technology for the prevention and intervention of mental illness. “Whether it improves the quality of care remains to be seen based on the study results. … However, I don’t think [the Rejoyn app] really moves the needle in terms of improving access or decreasing the cost of care, since it still requires a physician to prescribe it. Only some patients will be able to afford it. ■

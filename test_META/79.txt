@@ -1,0 +1,47 @@
+Sat, 18 May 2024 03:40:00 GMT
+
+The story so far: The European Union has opened fresh investigation into Meta’s Facebook and Instagram over suspicions that they are failing to protect children on their platform, a violation that could result in fines of up to 6% of the company’s annual worldwide revenue.
+
+The 27-nation bloc has said it is concerned that the Facebook and Instagram’s recommendation engine could “exploit the weaknesses and inexperience’” of children and stimulate “addictive behavior”. The bloc’s executive arm further said that these systems could reinforce the so-called “rabbit hole” effect that leads users to watch increasingly disturbing content.
+
+As part of the probe, the commission will look into Meta’s use of age verification tools to prevent children under the age of 13 from accessing Facebook and Instagram. And also find out whether the company is complying with the bloc’s Digital Service Act (DSA) and enforcing a high level of privacy, safety and security for minors.
+
+What led to the investigation?
+
+The bloc’s DSA came into effect in February. It stipulates very large online platforms, which have over 45 million users in the EU, to provide an option in their recommender systems that is not based on user profiling and share their data with the Commission and national authorities to assess compliance under the law.
+
+The platforms are also required to take measures to protect minors from content that may impair their physical, mental or moral development. Additionally, platforms must take targeted measures to protect the rights of minors, including age verification and parental control tools that are aimed at helping minors signal abuse or obtain support.
+
+Facebook and Instagram have more than the stipulated number of users, and so are designated as very large platforms, bringing them under the law’s purview.
+
+What is the investigation’s trajectory?
+
+The EU regulator will now carry out an in-depth investigation as a “matter of priority” and gather evidence by sending additional requests for information, conducting interviews and inspections
+
+Additionally, the commission can also accept commitments made by Meta to remedy the issues raised during the investigation.
+
+What has Meta done to protect children on its platforms?
+
+Earlier this year, Meta announced it was testing an AI-driven “nudity protection” tool that would find and blur images containing nudity that were sent to minors on the app’s messaging system.
+
+Additionally, the company said it would roll out measures to protect users under 18 years of age by tightening content restrictions and boosting parental supervision tools
+
+Is this the only investigation against Meta in the EU?
+
+This is not the only investigation Meta’s platforms are facing in the EU. In April, the regulator opened an investigation, accusing Meta of having failed to tackle deceptive advertising and disinformation in the run-up to the European Parliament elections.
+
+The antitrust regulator’s move against Meta stemmed from the platform being used as a potential source of disinformation by Russia, China and Iran to influence voters in EU.
+
+What about outside the EU?
+
+Even before the DSA was implemented in the EU, Meta’s Instagram faced backlash in the U.S. after a report by the Wall Street Journal, published in June 2023, said the platform “helps connect and promote a vast network of accounts openly devoted to the commission and purchase of under age sex content”.
+
+At the time, the company said it was working on “improving internal controls”, and that it had eliminated 27 pedophile networks in addition to removing 490,000 accounts that breached its kid safety regulations in just one month.
+
+What are the general practices of protecting minors online?
+
+With children growing up in an increasingly digital world, it has become increasingly difficult for parents and caregivers to ensure their online safety.
+
+Parents are advised to ensure they are up to date with online risks and have set up safeguards to protect their child’s digital experience. These could include setting up of kid’s profiles, choosing age-appropriate apps and games and setting up child-friendly sites and search engines, and ensuring age restricted content is inaccessible on the devices and platforms they are using. Parents are also advised to supervise and spend time with their children online to ensure they do not engage in harmful activities or fall prey to online predators.
+
+And minors using social media platforms must ensure they know how to report and “block” accounts with offensive material and foster open conversations to ensure an adult is available if something doesn’t feel right.

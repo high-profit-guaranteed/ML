@@ -1,0 +1,13 @@
+Fri, 17 May 2024 12:01:14 GMT
+
+** Shares of Advanced Micro Devices AMD rise 2.4% to $166.58 premarket as Microsoft MSFT plans to offer its cloud computing customers AMD's artificial intelligence (AI) chips that will compete with components made by Nvidia NVDA
+
+** MSFT on Thurs said clusters of AMD's flagship MI300X AI chips will be sold through its Azure service as an alternative to NVDA's H100 family of powerful graphics processing units (GPUs)
+
+** MSFT to provide details at its Build developer conference next week, when it will also launch preview of its new Cobalt 100 custom processors
+
+** On May 1, AMD's shares closed down 8.9% at $144.27, a day after its earnings, forecast missed investors' lofty AI expectations
+
+** Through Thurs close, AMD's stock up 10% and up nearly 60% over the past 12 months
+
+** Before the bell, NVDA's shares off 0.2%, while MSFT's inches up 0.3%

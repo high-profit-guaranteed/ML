@@ -1,0 +1,35 @@
+Fri, 17 May 2024 12:00:00 GMT
+
+Meta AI is a personal assistant that helps you with information and tasks in Meta apps, such as Facebook, Instagram, and WhatsApp. Unfortunately, you can’t disable it, but you can mute it to turn off its notifications. Here’s how.
+
+How to Mute Meta AI on Facebook
+
+To disable Meta AI in the Facebook app, launch it and tap the Meta AI icon or search icon in the top right corner of the screen. Then, tap the Meta AI icon on the left side of the search bar to start a chat with the artificial intelligence chatbot.
+
+In the chat, tap the i icon in the top right corner of the screen to access Meta AI’s chat settings. Then, tap Mute—the button with a bell icon—and choose how long you want to mute it. The options are For 15 Minutes, For 1 Hour, For 8 Hours, For 24 Hours, and Until I Change It.
+
+If you set Meta AI to mute for a specific period, it will automatically unmute when the time expires. However, you can always unmute it manually.
+
+How to Mute Meta AI on Instagram
+
+To mute Meta AI in the Instagram app, open the app and tap the search icon in the bottom menu or the message icon in the top right corner. Tap the Meta AI icon on the left side of the search bar to start chatting with Meta AI.
+
+In the chat, tap the i icon in the top right corner to open its chat settings. Next, tap Mute and turn on the Mute Messages toggle in the popup at the bottom. Choose how long you want to mute it by choosing between For 1 Hour, For 8 Hours, For 24 Hours, or Until I Change It.
+
+Don’t forget to unmute Meta AI if you want to start receiving its notifications again.
+
+How to Mute Meta AI on WhatsApp
+
+To mute Meta AI in WhatsApp, select the Chat tab and tap the Meta AI icon at the top to start a chat. Then, tap the Meta AI profile picture at the top to open its chat settings.
+
+Next, tap Mute and choose how long you want to mute it. You can choose between 8 Hours, 1 Week, and Always.
+
+You can unmute it by following the above steps and tapping Unmute in the menu.
+
+Muting Meta AI means you won’t receive notifications when it responds to your prompts. Any chat you started with the AI will remain on the chat list, and you can still interact with it normally.
+
+The good thing is that Meta AI does not send you any unsolicited messages. It only interacts with you when you send it a prompt or message. You don’t need to mute it if you think it will be intrusive, since it can’t initiate a conversation by itself.
+
+It seems AI chatbots and personal assistants are everywhere these days. Now one of them has made it into Meta apps without any way to disable it.
+
+People who value privacy in the age of AI may find this concerning. Hopefully Meta introduces a way for people to fully disable the chatbot, or at least remove it, similarly to how you can remove My AI on Snapchat. For now, if you don't want to interact with the chatbot, you can mute it and ignore it.
